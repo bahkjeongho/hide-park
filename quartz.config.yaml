@@ -335,6 +335,14 @@ plugins:
     layout:
       position: beforeBody
       priority: 30
+  - source: github:bahkjeongho/quartz-recent-visits
+    enabled: true
+    options:
+      limit: 8
+    order: 50
+    layout:
+      position: left
+      priority: 55
 layout:
   groups:
     toolbar:
