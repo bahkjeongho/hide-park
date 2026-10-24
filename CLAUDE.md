@@ -34,7 +34,7 @@
 - macOS: sed는 BSD(-i ''), 긴 한글 파일명에서 rsync 문제가 있어 cp -R 사용.
 - **레포와 플러그인 폴더는 iCloud 동기화 밖(~/Developer)에 둔다.** 이 레포는 `~/Developer/Hide-Park`다. 예전에 ~/Documents(iCloud 동기화 대상) 안에 있을 때 이름 끝에 ` 2`, ` 3`이 붙은 충돌 복사본(content/, public/, 플러그인 dist/)이 반복해서 생겼다(원인은 iCloud 충돌로 추정, 확정은 아님). ~/Documents나 ~/Desktop 아래로 다시 옮기지 않는다.
 - 그래도 ` 2`, ` 3` 파일이 보이면 push 전에 `git status`로 걸러 내고, 플러그인 레포는 파일을 하나씩 지정해 add 한다.
-- 개발 서버 미리보기는 브라우저 캐시가 남을 수 있으니 `Cmd+Shift+R`. 화면 검증은 헤드리스 Chrome 캡처(390px 폭은 기기 에뮬레이션)로 한다.
+- 개발 서버 미리보기는 브라우저 캐시가 남을 수 있으니 `Cmd+Shift+R`. 화면 검증은 `tools/`의 헤드리스 Chrome 스크립트로 한다: `shot.mjs`(스크린샷, 390px 폭은 기기 에뮬레이션, `dark` 옵션), `fontprobe.mjs`(실제 쓰인 글꼴 조회), `evalprobe.mjs`(JS 식 실행). 사용법은 `tools/README.md`. 모바일은 일반 `--window-size`로 찍지 말고 `shot.mjs`로 본다.
 - 볼트 루트의 `index.md`(title: Hide Park)가 홈이다. 폴더 이름과 별개로 소문자 `index`여야 한다.
 
 ## 작업 방식
