@@ -16,7 +16,7 @@
 - 주요 주소: `/2-wiki/`, `/1-thoughts/`, `/4-about/about`. 폴더 이름을 바꾸면 주소가 바뀌고 random-notes 분류 규칙(slug 기준)과 folder-index의 `FOLDER_PAGES`도 같이 고쳐야 한다.
 - **GitHub Pages는 주소의 대소문자를 구분한다.** slug는 항상 소문자(`4-about/about`)다. 로컬 `npx quartz build --serve`는 구분하지 않으니 메뉴 링크와 설정의 경로는 소문자로 쓴다.
 
-## 직접 만든 플러그인 (모두 공개 GitHub 레포, 로컬 폴더는 ~/Documents 아래)
+## 직접 만든 플러그인 (모두 공개 GitHub 레포, 로컬 폴더는 ~/Developer 아래: random-notes, quartz-site-menu, quartz-folder-index)
 | 플러그인 | 레포 | 역할 |
 |---|---|---|
 | random-notes | bahkjeongho/quartz-random-notes | 홈에 노트 15개 무작위. Wiki 60% / Thoughts 20% / 나머지 Object(음악:건축 1:1). 분야가 모자라면 다른 분야로 채운다. |
@@ -32,7 +32,8 @@
 - 공개 레포다. 토큰, 비밀번호, 개인정보, 클립핑 원문을 커밋하지 않는다.
 - 디자인 작업은 quartz/styles/custom.scss에 CSS를 넣고 `npx quartz build --serve`(localhost:8080)로 미리 본다.
 - macOS: sed는 BSD(-i ''), 긴 한글 파일명에서 rsync 문제가 있어 cp -R 사용.
-- 이름 끝에 ` 2`, ` 3`이 붙은 중복 파일(content/, public/, 플러그인 dist/)이 원인 불명으로 반복해서 생긴다. push 전에 `git status`로 걸러 내고, 플러그인 레포는 파일을 하나씩 지정해 add 한다.
+- **레포와 플러그인 폴더는 iCloud 동기화 밖(~/Developer)에 둔다.** 이 레포는 `~/Developer/Hide-Park`다. 예전에 ~/Documents(iCloud 동기화 대상) 안에 있을 때 이름 끝에 ` 2`, ` 3`이 붙은 충돌 복사본(content/, public/, 플러그인 dist/)이 반복해서 생겼다(원인은 iCloud 충돌로 추정, 확정은 아님). ~/Documents나 ~/Desktop 아래로 다시 옮기지 않는다.
+- 그래도 ` 2`, ` 3` 파일이 보이면 push 전에 `git status`로 걸러 내고, 플러그인 레포는 파일을 하나씩 지정해 add 한다.
 - 개발 서버 미리보기는 브라우저 캐시가 남을 수 있으니 `Cmd+Shift+R`. 화면 검증은 헤드리스 Chrome 캡처(390px 폭은 기기 에뮬레이션)로 한다.
 - 볼트 루트의 `index.md`(title: Hide Park)가 홈이다. 폴더 이름과 별개로 소문자 `index`여야 한다.
 

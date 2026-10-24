@@ -90,7 +90,7 @@
 
 라벨: Wiki는 `random-labels.json`의 topic 값(없으면 `Wiki`), Thoughts는 `Thoughts`, 음악은 `Music`, 건축은 `Architecture`. 나중에 Thoughts는 `type` 속성(Essay, Critique)으로 바꿀 수 있음.
 
-구현 위치: `~/Documents/random-notes` 플러그인
+구현 위치: `~/Developer/random-notes` 플러그인
 - `Category`에 `"thoughts"` 추가, `LABELS`에 `thoughts: "Thoughts"`.
 - `RandomNotesOptions`에 `thoughtsRatio?: number` (기본 0.2), `wikiRatio` 기본을 0.6으로.
 - `RandomNotes.tsx`의 `data-*`와 `random-notes.inline.ts`의 읽기 로직에 `thoughtsRatio` 추가.
