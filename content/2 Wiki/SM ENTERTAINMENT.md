@@ -1,0 +1,67 @@
+---
+aliases:
+  - SM Ent.
+  - 에스엠 엔터테인먼트
+IG:
+  - https://www.instagram.com/smtown/
+Website:
+  - https://www.smentertainment.com/
+Wikis:
+  - https://en.wikipedia.org/wiki/SM_Entertainment
+---
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 1995년 설립 이래 SM Entertainment는 K-POP의 태동과 진화를 이끌며 엔터테인먼트 업계의 이정표를 세워 왔습니다. 업계 최초로 Casting, Training, Producing, Management를 아우르는 아티스트 육성 시스템을 도입했고, 1997년 해외 시장에 ‘한류(Korean Wave)’의 신호탄을 쏘아 올리며 글로벌 무대를 사로잡아왔습니다. K-POP 장르를 개척하며 쌓아온 노하우를 발판 삼아, 최고의 인재들과 최고의 퍼포먼스를 선사하는 글로벌 1등 기업으로 도약하겠습니다.
+
+> [!Summary]
+> |   |   |
+|---|---|
+|Native name|SM 엔터테인먼트|
+|Formerly|SM Studio (1989–1995)|
+|Type|[Public](https://en.wikipedia.org/wiki/Public_company "Public company")|
+|[Traded as](https://en.wikipedia.org/wiki/Ticker_symbol "Ticker symbol")|[KRX](https://en.wikipedia.org/wiki/Korea_Exchange "Korea Exchange"): [041510](https://finance.naver.com/item/main.nhn?code=041510)|
+|Industry|- [Music](https://en.wikipedia.org/wiki/Music "Music")<br>- [entertainment](https://en.wikipedia.org/wiki/Entertainment "Entertainment")<br>- [technology](https://en.wikipedia.org/wiki/Technology "Technology")|
+|Founded|- February 14, 1989; 37 years ago (as SM Studio)<br>- February 14, 1995; 31 years ago (as SM Entertainment)|
+|Founder|[Lee Soo-man](https://en.wikipedia.org/wiki/Lee_Soo-man "Lee Soo-man")|
+|Headquarters|SM Entertainment 83-21, Wangsimni-ro, [Seongsu-dong](https://en.wikipedia.org/wiki/Seongsu-dong "Seongsu-dong"), [Seongdong-gu](https://en.wikipedia.org/wiki/Seongdong_District "Seongdong District"), [Seoul](https://en.wikipedia.org/wiki/Seoul "Seoul"), [South Korea](https://en.wikipedia.org/wiki/South_Korea "South Korea")|
+|Area served|Worldwide|
+|Key people|- Jang Cheol-hyuk (Co-[CEO](https://en.wikipedia.org/wiki/Chief_executive_officer "Chief executive officer"))[[1]](https://en.wikipedia.org/wiki/SM_Entertainment#cite_note-FY2025-1)<br>- Tak Young-jun (Co-CEO)[[1]](https://en.wikipedia.org/wiki/SM_Entertainment#cite_note-FY2025-1)<br>- Jang Jung-min ([CFO](https://en.wikipedia.org/wiki/Chief_financial_officer "Chief financial officer"))[[1]](https://en.wikipedia.org/wiki/SM_Entertainment#cite_note-FY2025-1)<br>- Kim Tae-hyun ([CLO](https://en.wikipedia.org/wiki/Chief_legal_officer "Chief legal officer"))[[1]](https://en.wikipedia.org/wiki/SM_Entertainment#cite_note-FY2025-1)<br>- Hong Gil-hwa ([CHRO](https://en.wikipedia.org/wiki/Chief_human_resources_officer "Chief human resources officer"))[[1]](https://en.wikipedia.org/wiki/SM_Entertainment#cite_note-FY2025-1)<br>- Kim Ji-won (CRO)[[1]](https://en.wikipedia.org/wiki/SM_Entertainment#cite_note-FY2025-1)<br>- Choi Jung-min (CGO)[[1]](https://en.wikipedia.org/wiki/SM_Entertainment#cite_note-FY2025-1)<br>- Lee Sung-soo (CAO)[[1]](https://en.wikipedia.org/wiki/SM_Entertainment#cite_note-FY2025-1)|
+|Services|- [Artist management](https://en.wikipedia.org/wiki/Talent_manager "Talent manager")<br>- Album and digital music planning<br>- [Record production](https://en.wikipedia.org/wiki/Record_producer "Record producer")<br>- [Music distribution](https://en.wikipedia.org/wiki/Music_distributor "Music distributor")<br>- [Music publishing](https://en.wikipedia.org/wiki/Music_publisher "Music publisher")[[2]](https://en.wikipedia.org/wiki/SM_Entertainment#cite_note-2023sustainability-2)|
+
+---
+
+# Portfolio
+
+
+---
+
+# Artist
+
+## ONE Production
+
+- [[소녀시대]]
+- [[aespa]]
+
+## PRISM Production
+
+- [[SHINee]]
+- [[WayV]]
+- [[Hearts2Hearts]]
+
+## RED Producton
+
+- [[동방신기]]
+- [[Red Velvet]]
+
+## NEO Production
+
+- [[NCT]]
+
+## WIZARD Production
+
+- [[SUPER JUNIOR]]
+- [[EXO]]
+- [[RIIZE]]
+- [[XngHan&Soul]]

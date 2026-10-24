@@ -80,11 +80,11 @@
 | 10 (모바일 시안) | 6 | 2 | 2 | 1 | 1 |
 
 분류 규칙(Quartz slug 기준, 소문자와 `-`):
-- `1.-thoughts/…` → thoughts
-- `2.-wiki/…` → wiki
-- `3.-object/31.-music/…` → music
-- `3.-object/32.-architecture/…` → architecture
-- 그 외(예: `3.-object/34.-film/`), `index`, `*/index`, `tags/…`, `.md`가 아닌 파일은 제외.
+- `1-thoughts/…` → thoughts
+- `2-wiki/…` → wiki
+- `3-object/31-music/…` → music
+- `3-object/32-architecture/…` → architecture
+- 그 외(예: `3-object/34-film/`), `index`, `*/index`, `tags/…`, `.md`가 아닌 파일은 제외.
 
 부족분 처리: 한 분야의 노트가 모자라면 남은 노트(다른 분야)로 채워 총 개수를 유지한다(현재 코드 그대로). **Thoughts 폴더는 처음에 비어 있으므로 이 규칙이 실제로 작동한다.**
 
@@ -102,11 +102,11 @@
 | 메뉴 | 주소 | 비고 |
 |---|---|---|
 | 홈 | `/` | 볼트 루트의 본문 없는 `index.md` (title: Hide Park) |
-| Wiki | `/2.-wiki/` | Quartz folder-page를 위 목록 스타일로 |
-| Thoughts | `/1.-thoughts/` | 볼트에 `1. Thoughts` 폴더가 생김 |
+| Wiki | `/2-wiki/` | Quartz folder-page를 위 목록 스타일로 |
+| Thoughts | `/1-thoughts/` | 볼트에 `1. Thoughts` 폴더가 생김 |
 | About | `/about` | 볼트 루트에 `About.md`를 만들지, 사이트 전용 페이지로 할지 결정 필요 |
 
-폴더 번호가 주소에 들어간다(`1.-thoughts`). 이름을 바꾸면 이미 공유한 주소가 깨진다.
+폴더 번호가 주소에 들어간다(`1-thoughts`). 볼트의 폴더 이름은 `1. Thoughts`처럼 온점을 유지하고, `update.sh`가 `rename-folders.mjs`로 content/ 복사본의 온점만 뺀다(`1 Thoughts` → `/1-thoughts`). 이름을 바꾸면 이미 공유한 주소가 깨진다. 아직 공유 전이라 2026-10-24에 온점 없는 주소로 확정함.
 
 ## 작업 순서 (각 단계마다 localhost:8080에서 확인한 뒤 다음으로)
 1. 토큰, 서체, 타입 스케일을 `quartz/styles/custom.scss`와 `quartz.config.yaml`에 적용. 본문을 Geist로.

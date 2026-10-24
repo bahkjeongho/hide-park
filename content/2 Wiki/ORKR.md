@@ -1,0 +1,54 @@
+---
+topic:
+  - "[[Branding Agency]]"
+  - "[[Consulting Agency]]"
+Website: https://www.o-r-k-r.kr/
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
+---
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> Orkr은 2020년 서울에서 시작된 브랜드 컨설팅 에이전시 입니다.  
+지금까지 많은 브랜드들과 협업해왔고, 앞으로도 우리만의 방식으로 진정성있는 브랜드들을 만들어 나가고자 합니다.  
+  
+우리는 정형화된 브랜딩 프로세스로 고착화 되는것을 경계합니다.  
+브랜드의 본질을 고민해 그 위에 개념적 플랫폼을 구축하고 눈길을 끄는 비주얼을 만드는데 주력합니다.  
+이렇게 만들어진 비주얼은 브랜드의 정체성을 가장 선명하게 드러내는 시각적 언어라고 생각합니다.   
+  
+또한 동종 업계에서 ‘차별화’를 할 수 있는 비주얼 전략을 제안합니다.   
+다른 브랜드들에서 사용하지 않는 차별적인 비주얼 언어를 찾아 가는것과 동시에 디자인 시각에만 치우치지 않고,  
+브랜드를 구성하고 있는 여러가지 요소에서 다각도로 고민된 결과물을 제안하고 있습니다.   
+  
+브랜드 아이덴티티는 로고와 심볼에만 국한 된 것이 아니며, 브랜드를 구성하는 A부터 Z까지의 업무를 전체적으로 설계하고 표현합니다.  
+아이덴티티는 단일한 요소가 아닌 모든 시각적 자산의 결합이라고 생각합니다.  
+  
+Orkr은 이러한 관점에서 다양한 아이디어와 전문적인 역량을 기반으로 브랜드 컨설팅 전 과정을 이끌어가며,  
+브랜드가 자신만의 확고한 아이덴티티를 구축할 수 있도록 돕습니다.
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+![](https://d1mh7rh8f9dzvg.cloudfront.net/projects/download/24313/A2O%20Entertainment%20Portfolio%20Img_Web_01.png)
+
+- [[A2O Entertainment]] [Link](https://www.o-r-k-r.kr/projects/a2o-entertainment-corporate-identity-design) [ArtDirection, Brand Identity, Signage, etc.]
+
+![](https://d1mh7rh8f9dzvg.cloudfront.net/projects/download/16261/Teo_08.png)
+
+- [[TEO]] [Link](https://www.o-r-k-r.kr/projects/teo) [Art Direction, Brand Identity]
+
+---
+
+# People
+
+Creative director and Co-Founder  
+Haam Younghoon, Cho Eunjoo  
+  
+Strategy and Brand design  
+Jo Heungju, Kang Subin, Nam Kyoungji, Yoon Seoyoung, Jin Hansol

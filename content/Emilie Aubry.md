@@ -1,0 +1,14 @@
+---
+IG:
+  - https://www.instagram.com/emiaubry/
+Website:
+  - https://www.emilieaubry.com/
+---
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> French Queer from Bordeaux. Emilie moved to Paris where she was an Editor at Division before moving to LA in pursuit of the endless Summer.
+
+> [!Summary]
+

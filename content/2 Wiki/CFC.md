@@ -1,0 +1,42 @@
+---
+Website: https://contentformcontext.com/
+---
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> CFC is Seoul-based design studio founded by Charry Jeon in 2013. We focus on building effective brand experiences. Our philosophy is simple. "After understanding the given contents, we transform them into a relevant form of the right context"
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+![](https://cdn.myportfolio.com/76581287-86db-44ce-b522-e5db83ade7fb/4a608d16-d394-4a91-a348-94b1f25eb5a6_rw_3840.jpg?h=2d1ab4ceafd0ade2cbe570caf081c7b1)
+
+- 올리브영 N 성수 [Link](https://contentformcontext.com/olive-young-n-seongsu) [Brand Identity]
+
+![](https://cdn.myportfolio.com/76581287-86db-44ce-b522-e5db83ade7fb/19283f8e-754e-4bef-b8ab-5a6a6a1e71f5_rw_3840.png?h=6bee7cce9db1d3e268c214e7969d1ac3)
+
+- 뚜레주르 [Link](https://contentformcontext.com/tous-les-jours) [Brand Identity Renewal]
+
+![](https://cdn.myportfolio.com/76581287-86db-44ce-b522-e5db83ade7fb/0a2f5080-e6a9-4f0b-897b-25054800b422_rw_1920.png?h=964bb3c6c21390b4301b7426b1888228)
+
+- 백세주 [Link](https://contentformcontext.com/bekseju) [Brand Identity]
+
+![](https://cdn.myportfolio.com/76581287-86db-44ce-b522-e5db83ade7fb/c885f1ed-b904-4701-a951-fbb8151112fa_rw_3840.jpg?h=cf4529c0344b474b1c309b0a9dd9788e)
+
+- 칠성사이다 [Link](https://contentformcontext.com/chilsung-cider) [Brand Identity]
+
+![](https://cdn.myportfolio.com/76581287-86db-44ce-b522-e5db83ade7fb/e955fe01-341a-4563-8c0e-0a48331fee2e_rw_1920.gif?h=204f08a5df24daf34ab724c687d55206)
+
+- [[&TEAM]] [Link](https://contentformcontext.com/team-lune) [Brand Identity]
+
+![](https://cdn.myportfolio.com/76581287-86db-44ce-b522-e5db83ade7fb/fb8386b5-1d23-4765-8388-8068ae0e831a_rw_1920.gif?h=4e95e701b08614b33ffcda9c4d223297)
+
+- 29CM 성수 [Link](https://contentformcontext.com/29cm-seongsu-1) [Brand Identity]
+
+---
+
+# People

@@ -1,0 +1,18 @@
+---
+---
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> Caroline is our COO and Co-Founder, leading the operations that power Koto’s global creative output. For more than a decade she has partnered with major clients, ensuring ambitious ideas are delivered with precision. She’s committed to shaping a culture where talent thrives and every project has the right team behind it.
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# People

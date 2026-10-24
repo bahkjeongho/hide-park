@@ -9,6 +9,7 @@ cp -R "$VAULT/." content/
 rm -rf "content/0. Clipping Origin" "content/00. Template" content/.obsidian content/.smart-env
 find content -name ".DS_Store" -delete
 find content -name "*.md" -print0 | LC_ALL=C xargs -0 sed -i '' 's/\[! /[!/g'
+node rename-folders.mjs content
 node clean-frontmatter.mjs content
 node make-labels.mjs content
 

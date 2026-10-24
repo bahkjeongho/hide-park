@@ -1,3 +1,492 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Hide Park — 토큰, 서체, 타입 스케일 (DESIGN.md 1단계)
+
+// 토큰: 색은 quartz.config.yaml(colors)에서 --light/--lightgray/--gray/--darkgray/--dark로 주입된다.
+// 여기서는 명세 이름으로 별칭을 만들어 이후 단계에서 쓴다.
+:root {
+  --hp-bg: var(--light);
+  --hp-text: var(--darkgray);
+  --hp-muted: var(--gray);
+  --hp-hairline: var(--lightgray);
+  --hp-dim: #8c8c8c;
+  --hp-sans: var(--bodyFont), "Apple SD Gothic Neo", system-ui, sans-serif;
+  --hp-mono: var(--codeFont), "Apple SD Gothic Neo", ui-monospace, monospace;
+}
+:root[saved-theme="dark"] {
+  --hp-dim: #6f6f6f;
+}
+
+// 애니메이션과 transition 없음. 호버는 색 변화만.
+*,
+*::before,
+*::after {
+  transition: none !important;
+  animation: none !important;
+  scroll-behavior: auto !important;
+}
+
+body {
+  font-family: var(--hp-sans);
+  font-size: 16px;
+  line-height: 1.75;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--hp-sans);
+}
+
+// 노트 제목 72px / 1 / 300 / -0.04em
+h1.article-title,
+.article-title {
+  font-size: 72px;
+  line-height: 1;
+  font-weight: 300;
+  letter-spacing: -0.04em;
+  margin: 0;
+}
+
+// 소제목 h2 22px / 500 / -0.02em
+article h2 {
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+}
+article h3,
+article h4,
+article h5,
+article h6 {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+// 본문 링크: 밑줄 1px, offset 3px. 배경 강조 없음.
+article a,
+article a.internal {
+  font-weight: 400;
+  color: var(--hp-text);
+  background-color: transparent;
+  padding: 0;
+  border-radius: 0;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  &:hover {
+    color: var(--hp-muted);
+  }
+}
+strong {
+  font-weight: 500;
+}
+
+// 메타와 코드: Geist Mono
+code,
+pre,
+kbd {
+  font-family: var(--hp-mono);
+}
+
+// 사이드바 13px / 1.3
+.left.sidebar,
+.right.sidebar {
+  font-size: 13px;
+  line-height: 1.3;
+}
+
+// ---- 2단계: 노트 페이지 (왼쪽 240px / 가운데 최대 700px / 오른쪽 220px) ----
+
+// 워드마크 (노트 페이지의 작은 버전 22px)
+.page-title {
+  margin: 0;
+  font-family: var(--hp-sans);
+  font-size: 22px;
+  line-height: 1;
+  font-weight: 500;
+  letter-spacing: -0.05em;
+  a {
+    color: var(--hp-text);
+    font-weight: 500;
+    background: none;
+    &:hover {
+      color: var(--hp-muted);
+    }
+  }
+}
+
+@media all and ($desktop) {
+  .page {
+    max-width: none;
+    > #quartz-body {
+      grid-template-columns: 240px minmax(0, 1fr) 220px;
+      column-gap: 48px;
+      padding: 0 32px;
+
+      .sidebar {
+        padding: 28px 0;
+      }
+      .page-header {
+        margin-top: 28px;
+      }
+      .center,
+      footer {
+        max-width: 700px;
+        min-width: 0;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+  }
+}
+
+// 경로: 모노 11px 대문자
+.breadcrumb-container,
+.breadcrumb-element,
+.breadcrumb-element a,
+.breadcrumb-element p {
+  font-family: var(--hp-mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--hp-muted);
+  background: none;
+  font-weight: 400;
+  &:hover {
+    color: var(--hp-text);
+  }
+}
+
+// 속성 표: 모노 11px 대문자, 열 140px 1fr, 키 muted, 값 text, 행마다 hairline
+.note-properties {
+  margin: 28px 0 0;
+  border: 0;
+  background: none;
+  summary {
+    display: none;
+  }
+  .note-properties-table {
+    width: 100%;
+    border-collapse: collapse;
+    border-top: 1px solid var(--hp-hairline);
+    tbody {
+      display: block;
+    }
+    tr {
+      display: grid;
+      grid-template-columns: 140px minmax(0, 1fr);
+      border-bottom: 1px solid var(--hp-hairline);
+    }
+    td {
+      padding: 8px 0;
+      border: 0;
+      font-family: var(--hp-mono);
+      font-size: 11px;
+      line-height: 1.5;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+    // 플러그인 기본값(width: 35%, word-break)이 140px 칸을 다시 줄이므로 덮어쓴다.
+    .note-properties-key {
+      width: auto;
+      white-space: nowrap;
+      word-break: normal;
+      color: var(--hp-muted);
+    }
+    .note-properties-value {
+      min-width: 0;
+      overflow-wrap: anywhere;
+    }
+    .note-properties-value,
+    .note-properties-value * {
+      color: var(--hp-text);
+    }
+    a {
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 3px;
+      background: none;
+      padding: 0;
+      font-weight: 400;
+    }
+  }
+}
+
+// ---- 3단계: 홈과 카테고리 페이지(Wiki, Thoughts) (2분할: 워드마크 + 메뉴 + 하단 링크 / 목록) ----
+// 노트 페이지에는 영향이 없도록 위 네 페이지(홈, Wiki, Thoughts, About)에서만 적용한다.
+:is(body[data-slug="index"], body[data-slug="2-wiki/index"], body[data-slug="1-thoughts/index"], body[data-slug="4-about/about"]) {
+  .page {
+    max-width: none;
+  }
+
+  .page > #quartz-body {
+    display: flex;
+    flex-wrap: wrap; // 약 900px 이하에서 세로로 쌓인다
+    gap: 32px 48px;
+    padding: 28px 32px;
+    min-height: 100vh;
+    box-sizing: border-box;
+  }
+
+  // 홈에서 숨기는 것: 오른쪽 사이드바(그래프, 백링크), 탐색기, 리더 모드, 제목, 본문, 푸터
+  .sidebar.right,
+  .explorer,
+  .readermode,
+  .center > article,
+  .center > hr,
+  .center > .page-footer,
+  .center article,
+  .breadcrumb-container,
+  .page-listing,
+  .article-title,
+  #quartz-body > footer {
+    display: none;
+  }
+
+  // 왼쪽 (대략 1/3)
+  .sidebar.left {
+    flex: 1 1 340px;
+    min-width: 0;
+    position: static;
+    height: auto;
+    padding: 0;
+    gap: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; // Quartz 모바일 규칙의 가운데 정렬을 덮는다
+  }
+
+  .page-title {
+    font-size: 96px;
+    line-height: 0.9;
+    font-weight: 500;
+    letter-spacing: -0.05em;
+  }
+
+  // 카테고리 메뉴: 세로, 22px. 홈에서는 아무것도 선택되지 않는다.
+  .site-menu {
+    margin-top: 48px;
+    ul {
+      flex-direction: column;
+      gap: 0;
+    }
+    .site-menu__link {
+      font-size: 22px;
+      line-height: 1.25;
+      letter-spacing: -0.02em;
+    }
+  }
+
+  // 맨 아래 Search, Dark 텍스트 링크 (모노 11px 대문자)
+  .flex-component {
+    margin-top: auto;
+    padding-top: 48px;
+    gap: 1.25rem !important;
+    justify-content: flex-start;
+    > div {
+      flex: 0 0 auto !important;
+    }
+    .search-button,
+    .darkmode {
+      all: unset;
+      cursor: pointer;
+      font-family: var(--hp-mono);
+      font-size: 11px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--hp-muted);
+      &:hover {
+        color: var(--hp-text);
+      }
+      svg {
+        display: none;
+      }
+      p {
+        margin: 0;
+        display: inline;
+        font: inherit;
+        color: inherit;
+      }
+    }
+    .darkmode::after {
+      content: "Dark";
+    }
+  }
+  :root[saved-theme="dark"] & .flex-component .darkmode::after {
+    content: "Light";
+  }
+
+  // 오른쪽 (대략 2/3): 목록
+  .center {
+    flex: 2 1 560px;
+    min-width: 0;
+    max-width: none;
+    margin: 0;
+  }
+  .page-header {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+// 목록 행: 라벨(왼쪽 200px, muted) / 제목. 행 위 hairline, 마지막 행 아래에도.
+.random-notes {
+  margin: 0;
+
+  .random-notes__list {
+    border-bottom: 1px solid var(--hp-hairline);
+  }
+
+  .random-notes__item {
+    display: grid;
+    grid-template-columns: 200px minmax(0, 1fr);
+    align-items: baseline;
+    gap: 0;
+    padding: 15px 0;
+    border-top: 1px solid var(--hp-hairline);
+    border-bottom: 0;
+
+    @media all and (max-width: 900px) {
+      grid-template-columns: 120px minmax(0, 1fr);
+      column-gap: 12px;
+      padding: 11px 0;
+    }
+  }
+
+  // DOM 순서는 제목, 라벨이라 격자 위치로 라벨을 왼쪽에 둔다.
+  .random-notes__label {
+    grid-column: 1;
+    grid-row: 1;
+    font-family: var(--hp-mono);
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--hp-muted);
+  }
+
+  .random-notes__title {
+    grid-column: 2;
+    grid-row: 1;
+    font-size: 24px;
+    line-height: 1.2;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    text-decoration: none;
+    background: none;
+    padding: 0;
+    color: var(--hp-text);
+
+    @media all and (max-width: 900px) {
+      font-size: 19px;
+    }
+  }
+
+  // 목록에 마우스를 올리면 모든 제목이 dim, 올린 행만 text (라벨도 text)
+  .random-notes__list:hover .random-notes__title {
+    color: var(--hp-dim);
+  }
+  .random-notes__list .random-notes__item:hover {
+    .random-notes__title,
+    .random-notes__label {
+      color: var(--hp-text);
+    }
+  }
+}
+
+@media all and (max-width: 900px) {
+  :is(body[data-slug="index"], body[data-slug="2-wiki/index"], body[data-slug="1-thoughts/index"], body[data-slug="4-about/about"]) {
+    .page > #quartz-body {
+      padding: 20px;
+    }
+    .page-title {
+      font-size: 44px;
+    }
+  }
+}
+
+// ---- 6단계: About (2분할의 오른쪽에 노트 본문을 보여 준다) ----
+body[data-slug="4-about/about"] {
+  // 2분할 공통 규칙이 본문(article)을 숨기므로 About만 다시 보이게 한다.
+  .center article {
+    display: block;
+    max-width: 40rem; // 긴 글 가독성을 위한 줄 길이 제한 (시안에 값 없음)
+    font-size: 16px;
+    line-height: 1.75;
+  }
+}
+
+// ---- 7단계: 모바일 (Quartz 모바일 기준 800px 이하) ----
+@media all and (max-width: 800px) {
+  // 노트 페이지 헤더: 워드마크 + 검색/다크/리더 한 줄, 메뉴는 그 아래 한 줄
+  // (홈, Wiki, Thoughts, About은 세로 2분할이라 제외한다)
+  body:not(
+      [data-slug="index"],
+      [data-slug="2-wiki/index"],
+      [data-slug="1-thoughts/index"],
+      [data-slug="4-about/about"]
+    )
+    .page
+    > #quartz-body
+    .sidebar.left {
+    flex-wrap: wrap;
+    gap: 8px 16px;
+    padding-top: 20px;
+    .page-title {
+      white-space: nowrap;
+    }
+    .site-menu {
+      order: 10;
+      flex: 0 0 100%;
+    }
+  }
+
+  // 노트 제목: 72px 은 좁은 화면에서 넘치므로 모바일 워드마크와 같은 44px (시안에 모바일 값 없음)
+  .article-title {
+    font-size: 44px;
+    overflow-wrap: anywhere;
+  }
+}
+
+// ---- 사이드바 타입 (DESIGN.md: 13px / 1.3, 굵기 400, 현재 항목 500) ----
+// Quartz 링크 기본 굵기(600)와 제목 크기가 남아 있어 덮어쓴다. 워드마크(.page-title)는 제외.
+.sidebar,
+footer {
+  a {
+    font-weight: 400;
+    &.active,
+    &[aria-current="page"] {
+      font-weight: 500;
+    }
+  }
+  h2:not(.page-title),
+  h3 {
+    font-size: 13px;
+    line-height: 1.3;
+    font-weight: 500;
+  }
+  .explorer-ul a,
+  .toc a,
+  .backlinks a {
+    font-size: 13px;
+    line-height: 1.3;
+  }
+}
+
+// ---- 콜아웃: 모노톤 (색 강조 없음, 둥근 박스 없음) ----
+// 종류별로 색 변수(--color, --border, --bg)를 지정한 Quartz 규칙보다 우선하도록 html 을 앞에 붙인다.
+html .callout[data-callout] {
+  --color: var(--hp-text);
+  --border: var(--hp-hairline);
+  --bg: transparent;
+  border-radius: 0;
+
+  .callout-title-inner > p {
+    font-weight: 500;
+  }
+}

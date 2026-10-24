@@ -1,0 +1,43 @@
+---
+topic:
+  - "[[Branding Agency]]"
+IG:
+  - https://www.instagram.com/jkrglobal/?hl=en
+Website: https://jkrglobal.com/
+URL:
+  - https://www.linkedin.com/company/jkr/?originalSubdomain=uk
+Cities:
+  - "[[London]]"
+  - "[[New York]]"
+Countries:
+  - "[[UK]]"
+  - "[[USA]]"
+---
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> If you remember only one thing about us, it’s Be Distinctive Everywhere. Since 1990, we’ve helped brands be who they are, only more so. Because as it turns out: being yourself is a superpower. From strategies that reclaim crowns, raise curtains, and innovate the internet; to iconic identities with more swagger, more flame grilled deliciousness, more going-and-getting; and experiences that are worth more, spark your imagination, and deliver a recipe for magic… It’s all done with people who are supremely talented. But more importantly, done with people you want to hang with. If that’s the kind of brand you want to own. Or the type of work you want to make. We’re your people.
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+<video src="https://stream.mux.com/YxxoLqN01TV007i3XL936H5WgLsw3L61U4AZNiGUwtZ02Q.m3u8?max_resolution=1080p&min_resolution=720p&redundant_streams=true" autoplay loop></video>
+
+- [[Yahoo]] [Link](https://www.jkrglobal.com/work/yahoo)
+
+
+<video src="https://stream.mux.com/2DDyZMEbklo8RK516hBzH9qVr01mjxV01BBvS9ijg2e2U.m3u8?max_resolution=1080p&min_resolution=720p&redundant_streams=true" loop autoplay></video>
+
+- [[Mozilla]] [Link](https://www.jkrglobal.com/work/mozilla)
+
+<video src="https://stream.mux.com/S3PRbEdiOYQFYuyhmcm2S288F4EyQJlj51FKm91lCPo.m3u8?max_resolution=1080p&min_resolution=720p&redundant_streams=true" loop autoplay></video>
+
+- Uber [Link](https://www.jkrglobal.com/work/uber)
+
+---
+
+# People
