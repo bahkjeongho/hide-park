@@ -312,7 +312,7 @@ plugins:
         - label: Thoughts
           path: 1-thoughts/
         - label: About
-          path: 4-about/About
+          path: 4-about/about
     order: 50
     layout:
       position: left
