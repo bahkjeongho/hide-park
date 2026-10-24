@@ -16,8 +16,8 @@
     "quartz-recent-visits": {
       "source": "github:bahkjeongho/quartz-recent-visits",
       "resolved": "https://github.com/bahkjeongho/quartz-recent-visits.git",
-      "commit": "458fce1aa309f40b955a67c45d05a99d18355477",
-      "installedAt": "2026-10-24T17:42:22.654Z"
+      "commit": "41cfd5b0b47775a6667dace413e4ffbf07361edc",
+      "installedAt": "2026-10-24T18:02:49.627Z"
     },
     "quartz-site-menu": {
       "source": "github:bahkjeongho/quartz-site-menu",

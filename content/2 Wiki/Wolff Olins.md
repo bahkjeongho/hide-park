@@ -10,20 +10,7 @@ URL: https://www.linkedin.com/company/wolff-olins
 
 > [!Info]
 > Wolff Olins is a global brand consultancy that’s ambitious for the work and optimistic for the world. We’re here to help our clients defy convention, redefine expectations and ignite positive change.
-
-We unite brand, culture and experience to drive impact inside and outside an organisation.
-
-## Brand
-
-In a world that demands new and better, no one can afford to stand still. Your brand can be a catalyst for change, helping you supercharge your transformation efforts and drive business performance. Wolff Olins fuses maths and magic to turn your vision for tomorrow into something people can feel today.
-
-## Culture
-
-When it comes to realising your business and brand ambition, a ‘good’ organisational culture is not good enough. You need the right culture for the journey ahead. We use creativity and inspiration to help you shape your internal culture, energise your employees, and retain top talent.
-
-## Experience
-
-Brand Experience has become bland experience, fixated on the functional. Optimisation won’t ensure success as people’s expectations soar and their attention depletes. Your brand must realise its unique power to unlock new value for people and your business. We design transformative brand experiences that move people and organisations where they need to go.
+> We unite brand, culture and experience to drive impact inside and outside an organisation. 
 
 > [!Summary]
 

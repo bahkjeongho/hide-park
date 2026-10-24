@@ -339,10 +339,20 @@ plugins:
     enabled: true
     options:
       limit: 8
+      only: home
     order: 50
     layout:
       position: left
-      priority: 55
+      priority: 16
+  - source: github:bahkjeongho/quartz-recent-visits
+    enabled: true
+    options:
+      limit: 8
+      only: pages
+    order: 50
+    layout:
+      position: right
+      priority: 60
 layout:
   groups:
     toolbar:

@@ -40,9 +40,9 @@ Countries:
 
 ## Leadership
 
-- [[Tom Geismar]]
-- [[Sagi Haviv]]
-- [[Mackey Saturday]]
-- [[Melanie McElduff]]
-- [[Mika Owens]]
-- [[Kelly O'Keefe]]
+- [[Tom Geismar]] `Co-Founder`
+- [[Sagi Haviv]] `Co-Founder`
+- [[Mackey Saturday]] `Principal Designer`
+- [[Melanie McElduff]] `Graphic Designer, Project Manager`
+- [[Mika Owens]] `Design Director`
+- [[Kelly O'Keefe]] `Business Strategist`

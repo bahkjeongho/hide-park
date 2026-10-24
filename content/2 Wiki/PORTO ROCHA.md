@@ -11,10 +11,8 @@ Website: https://portorocha.com/
 
 > [!Info]
 > PORTO ROCHA is a global strategy and design agency with offices in New York and London.  
-  
-We help brands navigate complex challenges through work that is strategically rigorous, emotionally resonant, and beautifully designed.  
-  
-From large-scale rebrands to independent initiatives, our hard-working systems prove that craft and scale can coexist.
+  We help brands navigate complex challenges through work that is strategically rigorous, emotionally resonant, and beautifully designed.  
+  From large-scale rebrands to independent initiatives, our hard-working systems prove that craft and scale can coexist.
 
 > [!Summary]
 

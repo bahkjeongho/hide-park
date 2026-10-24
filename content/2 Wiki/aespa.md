@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[K-Pop Idol]]"
+  - "[[Music]]"
 Genre:
   - "[[K-Pop]]"
 Related:

@@ -1,4 +1,4 @@
-// 사용: node tools/shot.mjs <url> <out.png> <width> <height> [dark] [full]   (PROF=임시 프로필 폴더, 생략하면 자동)
+// 사용: node tools/shot.mjs <url> <out.png> <width> <height> [dark] [full]   (PROF=임시 프로필 폴더, 생략하면 자동. LS_SEED='{"키":"값"}' 이면 localStorage를 미리 채운다)
 // 기기 에뮬레이션으로 스크린샷을 찍는다. 390 폭은 모바일, dark 를 주면 다크 모드.
 import { spawn } from "node:child_process";
 import fs from "node:fs";
@@ -22,6 +22,7 @@ try{
   await send("Page.enable");
   await send("Emulation.setDeviceMetricsOverride",{width:+w,height:+hgt,deviceScaleFactor:2,mobile:+w<700});
   if(dark==="dark"){ await send("Page.addScriptToEvaluateOnNewDocument",{source:`try{localStorage.setItem("theme","dark")}catch(e){}`}); }
+  if(process.env.LS_SEED){ await send("Page.addScriptToEvaluateOnNewDocument",{source:`try{const o=${process.env.LS_SEED};for(const k in o)localStorage.setItem(k,o[k])}catch(e){}`}); }
   await send("Page.navigate",{url}); await sleep(9000);
   const info=await send("Runtime.evaluate",{expression:"JSON.stringify({inner:innerWidth,scrollW:document.documentElement.scrollWidth,theme:document.documentElement.getAttribute('saved-theme')})",returnByValue:true});
   const params={format:"png"};
