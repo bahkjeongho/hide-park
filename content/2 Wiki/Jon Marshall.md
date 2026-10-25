@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/jonmarshalll/
 Website:
   - https://www.pentagram.com/about/jon-marshall
 ---

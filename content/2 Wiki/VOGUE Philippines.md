@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/voguephilippines/
 Website:
   - https://vogue.ph/
 ---

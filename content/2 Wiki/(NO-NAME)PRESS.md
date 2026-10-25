@@ -13,6 +13,9 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+
+<img src="https://www.nonamepress.kr/faviconNp.ico" alt="(NO-NAME)PRESS logo" width="96">
+
 >[!tldr] tl;dr
 >대전과 서울을 기반으로 하는 그래픽 디자인 스튜디오
 

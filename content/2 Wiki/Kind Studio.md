@@ -1,8 +1,19 @@
 ---
+IG:
+  - https://www.instagram.com/kind_studio/
 Website: https://kindstudio.co.uk/
+URL:
+  - https://www.linkedin.com/company/kind-studio
+Cities:
+  - "[[London]]"
+Countries:
+  - "[[UK]]"
 ---
+
+<img src="https://cdn.prod.website-files.com/5cd15c1d6f4a423535818ed9/5d5ea686aeeaa5e15ecaa03b_webclip.jpg" alt="Kind Studio logo" width="96">
+
 >[!tldr] tl;dr
->
+>런던의 독립 브랜딩·시각 커뮤니케이션 스튜디오
 
 > [!Info]
 > We are Kind Studio, an independent branding and visual communication studio based in London, working with clients globally. We are multidisciplinary creatives working across all areas of graphic design and beyond.  

@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/allure/
 Website:
   - https://www.allure.com/
 ---

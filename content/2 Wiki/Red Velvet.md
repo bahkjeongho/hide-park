@@ -3,6 +3,11 @@ topic:
   - "[[Music]]"
 Genre:
   - "[[K-Pop]]"
+IG:
+  - https://www.instagram.com/redvelvet.smtown/
+URL:
+  - https://www.youtube.com/@redvelvet
+  - https://x.com/RVsmtown
 Related:
   - "[[SM ENTERTAINMENT|SM ENT.]]"
 ---

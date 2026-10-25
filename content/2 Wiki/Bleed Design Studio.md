@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/bleed.studio/
 Website: https://bleed.com/
 ---
 >[!tldr] tl;dr

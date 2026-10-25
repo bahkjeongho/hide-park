@@ -2,6 +2,11 @@
 topic:
   - "[[K-Pop Idol]]"
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/newjeans_official/
+URL:
+  - https://www.youtube.com/channel/UCMki_UkHb4qSc0qyEcOHHJw
+  - https://x.com/NewJeans_ADOR
 Related:
   - "[[HYBE]]"
 ---

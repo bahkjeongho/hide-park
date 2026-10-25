@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/the.watermelon_seoul/
 Website: https://thewatermelon.com/
 ---
 >[!tldr] tl;dr

@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/voguejapan/
 Website:
   - https://www.vogue.co.jp/
 ---

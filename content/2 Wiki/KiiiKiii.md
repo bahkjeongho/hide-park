@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[K-Pop Idol]]"
+  - "[[Music]]"
 Related:
   - "[[Starship Entertainment]]"
 ---

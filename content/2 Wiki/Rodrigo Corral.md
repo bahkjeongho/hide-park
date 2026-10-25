@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/rodrigocorral_/
 Website: https://rodrigocorral.com/
 ---
 >[!tldr] tl;dr

@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/turner_duckworth/
 Website: https://turnerduckworth.com/
 ---
 >[!tldr] tl;dr

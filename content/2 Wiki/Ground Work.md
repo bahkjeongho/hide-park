@@ -10,6 +10,9 @@ Countries:
   - "[[UK]]"
   - "[[USA]]"
 ---
+
+<img src="https://ground-work.co/wp-content/uploads/2023/04/cropped-GW-IG-Logo-Square_-1-192x192.png" alt="Ground Work logo" width="96">
+
 >[!tldr] tl;dr
 >영국과 미국에 거점을 둔 어워드 수상 크리에이티브 프로덕션
 

@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/vanityfair/
 Website:
   - https://www.vanityfair.com/
 ---

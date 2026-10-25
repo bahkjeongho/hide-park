@@ -3,6 +3,11 @@ aliases:
   - 코르티스
 topic:
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/cortis/
+URL:
+  - https://www.youtube.com/channel/UCZMYvSPulDSUdx7bdtTFdrg
+  - https://x.com/cortis_bighit
 Related:
   - "[[HYBE]]"
   - "[[BIGHIT MUSIC]]"

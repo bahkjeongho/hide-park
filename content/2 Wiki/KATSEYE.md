@@ -2,6 +2,11 @@
 topic:
   - "[[K-Pop Idol]]"
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/katseyeworld/
+URL:
+  - https://www.youtube.com/@katseyeworld
+  - https://x.com/katseyeworld
 Related:
   - "[[HYBE]]"
 ---

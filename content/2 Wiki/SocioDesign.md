@@ -14,6 +14,9 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+
+<img src="https://www.datocms-assets.com/150473/1757947682-socio_favicon_2.png?auto=format&h=192&w=192" alt="SocioDesign logo" width="96">
+
 >[!tldr] tl;dr
 >웰빙 브랜드를 위한 아이디어를 증폭하는 런던 기반 크리에이티브 스튜디오
 

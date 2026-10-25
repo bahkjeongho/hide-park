@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/dnco/
 Website: https://dnco.com/
 ---
 >[!tldr] tl;dr

@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/beetrootdesign/
 Website: https://beetroot.gr/
 ---
 >[!tldr] tl;dr

@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/grandarmy/
 Website: https://www.grandarmy.com/
 ---
 >[!tldr] tl;dr

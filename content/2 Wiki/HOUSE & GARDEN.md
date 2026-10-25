@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/houseandgardenuk/
 Website:
   - https://www.houseandgarden.co.uk/
 ---

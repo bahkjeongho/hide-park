@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/bonappetitmag/
 Website:
   - https://www.bonappetit.com/
 ---

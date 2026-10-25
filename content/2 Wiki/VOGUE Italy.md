@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/vogueitalia/
 Website:
   - https://www.vogue.it/
 ---

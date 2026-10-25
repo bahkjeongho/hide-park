@@ -2,6 +2,11 @@
 topic:
   - "[[K-Pop Idol]]"
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/riize_official/
+URL:
+  - https://www.youtube.com/@RIIZE_official
+  - https://x.com/riize_official
 Related:
   - "[[SM ENTERTAINMENT|SM ENT.]]"
 ---

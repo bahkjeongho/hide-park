@@ -9,8 +9,8 @@ Genre:
 IG:
   - https://www.instagram.com/weareone.exo/
 URL:
-  - https://x.com/weareoneEXO
   - https://www.youtube.com/channel/UCzCedBCSSltI1TFd3bKyN6g
+  - https://x.com/weareoneEXO
   - https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O
 Wikis:
   - https://en.wikipedia.org/wiki/Exo_(band)

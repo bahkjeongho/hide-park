@@ -13,8 +13,11 @@ Countries:
   - "[[UK]]"
   - "[[USA]]"
 ---
+
+<img src="https://www.jkrglobal.com/favicon-light.png" alt="JKR Global logo" width="48">
+
 >[!tldr] tl;dr
->
+>1990년에 시작한 런던·뉴욕 기반의 글로벌 브랜딩 에이전시
 
 > [!Info]
 > If you remember only one thing about us, it’s Be Distinctive Everywhere. Since 1990, we’ve helped brands be who they are, only more so. Because as it turns out: being yourself is a superpower. From strategies that reclaim crowns, raise curtains, and innovate the internet; to iconic identities with more swagger, more flame grilled deliciousness, more going-and-getting; and experiences that are worth more, spark your imagination, and deliver a recipe for magic… It’s all done with people who are supremely talented. But more importantly, done with people you want to hang with. If that’s the kind of brand you want to own. Or the type of work you want to make. We’re your people.

@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/ci_architects/
 Website: https://www.christophingenhovenarchitects.com/
 ---
 >[!tldr] tl;dr

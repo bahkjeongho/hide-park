@@ -13,6 +13,9 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+
+<img src="https://hybecorp.com/public/opengraph/main/og.png" alt="HYBE logo" width="160">
+
 >[!tldr] tl;dr
 >아티스트·콘텐츠·서비스로 새로운 팬 경험을 만드는 서울의 엔터테인먼트 기업
 

@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/gqfrance/
 Website:
   - https://www.gqmagazine.fr/
 ---

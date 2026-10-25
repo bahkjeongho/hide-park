@@ -9,6 +9,9 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+
+<img src="https://freight.cargo.site/t/original/i/S2074213073401749856015769410471/Artboard-1-copy-210x.ico" alt="Studio TUH logo" width="96">
+
 >[!tldr] tl;dr
 >서울의 크리에이티브 스튜디오
 

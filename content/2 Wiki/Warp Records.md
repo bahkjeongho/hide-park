@@ -50,7 +50,7 @@ Wikis: https://en.wikipedia.org/wiki/Warp_Records
 - [[Plaid]]
 - [[Seefeel]]
 - [[Slauson Malone 1]]
-- [[SQUAREPUSHER]]
+- [[Squarepusher]]
 - [[SQUID]]
 - [[Stereolab]]
 - [[Wu-Lu]]

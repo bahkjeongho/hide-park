@@ -1,7 +1,7 @@
 ---
 title: Underground Rockstar
 artist:
-  - "[[CHANGMO]]"
+  - "[[창모]]"
 year: 2021
 ---
 ---

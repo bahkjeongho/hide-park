@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/theworldofinteriors/
 Website:
   - https://www.worldofinteriors.com/
 ---

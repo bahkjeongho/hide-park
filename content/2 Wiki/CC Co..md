@@ -11,11 +11,13 @@ Countries:
 Related:
   - "[[Crack Magazine]]"
 ---
+
+<img src="https://cc-co.org/wp-content/themes/ccco/images/logo_ccco.svg" alt="CC Co. logo" width="200">
+
 >[!tldr] tl;dr
->
+>Crack Magazine이 만든 런던의 풀서비스 크리에이티브 컴퍼니
 
 > [!Info]
 > A full-service creative company built by a magazine. We value real stories, clear purpose and adventurous people. CC Co. is built by Crack Magazine, an award-winning globally renowned and proudly independent publication which has been at the forefront of music and youth culture for over 10 years and 100 issues. The magazine is driven by true creativity and stunning visuals, so we are too.
 
 > [!Summary]
-

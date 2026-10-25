@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/brenden.design/
 Website: https://brenden.kr/
 ---
 >[!tldr] tl;dr

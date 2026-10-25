@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/nobells/
 Website: https://nobells.blog/
 Related:
   - "[[Kieran Press-Reynolds]]"

@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/britishvogue/
 Website:
   - https://www.vogue.co.uk/
 ---

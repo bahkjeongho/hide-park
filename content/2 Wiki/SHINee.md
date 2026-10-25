@@ -130,4 +130,4 @@ Countries:
 - [[Jonghyun]] `Main Vocalist`
 - [[Key]]
 - [[Minho]]
-- [[Taemin]] `Main Dancer`
+- [[TAEMIN]] `Main Dancer`

@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/thechasecreative/
 Website: https://www.thechase.co.uk/
 ---
 >[!tldr] tl;dr

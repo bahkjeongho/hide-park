@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/teenvogue/
 Website:
   - https://www.teenvogue.com/
 ---

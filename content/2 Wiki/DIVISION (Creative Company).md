@@ -17,6 +17,9 @@ Countries:
   - "[[USA]]"
   - "[[Australia]]"
 ---
+
+<img src="https://us.division.global/favicon/favicon-148x148.png" alt="DIVISION (Creative Company) logo" width="96">
+
 >[!tldr] tl;dr
 >필름메이커·포토그래퍼·크리에이티브 디렉터 로스터를 둔 글로벌 크리에이티브 컴퍼니
 

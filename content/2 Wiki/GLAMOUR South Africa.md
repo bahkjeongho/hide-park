@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/glamour_sa/
 Website:
   - https://www.glamour.co.za/
 ---

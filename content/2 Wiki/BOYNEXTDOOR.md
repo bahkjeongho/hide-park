@@ -2,6 +2,11 @@
 topic:
   - "[[K-Pop Idol]]"
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/BOYNEXTDOOR_official/
+URL:
+  - https://www.youtube.com/channel/UChhKBlh_wvspTh5n4mL0b5g
+  - https://x.com/BOYNEXTDOOR_KOZ
 Related:
   - "[[HYBE]]"
 ---

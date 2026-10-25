@@ -1,6 +1,11 @@
 ---
 topic:
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/beyonce/
+URL:
+  - https://www.youtube.com/BeyonceVEVO
+  - https://x.com/beyonce
 Wikis: https://en.wikipedia.org/wiki/Beyonc%C3%A9
 ---
 >[!tldr] tl;dr

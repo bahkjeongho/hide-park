@@ -3,6 +3,8 @@ aliases:
   - School of Visual Arts
 topic:
   - "[[Art School]]"
+IG:
+  - https://www.instagram.com/SVANYC/
 Website:
   - https://sva.edu/
 Wikis:

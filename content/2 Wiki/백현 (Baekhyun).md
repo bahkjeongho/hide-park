@@ -11,8 +11,8 @@ Genre:
 IG:
   - https://www.instagram.com/baekhyunee_exo/
 URL:
-  - https://x.com/B_hundred_Hyun
   - https://www.youtube.com/channel/UCUyr5000laFgF79tWJB3rXQ
+  - https://x.com/B_hundred_Hyun
   - https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl
 Wikis:
   - https://en.wikipedia.org/wiki/Baekhyun

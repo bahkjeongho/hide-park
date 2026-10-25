@@ -14,6 +14,9 @@ Cities:
 Countries:
   - "[[Croatia]]"
 ---
+
+<img src="https://studio-size.com/wp-content/themes/studio-size/favicon/apple-touch-icon.png" alt="Studio Size logo" width="96">
+
 >[!tldr] tl;dr
 >2013년 자그레브에서 시작된 브랜딩·모션 디자인 스튜디오
 

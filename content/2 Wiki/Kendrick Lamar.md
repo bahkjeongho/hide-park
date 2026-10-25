@@ -5,6 +5,8 @@ topic:
 Genre:
   - "[[Hip-Hop]]"
   - "[[Rap]]"
+IG:
+  - https://www.instagram.com/kendricklamar/
 Website:
   - https://oklama.com/
 Wikis:

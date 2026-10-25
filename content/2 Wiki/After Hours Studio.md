@@ -15,6 +15,9 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+
+<img src="https://afterhours.studio/_app/immutable/assets/ah-studio-wordmark.97dae2a8.svg" alt="After Hours Studio logo" width="200">
+
 >[!tldr] tl;dr
 >뉴욕의 크리에이티브 디렉션·디자인 오피스, Shy Trutwein과 Jasmine Gallagher가 이끎
 

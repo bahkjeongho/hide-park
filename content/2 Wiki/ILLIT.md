@@ -1,6 +1,11 @@
 ---
 topic:
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/illit_official/
+URL:
+  - https://www.youtube.com/channel/UCEpFoWeCMCo5z3EvWaz6hQQ
+  - https://x.com/illit_official
 ---
 >[!tldr] tl;dr
 >

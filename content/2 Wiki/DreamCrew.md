@@ -9,6 +9,9 @@ Related:
 Countries:
   - "[[USA]]"
 ---
+
+<img src="https://dreamcrew.com/favicons/favicon.png" alt="DreamCrew logo" width="96">
+
  >[!tldr] tl;dr
 >미국 기반의 다학제 크리에이티브 스튜디오
 

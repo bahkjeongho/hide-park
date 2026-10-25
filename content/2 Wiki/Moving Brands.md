@@ -1,11 +1,20 @@
 ---
+IG:
+  - https://www.instagram.com/movingbrands/
 Website: https://movingbrands.com/
+URL:
+  - https://www.linkedin.com/company/movingbrands/
+  - https://vimeo.com/movingbrands
+  - https://www.facebook.com/movingbrands/
+  - https://www.youtube.com/user/movingbrands
 ---
 >[!tldr] tl;dr
->
+>1998년에 시작한 독립 글로벌 디자인 스튜디오
 
 > [!Info]
-> 
+> Moving Brands는 내일의 브랜드와 제품, 경험을 만드는 독립 글로벌 디자인 스튜디오입니다. 야심 찬 리더와 조직의 파트너로서 세상에 가장 큰 영향을 주는 디자인을 선보입니다.
+>
+> Moving Brands is an independent global design studio creating the brands, products and experiences of tomorrow. Partnering with ambitious leaders and organisations, we deliver the world’s most impactful design.
 
 > [!Summary]
 
@@ -30,3 +39,6 @@ Website: https://movingbrands.com/
 ---
 
 # People
+
+- [[James Bull]] `Founder and CEO`
+- [[Carrie Ellingson]] `Head of Account Management`

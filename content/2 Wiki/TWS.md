@@ -1,6 +1,11 @@
 ---
 topic:
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/tws_pledis/
+URL:
+  - https://www.youtube.com/channel/UC8C6QOPDVYwmuaSBZksefdg
+  - https://x.com/TWS_PLEDIS
 ---
 >[!tldr] tl;dr
 >

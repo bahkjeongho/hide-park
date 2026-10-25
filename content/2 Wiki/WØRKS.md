@@ -3,13 +3,17 @@ IG: https://www.instagram.com/works.studio/
 Website: https://works.studio/
 URL:
   - https://www.linkedin.com/company/worksstudio/
+  - https://x.com/worksdotstudio
 Cities:
   - "[[New York]]"
 Countries:
   - "[[USA]]"
 ---
+
+<img src="https://works.studio/_next/image?url=%2Fimages%2Flogo-black.png&w=3000&q=96" alt="WØRKS logo" width="200">
+
 >[!tldr] tl;dr
->
+>뉴욕의 문화 중심 전략·비주얼 아이덴티티·크리에이티브 디렉션 스튜디오
 
 > [!Info]
 > WØRKS specializes in culturally-driven, visually refined work across _strategy, visual identity, creative direction_ and _design._  

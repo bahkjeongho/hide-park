@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/both.studio/
 Website: https://both.studio/
 ---
 >[!tldr] tl;dr

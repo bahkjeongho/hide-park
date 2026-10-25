@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/lacucinaitaliana/
 Website:
   - https://www.lacucinaitaliana.it/
 ---

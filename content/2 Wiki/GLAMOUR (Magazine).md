@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/glamourmag/
 Website:
   - https://www.glamour.com/?us_site=y
 ---

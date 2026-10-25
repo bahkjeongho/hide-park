@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/kkaa_official/
 Website: https://kkaa.co.jp/en/
 ---
 >[!tldr] tl;dr

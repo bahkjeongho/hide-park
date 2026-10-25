@@ -7,6 +7,11 @@ topic:
   - "[[Artist]]"
   - "[[K-Pop Idol]]"
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/andteam_official/
+URL:
+  - https://www.youtube.com/@andTEAM_official
+  - https://x.com/andTEAMofficial
 Wikis:
   - https://namu.wiki/w/%26TEAM
   - https://en.wikipedia.org/wiki/%26Team

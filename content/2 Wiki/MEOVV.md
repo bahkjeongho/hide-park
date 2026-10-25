@@ -2,6 +2,11 @@
 topic:
   - "[[Music]]"
   - "[[K-Pop Idol]]"
+IG:
+  - https://www.instagram.com/meovv/
+URL:
+  - https://www.youtube.com/@MEOVV_OFFICIAL
+  - https://x.com/OFFICIAL_MEOVV
 ---
 > [!Summary]
 

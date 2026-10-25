@@ -2,6 +2,11 @@
 topic:
   - Artist
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/ye/
+URL:
+  - https://www.youtube.com/@kanyewest
+  - https://x.com/kanyewest
 tags:
   - Rapper
   - Hip-Hop

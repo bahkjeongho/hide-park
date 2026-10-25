@@ -6,13 +6,18 @@ IG:
 Website: https://www.humanastudio.com/
 URL:
   - https://www.linkedin.com/company/studiohumana/
+  - https://www.behance.net/studiohumana
+  - https://dribbble.com/studiohumana
 Cities:
   - "[[Lisbon]]"
 Countries:
   - "[[Portugal]]"
 ---
+
+<img src="https://www.humanastudio.com/favicon.ico" alt="Humana Studio logo" width="96">
+
 >[!tldr] tl;dr
->
+>리스본에서 독립 브랜드를 디자인하는 스튜디오
 
 > [!Info]
 > Design isn't just about making things look good. It's about creating with purpose and intention for what matters the most to you. For us, that's human connection. 

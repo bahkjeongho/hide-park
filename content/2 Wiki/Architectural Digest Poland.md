@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/archdigestpolska/
 Website:
   - https://architecturaldigest.pl/
 ---

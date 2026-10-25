@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/helloapplied/
 Website: https://helloapplied.com/
 ---
 >[!tldr] tl;dr

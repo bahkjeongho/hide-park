@@ -1,8 +1,7 @@
 ---
 title: Forever Howlong
 artist:
-  - "[[Black Country]]"
-  - "[[New Road]]"
+  - "[[Black Country, New Road]]"
 year: 2025
 ---
 ---

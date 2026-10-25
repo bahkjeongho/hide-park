@@ -14,6 +14,9 @@ Countries:
   - "[[USA]]"
   - "[[Ireland]]"
 ---
+
+<img src="https://freight.cargo.site/t/original/i/747754f919c75b67380822631c56ece3a39a31057a99e52867f94af44bc06226/k_logo.svg" alt="Studio K logo" width="96">
+
 >[!tldr] tl;dr
 >뉴욕과 더블린에 기반한 독립 디자인 스튜디오
 

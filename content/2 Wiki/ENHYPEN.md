@@ -1,6 +1,11 @@
 ---
 topic:
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/enhypen/
+URL:
+  - https://www.youtube.com/channel/UCArLZtok93cO5R9RI4_Y5Jw
+  - https://x.com/ENHYPEN
 Genre:
   - "[[K-Pop]]"
 ---

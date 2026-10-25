@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/vogueturkiye/
 Website:
   - https://vogue.com.tr/
 ---

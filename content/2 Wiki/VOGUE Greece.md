@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/voguegreece/
 Website:
   - https://vogue.gr/
 ---

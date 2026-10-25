@@ -7,6 +7,12 @@ topic:
   - "[[Music]]"
 Genre:
   - "[[Alternative K-Pop]]"
+IG:
+  - https://www.instagram.com/balmingtiger/
+URL:
+  - https://www.youtube.com/balmingtiger
+  - https://twitter.com/balmingtiger
+  - https://soundcloud.com/balmingtiger
 Wikis:
   - https://en.wikipedia.org/wiki/Balming_Tiger
   - https://namu.wiki/w/Balming%20Tiger

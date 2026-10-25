@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/duedance_design/
 Website: https://duedance.com/
 ---
 >[!tldr] tl;dr

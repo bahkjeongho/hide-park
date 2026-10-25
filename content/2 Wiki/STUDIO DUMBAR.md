@@ -4,11 +4,20 @@ topic:
 IG:
   - https://www.instagram.com/studiodumbar/
 Website: https://studiodumbar.com/
+URL:
+  - https://twitter.com/studiodumbar
+  - https://www.facebook.com/studiodumbar/
+  - https://www.linkedin.com/company/studio-dumbar
+Cities:
+  - "[[Rotterdam]]"
 Countries:
   - "[[DEPT]]"
 ---
+
+<img src="https://studiodumbar.com/assets/favicon/safari-pinned-tab.svg" alt="STUDIO DUMBAR logo" width="96">
+
 >[!tldr] tl;dr
->
+>네덜란드 로테르담의 비주얼·모션 아이덴티티 스튜디오(DEPT 소속)
 
 > [!Info]
 > STUDIO DUMBAR/DEPT® is an international agency with Dutch heritage, specializing in visual and motion identity, creative coding, and sound. Our clients include Dutch Railways, Utah Jazz, Instagram, and the Van Gogh Museum, and we founded DEMO, the world’s largest design-in-motion festival.
@@ -35,211 +44,38 @@ Countries:
 
 # People
 
-
-
-### Jim Olijkan
-
-Motion Designer
-
-
-
-### Taja Regent Veras
-
-Motion Designer
-
-
-
-### Sander Sturing
-
-Creative Coder
-
-
-
-### Jasper Scholma
-
-Sound Designer
-
-
-
-### Eleonora Bonorva
-
-Motion Designer
-
-
-
-### Cyrus Cumming
-
-Motion Designer
-
-
-
-### Christopher Noort
-
-Designer
-
-
-
-### Carolien van Hooijdonk
-
-Project Manager
-
-
-
-### Wouter Dirks
-
-Operations Director
-
-
-
-### Leonardo Landoni
-
-Designer
-
-
-
-### Tom Dorresteijn
-
-Strategy Director
-
-
-
-### Magnus Schulz
-
-Motion Designer
-
-
-
-### Roeland van Rijnberk
-
-Sound Designer
-
-
-
-### Lara Bruggeman
-
-Designer
-
-
-
-### Frank Post
-
-Sound Designer
-
-
-
-### Jan Kuijken
-
-Motion Designer
-
-
-
-### Valentin Baumann
-
-Designer
-
-
-
-### Merijn van Velsen
-
-Designer
-
-
-
-### Stan Haanappel
-
-Designer
-
-
-
-### Elvin van Dalen
-
-Motion Designer
-
-
-
-### Sóldís Finnbogadóttir
-
-Designer
-
-
-
-### Cosette Legebeke
-
-Project Manager
-
-
-
-### Débora Linhares
-
-Motion Designer
-
-
-
-### Xue Jing Lim
-
-Project Manager
-
-
-
-### Adam Pusztai
-
-Designer
-
-
-
-### Finn Streuper
-
-Sound Designer
-
-
-
-### Liza Enebeis
-
-Creative Director
-
-
-
-### Francesco Scarfone
-
-Motion Designer
-
-
-
-### Daniel Neves
-
-Motion Designer
-
-
-
-### Erik de Vlaam
-
-Designer
-
-
-
-### Bart Vollebregt
-
-Designer
-
-
-
-### Cas Thorsen
-
-Motion Designer
-
-
-
-### Vincent van Lieshout
-
-Motion Designer
-
-
-
-### Josephine van Kranendonk
-
-Project Manager
-
-
-### Diogo Viegas
-
-Creative Coder
+- [[Liza Enebeis]] `Creative Director`
+- [[Tom Dorresteijn]] `Strategy Director`
+- [[Wouter Dirks]] `Operations Director`
+- [[Xue Jing Lim]] `Project Manager`
+- [[Carolien van Hooijdonk]] `Project Manager`
+- [[Cosette Legebeke]] `Project Manager`
+- [[Josephine van Kranendonk]] `Project Manager`
+- [[Sander Sturing]] `Creative Coder`
+- [[Diogo Viegas]] `Creative Coder`
+- [[Finn Streuper]] `Sound Designer`
+- [[Roeland van Rijnberk]] `Sound Designer`
+- [[Jasper Scholma]] `Sound Designer`
+- [[Frank Post]] `Sound Designer`
+- [[Jim Olijkan]] `Motion Designer`
+- [[Francesco Scarfone]] `Motion Designer`
+- [[Magnus Schulz]] `Motion Designer`
+- [[Elvin van Dalen]] `Motion Designer`
+- [[Cyrus Cumming]] `Motion Designer`
+- [[Taja Regent Veras]] `Motion Designer`
+- [[Cas Thorsen]] `Motion Designer`
+- [[Daniel Neves]] `Motion Designer`
+- [[Débora Linhares]] `Motion Designer`
+- [[Eleonora Bonorva]] `Motion Designer`
+- [[Vincent van Lieshout]] `Motion Designer`
+- [[Jan Kuijken]] `Motion Designer`
+- [[Valentin Baumann]] `Designer`
+- [[Christopher Noort]] `Designer`
+- [[Sóldís Finnbogadóttir]] `Designer`
+- [[Lara Bruggeman]] `Designer`
+- [[Erik de Vlaam]] `Designer`
+- [[Merijn van Velsen]] `Designer`
+- [[Stan Haanappel]] `Designer`
+- [[Bart Vollebregt]] `Designer`
+- [[Adam Pusztai]] `Designer`
+- [[Leonardo Landoni]] `Designer`

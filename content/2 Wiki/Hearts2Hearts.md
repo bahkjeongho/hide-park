@@ -1,6 +1,11 @@
 ---
 topic:
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/hearts2hearts/
+URL:
+  - https://www.youtube.com/@hearts2hearts.official
+  - https://x.com/Hearts2Hearts
 ---
 > [!Summary]
 

@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/artandcommerce/
 Website: https://artandcommerce.com/
 ---
 >[!tldr] tl;dr

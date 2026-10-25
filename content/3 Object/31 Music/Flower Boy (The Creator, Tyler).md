@@ -1,8 +1,7 @@
 ---
 title: Flower Boy
 artist:
-  - "[[The Creator]]"
-  - "[[Tyler]]"
+  - "[[Tyler, the Creator]]"
 year: 2017
 ---
 ---

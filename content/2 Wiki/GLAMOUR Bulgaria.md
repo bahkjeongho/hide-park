@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/glamourbulgaria/
 Website:
   - https://glamour.bg/
 ---

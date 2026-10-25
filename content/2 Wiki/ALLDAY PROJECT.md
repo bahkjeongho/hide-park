@@ -2,6 +2,11 @@
 topic:
   - "[[K-Pop Idol]]"
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/allday_project/
+URL:
+  - https://www.youtube.com/@ALLDAY_PROJECT
+  - https://x.com/ALLDAY_PROJECT
 Related:
   - "[[THE BLACK LABEL]]"
 ---

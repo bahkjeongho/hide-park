@@ -1,7 +1,7 @@
 ---
 title: '"Awaken, My Love!"'
 artist:
-  - "[[Childish Gambino]]"
+  - "[[Donald Glover|Childish Gambino]]"
 year: 2016
 ---
 ---

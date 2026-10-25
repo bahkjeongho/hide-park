@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/tatlermagazine/
 Website:
   - https://www.tatler.com/
 ---

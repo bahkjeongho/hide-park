@@ -1,0 +1,22 @@
+---
+aliases:
+  - 김희선
+---
+>[!tldr] tl;dr
+>[[Studio fnt]]의 공동 대표이자 크리에이티브 디렉터
+
+> [!Info]
+> 김희선은 카이스트(KAIST)에서 산업디자인을 공부했습니다. 2001년부터 기업 브랜딩과 커뮤니케이션 부문에서 다양한 프로젝트 경험을 쌓았습니다. 2011년 스튜디오 fnt에 크리에이티브 디렉터로 합류하여 프로젝트의 디자인 전략을 수립하고 구체화하는 역할을 맡고 있습니다. 대한민국 관광 공모전, 한국전통문화대학교 상품 개발 프로젝트, 한국공예·디자인문화진흥원 전통 문화유산 활용 브랜드 공모, 국립중앙박물관 공모상품 등에 자문 및 심사위원으로 참여하고 있습니다.
+>
+> After studying industrial design at KAIST, Heesun Kim has conducted various local and international projects since 2001, spanning corporate branding, promotion, and events. Since 2011, she has worked as creative director at Studio fnt, directing design strategies and leading key projects. She has served as an advisor and judge for numerous public and cultural initiatives, including the Korea Tourism Competition, the Korea National University of Cultural Heritage Product Development Project, the KCDF Traditional Cultural Heritage Brand Competition, and the National Museum of Korea Product Competition.
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# People

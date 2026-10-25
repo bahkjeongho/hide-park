@@ -2,6 +2,8 @@
 topic:
   - "[[Branding Agency]]"
   - "[[Consulting Agency]]"
+IG:
+  - https://www.instagram.com/orkr_official/
 Website: https://www.o-r-k-r.kr/
 Cities:
   - "[[Seoul]]"
@@ -9,7 +11,7 @@ Countries:
   - "[[South Korea]]"
 ---
 >[!tldr] tl;dr
->
+>2020년 서울에서 시작한 브랜드 컨설팅 에이전시
 
 > [!Info]
 > Orkr은 2020년 서울에서 시작된 브랜드 컨설팅 에이전시 입니다.  
@@ -47,8 +49,10 @@ Orkr은 이러한 관점에서 다양한 아이디어와 전문적인 역량을 
 
 # People
 
-Creative director and Co-Founder  
-Haam Younghoon, Cho Eunjoo  
-  
-Strategy and Brand design  
-Jo Heungju, Kang Subin, Nam Kyoungji, Yoon Seoyoung, Jin Hansol
+- [[Haam Younghoon]] `Creative Director and Co-Founder`
+- [[Cho Eunjoo]] `Creative Director and Co-Founder`
+- [[Jo Heungju]] `Strategy and Brand Design`
+- [[Kang Subin]] `Strategy and Brand Design`
+- [[Nam Kyoungji]] `Strategy and Brand Design`
+- [[Yoon Seoyoung]] `Strategy and Brand Design`
+- [[Jin Hansol]] `Strategy and Brand Design`

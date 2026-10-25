@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/allurephilippines/
 Website:
   - https://allure.ph/
 ---

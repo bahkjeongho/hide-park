@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/voguefrance/
 Website:
   - https://www.vogue.fr/
 ---

@@ -1,6 +1,11 @@
 ---
 topic:
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/nctwish_official/
+URL:
+  - https://www.youtube.com/@NCTWISH
+  - https://x.com/nctwishofficial
 ---
 > [!Summary]
 

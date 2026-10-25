@@ -2,6 +2,11 @@
 topic:
   - "[[K-Pop Idol]]"
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/wayvofficial/
+URL:
+  - https://www.youtube.com/@WayV
+  - https://x.com/WayV_official
 Related:
   - "[[SM ENTERTAINMENT|SM ENT.]]"
   - "[[NCT]]"

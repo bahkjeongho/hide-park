@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/epicurious/
 Website:
   - https://www.epicurious.com/
 ---

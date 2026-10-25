@@ -10,6 +10,9 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+
+<img src="https://studio-d-d.com/assets/meta.jpg" alt="Double D Studio logo" width="140">
+
 >[!tldr] tl;dr
 >2012년 설립된 서울의 브랜드 디자인 그룹(Double D, Nupip)
 

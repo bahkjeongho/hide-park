@@ -2,6 +2,11 @@
 topic:
   - "[[K-Pop Idol]]"
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/nct/
+URL:
+  - https://www.youtube.com/@NCTsmtown
+  - https://x.com/NCTsmtown
 Related:
   - "[[SM ENTERTAINMENT|SM Ent.]]"
   - "[[NCT U]]"

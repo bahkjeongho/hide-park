@@ -8,6 +8,12 @@ topic:
   - "[[Music]]"
 Genre:
   - "[[Alternative R&B]]"
+IG:
+  - https://www.instagram.com/deantrbl/
+URL:
+  - https://www.youtube.com/@deantrbl
+  - https://x.com/deantheofficial
+  - https://soundcloud.com/deantrouble
 Wikis:
   - https://namu.wiki/w/DEAN%28%EA%B0%80%EC%88%98%29
 Cities:

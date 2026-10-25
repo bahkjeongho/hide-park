@@ -1,7 +1,7 @@
 ---
 ---
 >[!tldr] tl;dr
->
+>조직 브랜드 전략으로 알려진 비즈니스 전략가, Brand Federation 창업자
 
 > [!Info]
 > Kelly O’Keefe is a business strategist known for his work in organizational brand strategy.

@@ -1,7 +1,7 @@
 ---
 ---
 >[!tldr] tl;dr
->
+>[[CGH]]의 어소시에이트이자 디자인 디렉터
 
 > [!Info]
 > Mika Owens is an associate and the design director at Chermayeff & Geismar & Haviv, responsible for creative direction, project management and strategy. During her tenure at the firm, she has worked on identity design projects such as Warner Bros., British Virgin Islands, Wolf Entertainment, State Farm, Animal Planet, Pew Research Center, Apollo Global Management, Dominion Energy, America250, and many more. Together with partners Tom Geismar and Sagi Haviv, she co-teaches a class on identity design at the School of Visual Arts in New York City.

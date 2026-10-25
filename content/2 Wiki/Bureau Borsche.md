@@ -12,6 +12,9 @@ tags:
 Related:
   - "[[Mirko Borsche]]"
 ---
+
+<img src="https://bureauborsche.com/media/pages/projects/athens-kallithea-fc/visual-identity/50ccb796ce-1711098926/bureau-borsche-branding-4-76x.jpg" alt="Bureau Borsche logo" width="96">
+
 >[!tldr] tl;dr
 >뮌헨의 독립 디자인 스튜디오
 

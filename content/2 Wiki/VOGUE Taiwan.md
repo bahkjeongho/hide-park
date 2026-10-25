@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/voguetaiwan/
 Website:
   - https://www.vogue.com.tw/
 ---

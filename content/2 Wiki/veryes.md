@@ -8,6 +8,9 @@ Cities:
 Countries:
   - "[[Germany]]"
 ---
+
+<img src="https://www.veryes.co/apple-icon.png?apple-icon.2gsbfp7q59363.png" alt="veryes logo" width="96">
+
 >[!tldr] tl;dr
 >2024년 결성된 베를린의 크리에이티브 스튜디오
 

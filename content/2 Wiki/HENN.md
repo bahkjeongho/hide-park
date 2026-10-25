@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/hennarchitecture/
 Website: https://www.henn.com/en
 ---
 >[!tldr] tl;dr

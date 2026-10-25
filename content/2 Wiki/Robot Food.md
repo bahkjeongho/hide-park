@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/robotfoodcreative/
 Website: https://www.robot-food.com/
 ---
 >[!tldr] tl;dr

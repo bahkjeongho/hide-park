@@ -4,6 +4,11 @@ topic:
   - "[[Music]]"
 Genre:
   - "[[K-Pop]]"
+IG:
+  - https://www.instagram.com/aespa_official/
+URL:
+  - https://www.youtube.com/@aespa
+  - https://x.com/aespa_official
 Related:
   - "[[SM ENTERTAINMENT|SM Ent.]]"
 ---

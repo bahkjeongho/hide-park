@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/larkcreative/
 Website: https://www.larkcreative.tv/
 ---
 >[!tldr] tl;dr

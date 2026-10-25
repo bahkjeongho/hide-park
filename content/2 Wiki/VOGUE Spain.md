@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/voguespain/
 Website:
   - https://www.vogue.es/
 ---

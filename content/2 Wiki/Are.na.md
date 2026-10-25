@@ -2,6 +2,8 @@
 topic:
   - "[[Social Network]]"
   - "[[Creative Research]]"
+IG:
+  - https://www.instagram.com/aredotna/
 Website:
   - https://www.are.na/
 Wikis:

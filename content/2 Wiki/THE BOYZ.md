@@ -8,12 +8,12 @@ Genre:
   - "[[K-Pop]]"
 IG:
   - https://www.instagram.com/official_theboyz/
-  - https://www.instagram.com/theboyz_officl/
+  - https://www.instagram.com/THEBOYZ_officl/
 Website:
   - http://theboyz.jp/
 URL:
-  - https://x.com/THEBOYZ_officl
   - https://www.youtube.com/channel/UCkJ1rbOrsyPfBuHNfnLPm-Q
+  - https://x.com/officl_theboyz
   - https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx
 Wikis:
   - https://en.wikipedia.org/wiki/The_Boyz_(South_Korean_band)

@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/ADMEXICO/
 Website:
   - https://www.admagazine.com/
 ---

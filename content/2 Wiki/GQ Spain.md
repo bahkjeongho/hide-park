@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/gqspain/
 Website:
   - https://www.revistagq.com/
 ---

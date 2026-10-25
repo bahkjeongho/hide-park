@@ -1,7 +1,9 @@
 ---
+Wikis:
+  - https://en.wikipedia.org/wiki/Sagi_Haviv
 ---
 >[!tldr] tl;dr
->
+>[[CGH]]의 파트너 디자이너
 
 > [!Info]
 > Sagi Haviv is a partner and designer at Chermayeff & Geismar & Haviv. He has designed over 60 identity programs, including those for the US Open Tennis Championships, Conservation International, Harvard University Press, Discovery+, L.A. Reid’s Hitco Entertainment, and the U.S. Olympic & Paralympic Museum.
@@ -11,6 +13,12 @@ A go-to expert on the process of effective logo design, Sagi contributes regular
 Sagi joined the firm in 2003 after graduating from The Cooper Union School of Art. He is coauthor of _Identify: Basic Principles of Identity Design in the Iconic Trademarks of Chermayeff & Geismar_ (Print Publishers, 2011) and _Identity: Chermayeff & Geismar & Haviv_ (Standards Manual, May, 2018). He teaches Visual Identity Design at the School of Visual Arts in New York City.
 
 > [!Summary]
+> |   |   |
+> |---|---|
+> |Born|1974<br>Kibbutz Nachshonim, Israel|
+> |Education|The Cooper Union|
+> |Occupation|Partner at Chermayeff & Geismar & Haviv|
+> |Known for|Graphic designer|
 
 ---
 

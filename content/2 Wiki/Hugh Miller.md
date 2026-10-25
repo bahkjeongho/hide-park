@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/neue_miller/
 Website:
   - https://www.pentagram.com/about/hugh-miller
 ---

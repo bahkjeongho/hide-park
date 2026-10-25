@@ -3,6 +3,8 @@ topic:
   - "[[Creative Studio]]"
   - "[[Design Studio]]"
   - "[[Typography]]"
+IG:
+  - https://www.instagram.com/apracticeforeverydaylife/
 Website: https://apracticeforeverydaylife.com/
 URL:
   - https://www.linkedin.com/company/a-practice-for-everyday-life/

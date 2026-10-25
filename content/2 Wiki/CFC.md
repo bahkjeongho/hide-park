@@ -1,8 +1,17 @@
 ---
+IG:
+  - https://www.instagram.com/charryjeon/
 Website: https://contentformcontext.com/
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
 ---
+
+<img src="https://cdn.myportfolio.com/76581287-86db-44ce-b522-e5db83ade7fb/e5849e94-dc85-4bf6-91b7-a9a1af2ffbcf_carw_1x1x32.jpg?h=483df214ff1d9e394ccc0aa12b7ccf04" alt="CFC logo" width="48">
+
 >[!tldr] tl;dr
->
+>2013년 서울에서 시작한 브랜드 경험 디자인 스튜디오
 
 > [!Info]
 > CFC is Seoul-based design studio founded by Charry Jeon in 2013. We focus on building effective brand experiences. Our philosophy is simple. "After understanding the given contents, we transform them into a relevant form of the right context"
@@ -40,3 +49,5 @@ Website: https://contentformcontext.com/
 ---
 
 # People
+
+- [[전채리]] `CEO`

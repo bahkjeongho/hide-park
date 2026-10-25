@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/thirstcraft/
 Website: https://thirstcraft.com/
 ---
 >[!tldr] tl;dr

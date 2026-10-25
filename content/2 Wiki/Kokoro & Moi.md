@@ -13,6 +13,9 @@ Cities:
 Countries:
   - "[[Finland]]"
 ---
+
+<img src="http://www.kokoromoi.com/wp-content/uploads/2017/09/cropped-KM-favicon-192x192.png" alt="Kokoro & Moi logo" width="96">
+
 >[!tldr] tl;dr
 >Antti Hinkula가 창립한 브랜드 아이덴티티 중심의 크리에이티브 에이전시
 

@@ -2,6 +2,11 @@
 topic:
   - "[[K-Pop Idol]]"
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/le_sserafim/
+URL:
+  - https://www.youtube.com/channel/UCs-QBT4qkj_YiQw1ZntDO3g
+  - https://x.com/le_sserafim
 Related:
   - "[[HYBE]]"
 ---

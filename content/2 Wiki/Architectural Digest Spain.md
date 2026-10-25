@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/AD_Spain/
 Website:
   - https://www.revistaad.es/
 ---

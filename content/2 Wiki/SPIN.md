@@ -1,10 +1,19 @@
 ---
 topic:
   - "[[Design Studio]]"
+IG:
+  - https://www.instagram.com/spin_studio
 Website: https://spin.co.uk/
+Cities:
+  - "[[London]]"
+Countries:
+  - "[[UK]]"
 ---
+
+<img src="https://cdn.sanity.io/images/326oz3lk/production/23400c8f00e34fba68405dec7b3c41ff28ad3720-1920x1080.jpg?w=1600&h=900&fit=max&auto=format" alt="SPIN logo" width="120">
+
 >[!tldr] tl;dr
->
+>런던의 디자인 스튜디오
 
 > [!Info]
 > We believe that design is, at heart, a social activity that requires collective effort.  
@@ -32,3 +41,7 @@ We also have a network of trusted collaborators—programmers, animators and typ
 ---
 
 # People
+
+- [[Tony Brook]] `Creative Director`
+- [[Patricia Finegan]] `Managing Director`
+- [[Evie Brook]] `Design Director`

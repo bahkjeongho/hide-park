@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/gqmexico/
 Website:
   - https://www.gq.com.mx/
 ---

@@ -9,7 +9,7 @@ Wikis:
   - https://en.wikipedia.org/wiki/Boris_Groys
 ---
 >[!tldr] tl;dr
->
+>예술 비평가·미디어 이론가·철학자
 
 > [!Info]
 > Boris Groys is an art critic, media theorist and philosopher. He is currently Global Distinguished Professor of Russian and Slavic Studies at New York University, USA, and Senior Research Fellow at the Karlsruhe University of Arts and Design, Germany.
@@ -23,4 +23,3 @@ Wikis:
 |Region|Western Philosophy|
 |[School](https://en.wikipedia.org/wiki/List_of_schools_of_philosophy "List of schools of philosophy")|[Continental](https://en.wikipedia.org/wiki/Continental_philosophy "Continental philosophy")|
 |Main interests|[Political philosophy](https://en.wikipedia.org/wiki/Political_philosophy "Political philosophy"), [religion](https://en.wikipedia.org/wiki/Religion "Religion"), [ethics](https://en.wikipedia.org/wiki/Ethics "Ethics"), [art theory](https://en.wikipedia.org/wiki/Art_theory "Art theory")|
-

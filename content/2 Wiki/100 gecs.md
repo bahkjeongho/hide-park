@@ -5,6 +5,11 @@ Genre:
   - "[[Hyperpop]]"
   - "[[Experimental Pop]]"
   - "[[Electropop]]"
+IG:
+  - https://www.instagram.com/100gecs/
+URL:
+  - https://www.youtube.com/channel/UCVdlcqbM4oh0xJIQAxiaV5Q
+  - https://x.com/100gecs
 Wikis:
   - https://en.wikipedia.org/wiki/100_gecs
   - https://namu.wiki/w/100%20gecs

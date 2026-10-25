@@ -2,14 +2,21 @@
 topic:
   - "[[Branding Agency]]"
   - "[[Design Agency]]"
+IG:
+  - https://www.instagram.com/sthlmdesignlab/
 Website: https://www.stockholmdesignlab.se/
+URL:
+  - https://www.linkedin.com/company/stockholm-design-lab/
 Cities:
   - "[[Stockholm]]"
 Countries:
   - "[[Sweden]]"
 ---
+
+<img src="https://www.stockholmdesignlab.se/apple-touch-icon.png" alt="Stockholm Design Lab logo" width="96">
+
 >[!tldr] tl;dr
->
+>1998년에 시작한 스톡홀름의 독립 브랜딩·디자인 에이전시
 
 > [!Info]
 > Stockholm Design Lab is an independent branding and design agency with international renown. Since 1998, we have transformed brands and businesses with simple, remarkable ideas. Rooted in Scandinavian philosophy, we blend strategy and design to position, future-proof, and elevate brands for long-term growth, cultural relevance, and lasting recognition.
@@ -39,3 +46,5 @@ With a diverse portfolio ranging from airplanes, electric cars, pharmacies, spo
 ---
 
 # People
+
+- [[Anneli Myrin-Holloway]] `COO/Client Director`

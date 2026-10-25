@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/vanityfairspain/
 Website:
   - https://www.revistavanityfair.es/
 ---

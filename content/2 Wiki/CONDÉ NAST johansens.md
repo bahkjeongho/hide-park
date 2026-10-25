@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/condenastjohansens/
 Website:
   - https://www.johansens.com/
 ---

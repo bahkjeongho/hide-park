@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/voguebrasil/
 Website:
   - https://vogue.globo.com/
 ---

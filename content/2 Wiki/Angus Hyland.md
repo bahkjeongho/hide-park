@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/angushyland/
 Website:
   - https://www.pentagram.com/about/angus-hyland
 ---

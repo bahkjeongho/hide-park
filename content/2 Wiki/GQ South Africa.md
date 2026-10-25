@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/gqsouthafrica/
 Website:
   - https://gq.co.za/
 ---

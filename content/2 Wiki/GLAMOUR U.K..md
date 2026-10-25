@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/glamouruk/
 Website:
   - https://www.glamourmagazine.co.uk/
 ---

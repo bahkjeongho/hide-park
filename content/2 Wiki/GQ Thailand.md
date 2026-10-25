@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/gqthailand/
 Website:
   - https://gqthailand.com/
 ---

@@ -1,6 +1,8 @@
 ---
 topic:
   - "[[Design Studio]]"
+IG:
+  - https://www.instagram.com/pentagramdesign/
 Website: https://www.pentagram.com/
 ---
 >[!tldr] tl;dr

@@ -12,8 +12,8 @@ IG:
 Website:
   - https://superjunior-jp.net/
 URL:
+  - https://www.youtube.com/@SUPERJUNIOR
   - https://x.com/SJofficial
-  - https://www.youtube.com/channel/UCFipx49muiJ8-d2YsnLlNVw
   - https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV
 Wikis:
   - https://en.wikipedia.org/wiki/Super_Junior

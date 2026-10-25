@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/oma.eu/
 Website: https://www.oma.com/
 ---
 >[!tldr] tl;dr

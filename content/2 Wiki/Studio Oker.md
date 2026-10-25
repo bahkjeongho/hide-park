@@ -1,12 +1,17 @@
 ---
+IG:
+  - https://www.instagram.com/studio.oker/
 Website: https://oker.com/
+URL:
+  - https://www.facebook.com/studio.oker
+  - https://www.linkedin.com/company/studio-oker/
 Cities:
   - "[[Oslo]]"
 Countries:
   - "[[Norway]]"
 ---
 >[!tldr] tl;dr
->
+>2018년 설립한 노르웨이의 브랜드·디자인 스튜디오
 
 > [!Info]
 > Studio Oker is a design studio based in Norway. We work with emerging and established companies to deliver compelling brand experiences. Our approach is as strategic as it is visually driven.

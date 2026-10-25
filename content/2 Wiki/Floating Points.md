@@ -12,8 +12,8 @@ IG:
 Website:
   - https://floatingpoints.co.uk/
 URL:
-  - https://x.com/floatingpoints
   - https://www.youtube.com/channel/UC5NbPNPbdLwAPPwWTJw0EbQ
+  - https://x.com/floatingpoints
   - https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L
 Wikis:
   - https://en.wikipedia.org/wiki/Floating_Points

@@ -2,6 +2,11 @@
 topic:
   - "[[K-Pop Idol]]"
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/nct_dream/
+URL:
+  - https://www.youtube.com/@NCTDREAM
+  - https://x.com/NCTsmtown_DREAM
 Related:
   - "[[SM ENTERTAINMENT|SM ENT.]]"
   - "[[NCT]]"

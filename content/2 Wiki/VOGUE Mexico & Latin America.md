@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/voguelatam/
 Website:
   - https://www.vogue.mx/
 ---

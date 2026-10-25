@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/vogueportugal/
 Website:
   - https://www.vogue.pt/
 ---

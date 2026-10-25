@@ -1,8 +1,12 @@
 ---
 topic:
   - "[[Creative Company]]"
+IG:
+  - https://www.instagram.com/studiokoto/
 Website:
   - https://koto.com/
+URL:
+  - https://www.linkedin.com/company/koto
 Related:
   - "[[OFF Brand]]"
 Cities:

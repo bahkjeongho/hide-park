@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/nlvogue/
 Website:
   - https://www.vogue.nl/
 ---

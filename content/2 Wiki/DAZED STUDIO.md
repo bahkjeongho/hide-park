@@ -20,6 +20,9 @@ Countries:
 Related:
   - "[[DAZED]]"
 ---
+
+<img src="https://dazed.studio/assets/favicons/apple-touch-icon-152x152.png" alt="DAZED STUDIO logo" width="96">
+
 >[!tldr] tl;dr
 >Dazed Group 소속의 문화 컨설팅·스토리텔링 기반 크리에이티브 에이전시
 

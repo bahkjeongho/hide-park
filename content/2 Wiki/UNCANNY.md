@@ -6,8 +6,11 @@ Related:
   - "[[Elliott Elder]]"
   - "[[George Muncey]]"
 ---
+
+<img src="https://cdn.sanity.io/images/2zjl80yp/production/5c494e74cab6fab68b871e9176a67e9301ae4b05-1024x1024.jpg?w=1200&h=1200&fit=crop&crop=entropy&auto=format" alt="UNCANNY logo" width="96">
+
 >[!tldr] tl;dr
->
+>George Muncey와 Elliott Elder의 스튜디오 프랙티스(크리에이티브·영상·사진·디자인)
 
 > [!Info]
 > UNCANNY is the studio practice of [George Muncey](https://www.georgemuncey.com/) and [Elliott Elder](https://elliottelder.co.uk/), working primarily in the fields of Creative, Video, Photography and Design.

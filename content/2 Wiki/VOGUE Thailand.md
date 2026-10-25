@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/voguethailand/
 Website:
   - https://vogue.co.th/
 ---

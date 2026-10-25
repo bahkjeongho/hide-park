@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/voguemagazine/
 Website:
   - https://www.vogue.com/
 ---

@@ -1,10 +1,24 @@
 ---
 topic:
   - "[[Design Company]]"
+IG:
+  - https://www.instagram.com/motherdesign/
 Website: https://www.motherdesign.com/
+URL:
+  - https://www.linkedin.com/company/mother-design
+Cities:
+  - "[[London]]"
+  - "[[New York]]"
+  - "[[Los Angeles]]"
+Countries:
+  - "[[UK]]"
+  - "[[USA]]"
 ---
+
+<img src="https://cdn.sanity.io/images/a7img0jk/production/1776b4d7386e5682075ee2b4eba58a80cdcb5278-200x200.png" alt="Mother Design logo" width="96">
+
 >[!tldr] tl;dr
->
+>런던·뉴욕·로스앤젤레스에 거점을 둔 독립 브랜드·디자인 컴퍼니
 
 > [!Info]
 > Mother Design is an independent brand and design company made up of strategists, designers, writers, and thinkers who love an opportunity to solve creative problems and eat lunch together. 

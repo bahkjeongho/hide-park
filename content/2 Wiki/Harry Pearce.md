@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/harrywpearce/
 Website:
   - https://www.pentagram.com/about/harry-pearce
 ---

@@ -5,6 +5,8 @@ topic:
   - "[[Music]]"
 Genre:
   - "[[Hip Hop]]"
+IG:
+  - https://www.instagram.com/omegasapien/
 Wikis:
   - https://namu.wiki/w/Omega%20Sapien
 Cities:

@@ -10,6 +10,9 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+
+<img src="https://freight.cargo.site/t/original/i/C1574638266723114628262996850754/pavicon-hana-02-01.ico" alt="NA1 logo" width="96">
+
 >[!tldr] tl;dr
 >서울 기반의 브랜딩 중심 크리에이티브 그룹
 

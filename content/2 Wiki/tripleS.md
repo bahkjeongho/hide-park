@@ -2,6 +2,11 @@
 topic:
   - "[[K-Pop Idol]]"
   - "[[Music]]"
+IG:
+  - https://www.instagram.com/triplescosmos/
+URL:
+  - https://www.youtube.com/@triplescosmos
+  - https://x.com/triplescosmos
 Related:
   - "[[MODHAUS]]"
 ---

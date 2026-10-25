@@ -1,7 +1,7 @@
 ---
 title: 사랑의 이영표 (Leeyoungpyo of Love)
 artist:
-  - "[[Johann Electric Bach]]"
+  - "[[J.E.B]]"
 year: 2017
 ---
 ---

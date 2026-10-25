@@ -1,4 +1,6 @@
 ---
+IG:
+  - https://www.instagram.com/gqhongkong/
 Website:
   - https://gqhongkong.com/
 ---
