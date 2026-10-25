@@ -7,13 +7,14 @@ IG:
 Website: https://gretelny.com/
 URL:
   - https://www.linkedin.com/company/gretelny/
+  - https://vimeo.com/gretel
 Cities:
   - "[[New York]]"
 Countries:
   - "[[USA]]"
 ---
 >[!tldr] tl;dr
->
+>브루클린의 독립 브랜딩·전략·디자인 스튜디오
 
 > [!Info]
 > ## Gretel is an independent branding, strategy and design studio based in Brooklyn, NY.
@@ -41,18 +42,20 @@ Countries:
 
 # People
 
-- Izzy Antonelli `People & Culture Manager
-- Yu Gao `Junior Designer
-- Noah Goldberg `Strategist
-- Andy Keating `Design Director
-- Yeni Kim `Designer
-- Haley Klatzkin `Head of Project Operations
-- Nomi Kuntz `Associate Studio Manager
-- Jake Lee `Senior New Business Manager
-- Larisa Martin `Associate Motion Designer
-- Kaycie Matsukado `Project Manager
-- Ryan Moore `Executive Creative Director
-- Dylan Mulvaney `Head of Design`
-- Lily Nguyen `Senior IT and Studio Operations Manager`
-- Ruairi Walsh `Designer
-- Georgia Watt `Senior Strategist
+## Our Team
+
+- [[Izzy Antonelli]] `People & Culture Manager`
+- [[Yu Gao]] `Junior Designer`
+- [[Noah Goldberg]] `Strategist`
+- [[Andy Keating]] `Design Director`
+- [[Yeni Kim]] `Designer`
+- [[Haley Klatzkin]] `Head of Project Operations`
+- [[Nomi Kuntz]] `Associate Studio Manager`
+- [[Jake Lee]] `Senior New Business Manager`
+- [[Larisa Martin]] `Associate Motion Designer`
+- [[Kaycie Matsukado]] `Project Manager`
+- [[Ryan Moore]] `Executive Creative Director`
+- [[Dylan Mulvaney]] `Head of Design`
+- [[Lily Nguyen]] `Senior IT and Studio Operations Manager`
+- [[Ruairi Walsh]] `Designer`
+- [[Georgia Watt]] `Senior Strategist`

@@ -3,6 +3,11 @@ topic:
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/leonardo_angelucci/
+Website: https://www.unstated.co/
+Cities:
+  - "[[Zurich]]"
+Countries:
+  - "[[Switzerland]]"
 ---
 >[!tldr] tl;dr
 > `Part` of [[Unstated International]]
@@ -12,3 +17,11 @@ IG:
 
 > [!Summary]
 
+---
+
+# Portfolio
+
+
+---
+
+# People

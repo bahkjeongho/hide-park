@@ -3,12 +3,24 @@ topic:
   - "[[Instruments Company]]"
 IG:
   - https://www.instagram.com/telepathic.instruments/
+Website: https://telepathicinstruments.com/
+URL:
+  - https://www.youtube.com/@telepathic.instruments
+  - https://www.tiktok.com/@telepathic.instruments
 ---
 >[!tldr] tl;dr
->
+>Telepathic LLC가 운영하는 악기 브랜드
 
 > [!Info]
 > 
 
 > [!Summary]
 
+---
+
+# Portfolio
+
+
+---
+
+# People

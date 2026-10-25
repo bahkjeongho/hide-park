@@ -11,7 +11,7 @@ URL:
   - https://www.are.na/new-co/channels
 ---
 >[!tldr] tl;dr
->
+>2018년 설립된 디자인·마케팅 에이전시
 
 > [!Info]
 > NewCo is a Design and Marketing agency working with brands around the world to create forward-thinking creative solutions.
@@ -20,3 +20,14 @@ Established in 2018 by Matt Luckhurst (ECD) and Seth Mroczka (President), The 
 
 > [!Summary]
 
+---
+
+# Portfolio
+
+
+---
+
+# People
+
+- [[Matt Luckhurst]] `ECD`
+- [[Seth Mroczka]] `President`

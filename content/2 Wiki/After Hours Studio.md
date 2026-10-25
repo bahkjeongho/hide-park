@@ -1,4 +1,6 @@
 ---
+aliases:
+  - After Hours
 topic:
   - "[[Creative Studio]]"
   - "[[Design Studio]]"
@@ -6,9 +8,15 @@ IG:
   - https://www.instagram.com/weare.afterhours/
 Website:
   - https://afterhours.studio/
+URL:
+  - https://www.linkedin.com/company/after-hours-studio
+Cities:
+  - "[[New York]]"
+Countries:
+  - "[[USA]]"
 ---
 >[!tldr] tl;dr
->
+>뉴욕의 크리에이티브 디렉션·디자인 오피스, Shy Trutwein과 Jasmine Gallagher가 이끎
 
 > [!Info]
 >   
@@ -24,3 +32,16 @@ After Hours is open for business worldwide. Will travel (first class only). Plea
 
 > [!Summary]
 
+---
+
+# Portfolio
+
+
+---
+
+# People
+
+## At the Helm
+
+- [[Jasmine Gallagher]] `Director, Strategy`
+- [[Shy Trutwein]] `Director, Design`

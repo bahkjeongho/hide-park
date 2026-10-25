@@ -5,13 +5,15 @@ topic:
 IG:
   - https://www.instagram.com/forthandbackstudio/
 Website: https://forthandback.la/
+URL:
+  - https://twitter.com/forthandback_la
 Cities:
   - "[[Los Angeles]]"
 Countries:
   - "[[USA]]"
 ---
 >[!tldr] tl;dr
->
+>로스앤젤레스의 브랜딩·크리에이티브 디렉션 디자인 스튜디오
 
 > [!Info]
 > Forth+Back is a design studio specializing in branding and creative direction. We help cultural and commercial brands define their identity, craft campaigns, and design experiences across print, digital, and motion.
@@ -41,3 +43,6 @@ Forth+Back was founded by Nikolos Killian and Tanner Woodbury.
 ---
 
 # People
+
+- [[Nikolos Killian]] `Founder`
+- [[Tanner Woodbury]] `Founder`

@@ -1,0 +1,62 @@
+---
+aliases:
+  - 에프엑스
+  - F(x)
+topic:
+  - "[[Music]]"
+Genre:
+  - "[[K-Pop]]"
+  - "[[Electropop]]"
+IG:
+  - https://www.instagram.com/fx_4walls/
+URL:
+  - https://www.youtube.com/channel/UC6qbHF5Aql0EbXn52P7ofXA
+  - https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF
+Wikis:
+  - https://en.wikipedia.org/wiki/F(x)_(group)
+  - https://namu.wiki/w/f%28x%29
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
+---
+>[!tldr] tl;dr
+>`Girl Group` based in [[Seoul]]
+
+> [!Info]
+> 
+
+> [!Summary]
+> |   |   |
+> |---|---|
+> |데뷔일|2009년 9월 5일|
+> |데뷔 음반|디지털 싱글 라차타 (LA chA TA)|
+> |장르|일렉트로니카, K-POP, 댄스, 하우스, 트랩, 신스팝, 일렉트로팝|
+> |리더|빅토리아|
+> |소속사|SM엔터테인먼트 (2009. 09. 05. ~ 2019.)|
+> |유통사|카카오엔터테인먼트<br>에이벡스엔터테인먼트|
+> |팬덤|me(you) (미유)|
+
+---
+
+# Discography
+
+## Studio Album
+
+* [[피노키오 (f(x))|피노키오]] [1st Studio Album] (2011.04.20)
+* [[Hot Summer (f(x))|Hot Summer]] [1st Studio Album Repackage] (2011.06.14)
+* [[Pink Tape (f(x))|Pink Tape]] [2nd Studio Album] (2013.07.29)
+* [[Red Light (f(x))|Red Light]] [3rd Studio Album] (2014.07.07)
+* [[4 Walls (f(x))|4 Walls]] [4th Studio Album] (2015.10.27)
+
+## EP
+
+* [[NU ABO (f(x))|NU ABO]] [1st EP] (2010.05.04)
+* [[Electric Shock (f(x))|Electric Shock]] [2nd EP] (2012.06.10)
+
+## Single
+
+* [[라차타 (LA chA TA) (f(x))|라차타 (LA chA TA)]] [Digital Single] (2009.09.01)
+* [[Chu~♡ (f(x))|Chu~♡]] [1st Single] (2009.11.04)
+* [[SUMMER SPECIAL (f(x))|SUMMER SPECIAL]] [1st Japanese Single] (2015.07.22)
+* [[4 Walls  COWBOY (f(x))|4 Walls / COWBOY]] [2nd Japanese Single] (2016.11.02)

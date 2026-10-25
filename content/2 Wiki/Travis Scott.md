@@ -2,6 +2,7 @@
 topic:
   - "[[Artist]]"
   - "[[Rapper]]"
+  - "[[Music]]"
 IG:
   - https://www.instagram.com/travisscott/
 ---

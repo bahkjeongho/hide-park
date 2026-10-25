@@ -1,7 +1,7 @@
 ---
 title: "201"
 artist:
-  - "[[검정치마 (The Black Skirts)]]"
+  - "[[검정치마]]"
 year: 2008
 ---
 ---

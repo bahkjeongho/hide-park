@@ -1,7 +1,7 @@
 ---
 title: By the Time I Get to Phoenix
 artist:
-  - "[[Injury Reserve]]"
+  - "[[By Storm|Injury Reserve]]"
 year: 2021
 ---
 ---

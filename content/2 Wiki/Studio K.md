@@ -1,7 +1,12 @@
 ---
 topic:
   - "[[Design Studio]]"
+IG:
+  - https://www.instagram.com/studiokdotco/
 Website: https://studiok.co/
+URL:
+  - https://www.linkedin.com/company/studiokdotco
+  - https://www.linkedin.com/company/studiokdesign
 Cities:
   - "[[New York]]"
   - "[[Dublin]]"
@@ -10,7 +15,7 @@ Countries:
   - "[[Ireland]]"
 ---
 >[!tldr] tl;dr
->
+>뉴욕과 더블린에 기반한 독립 디자인 스튜디오
 
 > [!Info]
 > Studio K is an independent design studio based in New York and Dublin, crafting memorable identities and brand systems for a global clientele.
@@ -32,3 +37,5 @@ Countries:
 ---
 
 # People
+
+- [[Stephen Kelleher]] `Creative Director`

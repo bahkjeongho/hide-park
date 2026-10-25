@@ -4,13 +4,15 @@ topic:
 IG:
   - https://www.instagram.com/other_means/
 Website: https://othermeans.us/
+URL:
+  - https://www.instagram.com/other_means_stuff
 Cities:
   - "[[New York]]"
 Countries:
   - "[[USA]]"
 ---
 >[!tldr] tl;dr
->
+>브루클린의 그래픽 디자인 스튜디오, Gary Fogelson·Phil Lubliner·Ryan Waller가 이끎
 
 > [!Info]
 > Other Means is a graphic design studio in Brooklyn, NY, interested in finding the productive tensions that emerge from placing one thing next to an unlikely other: historical precedent and contemporary culture, institutional authority and popular vernacular, rigorous systems and their inevitable exceptions.
@@ -44,3 +46,14 @@ Other Means is led by Gary Fogelson, Phil Lubliner, and Ryan Waller. Current sta
 ---
 
 # People
+
+## Leadership
+
+- [[Gary Fogelson]]
+- [[Phil Lubliner]]
+- [[Ryan Waller]]
+
+## Current Staff
+
+- [[Bella De Angelis]] `Designer`
+- [[Remy Hunter]] `Developer`

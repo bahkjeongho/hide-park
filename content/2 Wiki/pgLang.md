@@ -4,12 +4,16 @@ topic:
 IG:
   - https://www.instagram.com/pglang/
 Website: https://pg-lang.com/
+URL:
+  - https://twitter.com/pgLang
 Related:
   - "[[Kendrick Lamar]]"
   - "[[Dave Free]]"
+Wikis:
+  - https://en.wikipedia.org/wiki/PGLang
 ---
 >[!tldr] tl;dr
->
+>Kendrick Lamar와 Dave Free가 설립한 크리에이티브 컴퍼니
 
 > [!Info]
 > 
@@ -27,3 +31,11 @@ Related:
 |Services|- [Artist management](https://en.wikipedia.org/wiki/Talent_manager "Talent manager")<br>- [music production](https://en.wikipedia.org/wiki/Record_producer "Record producer")<br>- [film production](https://en.wikipedia.org/wiki/Filmmaking "Filmmaking")<br>- advertising<br>- publishing<br>- Project 3|
 |Owners|- Kendrick Lamar<br>- Dave Free|
 
+---
+
+# Portfolio
+
+
+---
+
+# People

@@ -13,7 +13,7 @@ Related:
   - "[[Mirko Borsche]]"
 ---
 >[!tldr] tl;dr
->
+>뮌헨의 독립 디자인 스튜디오
 
 > [!Info]
 > Bureau Borsche is an independent design studio based in Munich, working across editorial design, visual identities, campaigns, digital experiences, and spatial communication.
@@ -30,3 +30,11 @@ Bureau Borsche's work has received numerous international design awards and has 
 
 > [!Summary]
 
+---
+
+# Portfolio
+
+
+---
+
+# People

@@ -6,13 +6,16 @@ IG:
 Website: https://studio-size.com/
 URL:
   - https://www.linkedin.com/company/studiosize/?originalSubdomain=hr
+  - https://www.behance.net/studiosize
+  - https://vimeo.com/studiosizezg
+  - https://www.youtube.com/@studio-size
 Cities:
   - "[[Zagreb]]"
 Countries:
   - "[[Croatia]]"
 ---
 >[!tldr] tl;dr
->
+>2013년 자그레브에서 시작된 브랜딩·모션 디자인 스튜디오
 
 > [!Info]
 > We are a design studio from Zagreb (Croatia). About a decade ago we left our jobs in big companies to dive deep into the creative process and create something that continues to influence
@@ -40,3 +43,14 @@ and inspire future generations.  Its about staying a student, exploring the dep
 ---
 
 # People
+
+- [[Ivan Fistrić]] `Brand Strategist & Partner`
+- [[Andrej Virant-Sadiković]] `Creative Director & Partner`
+- [[Jurica Koletić]] `Art Director & Partner`
+- [[Ivan Radović]] `Motion Designer`
+- [[Jelena Rebrnjak]] `Designer`
+- [[Ivan Topić]] `Account Manager`
+- [[Lucijan Bakula]] `Motion Designer`
+- [[Karla Braovac]] `Designer`
+- [[Hrvoje Kraljević]] `Designer`
+- [[Luka Nera Sibila]] `Designer`

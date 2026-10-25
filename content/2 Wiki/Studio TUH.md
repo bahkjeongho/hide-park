@@ -4,9 +4,13 @@ topic:
 IG:
   - https://www.instagram.com/studiotuh/
 Website: https://studiotuh.com/
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
 ---
 >[!tldr] tl;dr
->
+>서울의 크리에이티브 스튜디오
 
 > [!Info]
 > Creative studio based in Seoul  

@@ -5,9 +5,17 @@ topic:
 IG:
   - https://www.instagram.com/porto_rocha/
 Website: https://portorocha.com/
+URL:
+  - https://www.linkedin.com/company/porto-rocha
+Cities:
+  - "[[New York]]"
+  - "[[London]]"
+Countries:
+  - "[[USA]]"
+  - "[[UK]]"
 ---
 >[!tldr] tl;dr
->
+>뉴욕과 런던에 오피스를 둔 글로벌 전략·디자인 에이전시
 
 > [!Info]
 > PORTO ROCHA is a global strategy and design agency with offices in New York and London.  
@@ -39,48 +47,47 @@ Website: https://portorocha.com/
 
 - [[Felipe Rocha]] `Founder & Creative Director`
 - [[Leo Porto]] `Founder & Creative Director`
-
-- Alessandro De Vecchi `Senior Brand Designer`
-- Annie Carmichael `Producer`
-- Cecilia Höijertz `Senior Engagement Manager`
-- Célia Mahiou `Senior Interactive Designer`
-- Claren Walker `Senior Strategist`
-- Clarisse Svaiter `Senior Project Manager`
-- Clémence Guillemot `Senior Interactive Designer`
-- Elisa Bortolini `Associate Project Management Director`
-- Etienne Murphy `Senior Designer`
-- Gabriela Carnabuci `Design Director`
-- Garrett Herzik `Associate Strategy Director`
-- Hugo Le Corre `Designer`
-- Janneke Geerts `Business Director`
-- Jen Wong Brand `Designer`
-- João Jeveaux `Designer`
-- Joel Huntley `Senior Designer`
-- Joseph Lebus `Design Principal`
-- Josh Krauth-Harding `Senior Motion Designer`
-- Larissa Jennings `Designer`
-- Luciana Thiesen `Director of Operations`
-- Marcos Rodrigues `Interactive Design Director`
-- Martín Azambuja `Associate Design Director`
-- Mònica Losada `Senior Brand Designer`
-- Monique Tadrous `Senior Project Manager`
-- Nabill Parvizi `Motion Designer`
-- Natalee Ranii-Dropcho `Strategy & Copy Director`
-- Natalia Oledzka `Associate Design Director`
-- Natalie Kilic `Associate Account Director`
-- Nathan Fyock `Design Director`
-- Nick Drain `Copywriter`
-- Olivia Chan `Senior Designer`
-- Ondine Vermenot `Senior Interactive Designer`
-- Pablo Nietos `Motion Designer`
-- Pedro Meireis `Interactive Designer`
-- Pedro Veneziano `3D Design Director`
-- Rafael Eifler `Senior 3D Designer`
-- Rose Albanese `Senior Strategist`
-- Samantha Cruz `Senior Project Manager`
-- Surya Anand `Associate Designer`
-- Tamsin Nagel `Associate People & Culture Director`
-- Thales Muniz `Associate Motion Director`
-- Victoria Alba `Project Manager`
-- Vikka Santillan `Studio Coordinator`
+- [[Alessandro De Vecchi]] `Senior Brand Designer`
+- [[Annie Carmichael]] `Producer`
+- [[Cecilia Höijertz]] `Senior Engagement Manager`
+- [[Célia Mahiou]] `Senior Interactive Designer`
+- [[Claren Walker]] `Senior Strategist`
+- [[Clarisse Svaiter]] `Senior Project Manager`
+- [[Clémence Guillemot]] `Senior Interactive Designer`
+- [[Elisa Bortolini]] `Associate Project Management Director`
+- [[Etienne Murphy]] `Senior Designer`
+- [[Gabriela Carnabuci]] `Design Director`
+- [[Garrett Herzik]] `Associate Strategy Director`
+- [[Hugo Le Corre]] `Designer`
+- [[Janneke Geerts]] `Business Director`
+- [[Jen Wong Brand]] `Designer`
+- [[João Jeveaux]] `Designer`
+- [[Joel Huntley]] `Senior Designer`
+- [[Joseph Lebus]] `Design Principal`
+- [[Josh Krauth-Harding]] `Senior Motion Designer`
+- [[Larissa Jennings]] `Designer`
+- [[Luciana Thiesen]] `Director of Operations`
+- [[Marcos Rodrigues]] `Interactive Design Director`
+- [[Martín Azambuja]] `Associate Design Director`
+- [[Mònica Losada]] `Senior Brand Designer`
+- [[Monique Tadrous]] `Senior Project Manager`
+- [[Nabill Parvizi]] `Motion Designer`
+- [[Natalee Ranii-Dropcho]] `Strategy & Copy Director`
+- [[Natalia Oledzka]] `Associate Design Director`
+- [[Natalie Kilic]] `Associate Account Director`
+- [[Nathan Fyock]] `Design Director`
+- [[Nick Drain]] `Copywriter`
+- [[Olivia Chan]] `Senior Designer`
+- [[Ondine Vermenot]] `Senior Interactive Designer`
+- [[Pablo Nietos]] `Motion Designer`
+- [[Pedro Meireis]] `Interactive Designer`
+- [[Pedro Veneziano]] `3D Design Director`
+- [[Rafael Eifler]] `Senior 3D Designer`
+- [[Rose Albanese]] `Senior Strategist`
+- [[Samantha Cruz]] `Senior Project Manager`
+- [[Surya Anand]] `Associate Designer`
+- [[Tamsin Nagel]] `Associate People & Culture Director`
+- [[Thales Muniz]] `Associate Motion Director`
+- [[Victoria Alba]] `Project Manager`
+- [[Vikka Santillan]] `Studio Coordinator`
 - [[Yedo Han]] `Senior Designer`

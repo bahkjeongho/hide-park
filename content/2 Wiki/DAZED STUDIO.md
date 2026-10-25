@@ -8,9 +8,12 @@ IG:
   - https://www.instagram.com/dazedstudio
 Website:
   - https://dazed.studio/
+URL:
+  - https://www.dazedstudioinsights.com/
 Cities:
   - "[[London]]"
   - "[[New York]]"
+  - "[[Los Angeles]]"
 Countries:
   - "[[UK]]"
   - "[[USA]]"
@@ -18,7 +21,7 @@ Related:
   - "[[DAZED]]"
 ---
 >[!tldr] tl;dr
->
+>Dazed Group 소속의 문화 컨설팅·스토리텔링 기반 크리에이티브 에이전시
 
 > [!Info]
 > Dazed Studio, our cultural consultancy and storytelling-led creative agency, translates that authority into brand worlds designed for now and built for what’s next.
@@ -32,3 +35,12 @@ Where traditional ad and communications agencies build one-off moments, we build
 
 
 >  [Website]() 
+
+---
+
+# Portfolio
+
+
+---
+
+# People

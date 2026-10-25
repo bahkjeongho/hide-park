@@ -9,5 +9,5 @@
 ## Artist
 
 - [[BTS]]
-- [[TXT]]
+- [[TOMORROW X TOGETHER]]
 - [[CORTIS]]

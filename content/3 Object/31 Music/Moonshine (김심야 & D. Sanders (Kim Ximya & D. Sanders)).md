@@ -1,7 +1,8 @@
 ---
 title: Moonshine
 artist:
-  - "[[김심야 & D. Sanders (Kim Ximya & D. Sanders)]]"
+  - "[[김심야 (Kim Ximya)]]"
+  - "[[D. Sanders]]"
 year: 2017
 ---
 ---

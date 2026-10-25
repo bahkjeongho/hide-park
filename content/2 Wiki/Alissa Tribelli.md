@@ -1,0 +1,20 @@
+---
+---
+>[!tldr] tl;dr
+>[[Lippincott]]의 운영 총괄 시니어 파트너
+
+> [!Info]
+> Alissa Tribelli는 뉴욕을 기반으로 회사 운영을 이끄는 시니어 파트너다. 재무, 인사 서비스, 인력 배치와 자원 관리, 계약, 시스템 운영, 지식 서비스, 시설 등의 기능을 총괄한다. Lippincott에서 20년 넘게 일하며 운영 리더십과, 회사가 고객에게 어떻게 탁월한 결과물을 내놓는지에 대한 깊은 현장 지식을 함께 갖췄다.
+>
+> Alissa Tribelli is a Senior Partner based in New York who leads firm operations. She oversees functions spanning finance, people services, staffing and resourcing, contracts, systems operations, knowledge services, and facilities. With more than 20 years at Lippincott, she brings operational leadership together with deep, firsthand knowledge of how the firm delivers exceptional work for clients.
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# People

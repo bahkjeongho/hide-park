@@ -31,7 +31,7 @@ Website: https://ordinarypeople.info/
 
 ![](https://images.squarespace-cdn.com/content/v1/5fdcd66b0383b32fb0f59e0e/e16899d5-2c1e-4936-aa8d-e33cf2e41b47/1-fullpackage.jpg?format=2500w)
 
-- [[THE CHAOS CHAPTER: FREEZE(TXT)|THE CHAOS CHAPTER: FREEZE]] by [[TXT]] [Link](https://ordinarypeople.info/work/txt-thechaoschapter-freeze)
+- [[THE CHAOS CHAPTER: FREEZE(TXT)|THE CHAOS CHAPTER: FREEZE]] by [[TOMORROW X TOGETHER]] [Link](https://ordinarypeople.info/work/txt-thechaoschapter-freeze)
 
 ---
 

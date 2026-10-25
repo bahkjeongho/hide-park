@@ -1,0 +1,20 @@
+---
+---
+>[!tldr] tl;dr
+>[[Lippincott]]의 미국 성장·사업개발 총괄 시니어 파트너
+
+> [!Info]
+> David는 Lippincott에서 여러 역할을 맡고 있다. 전략 시니어 파트너이자 미국 성장·사업개발 팀 총괄이며, 회사의 서비스와 지적 자산을 이끄는 역량위원회(Capabilities Council) 의장이다. 뉴욕 오피스에서 일하며 포지셔닝과 메시징, 브랜드 아키텍처와 거버넌스, 브랜드 마케팅 계획, 고객 경험 디자인, 리서치 기획과 실행, 네이밍, 임직원 참여까지 브랜드 전략 전 영역에서 20년 넘는 경력을 쌓았다.
+>
+> David wears many hats at Lippincott: Senior Partner in Strategy, Head of the U.S. Growth and Business Development team, and Chair of Lippincott’s Capabilities Council, which guides the firm’s offerings and intellectual capital. Based in the New York office, he brings more than 20 years of experience spanning the full brand strategy agenda, including positioning and messaging, brand architecture and governance, brand marketing planning, customer experience design, research planning and execution, naming, and employee engagement.
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# People

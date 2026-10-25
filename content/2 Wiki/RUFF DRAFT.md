@@ -5,11 +5,15 @@ IG:
   - https://www.instagram.com/ruffdraft.online/
 Website:
   - https://ruff-draft.com/
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
 Related:
   - "[[노재훈]]"
 ---
 >[!tldr] tl;dr
->
+>서울 기반의 비주얼 크리에이티브 에이전시
 
 > [!Info]
 > RUFF DRAFT is a visual creative agency based in seoul  
@@ -21,3 +25,11 @@ It's all about photography, video, and visual creativity
 
 > [!Summary]
 
+---
+
+# Portfolio
+
+
+---
+
+# People

@@ -1,7 +1,7 @@
 ---
 title: The Ghost~Pop Tape
 artist:
-  - "[[Devon Hendryx]]"
+  - "[[JPEGMAFIA|Devon Hendryx]]"
 year: 2013
 ---
 ---

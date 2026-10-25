@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[K-Pop Idol]]"
+  - "[[Music]]"
 Related:
   - "[[SM ENTERTAINMENT|SM ENT.]]"
   - "[[NCT]]"

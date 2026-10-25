@@ -1,6 +1,8 @@
 ---
 aliases:
   - 코르티스
+topic:
+  - "[[Music]]"
 Related:
   - "[[HYBE]]"
   - "[[BIGHIT MUSIC]]"

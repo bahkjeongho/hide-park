@@ -7,6 +7,10 @@ Website:
   - https://lilahfrancis.com/
 URL:
   - https://www.linkedin.com/in/lilahfrancis/
+Cities:
+  - "[[London]]"
+Countries:
+  - "[[UK]]"
 ---
 >[!tldr] tl;dr
 > `(Ex) Associate Creative Director` of [[DAZED]]
@@ -19,3 +23,11 @@ In January 2026, Lilah joined the creative team at On to work on special & talen
 
 > [!Summary]
 
+---
+
+# Portfolio
+
+
+---
+
+# People

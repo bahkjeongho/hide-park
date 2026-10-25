@@ -1,10 +1,21 @@
 ---
+aliases:
+  - SOCIO
 topic:
   - "[[Creative Studio]]"
+IG:
+  - https://www.instagram.com/sociodesign/
 Website: https://sociodesign.co.uk/
+URL:
+  - https://uk.linkedin.com/company/socio-design
+  - https://www.behance.net/SocioDesign
+Cities:
+  - "[[London]]"
+Countries:
+  - "[[UK]]"
 ---
 >[!tldr] tl;dr
->
+>웰빙 브랜드를 위한 아이디어를 증폭하는 런던 기반 크리에이티브 스튜디오
 
 > [!Info]
 > We believe great ideas can shape how we live for the better.
@@ -28,44 +39,19 @@ Together, we amplify ideas that matter, building brands that inspire change.
 
 # People
 
-- James Cramp  
-    Co-founder
-    
-- Nigel Bates  
-    Co-founder
-    
-- Brendan Smith  
-    Creative Director
-    
-- Alice Loveday  
-    Project Manager
-    
-- Duane Dalton  
-    Senior Designer
-    
-- Nic Carter  
-    Design Director
-    
-- Joe Leadbeater  
-    Type Designer
-    
-- Charlie Phipps  
-    Design Director
-    
-- Madelon Balk  
-    Senior Designer
-    
-- Nathan Matthews  
-    Senior Designer
-    
-- Indiya Tupe  
-    Designer
-    
-- Joe Sharples  
-    Digital Designer
-    
-- Joanna Marczak  
-    Designer
-    
-- Brittany Miller  
-    Designer
+## Team
+
+- [[James Cramp]] `Co-founder`
+- [[Nigel Bates]] `Co-founder`
+- [[Brendan Smith]] `Creative Director`
+- [[Alice Loveday]] `Project Manager`
+- [[Duane Dalton]] `Senior Designer`
+- [[Nic Carter]] `Design Director`
+- [[Joe Leadbeater]] `Type Designer`
+- [[Charlie Phipps]] `Design Director`
+- [[Madelon Balk]] `Senior Designer`
+- [[Nathan Matthews]] `Senior Designer`
+- [[Indiya Tupe]] `Designer`
+- [[Joe Sharples]] `Digital Designer`
+- [[Joanna Marczak]] `Designer`
+- [[Brittany Miller]] `Designer`

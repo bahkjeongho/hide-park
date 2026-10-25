@@ -1,0 +1,20 @@
+---
+---
+>[!tldr] tl;dr
+>[[Lippincott]]의 경험·혁신·엔지니어링 시니어 파트너
+
+> [!Info]
+> Taddy는 Lippincott 경험·혁신·엔지니어링 부문의 시니어 파트너이자 세계 최고 수준의 혁신 전문가 중 한 명이다. 성숙 산업에서 성장을 이끌어 내는 것을 전문으로 하며, 수십 년간 최고경영자에게 성공적인 성장 전략의 설계와 실행을 자문해 왔다.
+>
+> Taddy is a Senior Partner in Lippincott’s Experience, Innovation & Engineering practice and one of the world’s leading innovation experts. Specializing in unlocking growth in mature industries, he has spent decades advising chief executives on the design and implementation of successful growth strategies.
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# People

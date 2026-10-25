@@ -1,6 +1,7 @@
 ---
 topic:
   - Artist
+  - "[[Music]]"
 tags:
   - Rapper
   - Hip-Hop

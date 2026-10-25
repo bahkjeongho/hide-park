@@ -6,6 +6,7 @@ Genre:
 topic:
   - "[[Artist]]"
   - "[[K-Pop Idol]]"
+  - "[[Music]]"
 Wikis:
   - https://namu.wiki/w/%26TEAM
   - https://en.wikipedia.org/wiki/%26Team

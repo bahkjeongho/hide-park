@@ -1,8 +1,8 @@
 ---
+aliases:
+  - TXT
 topic:
-  - "[[K-Pop Idol]]"
-Related:
-  - "[[HYBE]]"
+  - "[[Music]]"
 ---
 >[!tldr] tl;dr
 >

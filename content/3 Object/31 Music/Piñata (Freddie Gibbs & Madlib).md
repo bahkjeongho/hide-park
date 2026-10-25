@@ -1,7 +1,8 @@
 ---
 title: Piñata
 artist:
-  - "[[Freddie Gibbs & Madlib]]"
+  - "[[Freddie Gibbs]]"
+  - "[[Madlib]]"
 year: 2014
 ---
 ---

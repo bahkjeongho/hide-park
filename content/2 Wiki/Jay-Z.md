@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Music]]"
 Wikis: https://en.wikipedia.org/wiki/Jay-Z
 ---
 >[!tldr] tl;dr

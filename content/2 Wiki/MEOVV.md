@@ -1,5 +1,25 @@
 ---
+topic:
+  - "[[Music]]"
+  - "[[K-Pop Idol]]"
 ---
+> [!Summary]
+
+---
+
+# Discography
+
+## Studio Album
+
+- 
+
+## EP
+
+- 
+
+## Single
+
+- 
 >[!tldr] tl;dr
 >
 
