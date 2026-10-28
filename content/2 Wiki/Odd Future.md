@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Music]]"
+  - "[[Artist]]"
 Wikis: https://en.wikipedia.org/wiki/Odd_Future
 ---
 >[!tldr] tl;dr

@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Video Editor]]"
 IG:
   - https://www.instagram.com/rariesthetics/
 Website:

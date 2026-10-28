@@ -2,6 +2,9 @@
 aliases:
   - 고윤서
   - Yunseo Go
+topic:
+  - "[[Design Studio]]"
+  - "[[Digital Design]]"
 IG:
   - https://www.instagram.com/yesyunyun/
   - https://www.instagram.com/yyy.site/

@@ -1,0 +1,36 @@
+---
+topic:
+  - "[[Academic Program]]"
+  - "[[Photography Program]]"
+IG:
+  - https://www.instagram.com/EcoleArtsDecoParis
+Website:
+  - https://www.ensad.fr/en/photography-video
+Cities:
+  - "[[Paris]]"
+Countries:
+  - "[[France]]"
+---
+>[!tldr] tl;dr
+>`Bachelor's and Master's Program` in photography and video of [[Ecole des Arts Décoratifs - PSL]]
+
+> [!Info]
+> 사진/영상과는 두 매체 각각에 대한 전문 교육을 제공한다. 두 매체 사이의 대화를 만들고, 두 실천을 단순히 합치는 것을 넘어서는 독창적인 접근을 탐구하는 것을 목표로 한다.
+>
+> 사진이 제기하는 문제와 영상이 제기하는 문제를 구분하는 일이 두 매체 사이의 스며듦을 배제하지는 않는다. 정지 이미지와 움직이는 이미지라는 풍부함은 이미지의 현재 처리 방식을 규정하는 많은 문제에서 학과 교과를 끌어온다. 예를 들어 어떤 다큐멘터리 프로젝트에도 허구의 자리가 있으며, 이미지를 대하는 모든 접근에서 구체적 세계가 고려된다. 정지 이미지든 움직이는 이미지든 이미지 제작과 보급에 관련된 기술적 진화는 학생들이 늘 고려하며, 학생들은 이를 환경, 지각, 이야기하기, 재현의 정치경제와 연결한다.
+>
+> The Photography/Video department offers students professional training in each of these media. It aims to create a dialogue between the two and to explore original approaches that go beyond the mere combination of the two practices.
+>
+> Differentiating the issues raised by photography and those raised by video does not exclude porosity between the two media. Still image-moving image, the richness of the department’s curriculum draws on many issues that define the current processing of images. For instance, fiction has a place in any documentary project and the concrete world is considered in any approach to images. The technological evolution related to creating and broadcasting images, whether still or moving, are always considered by our students who link them to a political economy of our environments, perceptions, storytelling and of representation.
+
+---
+
+# Courses
+
+
+
+
+---
+
+# Faculty
+

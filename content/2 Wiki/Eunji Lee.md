@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Brand Design]]"
 ---
 >[!tldr] tl;dr
 >[[Major Minority]]의 공동 창립 디자이너

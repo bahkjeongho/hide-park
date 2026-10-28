@@ -1,8 +1,10 @@
 ---
 topic:
   - "[[Design Studio]]"
-IG: https://www.instagram.com/bureauborsche
-Website: https://bureauborsche.com/
+IG:
+  - https://www.instagram.com/bureauborsche
+Website:
+  - https://bureauborsche.com/
 Cities:
   - "[[Munich]]"
 Countries:
@@ -12,24 +14,33 @@ tags:
 Related:
   - "[[Mirko Borsche]]"
 ---
-
-<img src="https://bureauborsche.com/media/pages/projects/athens-kallithea-fc/visual-identity/50ccb796ce-1711098926/bureau-borsche-branding-4-76x.jpg" alt="Bureau Borsche logo" width="96">
-
 >[!tldr] tl;dr
 >뮌헨의 독립 디자인 스튜디오
 
 > [!Info]
+> Bureau Borsche는 뮌헨에 기반을 둔 독립 디자인 스튜디오로, 에디토리얼 디자인, 비주얼 아이덴티티, 캠페인, 디지털 경험, 공간 커뮤니케이션을 넘나들며 작업한다.
+>
+> 출판에 뿌리를 둔 이 스튜디오는 동시대 문화, 예술, 기술, 타이포그래피에 대한 강한 헌신으로 모든 프로젝트에 접근한다. 긴밀한 국제 팀으로 구성된 Bureau Borsche는 문화 기관, 패션 하우스, 글로벌 브랜드와 협업하며, 전략적 사고와 엄격한 시스템, 독특한 시각 언어에 기반한 장기 파트너십을 만든다.
+>
+> 에디토리얼 디자인은 스튜디오 활동의 핵심으로 남아 있다. Bureau Borsche는 Zeit Magazin, The Face, Numéro Berlin, 032c 등의 출판물을 만들었고, Apple, Nike, Supreme 같은 클라이언트의 캠페인과 크리에이티브 디렉션도 맡았다.
+>
+> 에디토리얼 작업과 함께, Adidas, Balenciaga, Birkenstock, Givenchy, Louis Vuitton, McQueen, On Running, Rimowa, Telfar, KNTXT, Dekmantel 등의 브랜드와 Bayerische Staatsoper, Haus der Kunst, Julia Stoschek Foundation, Nørrebro Theater, Villa Stuck 같은 문화 기관의 아이덴티티와 디자인 시스템을 개발했다.
+>
+> 스포츠 분야에서는 Internazionale Milano, RC Deportivo, Venezia FC, Athens Kallithea FC 등 축구 클럽의 비주얼 아이덴티티와 유니폼을 만들며 그래픽 디자인, 패션, 동시대 스포츠 문화의 접점을 탐구했다.
+>
+> Bureau Borsche의 작업은 수많은 국제 디자인상을 받았고, 베니스 비엔날레를 포함해 전 세계에서 전시되었다.
+>
 > Bureau Borsche is an independent design studio based in Munich, working across editorial design, visual identities, campaigns, digital experiences, and spatial communication.
-
-Rooted in publishing, the studio approaches every project with a strong commitment to contemporary culture, art, technology, and typography. Consisting of a close-knit international team, Bureau Borsche collaborates with cultural institutions, fashion houses, and global brands, developing long-term partnerships built on strategic thinking, rigorous systems, and distinctive visual languages.
-
-Editorial design remains at the core of the studio's practice. Bureau Borsche has shaped publications including Zeit Magazin, The Face, Numéro Berlin, and 032c, while also creating campaigns and creative direction for clients such as Apple, Nike, and Supreme.
-
-Alongside its editorial work, the studio has developed identities and design systems for brands including Adidas, Balenciaga, Birkenstock, Givenchy, Louis Vuitton, McQueen, On Running, Rimowa, Telfar, KNTXT, and Dekmantel, as well as cultural institutions such as Bayerische Staatsoper, Haus der Kunst, Julia Stoschek Foundation, Nørrebro Theater, and Villa Stuck.
-
-In sport, Bureau Borsche has created visual identities and kits for football clubs including Internazionale Milano, RC Deportivo, Venezia FC, and Athens Kallithea FC, exploring the intersection of graphic design, fashion, and contemporary sports culture.
-
-Bureau Borsche's work has received numerous international design awards and has been exhibited worldwide, including at the Venice Biennale.
+>
+> Rooted in publishing, the studio approaches every project with a strong commitment to contemporary culture, art, technology, and typography. Consisting of a close-knit international team, Bureau Borsche collaborates with cultural institutions, fashion houses, and global brands, developing long-term partnerships built on strategic thinking, rigorous systems, and distinctive visual languages.
+>
+> Editorial design remains at the core of the studio's practice. Bureau Borsche has shaped publications including Zeit Magazin, The Face, Numéro Berlin, and 032c, while also creating campaigns and creative direction for clients such as Apple, Nike, and Supreme.
+>
+> Alongside its editorial work, the studio has developed identities and design systems for brands including Adidas, Balenciaga, Birkenstock, Givenchy, Louis Vuitton, McQueen, On Running, Rimowa, Telfar, KNTXT, and Dekmantel, as well as cultural institutions such as Bayerische Staatsoper, Haus der Kunst, Julia Stoschek Foundation, Nørrebro Theater, and Villa Stuck.
+>
+> In sport, Bureau Borsche has created visual identities and kits for football clubs including Internazionale Milano, RC Deportivo, Venezia FC, and Athens Kallithea FC, exploring the intersection of graphic design, fashion, and contemporary sports culture.
+>
+> Bureau Borsche's work has received numerous international design awards and has been exhibited worldwide, including at the Venice Biennale.
 
 > [!Summary]
 

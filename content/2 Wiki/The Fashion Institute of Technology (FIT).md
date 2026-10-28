@@ -2,6 +2,7 @@
 aliases:
   - FIT
   - Fashion Institute of Technology
+  - F.I.T.
 topic:
   - "[[Art School]]"
 IG:
@@ -10,6 +11,7 @@ Website:
   - https://www.fitnyc.edu/
 Wikis:
   - https://en.wikipedia.org/wiki/Fashion_Institute_of_Technology
+  - https://namu.wiki/w/%ED%8C%A8%EC%85%98%20%EA%B3%B5%EA%B3%BC%EB%8C%80%ED%95%99%EA%B5%90
 Cities:
   - "[[New York]]"
 Countries:
@@ -43,6 +45,34 @@ Countries:
 ---
 
 # Programs
+
+## School of Art and Design
+
+- [[Advertising and Digital Design (The Fashion Institute of Technology (FIT))|Advertising and Digital Design]]
+- [[Animation, Interactive Media, and Game Design (The Fashion Institute of Technology (FIT))|Animation, Interactive Media, and Game Design]]
+- [[Communication Design (The Fashion Institute of Technology (FIT))|Communication Design]]
+- [[Fashion Design (The Fashion Institute of Technology (FIT))|Fashion Design]]
+- [[Fine Arts (The Fashion Institute of Technology (FIT))|Fine Arts]]
+- [[Footwear and Accessories Design (The Fashion Institute of Technology (FIT))|Footwear and Accessories Design]]
+- [[Graphic Design (The Fashion Institute of Technology (FIT))|Graphic Design]]
+- [[Illustration (The Fashion Institute of Technology (FIT))|Illustration]]
+- [[Interior Design (The Fashion Institute of Technology (FIT))|Interior Design]]
+- [[Jewelry Design (The Fashion Institute of Technology (FIT))|Jewelry Design]]
+- [[Menswear (The Fashion Institute of Technology (FIT))|Menswear]]
+- [[Packaging Design (The Fashion Institute of Technology (FIT))|Packaging Design]]
+- [[Photography and Related Media (The Fashion Institute of Technology (FIT))|Photography and Related Media]]
+- [[Spatial Experience Design (The Fashion Institute of Technology (FIT))|Spatial Experience Design]]
+- [[Styling for Creative Media (The Fashion Institute of Technology (FIT))|Styling for Creative Media]]
+- [[Textile and Surface Design (The Fashion Institute of Technology (FIT))|Textile and Surface Design]]
+- [[Toy Design (The Fashion Institute of Technology (FIT))|Toy Design]]
+
+## School of Graduate Studies
+
+- [[Exhibition and Experience Design (The Fashion Institute of Technology (FIT))|Exhibition and Experience Design]]
+- [[Fashion and Textile Studies (The Fashion Institute of Technology (FIT))|Fashion and Textile Studies]]
+- [[Fashion Design, MFA (The Fashion Institute of Technology (FIT))|Fashion Design, MFA]]
+- [[Illustration, MFA (The Fashion Institute of Technology (FIT))|Illustration, MFA]]
+- [[Visual Arts Management (The Fashion Institute of Technology (FIT))|Visual Arts Management]]
 
 ---
 

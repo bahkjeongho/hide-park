@@ -36,6 +36,15 @@ Countries:
 
 # Programs
 
+## MFA
+
+- [[Cinematography (American Film Institute (AFI))|Cinematography]]
+- [[Directing (American Film Institute (AFI))|Directing]]
+- [[Editing (American Film Institute (AFI))|Editing]]
+- [[Producing (American Film Institute (AFI))|Producing]]
+- [[Production Design (American Film Institute (AFI))|Production Design]]
+- [[Screenwriting (American Film Institute (AFI))|Screenwriting]]
+
 ---
 
 # People

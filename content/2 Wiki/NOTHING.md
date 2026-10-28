@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Tech Product Company]]"
 IG:
   - https://www.instagram.com/nothing/?hl=en
 Website:

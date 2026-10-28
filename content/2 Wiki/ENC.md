@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Writer]]"
+  - "[[Blogger]]"
 Website:
   - https://blog.naver.com/mjkyj0102
 ---

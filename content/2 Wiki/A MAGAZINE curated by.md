@@ -7,10 +7,13 @@ Website:
   - https://amagazinecuratedby.myshopify.com/
 ---
 >[!tldr] tl;dr
->
+>매 호 한 명의 디자이너를 초청 큐레이터로 삼아 그의 세계를 다루는 패션 매거진
 
 > [!Info]
+> _A Magazine Curated By_는 매 호 선택된 패션 디자이너의 세계를 탐구하는 패션 매거진이다. 우리는 국제적인 패션 디자이너, 그룹 또는 하우스를 객원 큐레이터로 초청해 그들의 미학과 문화적 가치를 표현하는 혁신적이고 개성 있는 콘텐츠를 만들게 한다. 각 호는 그 디자이너의 신념, 곧 사람들, 열정, 이야기, 감정, 매혹, 즉흥성과 진정성을 기린다.
+>
 > _A Magazine Curated_ By is a fashion magazine that explores the universe of a chosen fashion designer in each issue. We invite a guest curator – an international fashion designer, group or house – to develop innovative, personalised content to express their aesthetic and cultural values. Each issue celebrates this designer’s ethos: their people, their passion, their stories, emotions, fascinations, spontaneity and authenticity.
 
 > [!Summary]
 
+---

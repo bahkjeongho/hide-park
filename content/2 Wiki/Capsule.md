@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Design Magazine]]"
+  - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/capsule.global/
 Website:

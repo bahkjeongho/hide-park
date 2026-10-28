@@ -6,7 +6,16 @@ topic:
   - "[[Fashion Magazine]]"
 IG:
   - https://www.instagram.com/dazed/
-Website: https://www.dazeddigital.com/
+Website:
+  - https://www.dazeddigital.com/
+URL:
+  - https://twitter.com/Dazed
+  - https://www.facebook.com/DazedandConfusedMagazine
+  - https://www.tiktok.com/@dazed
+  - https://www.youtube.com/dazed
+Wikis:
+  - https://en.wikipedia.org/wiki/Dazed
+  - https://namu.wiki/w/%EB%8D%B0%EC%9D%B4%EC%A6%88%EB%93%9C
 Cities:
   - "[[London]]"
 Countries:
@@ -17,12 +26,28 @@ Related:
   - "[[2. Wiki/Jefferson Hack]]"
 ---
 >[!tldr] tl;dr
->
+>1991년 Jefferson Hack과 Rankin이 런던에서 창간한 영국의 유스 컬처·패션 매거진
 
 > [!Info]
->[[DAZED]] (Dazed & Confused until February 2014) is a quarterly British youth culture magazine founded in 1991. It covers music, fashion, film, art, and literature. Dazed is published by [[Dazed Media]], an independent media group known for producing stories across its print, digital, and video brands. The company's portfolio includes titles [[AnOther]], [[Dazed Beauty]] and [[NOWNESS]]. The company's newest division, [[DAZED STUDIO]], creates brand campaigns across the luxury and lifestyle sectors. Based in London, its founding editors are [[2. Wiki/Jefferson Hack]] and fashion photographer Rankin.
+> [[DAZED]](2014년 2월까지는 Dazed & Confused)는 1991년에 창간된 영국의 계간 유스 컬처 매거진이다. 음악, 패션, 영화, 미술, 문학을 다룬다. Dazed는 인쇄, 디지털, 영상 브랜드 전반에서 이야기를 만드는 독립 미디어 그룹 [[Dazed Media]]가 발행한다. 이 회사의 포트폴리오에는 [[AnOther]], [[Dazed Beauty]], [[NOWNESS]]가 있다. 가장 최근에 생긴 부문인 [[DAZED STUDIO]]는 럭셔리·라이프스타일 분야의 브랜드 캠페인을 만든다. 런던에 기반을 두며, 창간 편집자는 [[Jefferson Hack]]과 패션 사진가 Rankin이다.
+>
+> [[DAZED]] (Dazed & Confused until February 2014) is a quarterly British youth culture magazine founded in 1991. It covers music, fashion, film, art, and literature. Dazed is published by [[Dazed Media]], an independent media group known for producing stories across its print, digital, and video brands. The company's portfolio includes titles [[AnOther]], [[Dazed Beauty]] and [[NOWNESS]]. The company's newest division, [[DAZED STUDIO]], creates brand campaigns across the luxury and lifestyle sectors. Based in London, its founding editors are [[2. Wiki/Jefferson Hack]] and fashion photographer Rankin.
 
 > [!Summary]
+> |   |   |
+> |---|---|
+> |Editor-in-Chief|Ted Stansfield|
+> |Fashion Director|Imruh Asha|
+> |Art Director|Gareth Wrighton|
+> |Categories|Fashion, lifestyle|
+> |Frequency|Quarterly|
+> |Publisher|Dazed Media|
+> |Founder|Jefferson Hack<br>Rankin<br>Ian C Taylor|
+> |Founded|1991|
+> |Country|United Kingdom|
+> |Based in|London, England|
+> |Website|www.dazeddigital.com|
+> |ISSN|0961-9704|
 
 ---
 

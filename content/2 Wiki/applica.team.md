@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Graphic Designer]]"
 Website: https://applica.team/
 ---
 >[!tldr] tl;dr

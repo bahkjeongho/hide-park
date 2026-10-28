@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Consulting Agency]]"
 IG:
   - https://www.instagram.com/loveandmoney.agency/
 Website:

@@ -1,19 +1,32 @@
 ---
 topic:
   - "[[Fashion Designer]]"
-Wikis: https://en.wikipedia.org/wiki/Raf_Simons
+Wikis:
+  - https://en.wikipedia.org/wiki/Raf_Simons
+  - https://namu.wiki/w/%EB%9D%BC%ED%94%84%20%EC%8B%9C%EB%AA%AC%EC%8A%A4
+Cities:
+  - "[[Antwerp]]"
+  - "[[Paris]]"
+  - "[[Milan]]"
+Countries:
+  - "[[Belgium]]"
+  - "[[France]]"
+  - "[[Italy]]"
 ---
 >[!tldr] tl;dr
->
+>Prada 공동 크리에이티브 디렉터인 벨기에 디자이너
 
 > [!Info]
-> 
+> Raf Jan Simons는 벨기에의 패션 디자이너다. 가구 디자인으로 시작해 1995년 자신의 남성복 레이블을 선보였다. Jil Sander(2005–2012), Christian Dior(2012–2015), Calvin Klein(2016–2018)의 크리에이티브 디렉터를 지냈고, 2020년 4월 1일부터 Miuccia Prada와 함께 Prada의 공동 크리에이티브 디렉터를 맡고 있다.
+>
+> Raf Jan Simons is a Belgian fashion designer. Beginning in furniture design, Simons launched his own menswear label in 1995. He was creative director at Jil Sander (2005–2012), Christian Dior (2012–2015), and Calvin Klein (2016–2018). As of 1 April 2020, he is the co-creative director of Prada, in partnership with Miuccia Prada.
 
 > [!Summary]
 > |   |   |
-|---|---|
-|Born|Raf Jan Simons<br><br>  <br>12 January 1968 (age 58)  <br><br>[Neerpelt](https://en.wikipedia.org/wiki/Neerpelt "Neerpelt"), Belgium|
-|Education|[LUCA School of Arts](https://en.wikipedia.org/wiki/LUCA_School_of_Arts "LUCA School of Arts")|
-|Labels|- Raf Simons  <br>    (1995–2022)<br>- Raf by Raf Simons  <br>    (2005–2022)<br>- [Jil Sander](https://en.wikipedia.org/wiki/Jil_Sander_AG "Jil Sander AG")  <br>    (2005–2012)<br>- [Christian Dior](https://en.wikipedia.org/wiki/Christian_Dior_S.A. "Christian Dior S.A.")  <br>    (2012–2015)<br>- [Calvin Klein](https://en.wikipedia.org/wiki/Calvin_Klein "Calvin Klein")  <br>    (2016–2018)<br>- [Prada](https://en.wikipedia.org/wiki/Prada "Prada")  <br>    (2020–present)|
-|Website|[rafsimons.com](http://rafsimons.com/)|
+> |---|---|
+> |Born|Raf Jan Simons<br>12 January 1968<br>Neerpelt, Belgium|
+> |Education|LUCA School of Arts|
+> |Labels|Raf Simons<br>(1995–2022)<br>Raf by Raf Simons<br>(2005–2022)<br>Jil Sander<br>(2005–2012)<br>Christian Dior<br>(2012–2015)<br>Calvin Klein<br>(2016–2018)<br>Prada<br>(2020–present)|
+> |Website|rafsimons.com|
 
+---

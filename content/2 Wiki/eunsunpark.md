@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Graphic Designer]]"
 Website: https://eunsunpark.net/
 ---
 >[!tldr] tl;dr

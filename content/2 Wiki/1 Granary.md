@@ -4,19 +4,27 @@ topic:
   - "[[Fashion Platform]]"
 IG:
   - https://www.instagram.com/1granary/
-Website: https://1granary.com/
+Website:
+  - https://1granary.com/
 URL:
   - https://1granary.substack.com/
 ---
 >[!tldr] tl;dr
->
+>2013년 패션 디자인 졸업생들이 시작한 글로벌 패션 교육 플랫폼이자 크리에이티브 네트워크
 
 > [!Info]
+> 아직 1 Granary를 모른다면 걱정하지 마세요. 처음부터 알려 드리겠습니다. 우리는 차세대 크리에이티브 인재에게 힘을 실어 주고 패션 산업에 긍정적인 변화를 이끄는 데 전념하는, 선도적인 글로벌 패션 교육 플랫폼이자 크리에이티브 네트워크입니다.
+>
+> 2013년 패션 디자인 졸업생들이 하나의 목적으로 설립했습니다. 우리가 들어서려는 이 산업을 어떻게 이해할 수 있을까? 1 Granary는 온라인 출판물에서 시작해 인쇄 매거진, 소셜 미디어, 행사, 디자인 인재를 위한 채용과 브랜드 개발까지 아우르는 플랫폼으로 빠르게 성장했습니다.
+>
+> 오래 지켜본 분들은 아시듯, 교육은 여전히 우리가 하는 모든 일의 중심에 있고, 그래서 전 세계 40곳이 넘는 선도적인 패션 스쿨로 이루어진 독특한 패션 커뮤니티를 만들었습니다. 밈, 탐사 보도, 멘토링 그룹, 럭셔리 하우스 시니어 디자이너 100명 이상의 익명 인터뷰를 담은 인쇄 컬렉션 등을 통해, 차세대가 패션 산업을 개선할 수 있도록 우리는 이 산업을 더 잘 이해하고자 합니다.
+>
 > If you don’t know 1 Granary yet, don’t worry, we’ll catch you up to speed. We are the leading global fashion education platform and creative network, dedicated to empowering the next generation of creative talent and driving positive change in the fashion industry.
-
-Founded by fashion design graduates in 2013 with one purpose – how can we make sense of the industry we’re entering? – 1 Granary quickly grew from an [online publication](https://1granary.com/) into a platform encompassing a [print magazine](https://1-granary.myshopify.com/), [social media](https://www.instagram.com/1granary/), [events](https://www.anothermag.com/fashion-beauty/11588/new-yorks-new-fashion-wave-as-seen-by-three-photographers), recruitment and [brand development](https://www.lvmhprize.com/designer/paolina-russo/) for design talent.   
-
-For those of you who’ve been around for a while, you know the drill: education remains at the heart of everything we do, and this is why we’ve built a one-of-a-kind fashion community that consists of over 40 leading fashion schools around the globe. Whether it’s through memes, investigative reports, mentoring groups, or a [print collection of 100+ anonymous interviews with senior designers in luxury fashion houses](https://wwd.com/business-news/media/1-granary-fashion-talents-behind-the-scenes-new-issue-1235801169/), we want to better understand the fashion industry so we can empower the next generation to improve it.
+>
+> Founded by fashion design graduates in 2013 with one purpose – how can we make sense of the industry we’re entering? – 1 Granary quickly grew from an [online publication](https://1granary.com/) into a platform encompassing a [print magazine](https://1-granary.myshopify.com/), [social media](https://www.instagram.com/1granary/), [events](https://www.anothermag.com/fashion-beauty/11588/new-yorks-new-fashion-wave-as-seen-by-three-photographers), recruitment and [brand development](https://www.lvmhprize.com/designer/paolina-russo/) for design talent.
+>
+> For those of you who’ve been around for a while, you know the drill: education remains at the heart of everything we do, and this is why we’ve built a one-of-a-kind fashion community that consists of over 40 leading fashion schools around the globe. Whether it’s through memes, investigative reports, mentoring groups, or a [print collection of 100+ anonymous interviews with senior designers in luxury fashion houses](https://wwd.com/business-news/media/1-granary-fashion-talents-behind-the-scenes-new-issue-1235801169/), we want to better understand the fashion industry so we can empower the next generation to improve it.
 
 > [!Summary]
 
+---

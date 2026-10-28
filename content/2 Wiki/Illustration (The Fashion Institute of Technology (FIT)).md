@@ -1,0 +1,36 @@
+---
+topic:
+  - "[[Academic Program]]"
+  - "[[Illustration Program]]"
+IG:
+  - https://www.instagram.com/fitnyc
+Website:
+  - https://www.fitnyc.edu/academics/academic-divisions/art-and-design/illustration/
+Cities:
+  - "[[New York]]"
+Countries:
+  - "[[USA]]"
+---
+>[!tldr] tl;dr
+>`Bachelor's Program` in illustration of [[The Fashion Institute of Technology (FIT)]]
+
+> [!Info]
+> FIT의 일러스트레이션은 시각 커뮤니케이션, 곧 예술로 아이디어와 감정을 표현하는 이야기를 하는 일이다. 영감을 받은 예술가인 학생들은 첫 수업부터 드로잉, 회화, 개념적 역량을 최첨단 기술의 힘과 통합해 이미지를 만들기 시작한다.
+>
+> 이 프로그램에서는 아이디어를 내고, 조사로 지식을 쌓고, 어느 분야에서나 적용할 수 있는 문제 해결 능력을 기른다. 고급 기술을 갖추고 나만의 일러스트레이션 스타일을 확립하면서 수요가 높은 전문가 수준의 작품을 만든다. 해마다 열리는 눈에 띄는 야외 벽화 프로젝트 ChalkFIT는 학생들이 작품을 대중에게 선보이게 한다.
+>
+> Illustration at FIT is about visual communication — using art to tell stories that express ideas and emotions. Our students are inspired artists who, from their very first class, begin to integrate drawing, painting, and conceptual abilities with the power of cutting-edge technology to create images.
+>
+> In this program, you’ll learn how to generate ideas, build knowledge through research, and develop problem-solving skills that can be applied in any area. You’ll develop advanced skills and establish your unique illustrative style while producing professional-quality work that is in demand. Every year, a high-profile outdoor mural project, ChalkFIT, enables students to showcase their work to the public.
+
+---
+
+# Courses
+
+
+
+
+---
+
+# Faculty
+

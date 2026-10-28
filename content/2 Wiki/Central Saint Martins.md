@@ -1,18 +1,39 @@
 ---
 aliases:
   - CSM
+  - 센트럴 세인트 마틴
 topic:
   - "[[Art School]]"
+IG:
+  - https://www.instagram.com/csm_news/
 Website:
-  - arts.ac.uk/csm
+  - https://www.arts.ac.uk/csm
+URL:
+  - https://x.com/csm_news
+  - https://www.facebook.com/centralsaintmartins
+  - https://www.linkedin.com/school/central-saint-martins-college-of-art-and-design-university-of-the-arts-london/
+  - https://www.youtube.com/channel/UC-ePURNUTvYu2dKvW0-tHqg
+Wikis:
+  - https://en.wikipedia.org/wiki/Central_Saint_Martins
+  - https://namu.wiki/w/%EC%84%BC%ED%8A%B8%EB%9F%B4%20%EC%84%B8%EC%9D%B8%ED%8A%B8%20%EB%A7%88%ED%8B%B4
+Cities:
+  - "[[London]]"
+Countries:
+  - "[[UK]]"
 Related:
   - "[[University of the Arts London]]"
 ---
 >[!tldr] tl;dr
->런던 UAL 소속의 예술·디자인 대학
+>`Art School` based in [[London]]
 
 > [!Info]
-> 
+> 센트럴 세인트 마틴은 런던의 공립 예술 대학인 런던예술대학교(UAL)를 이루는 단과 칼리지다. 파운데이션, 학부, 대학원 과정의 전일제 코스와 다양한 단기·여름 코스를 제공한다.
+>
+> 예전 이름은 Central Saint Martins College of Arts and Design, 그 전에는 Central Saint Martins College of Art and Design이었다.
+>
+> Central Saint Martins is a constituent college of the University of the Arts London, a public art university in London, England. The college offers full-time courses at foundation, undergraduate, and postgraduate levels, as well as a variety of short and summer courses.
+>
+> It was formerly known as Central Saint Martins College of Arts and Design, and before that as Central Saint Martins College of Art and Design.
 
 > [!Summary]
 > |   |   |
@@ -23,3 +44,13 @@ Related:
 > |Location|London, United Kingdom|
 > |Campus|Urban|
 > |Address|Granary Building, 1 Granary Square, King's Cross, London, N1C 4AA|
+> |Website|arts.ac.uk/csm|
+
+---
+
+# Programs
+
+
+---
+
+# People

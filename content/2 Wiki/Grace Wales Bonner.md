@@ -1,21 +1,34 @@
 ---
 topic:
   - "[[Fashion Designer]]"
-Wikis: https://en.wikipedia.org/wiki/Grace_Wales_Bonner
+Website:
+  - https://walesbonner.net
+Wikis:
+  - https://en.wikipedia.org/wiki/Grace_Wales_Bonner
+  - https://namu.wiki/w/%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%8A%A4%20%EC%9B%A8%EC%9D%BC%EC%8A%A4%20%EB%B3%B4%EB%84%88
+Cities:
+  - "[[London]]"
+  - "[[Paris]]"
+Countries:
+  - "[[UK]]"
+  - "[[France]]"
 ---
 >[!tldr] tl;dr
->
+>런던 레이블 Wales Bonner를 이끌며 Hermès 남성복 디렉터에 임명된 영국 디자이너
 
 > [!Info]
-> 
+> Grace Wales Bonner는 영국의 패션 디자이너다. 그의 디자인은 스포츠웨어, 테일러링, 폭넓은 문화 연구를 결합한다. 2014년 런던 기반 레이블 Wales Bonner를 설립했으며, 처음에는 남성복을 전문으로 했다. 2025년 Véronique Nichanian의 후임으로 Hermès 남성복 라인의 크리에이티브 디렉터에 임명되어, 주요 럭셔리 하우스를 이끄는 최초의 흑인 여성이 되었다. Hermès에서의 첫 컬렉션은 2027년 1월 공개될 예정이다.
+>
+> Grace Wales Bonner is an English fashion designer. Her designs blend sportswear, tailoring and broad cultural research. In 2014, she founded the London-based label Wales Bonner, originally specializing in menswear. In 2025, she was appointed creative director of the Hermès menswear line, succeeding Véronique Nichanian, and becoming the first woman of Black heritage to lead a major luxury fashion house. Wales Bonner's first collection for Hermès is set to be shown in January 2027.
 
->[!Summary]
->|   |   |
-|---|---|
-|Born|Grace Wales<br><br>  <br>1990 (age 35–36)  <br><br>[South London](https://en.wikipedia.org/wiki/South_London "South London"), England|
-|Education|[Central Saint Martins](https://en.wikipedia.org/wiki/Central_Saint_Martins "Central Saint Martins") (BA)|
-|Occupation|Fashion designer|
-|Employer|[University of Applied Arts, Vienna](https://en.wikipedia.org/wiki/University_of_Applied_Arts,_Vienna "University of Applied Arts, Vienna")|
-|Awards|[British Fashion Awards](https://en.wikipedia.org/wiki/British_Fashion_Awards "British Fashion Awards")|
-|Website|[walesbonner.net/pages/about](https://walesbonner.net/pages/about)|
+> [!Summary]
+> |   |   |
+> |---|---|
+> |Born|Grace Wales<br>1990<br>South London, England|
+> |Education|Central Saint Martins (BA)|
+> |Occupation|Fashion designer|
+> |Employer|University of Applied Arts, Vienna|
+> |Awards|British Fashion Awards|
+> |Website|walesbonner.net/pages/about|
 
+---

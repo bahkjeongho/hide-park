@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Creative Group]]"
+  - "[[Brand Design]]"
 IG:
   - https://www.instagram.com/brenden.design/
 Website: https://brenden.kr/

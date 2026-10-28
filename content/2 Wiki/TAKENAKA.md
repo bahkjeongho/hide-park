@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Architecture Office]]"
 Website:
   - https://www.takenaka.co.jp/takenaka_e/
 ---

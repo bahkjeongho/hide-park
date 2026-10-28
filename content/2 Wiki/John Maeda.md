@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Designer]]"
 IG:
   - https://www.instagram.com/johnmaeda/
 Website:

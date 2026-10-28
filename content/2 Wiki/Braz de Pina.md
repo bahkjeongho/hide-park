@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[3D Designer]]"
+  - "[[Creative Director]]"
 IG:
   - https://www.instagram.com/brazdepina.exp/
 Website: https://www.brazdepina.com/

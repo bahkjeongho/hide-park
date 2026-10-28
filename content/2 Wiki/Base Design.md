@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Branding Agency]]"
 IG:
   - https://www.instagram.com/base_design
 Website: https://www.basedesign.com/

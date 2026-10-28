@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Design Director]]"
+  - "[[Creative Director]]"
 ---
 >[!tldr] tl;dr
 >[[CGH]]의 어소시에이트이자 디자인 디렉터

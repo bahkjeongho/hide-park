@@ -1,6 +1,10 @@
 ---
 topic:
   - "[[Fashion Magazine]]"
+Website:
+  - https://www.voguebusiness.com/
+Related:
+  - "[[Condé Nast]]"
 ---
 >[!tldr] tl;dr
 >

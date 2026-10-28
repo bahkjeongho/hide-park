@@ -41,6 +41,28 @@ Countries:
 
 # Programs
 
+## Bachelor's and Master's
+
+- [[Interior Architecture (Ecole des Arts Décoratifs - PSL)|Interior Architecture]]
+- [[Art-Space (Ecole des Arts Décoratifs - PSL)|Art-Space]]
+- [[Animation (Ecole des Arts Décoratifs - PSL)|Animation]]
+- [[Graphic Design (Ecole des Arts Décoratifs - PSL)|Graphic Design]]
+- [[Product Design (Ecole des Arts Décoratifs - PSL)|Product Design]]
+- [[Textile and Texture Design (Ecole des Arts Décoratifs - PSL)|Textile and Texture Design]]
+- [[Fashion and Accessory Design (Ecole des Arts Décoratifs - PSL)|Fashion and Accessory Design]]
+- [[Printed Image (Ecole des Arts Décoratifs - PSL)|Printed Image]]
+- [[Photography-Video (Ecole des Arts Décoratifs - PSL)|Photography-Video]]
+- [[Scenography (Ecole des Arts Décoratifs - PSL)|Scenography]]
+
+## Master's
+
+- [[Master in Fashion and Materials (Ecole des Arts Décoratifs - PSL)|Master in Fashion and Materials]]
+- [[Designing Rural Environments (Ecole des Arts Décoratifs - PSL)|Designing Rural Environments]]
+
+## Doctoral
+
+- [[SACRe-PSL Doctoral Programme (Ecole des Arts Décoratifs - PSL)|SACRe-PSL Doctoral Programme]]
+
 ---
 
 # People

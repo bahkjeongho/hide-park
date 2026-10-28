@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Design Studio]]"
+  - "[[Graphic Design]]"
 IG: https://www.instagram.com/aabb.inc/
 Website: https://aabb.kr/
 Related:

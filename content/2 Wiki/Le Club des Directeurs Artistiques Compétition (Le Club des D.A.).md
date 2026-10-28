@@ -1,7 +1,6 @@
 ---
 topic:
-  - Art Direction
-  - 
+  - "[[Comptetition]]"
 kind: Competition
 URL:
   - https://www.leclubdesda.org/pages/competition

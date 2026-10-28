@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Design Studio]]"
 IG: "\thttps://www.instagram.com/studiofwb/"
 Website: https://studiofwb.com/
 ---

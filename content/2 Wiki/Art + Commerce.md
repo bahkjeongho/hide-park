@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Creative Company]]"
 IG:
   - https://www.instagram.com/artandcommerce/
 Website: https://artandcommerce.com/

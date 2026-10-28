@@ -11,7 +11,7 @@ SubDiscipline:
 Orientation: Critical Theory
 Academy: Architectural Association School of Architecture
 Publisher:
-  - "[[Architectural Association]]"
+  - "[[Architectural Association School of Architecture|Architectural Association]]"
 URL:
   - https://www.aaschool.ac.uk
 Countries:

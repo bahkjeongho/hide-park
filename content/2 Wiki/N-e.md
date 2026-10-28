@@ -1,6 +1,8 @@
 ---
 aliases:
   - Naranjo Etxeberria
+topic:
+  - "[[Graphic Designer]]"
 IG: https://www.instagram.com/naranjoetxeberria/
 Website: https://naranjoetxeberria.com/
 ---

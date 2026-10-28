@@ -1,0 +1,36 @@
+---
+topic:
+  - "[[Academic Program]]"
+  - "[[Photography Program]]"
+IG:
+  - https://www.instagram.com/fitnyc
+Website:
+  - https://www.fitnyc.edu/academics/academic-divisions/art-and-design/photography/
+Cities:
+  - "[[New York]]"
+Countries:
+  - "[[USA]]"
+---
+>[!tldr] tl;dr
+>`Bachelor's Program` in photography and related media of [[The Fashion Institute of Technology (FIT)]]
+
+> [!Info]
+> 전문 사진은 예술이자 기예로서 개인의 창의적 비전, 기술과 도구의 숙달, 작품을 알리는 감각을 요구한다. 이 프로그램에서는 복잡한 아이디어를 이미지로 전달하는 법을 배운다. 잘 갖춰진 스튜디오와 끈끈한 학생·교수진 공동체 안에서 카메라 포맷, 조명, 포토 스타일링을 공부하고 디지털과 아날로그 사진에 능숙해진다.
+>
+> 사진 저널리즘, 광고, 패션, 순수 예술 등 어떤 분야에 관심이 있든 시각 예술가로서 정체성을 만들고, 렌즈로 설득력 있는 이야기를 전할 준비를 갖추고 졸업한다.
+>
+> Both art and craft, professional photography requires an individual creative vision, a mastery of skills and tools, and the acumen to get your work seen. In this program, you’ll learn to communicate complex ideas through images. Working in our well-equipped studios and in a close-knit community of students and faculty, you’ll study camera formats, lighting, and photo styling, and become proficient in digital and analog photography.
+>
+> Whatever your interest — photojournalism, advertising, fashion, fine art — you’ll shape your identity as a visual artist and graduate ready to tell compelling stories through your lens.
+
+---
+
+# Courses
+
+
+
+
+---
+
+# Faculty
+

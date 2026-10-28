@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Product Designer]]"
 IG:
   - https://www.instagram.com/alancdye/
 ---

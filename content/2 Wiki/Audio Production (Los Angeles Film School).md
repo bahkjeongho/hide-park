@@ -1,0 +1,36 @@
+---
+topic:
+  - "[[Academic Program]]"
+  - "[[Audio Production Program]]"
+IG:
+  - https://www.instagram.com/lafilmschool/
+Website:
+  - https://www.lafilm.edu/programs/audio-production/
+Cities:
+  - "[[Los Angeles]]"
+Countries:
+  - "[[USA]]"
+---
+>[!tldr] tl;dr
+>`Bachelor's Program` in audio production of [[Los Angeles Film School]]
+
+> [!Info]
+> 소리는 어디에나 있습니다. 라이브 콘서트, 포스트 프로덕션 사운드, 그 밖의 인터랙티브 디지털 미디어를 통해 오디오의 여러 측면을 탐구하세요. 오디오 프로덕션의 세계에 뛰어들어 믹싱 기법, Avid Pro Tools, 라이브 사운드 제작 등을 배우기 시작하세요. 프로그램 내내 전문 녹음 스튜디오의 아날로그·디지털 콘솔로 훈련합니다.
+>
+> 우리 오디오 프로그램은 오디오 프로덕션 전문학사와 이학사 학위를 모두 제공합니다. 두 학위 모두 오디오 기술을 증폭시켜 오디오 프로덕션 업계에 파문을 일으킬 수 있게 도와줍니다. 무엇을 기다리고 계신가요?
+>
+> Sound is everywhere. Explore the many facets of audio through live concerts, post-production sound and other interactive digital media. Get ready to dive into the audio production world and start learning mixing techniques, Avid Pro Tools, live-sound production and more. Throughout the program, you’ll train on our analog and digital consoles in professional recording studios.
+>
+> Our Audio Program offers both Associate and Bachelor of Science Degrees in Audio Production. Both degree programs will help amplify your audio skills so you can start making waves in the audio production industry. What are you waiting for?
+
+---
+
+# Courses
+
+
+
+
+---
+
+# Faculty
+

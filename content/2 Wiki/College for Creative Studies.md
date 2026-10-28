@@ -40,6 +40,26 @@ Countries:
 
 # Programs
 
+- [[Animation (College for Creative Studies)|Animation]]
+- [[Art Education (College for Creative Studies)|Art Education]]
+- [[Business for Creative Industries (College for Creative Studies)|Business for Creative Industries]]
+- [[Color and Materials Design (College for Creative Studies)|Color and Materials Design]]
+- [[Communication Design and Strategy (College for Creative Studies)|Communication Design and Strategy]]
+- [[Design for Sustainability (College for Creative Studies)|Design for Sustainability]]
+- [[Fashion Business Management (College for Creative Studies)|Fashion Business Management]]
+- [[Fashion Design (College for Creative Studies)|Fashion Design]]
+- [[Film (College for Creative Studies)|Film]]
+- [[Game Design (College for Creative Studies)|Game Design]]
+- [[Human-Centered Robotics Design (College for Creative Studies)|Human-Centered Robotics Design]]
+- [[Illustration (College for Creative Studies)|Illustration]]
+- [[Interdisciplinary Art + Design (College for Creative Studies)|Interdisciplinary Art + Design]]
+- [[Interdisciplinary Design and Media (College for Creative Studies)|Interdisciplinary Design and Media]]
+- [[Interior Design (College for Creative Studies)|Interior Design]]
+- [[Photography (College for Creative Studies)|Photography]]
+- [[Product Design (College for Creative Studies)|Product Design]]
+- [[Studio Art and Craft (College for Creative Studies)|Studio Art and Craft]]
+- [[Transportation Design (College for Creative Studies)|Transportation Design]]
+
 ---
 
 # People

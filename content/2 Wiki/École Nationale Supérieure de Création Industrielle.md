@@ -40,6 +40,9 @@ Countries:
 
 # Programs
 
+- [[Industrial Designer (École Nationale Supérieure de Création Industrielle)|Industrial Designer]]
+- [[Textile Designer (École Nationale Supérieure de Création Industrielle)|Textile Designer]]
+
 ---
 
 # People

@@ -1,18 +1,47 @@
 ---
+aliases:
+  - ESMOD Paris
+  - 에스모드
 topic:
   - "[[Art School]]"
+IG:
+  - https://www.instagram.com/esmodparis/
+Website:
+  - https://www.esmod.com/en
+URL:
+  - https://x.com/esmodparis
+  - https://www.facebook.com/ESMODPARIS
+  - https://www.linkedin.com/school/esmod-%C3%A9cole-sup%C3%A9rieure-des-arts-et-techniques-de-la-mode/
+  - https://www.youtube.com/user/MsEsmod
+Wikis:
+  - https://en.wikipedia.org/wiki/ESMOD
+  - https://namu.wiki/w/%EC%97%90%EC%8A%A4%EB%AA%A8%EB%93%9C
+Cities:
+  - "[[Paris]]"
+Countries:
+  - "[[France]]"
 ---
 >[!tldr] tl;dr
->
+>`Art School` based in [[Paris]]
 
 > [!Info]
-> 
+> ESMOD는 패션 디자인과 패션 비즈니스에 특화된 프랑스 최초의 패션 학교다. 1841년부터 프랑스 국가직업자격목록(RNCP)에 등록된 Bac+3부터 Bac+5까지의 학위(레벨 6·7)를 수여한다.
+>
+> ESMOD, the 1st French fashion school dedicated to Fashion Design and Fashion Business. Bac+3 to Bac+5 diplomas registered with the RNCP (levels 6 and 7) since 1841
 
 > [!Summary]
+> |   |   |
+> |---|---|
+> |Established|1841|
+> |Affiliations|Union of Independent Grandes Écoles|
+> |President|Christine Walter-Bonini|
+> |Location|Paris, France|
+> |Campus|12 rue de la Rochefoucauld<br>75009 Paris|
+> |Website|esmod.com|
 
 ---
 
-# Portfolio
+# Programs
 
 
 ---

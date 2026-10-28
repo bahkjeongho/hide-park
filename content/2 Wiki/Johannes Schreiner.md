@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Graphic Designer]]"
 IG:
   - https://www.instagram.com/yosh.de/
 Related:

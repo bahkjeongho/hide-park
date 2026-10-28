@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Tech Product Company]]"
+  - "[[Instruments Company]]"
 IG:
   - https://www.instagram.com/teenageengineering/
 Website:

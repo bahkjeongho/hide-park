@@ -38,6 +38,16 @@ Countries:
 
 # Programs
 
+- [[Art Education (Zurich University of the Arts)|Art Education]]
+- [[Cultural Critique (Zurich University of the Arts)|Cultural Critique]]
+- [[Design (Zurich University of the Arts)|Design]]
+- [[Film (Zurich University of the Arts)|Film]]
+- [[Fine Arts (Zurich University of the Arts)|Fine Arts]]
+- [[Music (Zurich University of the Arts)|Music]]
+- [[Dance (Zurich University of the Arts)|Dance]]
+- [[Theatre (Zurich University of the Arts)|Theatre]]
+- [[Transdisciplinary Studies (Zurich University of the Arts)|Transdisciplinary Studies]]
+
 ---
 
 # People

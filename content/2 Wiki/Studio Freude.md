@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Design Studio]]"
 Website: https://freude.studio/
 ---
 >[!tldr] tl;dr

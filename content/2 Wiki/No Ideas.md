@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Design Studio]]"
+  - "[[Graphic Design]]"
 Website: https://www.noideas.website/
 ---
 >[!tldr] tl;dr

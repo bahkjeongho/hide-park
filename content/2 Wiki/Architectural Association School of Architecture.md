@@ -4,6 +4,7 @@ aliases:
   - Architectural Association
 topic:
   - "[[Art School]]"
+  - "[[Architecture School]]"
 IG:
   - https://www.instagram.com/aaschool
 Website:

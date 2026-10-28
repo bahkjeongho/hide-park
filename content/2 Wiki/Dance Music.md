@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Music Genre]]"
 ---
 >[!tldr] tl;dr
 >

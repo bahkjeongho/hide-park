@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Music]]"
+  - "[[Artist]]"
 IG:
   - https://www.instagram.com/asapmob/
 Wikis: https://en.wikipedia.org/wiki/ASAP_Mob

@@ -1,20 +1,34 @@
 ---
 topic:
   - "[[Fashion Designer]]"
+Website:
+  - https://hedislimane.com
 URL:
   - https://www.instagram.com/hedislimane/
-Wikis: https://en.wikipedia.org/wiki/Hedi_Slimane
+Wikis:
+  - https://en.wikipedia.org/wiki/Hedi_Slimane
+  - https://namu.wiki/w/%EC%97%90%EB%94%94%20%EC%8A%AC%EB%A6%AC%EB%A8%BC
+Cities:
+  - "[[Paris]]"
+  - "[[Los Angeles]]"
+Countries:
+  - "[[France]]"
+  - "[[USA]]"
 ---
 >[!tldr] tl;dr
->
+>프랑스의 패션 디자이너이자 사진가, 전 Dior Homme·Saint Laurent·Celine 디렉터
 
 > [!Info]
-> 
+> Hedi Slimane은 프랑스의 패션 디자이너이자 사진가다. 2000년부터 2007년까지 Dior Homme의 크리에이티브 디렉터를, 2012년부터 2016년까지 Yves Saint Laurent의 크리에이티브 디렉터를, 2018년부터 2024년까지 Celine의 크리에이티브·아티스틱·이미지 디렉터를 맡았다.
+>
+> Hedi Slimane is a French fashion designer and photographer. From 2000 to 2007, he was the creative director for Dior Homme. From 2012 to 2016, he was the creative director for Yves Saint Laurent. From 2018 to 2024, Slimane was the creative, artistic and image director of Celine.
 
 > [!Summary]
 > |   |   |
-|---|---|
-|Born|5 July 1968 (age 58)  <br><br>Paris, France|
-|Education|[École du Louvre](https://en.wikipedia.org/wiki/%C3%89cole_du_Louvre "École du Louvre")|
-|Occupations|- Photographer<br>- fashion designer|
+> |---|---|
+> |Born|5 July 1968<br>Paris, France|
+> |Education|École du Louvre|
+> |Occupations|Photographer<br>fashion designer|
+> |Website|hedislimane.com|
 
+---

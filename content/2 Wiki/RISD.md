@@ -39,3 +39,39 @@ Countries:
 > |Colors|RISD Blue|
 > |Website|risd.edu|
 
+---
+
+# Programs
+
+## Undergraduate
+
+- [[Apparel Design, BFA (RISD)|Apparel Design, BFA]]
+- [[Architecture, BArch (RISD)|Architecture, BArch]]
+- [[Art and Computation, BFA (RISD)|Art and Computation, BFA]]
+- [[Ceramics, BFA (RISD)|Ceramics, BFA]]
+- [[Film, Animation, Video, BFA (RISD)|Film, Animation, Video, BFA]]
+- [[Furniture Design, BFA (RISD)|Furniture Design, BFA]]
+- [[Glass, BFA (RISD)|Glass, BFA]]
+- [[Graphic Design, BFA (RISD)|Graphic Design, BFA]]
+- [[Illustration, BFA (RISD)|Illustration, BFA]]
+- [[Industrial Design, BFA (RISD)|Industrial Design, BFA]]
+- [[Interior Architecture, BFA (RISD)|Interior Architecture, BFA]]
+- [[Jewelry + Metalsmithing, BFA (RISD)|Jewelry + Metalsmithing, BFA]]
+- [[Painting, BFA (RISD)|Painting, BFA]]
+- [[Photography, BFA (RISD)|Photography, BFA]]
+- [[Printmaking, BFA (RISD)|Printmaking, BFA]]
+- [[Sculpture, BFA (RISD)|Sculpture, BFA]]
+- [[Sound, BFA (RISD)|Sound, BFA]]
+- [[Textiles, BFA (RISD)|Textiles, BFA]]
+
+## Graduate
+
+- [[Ceramics, MFA (RISD)|Ceramics, MFA]]
+- [[Digital + Media, MFA (RISD)|Digital + Media, MFA]]
+- [[Global Arts and Cultures, MA (RISD)|Global Arts and Cultures, MA]]
+- [[Illustration, MFA (RISD)|Illustration, MFA]]
+- [[Painting, MFA (RISD)|Painting, MFA]]
+- [[Photography, MFA (RISD)|Photography, MFA]]
+- [[Printmaking, MFA (RISD)|Printmaking, MFA]]
+- [[Sculpture, MFA (RISD)|Sculpture, MFA]]
+- [[Textiles, MFA (RISD)|Textiles, MFA]]

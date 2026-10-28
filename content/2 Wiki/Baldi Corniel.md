@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Photographer]]"
 IG:
   - https://www.instagram.com/bladimircorniel/
 Website:

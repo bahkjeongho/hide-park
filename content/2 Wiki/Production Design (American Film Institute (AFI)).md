@@ -1,0 +1,32 @@
+---
+topic:
+  - "[[Academic Program]]"
+  - "[[Production Design Program]]"
+IG:
+  - https://www.instagram.com/americanfilminstitute
+Website:
+  - https://conservatory.afi.com/production-design/
+Cities:
+  - "[[Los Angeles]]"
+Countries:
+  - "[[USA]]"
+---
+>[!tldr] tl;dr
+>`Master's Program` in production design of [[American Film Institute (AFI)]]
+
+> [!Info]
+> 프로덕션 디자인 MFA를 받고 영화인으로서의 경력을 한 단계 끌어올리세요. AFI 프로덕션 디자이너는 혁신적인 세트를 디자인하고 만드는 일부터 비전을 현실로 만드는 최첨단 기술 도구를 배우는 일까지, 2년 동안 기술을 갈고닦는 데 몰입합니다. 프로덕션 디자인 교과의 일부로 1학년에 최소 세 편의 서사 단편 영화에서 협업하고, 2학년에는 졸업 영화 제작의 디자인과 독창적인 디자인 작품 포트폴리오에 집중하며, 이 포트폴리오는 해마다 열리는 AFI 컨서버토리 프로덕션 디자인 업계 스포트라이트에서 전시됩니다.
+>
+> Earn your MFA in Production Design and take your filmmaking career to the next level. AFI Production Designers spend two years immersed in honing their craft, from designing and building innovative sets to learning cutting-edge technological tools that bring their vision to life. As part of the production design curriculum, AFI Production Designers collaborate on at least three narrative short films in their first year of courses and in their second year, they focus on designing a thesis film production and an original portfolio of design work which is displayed at the annual AFI Conservatory Production Design industry spotlight.
+
+---
+
+# Courses
+
+
+
+
+---
+
+# Faculty
+

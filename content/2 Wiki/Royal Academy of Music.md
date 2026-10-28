@@ -1,18 +1,53 @@
 ---
+aliases:
+  - RAM
+  - 왕립음악원
 topic:
   - "[[Art School]]"
+IG:
+  - https://www.instagram.com/royalacademyofmusic/
+Website:
+  - https://www.ram.ac.uk/
+URL:
+  - https://x.com/royalacadmusic
+Wikis:
+  - https://en.wikipedia.org/wiki/Royal_Academy_of_Music
+  - https://namu.wiki/w/%EC%99%95%EB%A6%BD%EC%9D%8C%EC%95%85%EC%9B%90
+Cities:
+  - "[[London]]"
+Countries:
+  - "[[UK]]"
 ---
 >[!tldr] tl;dr
->
+>`Art School` based in [[London]]
 
 > [!Info]
-> 
+> 런던 웨스트민스터에 있는 왕립음악원(RAM)은 영국에서 가장 오래된 음악학교 중 하나로, 1822년 존 페인과 니콜라샤를 보크사가 설립했다. 1830년 초대 웰링턴 공작의 지지를 받아 조지 4세에게서 왕실 칙허를 받았다.
+>
+> 기악 연주, 작곡, 재즈, 뮤지컬, 오페라 분야의 학부·대학원 교육을 제공하며, 50개국이 넘는 학생 공동체가 전 세계에서 모집된 음악가들로 이루어져 있다. 18세까지의 음악가를 훈련하는 주니어 아카데미부터 지역사회 음악 프로젝트인 오픈 아카데미, 모든 연령을 위한 공연과 교육 행사에 이르기까지 평생 학습에 헌신한다.
+>
+> The Royal Academy of Music (RAM) in Westminster, London, England, is one of the oldest music schools in the United Kingdom, founded in 1822 by John Fane and Nicolas-Charles Bochsa. It received its royal charter in 1830 from King George IV with the support of the first Duke of Wellington.
+>
+> The academy provides undergraduate and postgraduate training across instrumental performance, composition, jazz, musical theatre and opera, and recruits musicians from around the world, with a student community representing more than 50 nationalities. It is committed to lifelong learning, from Junior Academy, which trains musicians up to the age of 18, through Open Academy community music projects, to performances and educational events for all ages.
 
 > [!Summary]
+> |   |   |
+> |---|---|
+> |Type|Public|
+> |Established|1822|
+> |Parent institution|University of London|
+> |Affiliations|ABRSM<br>King's College London|
+> |President|The Duchess of Gloucester|
+> |Principal|Jonathan Freeman-Attwood|
+> |Students|775 (2024/25)|
+> |Undergraduates|385 (2024/25)|
+> |Postgraduates|390 (2024/25)|
+> |Location|Marylebone Road, Westminster, Greater London, England|
+> |Website|ram.ac.uk|
 
 ---
 
-# Portfolio
+# Programs
 
 
 ---

@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Creative Director]]"
+  - "[[Video Director]]"
 IG: https://www.instagram.com/la.uzza/
 Website: https://lauzza.com/
 URL:

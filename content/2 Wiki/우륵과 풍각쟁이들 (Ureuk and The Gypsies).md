@@ -1,4 +1,8 @@
 ---
+topic:
+  - "[[Music]]"
+  - "[[Artist]]"
+  - "[[Band]]"
 ---
 > [!Summary]
 

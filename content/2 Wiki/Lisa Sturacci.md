@@ -1,19 +1,11 @@
-영
 ---
-aliases:
 topic:
   - "[[Graphic Designer]]"
 IG:
   - https://www.instagram.com/lisa_sturacci/
 Website:
   - https://www.lisasturacci.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
---
--
+---
 >[!tldr] tl;dr
 >
 

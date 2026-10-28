@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Music]]"
+  - "[[Artist]]"
 ---
 >[!tldr] tl;dr
 >

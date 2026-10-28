@@ -1,7 +1,10 @@
 ---
 aliases:
   - 그레이엄 하먼
-Wikis: https://en.wikipedia.org/wiki/Levi_Bryant
+topic:
+  - "[[Philosopher]]"
+Wikis:
+  - https://en.wikipedia.org/wiki/Graham_Harman
 ---
 >[!tldr] tl;dr
 >

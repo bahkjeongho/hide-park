@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Creative Studio]]"
 IG: https://www.instagram.com/works.studio/
 Website: https://works.studio/
 URL:

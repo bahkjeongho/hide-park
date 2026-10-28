@@ -42,6 +42,31 @@ Countries:
 
 # Programs
 
+## Bachelor's
+
+- [[Animation Design, Zwolle (ArtEZ University of the Arts)|Animation Design, Zwolle]]
+- [[BEAR Fine Art, Arnhem (ArtEZ University of the Arts)|BEAR Fine Art, Arnhem]]
+- [[Comic Design, Zwolle (ArtEZ University of the Arts)|Comic Design, Zwolle]]
+- [[Crossmedia Design, Enschede (ArtEZ University of the Arts)|Crossmedia Design, Enschede]]
+- [[Design Art Technology, Arnhem (ArtEZ University of the Arts)|Design Art Technology, Arnhem]]
+- [[Fashion Design, Arnhem (ArtEZ University of the Arts)|Fashion Design, Arnhem]]
+- [[Fine Art, Enschede (ArtEZ University of the Arts)|Fine Art, Enschede]]
+- [[Graphic Design, Arnhem (ArtEZ University of the Arts)|Graphic Design, Arnhem]]
+- [[Graphic Design, Zwolle (ArtEZ University of the Arts)|Graphic Design, Zwolle]]
+- [[Illustration Design, Zwolle (ArtEZ University of the Arts)|Illustration Design, Zwolle]]
+- [[Interior Architecture, Zwolle (ArtEZ University of the Arts)|Interior Architecture, Zwolle]]
+- [[Moving Image, Enschede (ArtEZ University of the Arts)|Moving Image, Enschede]]
+- [[Product Design, Arnhem (ArtEZ University of the Arts)|Product Design, Arnhem]]
+
+## Master's
+
+- [[Architecture, Arnhem (ArtEZ University of the Arts)|Architecture, Arnhem]]
+- [[Critical Fashion Practices, Arnhem (ArtEZ University of the Arts)|Critical Fashion Practices, Arnhem]]
+- [[DAI Art Praxis (ArtEZ University of the Arts)|DAI Art Praxis]]
+- [[Illustration Based Narrative, Arnhem (ArtEZ University of the Arts)|Illustration Based Narrative, Arnhem]]
+- [[Interior Architecture, Zwolle (ArtEZ University of the Arts)|Interior Architecture, Zwolle]]
+- [[Werkplaats Typografie]]
+
 ---
 
 # People

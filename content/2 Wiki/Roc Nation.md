@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Entertainment Company]]"
 Wikis: https://en.wikipedia.org/wiki/Roc_Nation
 ---
 >[!tldr] tl;dr

@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Architect]]"
 IG:
   - https://www.instagram.com/gustavopennaarq/
 Website: https://www.gustavopenna.com.br/en

@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Graphic Designer]]"
 IG: "\thttps://www.instagram.com/ohezin/"
 Website: https://ohezin.kr/
 ---

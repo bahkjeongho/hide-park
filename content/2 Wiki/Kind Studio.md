@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Branding Agency]]"
 IG:
   - https://www.instagram.com/kind_studio/
 Website: https://kindstudio.co.uk/

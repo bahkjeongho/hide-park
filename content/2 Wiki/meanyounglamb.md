@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Graphic Designer]]"
 Website: https://meanyounglamb.com/
 ---
 >[!tldr] tl;dr

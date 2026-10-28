@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Stylist]]"
 IG:
   - https://www.instagram.com/nickroyal/
 Related:

@@ -7,9 +7,18 @@ IG:
   - https://www.instagram.com/SVANYC/
 Website:
   - https://sva.edu/
+URL:
+  - https://x.com/sva_news
+  - https://www.facebook.com/SchoolOfVisualArts
+  - https://www.youtube.com/channel/UCGtHt3t1jN0-NlqCg0ymnug
+  - https://www.tiktok.com/@svanyc
 Wikis:
   - https://en.wikipedia.org/wiki/School_of_Visual_Arts
   - https://namu.wiki/w/%EC%8A%A4%EC%BF%A8%20%EC%98%A4%EB%B8%8C%20%EB%B9%84%EC%A3%BC%EC%96%BC%20%EC%95%84%EC%B8%A0
+Cities:
+  - "[[New York]]"
+Countries:
+  - "[[USA]]"
 ---
 >[!tldr] tl;dr
 >뉴욕의 사립 예술·디자인 대학
@@ -37,3 +46,32 @@ Wikis:
 ---
 
 [[SVA Masters in Branding]]
+
+---
+
+# Programs
+
+## Undergraduate
+
+- [[3D Animation and Visual Effects, BFA (SVA)|3D Animation and Visual Effects, BFA]]
+- [[Advertising, BFA (SVA)|Advertising, BFA]]
+- [[Animation, BFA (SVA)|Animation, BFA]]
+- [[Comics, BFA (SVA)|Comics, BFA]]
+- [[Design, BFA (SVA)|Design, BFA]]
+- [[Fine Arts, BFA (SVA)|Fine Arts, BFA]]
+- [[Illustration, BFA (SVA)|Illustration, BFA]]
+- [[Interior Design - Built Environments, BFA (SVA)|Interior Design - Built Environments, BFA]]
+- [[Visual and Critical Studies, BFA (SVA)|Visual and Critical Studies, BFA]]
+
+## Graduate
+
+- [[Computer Arts, MFA (SVA)|Computer Arts, MFA]]
+- [[Fine Arts, MFA (SVA)|Fine Arts, MFA]]
+- [[Illustration as Visual Essay, MFA (SVA)|Illustration as Visual Essay, MFA]]
+- [[Visual Narrative, MFA (SVA)|Visual Narrative, MFA]]
+- [[Design, MFA (SVA)|Design, MFA]]
+- [[Art Education, MA-MAT (SVA)|Art Education, MA-MAT]]
+- [[Art Therapy, MPS (SVA)|Art Therapy, MPS]]
+- [[Branding, MPS (SVA)|Branding, MPS]]
+- [[Fashion Photography, MPS (SVA)|Fashion Photography, MPS]]
+- [[Film Directing, MPS (SVA)|Film Directing, MPS]]

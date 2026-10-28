@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Graphic Designer]]"
 Website: https://huiyuu.net/
 ---
 >[!tldr] tl;dr

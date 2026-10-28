@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Creative Label]]"
+  - "[[Design Studio]]"
 IG: https://www.instagram.com/haytin.label/
 Website: https://www.hay-tin.com/
 ---

@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Fashion Designer]]"
 IG: https://www.instagram.com/filiparickx/
 Related:
   - "[[A.F.VANDEVORST]]"

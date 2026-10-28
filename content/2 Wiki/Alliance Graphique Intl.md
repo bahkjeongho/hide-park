@@ -1,6 +1,8 @@
 ---
 aliases:
   - AGI
+topic:
+  - "[[Design Association]]"
 IG:
   - https://www.instagram.com/agigraphic/
 Website:

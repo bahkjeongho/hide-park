@@ -1,4 +1,8 @@
 ---
+topic:
+  - "[[Music]]"
+  - "[[Artist]]"
+  - "[[Creative Collective]]"
 IG:
   - https://www.instagram.com/azikazinmagicworld/
 Website:

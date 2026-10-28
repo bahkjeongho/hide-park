@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Music Magazine]]"
+  - "[[Culture Magazine]]"
 IG:
   - https://www.instagram.com/nobells/
 Website: https://nobells.blog/

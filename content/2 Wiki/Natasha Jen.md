@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Graphic Designer]]"
 Website:
   - https://www.pentagram.com/about/natasha-jen
 ---

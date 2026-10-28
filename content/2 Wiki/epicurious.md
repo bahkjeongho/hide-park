@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Magazine]]"
 IG:
   - https://www.instagram.com/epicurious/
 Website:

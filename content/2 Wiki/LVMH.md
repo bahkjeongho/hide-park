@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Luxury Goods Company]]"
 Wikis: https://en.wikipedia.org/wiki/LVMH
 ---
 >[!tldr] tl;dr

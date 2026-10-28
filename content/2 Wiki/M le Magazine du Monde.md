@@ -18,7 +18,9 @@ Related:
 >Le Monde가 발행하는 프랑스의 주간 라이프스타일·문화 매거진
 
 > [!Info]
-> 
+> M, le magazine du Monde는 Le Monde가 발행하는 프랑스의 주간지로, 2000년 월간으로 창간되어 2004년 주간으로 바뀌었다.
+>
+> M, le magazine du Monde est un magazine hebdomadaire français édité par Le Monde, créé en 2000 sous une forme mensuelle avant de devenir hebdomadaire en 2004.
 
 > [!Summary]
 > |   |   |

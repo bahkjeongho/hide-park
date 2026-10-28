@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Video Director]]"
 IG:
   - https://www.instagram.com/nooyoesgnos/
 Website:

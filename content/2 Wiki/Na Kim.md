@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Graphic Designer]]"
+  - "[[Artist]]"
 IG:
   - https://www.instagram.com/nananananananakim/
 Website: https://ynkim.com/
