@@ -2,8 +2,7 @@
 title: Prada Aoyama
 architect:
   - "[[Herzog & DeMeuron]]"
-city: Tokyo
-Country/Region: Japan
+Cities: Tokyo
 program:
   - Retail
 year: 2003

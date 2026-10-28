@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Entertainment Company]]"
 Wikis: https://en.wikipedia.org/wiki/Parkwood_Entertainment
 Related:
   - "[[Beyoncé]]"

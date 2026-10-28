@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Art Director]]"
+  - "[[Graphic Designer]]"
 IG:
   - https://www.instagram.com/yvohahlen/
 ---

@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Creative Director]]"
 ---
 >[!tldr] tl;dr
 >

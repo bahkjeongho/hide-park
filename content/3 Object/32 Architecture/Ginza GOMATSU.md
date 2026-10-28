@@ -2,8 +2,7 @@
 title: Ginza GOMATSU
 architect:
   - "[[TAKENAKA]]"
-city: Tokyo
-Country/Region: Japan
+Cities: Tokyo
 program:
   - Retail
 year: 2012

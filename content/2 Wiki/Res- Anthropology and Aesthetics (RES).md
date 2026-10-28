@@ -1,14 +1,34 @@
 ---
-title: "Res: Anthropology and Aesthetics (RES)"
-Country/Region: "USA"
-language: "EN"
-discipline: "Art History"
-subdiscipline: "Aesthetics"
-publisher: "University of Chicago Press"
-research_orientation: "Interdisciplinary Research"
-subject_area:
-  - "Visual Art"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Visual Art]]"
+Discipline:
+  - "[[Art History]]"
+SubDiscipline:
+  - "[[Aesthetics]]"
+Orientation: Interdisciplinary Research
+Publisher:
+  - "[[University of Chicago Press]]"
 URL:
-  - "https://www.journals.uchicago.edu/loi/res"
+  - https://www.journals.uchicago.edu/loi/res
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Interdisciplinary journal exploring relationships between anthropology, aesthetics, material culture, and art.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleInterdisciplinary journal exploring relationships between anthropology, aesthetics, material culture, and art.

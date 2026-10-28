@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Branding Agency]]"
 IG:
   - https://www.instagram.com/turner_duckworth/
 Website: https://turnerduckworth.com/

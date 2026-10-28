@@ -8,7 +8,6 @@ IG:
 Website:
   - https://www.maisonmargiela.com/en-us/
 Wikis: https://en.wikipedia.org/wiki/Maison_Margiela
-Country/Region: "[[Paris / Francs]]"
 Related:
   - "[[Martin Margiela]]"
 ---

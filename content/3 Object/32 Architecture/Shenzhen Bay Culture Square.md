@@ -2,8 +2,7 @@
 title: Shenzhen Bay Culture Square
 architect:
   - "[[MAD]]"
-city: Shenzen
-Country/Region: China
+Cities: Shenzen
 program:
   - Cultural
   - Public

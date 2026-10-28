@@ -1,13 +1,13 @@
 ---
-kind: Awards
-Country/Region: UK
 topic:
   - Web & UI/UX
-  - 
-URL:
+  - "[[Award]]"
+Kind:
+  - "[[Award]]"
+Website:
   - https://thefwa.com/
-  - 
-rating: 4
+Countries:
+  - "[[UK]]"
 ---
 >[!tldr] tl;dr
 >
@@ -16,4 +16,13 @@ rating: 4
 > 
 
 > [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# People
 

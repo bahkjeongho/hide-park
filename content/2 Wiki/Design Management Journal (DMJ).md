@@ -1,16 +1,36 @@
 ---
-title: "Design Management Journal (DMJ)"
-academy: "Design Management Institute"
-Country/Region: "USA"
-language: "EN"
-discipline: "Design Studies"
-subdiscipline: "Design Studies"
-publisher: "Wiley"
-research_orientation: "Interdisciplinary Research"
-subject_area:
-  - "Design"
-  - "Management"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Design]]"
+  - "[[Management]]"
+Discipline:
+  - "[[Design Studies]]"
+SubDiscipline:
+  - "[[Design Studies]]"
+Orientation: Interdisciplinary Research
+Academy: Design Management Institute
+Publisher:
+  - "[[Wiley]]"
 URL:
-  - "https://onlinelibrary.wiley.com/journal/19487177"
+  - https://onlinelibrary.wiley.com/journal/19487177
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Focuses on design management, innovation, strategy, and organizational applications of design.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleFocuses on design management, innovation, strategy, and organizational applications of design.

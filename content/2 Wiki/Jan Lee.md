@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Video Director]]"
 IG: https://www.instagram.com/janleeinfo/
 URL:
   - https://vimeo.com/janleeinfo
@@ -9,10 +11,15 @@ Related:
 >`Director` of [[AEDIA STUDIO]]
 
 > [!Info]
+> 
 
-# {{title}}
+> [!Summary]
 
-## Key Concepts
+---
 
-## Related Topics
-- [[]]
+# Portfolio
+
+
+---
+
+# People

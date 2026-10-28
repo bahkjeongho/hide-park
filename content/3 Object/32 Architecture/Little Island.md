@@ -2,8 +2,7 @@
 title: Little Island
 architect:
   - "[[Heatherwick Studio]]"
-city: New York
-Country/Region: USA
+Cities: New York
 program:
   - Park
 year: 2021

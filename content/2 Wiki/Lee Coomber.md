@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Creative Director]]"
 ---
 >[!tldr] tl;dr
 >[[Lippincott]]의 EMEA 크리에이티브 디렉터 시니어 파트너

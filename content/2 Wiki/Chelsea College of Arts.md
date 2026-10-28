@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Art School]]"
 Wikis: https://en.wikipedia.org/wiki/Chelsea_College_of_Arts
 Related:
   - "[[University of the Arts London|UAL]]"

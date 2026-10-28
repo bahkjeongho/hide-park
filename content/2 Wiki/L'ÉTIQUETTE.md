@@ -13,7 +13,7 @@ Countries:
   - "[[France]]"
 ---
 >[!tldr] tl;dr
->
+>2018년 파리에서 시작한 패션·라이프스타일 매거진
 
 > [!Info]
 > 2018년 프랑스 파리에서 시작된 레티켓(l’étiquette) 매거진은 빈티지 콜렉터이자 Fursac paris의 디렉터를 맡고 있는 Gauthier Borsarello, 패션 저널리스트 Marc Beaugé, 아트 디렉션 스튜디오 Atelier Franck Durand의 Franck Durand을 중심으로 시작되어 연간 2회 발행되고 있는 패션, 라이프스타일 매거진입니다.  

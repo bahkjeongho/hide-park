@@ -2,8 +2,7 @@
 title: Shin-Marunouchi Tower
 architect:
   - "[[Hopkins Architects]]"
-city: Tokyo
-Country/Region: Japan
+Cities: Tokyo
 program:
   - Commercial
   - Office

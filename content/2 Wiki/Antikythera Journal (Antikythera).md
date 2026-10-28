@@ -1,15 +1,35 @@
 ---
-title: "Antikythera Journal (Antikythera)"
-Country/Region: "INT"
-language: "EN"
-discipline: "Art History"
-subdiscipline: "Contemporary Art"
-publisher: "Antikythera"
-research_orientation: "Critical Theory"
-subject_area:
-  - "Digital Media"
-  - "Visual Art"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Digital Media]]"
+  - "[[Visual Art]]"
+Discipline:
+  - "[[Art History]]"
+SubDiscipline:
+  - "[[Contemporary Art]]"
+Orientation: Critical Theory
+Publisher:
+  - "[[Antikythera]]"
 URL:
-  - "https://journal.antikythera.org/"
+  - https://journal.antikythera.org/
+Countries:
+  - "[[International]]"
+Language: EN
 ---
-Journal focused on planetary computation, technology, ecology, and contemporary theory.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleJournal focused on planetary computation, technology, ecology, and contemporary theory.

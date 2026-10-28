@@ -2,8 +2,7 @@
 title: China PhilharmonicConcert Hall
 architect:
   - "[[MAD]]"
-city: Beijing
-Country/Region: China
+Cities: Beijing
 program:
   - Cultural
   - Concert Hall

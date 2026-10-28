@@ -4,11 +4,11 @@ topic:
 IG:
   - https://www.instagram.com/pitchfork/
 Website: https://pitchfork.com/
-Related:
-  - "[[Condé Nast]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Pitchfork_(website)
   - https://namu.wiki/w/%ED%94%BC%EC%B9%98%ED%8F%AC%ED%81%AC
+Related:
+  - "[[Condé Nast]]"
 ---
 >[!tldr] tl;dr
 > 

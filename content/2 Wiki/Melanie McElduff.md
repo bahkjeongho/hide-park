@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Graphic Designer]]"
 ---
 >[!tldr] tl;dr
 >그래픽 디자이너이자 프로젝트 매니저(20년 이상 경력)

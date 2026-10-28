@@ -2,8 +2,7 @@
 title: Yiwu GrandTheater
 architect:
   - "[[MAD]]"
-city: Yiwu
-Country/Region: China
+Cities: Yiwu
 program:
   - Cultural
   - Theatre

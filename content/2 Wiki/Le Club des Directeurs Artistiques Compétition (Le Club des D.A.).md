@@ -1,9 +1,8 @@
 ---
-kind: Competition
-Country/Region: France
 topic:
   - Art Direction
   - 
+kind: Competition
 URL:
   - https://www.leclubdesda.org/pages/competition
   - 

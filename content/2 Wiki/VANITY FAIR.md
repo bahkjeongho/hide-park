@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Culture Magazine]]"
 ---
 >[!tldr] tl;dr
 >

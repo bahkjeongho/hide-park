@@ -2,8 +2,7 @@
 title: Absolute Towers
 architect:
   - "[[MAD]]"
-city: Toronto
-Country/Region: Canda
+Cities: Toronto
 program:
   - Residential
 year: 2012

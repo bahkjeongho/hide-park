@@ -1,18 +1,38 @@
 ---
-title: "The Journal of Aesthetics and Art Criticism (JAAC)"
-academy: "American Society for Aesthetics"
-Country/Region: "USA"
-language: "EN"
-discipline: "Philosophy"
-subdiscipline: "Aesthetics"
-publisher: "Wiley"
-research_orientation: "Analytic Philosophy"
-subject_area:
-  - "Film"
-  - "Literature"
-  - "Music"
-  - "Visual Art"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Film]]"
+  - "[[Literature]]"
+  - "[[Music]]"
+  - "[[Visual Art]]"
+Discipline:
+  - "[[Philosophy]]"
+SubDiscipline:
+  - "[[Aesthetics]]"
+Orientation: Analytic Philosophy
+Academy: American Society for Aesthetics
+Publisher:
+  - "[[Wiley]]"
 URL:
-  - "https://onlinelibrary.wiley.com/journal/15406245"
+  - https://onlinelibrary.wiley.com/journal/15406245
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Leading journal in aesthetics and philosophy of art.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleLeading journal in aesthetics and philosophy of art.

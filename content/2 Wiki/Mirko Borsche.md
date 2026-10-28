@@ -1,7 +1,9 @@
 ---
 aliases:
   - 미르코 보르셰
-topic: "[[Designer]]"
+topic:
+  - "[[Art Director]]"
+"[[Designer]]"
 IG: https://www.instagram.com/mirkoborsche/
 tags:
   - Design

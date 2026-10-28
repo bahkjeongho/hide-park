@@ -1,14 +1,34 @@
 ---
-title: "Philosophical Issues (PI)"
-Country/Region: "USA"
-language: "EN"
-discipline: "Philosophy"
-subdiscipline: "Philosophy"
-publisher: "Wiley"
-research_orientation: "Analytic Philosophy"
-subject_area:
-  - "Philosophy"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Philosophy]]"
+Discipline:
+  - "[[Philosophy]]"
+SubDiscipline:
+  - "[[Philosophy]]"
+Orientation: Analytic Philosophy
+Publisher:
+  - "[[Wiley]]"
 URL:
-  - "https://onlinelibrary.wiley.com/journal/17582237"
+  - https://onlinelibrary.wiley.com/journal/17582237
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Annual thematic volume featuring invited and peer-reviewed contributions in contemporary philosophy.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleAnnual thematic volume featuring invited and peer-reviewed contributions in contemporary philosophy.

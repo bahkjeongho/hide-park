@@ -2,8 +2,7 @@
 title: Shibuya Scramble Square
 architect:
   - "[[Kuma Kengo]]"
-city: Tokyo
-Country/Region: Japan
+Cities: Tokyo
 program:
   - Office
   - Commercial

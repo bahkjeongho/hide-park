@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Editor]]"
 ---
 >[!tldr] tl;dr
 >

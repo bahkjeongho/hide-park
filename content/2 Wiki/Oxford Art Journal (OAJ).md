@@ -1,14 +1,34 @@
 ---
-title: "Oxford Art Journal (OAJ)"
-Country/Region: "UK"
-language: "EN"
-discipline: "Art History"
-subdiscipline: "Contemporary Art"
-publisher: "Oxford University Press"
-research_orientation: "Critical Theory"
-subject_area:
-  - "Visual Art"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Visual Art]]"
+Discipline:
+  - "[[Art History]]"
+SubDiscipline:
+  - "[[Contemporary Art]]"
+Orientation: Critical Theory
+Publisher:
+  - "[[Oxford University Press]]"
 URL:
-  - "https://academic.oup.com/oaj"
+  - https://academic.oup.com/oaj
+Countries:
+  - "[[UK]]"
+Language: EN
 ---
-Publishes research on modern and contemporary art, visual culture, and art theory.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeoplePublishes research on modern and contemporary art, visual culture, and art theory.

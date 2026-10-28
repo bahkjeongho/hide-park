@@ -2,8 +2,7 @@
 title: Toranomon Hills Station Tower
 architect:
   - "[[Shohei Shigematsu(OMA)]]"
-city: Tokyo
-Country/Region: Japan
+Cities: Tokyo
 program:
   - Office
   - Retail

@@ -2,8 +2,7 @@
 title: Shenzhen Bay CulturePark
 architect:
   - "[[MAD]]"
-city: Shenzen
-Country/Region: China
+Cities: Shenzen
 program:
   - Cultural
 year: 2026

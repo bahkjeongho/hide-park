@@ -2,8 +2,7 @@
 title: Tengyun Center (Tencent Cloudrise)
 architect:
   - "[[MAD]]"
-city: Shenzen
-Country/Region: China
+Cities: Shenzen
 program:
   - Mixed Use
   - Office

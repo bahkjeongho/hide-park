@@ -1,27 +1,104 @@
 ---
-Wikis: https://en.wikipedia.org/wiki/Tyler,_the_Creator
+aliases:
+  - 타일러, 더 크리에이터
+  - Tyler, The Creator
+topic:
+  - "[[Music]]"
+Genre:
+  - "[[Alternative Hip Hop]]"
+  - "[[Neo Soul]]"
+  - "[[West Coast Hip-Hop]]"
+  - "[[Jazz Rap]]"
+IG:
+  - https://www.instagram.com/feliciathegoat/
+Website:
+  - https://golfwang.com/
+  - https://golflefleur.com/
+URL:
+  - https://www.youtube.com/channel/UCsQBsZJltmLzlsJNG7HevBg
+  - https://x.com/tylerthecreator
+  - https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF
+  - https://soundcloud.com/tylerthecreator-official
+Wikis:
+  - https://en.wikipedia.org/wiki/Tyler,_the_Creator
+  - https://namu.wiki/w/%ED%83%80%EC%9D%BC%EB%9F%AC,%20%EB%8D%94%20%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0
+Cities:
+  - "[[Hawthorne]]"
+Countries:
+  - "[[USA]]"
 Related:
   - "[[Odd Future]]"
 ---
 >[!tldr] tl;dr
->
+>`Rapper` for [[Columbia Records]]
 
 > [!Info]
 > 
 
 > [!Summary]
 > |   |   |
-|---|---|
-|Born|Tyler Gregory Okonma<br><br>  <br>March 6, 1991 (age 35)  <br><br>[Hawthorne, California](https://en.wikipedia.org/wiki/Hawthorne,_California "Hawthorne, California"), U.S.|
-|Other names|- Tyler Haley<br>- Wolf Haley[[1]](https://en.wikipedia.org/wiki/Tyler,_the_Creator#cite_note-1)<br>- Bunnyhop<br>- Poly/Mono<br>- Felicia the goat<br>- Ace, the Creator<br>- ThrashPolo<br>- Young Nigga<br>- DJ Stank Daddy|
-|Occupations|- Rapper<br>- singer<br>- songwriter<br>- record producer<br>- director<br>- fashion designer<br>- actor|
-|Years active|2007–present|
-|Organization|[Golf Wang](https://en.wikipedia.org/wiki/Golf_Wang "Golf Wang")|
-|Works|- [Discography](https://en.wikipedia.org/wiki/Tyler,_the_Creator_discography "Tyler, the Creator discography")<br>- [production](https://en.wikipedia.org/wiki/Tyler,_the_Creator_production_discography "Tyler, the Creator production discography")<br>- [songs](https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Tyler,_the_Creator "List of songs recorded by Tyler, the Creator")|
-|Awards|[Full list](https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Tyler,_the_Creator "List of awards and nominations received by Tyler, the Creator")|
-|**Musical career**|   |
-|Genres|- [Alternative hip-hop](https://en.wikipedia.org/wiki/Alternative_hip-hop "Alternative hip-hop")<br>- [neo soul](https://en.wikipedia.org/wiki/Neo_soul "Neo soul")<br>- [West Coast hip-hop](https://en.wikipedia.org/wiki/West_Coast_hip-hop "West Coast hip-hop")<br>- [jazz rap](https://en.wikipedia.org/wiki/Jazz_rap "Jazz rap")<br>- [hardcore hip-hop](https://en.wikipedia.org/wiki/Hardcore_hip-hop "Hardcore hip-hop")<br>- [horrorcore](https://en.wikipedia.org/wiki/Horrorcore "Horrorcore")|
-|Instruments|- Vocals<br>- piano<br>- keyboards|
-|Labels|- [Columbia](https://en.wikipedia.org/wiki/Columbia_Records "Columbia Records")<br>- [Odd Future](https://en.wikipedia.org/wiki/Odd_Future_Records "Odd Future Records")<br>- [Sony](https://en.wikipedia.org/wiki/Sony_Music_Entertainment "Sony Music Entertainment")<br>- [RED](https://en.wikipedia.org/wiki/RED_Distribution "RED Distribution")<br>- [XL](https://en.wikipedia.org/wiki/XL_Recordings "XL Recordings")|
-|Formerly of|- [Odd Future](https://en.wikipedia.org/wiki/Odd_Future "Odd Future")<br>- [I Smell Panties](https://en.wikipedia.org/wiki/I_Smell_Panties "I Smell Panties")|
+> |---|---|
+> |**Tyler, the Creator**||
+> |Born|Tyler Gregory Okonma<br>March 6, 1991<br>Hawthorne, California, U.S.|
+> |Other names|Tyler Haley<br>Wolf Haley<br>Bunnyhop<br>Poly/Mono<br>Felicia the goat<br>Ace, the Creator<br>ThrashPolo<br>Young Nigga<br>DJ Stank Daddy|
+> |Occupations|Rapper<br>singer<br>songwriter<br>record producer<br>director<br>fashion designer<br>actor|
+> |Years active|2007–present|
+> |Organization|Golf Wang|
+> |**Musical career**||
+> |Genres|Alternative hip-hop<br>neo soul<br>West Coast hip-hop<br>jazz rap<br>hardcore hip-hop<br>horrorcore|
+> |Instruments|Vocals<br>piano<br>keyboards|
+> |Labels|Columbia<br>Odd Future<br>Sony<br>RED<br>XL|
+> |Formerly of|Odd Future<br>I Smell Panties|
+> |Website|golfwang.com<br>golflefleur.com|
 
+---
+
+# Discography
+
+## Studio Album
+
+* [[Goblin (Tyler, the Creator)|Goblin]] [1st Studio Album] (2011.05.10)
+* [[Wolf (Tyler, the Creator)|Wolf]] [2nd Studio Album] (2013.04.02)
+* [[Cherry Bomb (Tyler, the Creator)|Cherry Bomb]] [3rd Studio Album] (2015.04.13)
+* [[Flower Boy (Tyler, the Creator)|Flower Boy]] [4th Studio Album] (2017.07.21)
+* [[IGOR (Tyler, the Creator)|IGOR]] [5th Studio Album] (2019.05.17)
+* [[CALL ME IF YOU GET LOST (Tyler, the Creator)|CALL ME IF YOU GET LOST]] [6th Studio Album] (2021.06.25)
+* [[CHROMAKOPIA (Tyler, the Creator)|CHROMAKOPIA]] [7th Studio Album] (2024.10.28)
+* [[DON'T TAP THE GLASS (Tyler, the Creator)|DON'T TAP THE GLASS]] [8th Studio Album] (2025.07.21)
+
+## EP
+
+* [[Music Inspired by Illumination & Dr. Seuss' The Grinch (Tyler, the Creator)|Music Inspired by Illumination & Dr. Seuss' The Grinch]] [1st EP] (2018.11.16)
+
+## Single
+
+* [[Yonkers (Tyler, the Creator)|Yonkers]] [Digital Single] (2011.02.15)
+* [[Trouble on My Mind (Tyler, the Creator)|Trouble on My Mind]] [Digital Single] (2011.07.12)
+* [[Rella (Tyler, the Creator)|Rella]] [Digital Single] (2012.02.28)
+* [[FUCK IT (Tyler, the Creator)|FUCK IT]] [Digital Single] (2015.10.12)
+* [[Telephone Calls (Tyler, the Creator)|Telephone Calls]] [Digital Single] (2016.10.28)
+* [[Biking (Tyler, the Creator)|Biking]] [Digital Single] (2017.04.10)
+* [[Who Dat Boy - 911 (Tyler, the Creator)|Who Dat Boy / 911]] [Digital Single] (2017.06.30)
+* [[After the Storm (Tyler, the Creator)|After the Storm]] [Digital Single] (2018.01.12)
+* [[OKRA (Tyler, the Creator)|OKRA]] [Digital Single] (2018.03.30)
+* [[435 (Tyler, the Creator)|435]] [Digital Single] (2018.06.08)
+* [[Peach Fuzz (Tyler, the Creator)|Peach Fuzz]] [Digital Single] (2018.09.21)
+* [[U Say (Tyler, the Creator)|U Say]] [Digital Single] (2019.06.06)
+* [[BEST INTEREST (Tyler, the Creator)|BEST INTEREST]] [Digital Single] (2020.01.25)
+* [[GROUP B (Tyler, the Creator)|GROUP B]] [Digital Single] (2020.01.25)
+* [[BOYFRIEND (Tyler, the Creator)|BOYFRIEND]] [Digital Single] (2020.05.18)
+* [[GRAVITY (Tyler, the Creator)|GRAVITY]] [Digital Single] (2021.01.29)
+* [[LUMBERJACK (Tyler, the Creator)|LUMBERJACK]] [Digital Single] (2021.06.17)
+* [[BIG PERSONA (Tyler, the Creator)|BIG PERSONA]] [Digital Single] (2021.09.08)
+* [[Cash In Cash Out (Tyler, the Creator)|Cash In Cash Out]] [Digital Single] (2022.06.10)
+* [[DOGTOOTH (Tyler, the Creator)|DOGTOOTH]] [Digital Single] (2023.03.27)
+* [[Noid (Tyler, the Creator)|Noid]] [Digital Single] (2024.10.21)
+* [[THAT GUY (Tyler, the Creator)|THAT GUY]] [Digital Single] (2024.12.25)
+
+## Live Album & Etc.
+
+* [[Bastard (Tyler, the Creator)|Bastard]] [Mixtape] (2009.12.25)
+* [[Live at Splash! (Tyler, the Creator)|Live at Splash!]] [Live Album] (2013.09.02)
+* [[Apple Music Presents - Tyler, The Creator (Tyler, the Creator)|Apple Music Presents: Tyler, The Creator]] [Live Album] (2019.08.13)
+* [[CALL ME IF YOU GET LOST LIVE (Amazon Music live) (Tyler, the Creator)|CALL ME IF YOU GET LOST LIVE (Amazon Music live)]] [Live Album] (2022.12.09)
+* [[Live From Camp Flog Gnaw 2024 (Tyler, the Creator)|Live From Camp Flog Gnaw 2024]] [Live Album] (2024.11.16)

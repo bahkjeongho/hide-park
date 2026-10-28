@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Fashion Designer]]"
 IG: https://www.instagram.com/an_vandevorst/
 Related:
   - "[[A.F.VANDEVORST]]"

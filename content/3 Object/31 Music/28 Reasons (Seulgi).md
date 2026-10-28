@@ -1,7 +1,7 @@
 ---
 title: 28 Reasons
 artist:
-  - "[[Seulgi]]"
+  - "[[슬기]]"
 year: 2022
 ---
 ---

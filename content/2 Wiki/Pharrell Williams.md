@@ -1,39 +1,97 @@
 ---
-Wikis: https://en.wikipedia.org/wiki/Pharrell_Williams
+aliases:
+  - 퍼렐 윌리엄스
+  - Pharrell
+  - Skateboard P
+topic:
+  - "[[Music]]"
+Genre:
+  - "[[Hip Hop]]"
+  - "[[R&B]]"
+  - "[[Pop]]"
+  - "[[Funk]]"
+IG:
+  - https://www.instagram.com/pharrell/
+Website:
+  - https://pharrellwilliams.com
+URL:
+  - https://www.youtube.com/channel/UCNUbNl2U6Hg8J0Zem6hzC2g
+  - https://x.com/Pharrell
+  - https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8
+  - https://soundcloud.com/pharrellwilliams-official
+Wikis:
+  - https://en.wikipedia.org/wiki/Pharrell_Williams
+  - https://namu.wiki/w/%ED%8D%BC%EB%A0%90%20%EC%9C%8C%EB%A6%AC%EC%97%84%EC%8A%A4
+Cities:
+  - "[[Virginia Beach]]"
+Countries:
+  - "[[USA]]"
 Related:
   - "[[N.E.R.D.]]"
   - "[[the Neptunes]]"
 ---
 >[!tldr] tl;dr
->
+>`Producer` of [[The Neptunes]]
 
 > [!Info]
 > 
 
 > [!Summary]
 > |   |   |
-|---|---|
-|Born|Pharrell Lanscilo Williams[[1]](https://en.wikipedia.org/wiki/Pharrell_Williams#cite_note-GrammyBio-1)<br><br>  <br>April 5, 1973 (age 53)  <br><br>[Virginia Beach, Virginia](https://en.wikipedia.org/wiki/Virginia_Beach,_Virginia "Virginia Beach, Virginia"), U.S.|
-|Other names|- Pharrell<br>- Skateboard P<br>- Sk8brd<br>- Auto Goon<br>- Magnum, the Verb Lord<br>- Station Wagon P<br>- Yellow Lightning|
-|Education|[Northwestern University](https://en.wikipedia.org/wiki/Northwestern_University "Northwestern University") (dropped out)|
-|Occupations|- Musician<br>- singer<br>- songwriter<br>- rapper<br>- record producer<br>- fashion designer|
-|Years active|1992–present|
-|Works|- [Discography](https://en.wikipedia.org/wiki/Pharrell_Williams_discography "Pharrell Williams discography")<br>- [co-production](https://en.wikipedia.org/wiki/The_Neptunes_production_discography "The Neptunes production discography")<br>- [solo production](https://en.wikipedia.org/wiki/Pharrell_Williams_production_discography "Pharrell Williams production discography")|
-|Spouse|Helen Lasichanh<br><br>​<br><br>(m. 2013)​|
-|Children|4|
-|Relatives|[Timbaland](https://en.wikipedia.org/wiki/Timbaland "Timbaland") (cousin)[[2]](https://en.wikipedia.org/wiki/Pharrell_Williams#cite_note-2)|
-|Awards|[Full list](https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Pharrell_Williams "List of awards and nominations received by Pharrell Williams")|
-|**Musical career**|   |
-|Genres|- [Hip-hop](https://en.wikipedia.org/wiki/Hip-hop "Hip-hop")<br>- [R&B](https://en.wikipedia.org/wiki/Contemporary_R&B "Contemporary R&B")<br>- [pop](https://en.wikipedia.org/wiki/Pop_music "Pop music")[[3]](https://en.wikipedia.org/wiki/Pharrell_Williams#cite_note-Allmusic-3)<br>- [funk](https://en.wikipedia.org/wiki/Funk_music "Funk music")<br>- [rock](https://en.wikipedia.org/wiki/Rock_music "Rock music")|
-|Instruments|- Vocals<br>- keyboards<br>- drums|
-|Labels|- [I Am Other](https://en.wikipedia.org/wiki/I_Am_Other "I Am Other")<br>- [Columbia](https://en.wikipedia.org/wiki/Columbia_Records "Columbia Records")<br>- [Virgin](https://en.wikipedia.org/wiki/Virgin_Records "Virgin Records")<br>- [Arista](https://en.wikipedia.org/wiki/Arista_Records "Arista Records")<br>- [Interscope](https://en.wikipedia.org/wiki/Interscope_Records "Interscope Records")<br>- [Star Trak](https://en.wikipedia.org/wiki/Star_Trak_Entertainment "Star Trak Entertainment")|
-|Formerly of|- [The Neptunes](https://en.wikipedia.org/wiki/The_Neptunes "The Neptunes")<br>- [N.E.R.D.](https://en.wikipedia.org/wiki/N.E.R.D. "N.E.R.D.")<br>- [Child Rebel Soldier](https://en.wikipedia.org/wiki/Child_Rebel_Soldier "Child Rebel Soldier")|
+> |---|---|
+> |**Pharrell Williams**||
+> |Born|Pharrell Lanscilo Williams<br>April 5, 1973<br>Virginia Beach, Virginia, U.S.|
+> |Other names|Pharrell<br>Skateboard P<br>Sk8brd<br>Auto Goon<br>Magnum, the Verb Lord<br>Station Wagon P<br>Yellow Lightning|
+> |Education|Northwestern University (dropped out)|
+> |Occupations|Musician<br>singer<br>songwriter<br>rapper<br>record producer<br>fashion designer|
+> |Years active|1992–present|
+> |Genres|Hip-hop<br>R&B<br>pop<br>funk<br>rock|
+> |Instruments|Vocals<br>keyboards<br>drums|
+> |Labels|I Am Other<br>Columbia<br>Virgin<br>Arista<br>Interscope<br>Star Trak|
+> |Formerly of|The Neptunes<br>N.E.R.D.<br>Child Rebel Soldier|
+> |Website|pharrellwilliams.com|
 
 ---
 
-## Discography
+# Discography
 
-### Studio Album
+## Studio Album
 
-- _[In My Mind](https://en.wikipedia.org/wiki/In_My_Mind_\(Pharrell_Williams_album\))_ (2006)
-- _[Girl](https://en.wikipedia.org/wiki/Girl_\(Pharrell_Williams_album\) "Girl (Pharrell Williams album)")_ (2014)
+* [[In My Mind (Pharrell Williams)|In My Mind]] [1st Studio Album] (2006.07.24)
+* [[G I R L (Pharrell Williams)|G I R L]] [2nd Studio Album] (2014.03.03)
+
+## EP
+
+- 
+
+## Single
+
+* [[Frontin' (Pharrell Williams)|Frontin']] [Single] (2003.07.28)
+* [[Angel (Pharrell Williams)|Angel]] [Single] (2005)
+* [[That Girl (Pharrell Williams)|That Girl]] [Single] (2005)
+* [[Can I Have It Like That (Pharrell Williams)|Can I Have It Like That]] [Single] (2005.09.14)
+* [[Number One (Pharrell Williams)|Number One]] [Single] (2006.06.20)
+* [[Happy (Pharrell Williams)|Happy]] [Single] (2013.12.16)
+* [[Marilyn Monroe (Pharrell Williams)|Marilyn Monroe]] [Single] (2014.05.30)
+* [[Gust of Wind (Pharrell Williams)|Gust of Wind]] [Single] (2014.12.05)
+* [[Freedom (Pharrell Williams)|Freedom]] [Single] (2015.07.01)
+* [[Crave (Pharrell Williams)|Crave]] [Single] (2016.11.16)
+* [[Able (Pharrell Williams)|Able]] [Single] (2016.12.02)
+* [[Sangria Wine (Pharrell Williams)|Sangria Wine]] [Single] (2018.05.18)
+* [[The Mantra (Pharrell Williams)|The Mantra]] [Single] (2018.11.14)
+* [[E-Lo (Pharrell Williams)|E-Lo]] [Single] (2018.11.27)
+* [[Blast Off (Pharrell Williams)|Blast Off]] [Single] (2019.03.01)
+* [[Entrepreneur (Pharrell Williams)|Entrepreneur]] [Single] (2020.08.21)
+* [[Just a Cloud Away (Pharrell Williams)|Just a Cloud Away]] [Single] (2022.03.24)
+* [[Cash In Cash Out (Pharrell Williams)|Cash In Cash Out]] [Single] (2022.06.10)
+* [[Stay with Me (Pharrell Williams)|Stay with Me]] [Single] (2022.07.15)
+* [[Down in Atlanta (Pharrell Williams)|Down in Atlanta]] [Single] (2022.11.18)
+* [[Airplane Tickets (Pharrell Williams)|Airplane Tickets]] [Single] (2023.12.08)
+* [[Good People (Pharrell Williams)|Good People]] [Single] (2024.01.16)
+* [[Doctor (Work It Out) (Pharrell Williams)|Doctor (Work It Out)]] [Single] (2024.03.01)
+* [[Not in the Store (Pharrell Williams)|Not in the Store]] [Single] (2024.08.16)
+
+## Live Album & Etc.
+
+* [[In My Mind - The Prequel (Pharrell Williams)|In My Mind: The Prequel]] [Mixtape] (2006)
+* [[Black Yacht Rock Vol. 1 - City of Limitless Access (Pharrell Williams)|Black Yacht Rock Vol. 1: City of Limitless Access]] [Mixtape] (2024.04.05)

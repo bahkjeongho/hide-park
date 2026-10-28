@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Editor]]"
 IG:
   - https://www.instagram.com/matt_carter/
 Website:

@@ -1,15 +1,35 @@
 ---
-title: "Computer Music Journal (CMJ)"
-Country/Region: "USA"
-language: "EN"
-discipline: "Music Studies"
-subdiscipline: "Music Studies"
-publisher: "MIT Press"
-research_orientation: "Interdisciplinary Research"
-subject_area:
-  - "Digital Media"
-  - "Music"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Digital Media]]"
+  - "[[Music]]"
+Discipline:
+  - "[[Music Studies]]"
+SubDiscipline:
+  - "[[Music Studies]]"
+Orientation: Interdisciplinary Research
+Publisher:
+  - "[[MIT Press]]"
 URL:
-  - "https://direct.mit.edu/comj"
+  - https://direct.mit.edu/comj
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Journal devoted to computer music, digital audio, sound synthesis, music technology, and electronic music research.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleJournal devoted to computer music, digital audio, sound synthesis, music technology, and electronic music research.

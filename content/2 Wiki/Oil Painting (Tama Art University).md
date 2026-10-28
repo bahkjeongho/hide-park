@@ -1,0 +1,31 @@
+---
+topic:
+  - "[[Fine Art Program]]"
+IG:
+  - https://www.instagram.com/tamaartuniversity
+Website:
+  - https://www.tamabi.ac.jp/academic-programs/oil-painting/
+Cities:
+  - "[[Hachioji]]"
+Countries:
+  - "[[Japan]]"
+---
+>[!tldr] tl;dr
+>`Bachelor` in oil painting of [[Tama Art University]]
+
+> [!Info]
+> 일본 최대의 학생 수를 자랑하는 유화 전공은 늘 흐름의 선두에서 기성 개념을 넘어서는 창조성을 발휘하는 인재를 배출해 왔습니다. 고도의 기술 습득을 바탕으로 다양한 표현 분야·소재를 배우는 기법 강좌와 정기 강평회를 통해 주체성과 판단력을 기르며, 2학년부터 해마다 클래스를 선택하는 제도를 운영합니다.
+>
+> 日本一の学生数を誇る油画専攻は、常にムーブメントの先頭に立ち、既成概念を超える創造性を発揮する人材を輩出してきました。油画専攻での学びは高度な技術習得を基礎に、さまざまな表現分野や素材を学ぶ技法講座、定期的に実施される講評会などを通して主体性と判断力を養いながら、表現者としての自立を促します。
+
+---
+
+# Courses
+
+
+
+
+---
+
+# Faculty
+

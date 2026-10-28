@@ -1,0 +1,59 @@
+---
+topic:
+  - "[[EP]]"
+Genre:
+  - "[[K-Pop]]"
+artist:
+  - "[[TOMORROW X TOGETHER]]"
+Date: 2026.04.13.
+---
+---
+
+>[!Summary]
+> |   |   |
+> |---|---|
+> |**7TH YEAR: 가시덤불에 잠시 바람이 멈췄을 때**||
+> |**8th Mini Album**||
+> |발매일|2026년 4월 13일|
+> |가수|투모로우바이투게더|
+> |프로듀서|방시혁<br>(빅히트 뮤직)|
+> |기획사|빅히트 뮤직|
+> |유통사|YG PLUS<br>트랙 수<br>6곡|
+> |재생 시간|16:08|
+> |타이틀곡|하루에 하루만 더 (Stick With You) ｜02|
+
+---
+
+# Track list
+
+- ## 1. Bed of Thorns
+	프로듀싱: PRODUCED BY SLOW RABBIT, "HITMAN" BANG SLOW RABBIT, "HITMAN" BANG, MADISON LOVE, SORANA, BIGHIT MUSIC, 황유빈 (XYXX), 김보은 (JAMFACTORY), 이이진, 알맹 (XYXX), 미아 (153/JOOMBAS), 우승연 (153/JOOMBAS), 박세린 (LALALA STUDIO), 조인호 (LALALA STUDIO)
+- ## 2. [[하루에 하루만 더 (Stick With You) (TOMORROW X TOGETHER)|하루에 하루만 더 (Stick With You)]] 
+	프로듀싱: PRODUCED BY SLOW RABBIT, JONDREN HWANG SLOW RABBIT, JONDREN HWANG, DEV LEMONS, LIAM BENAYON, BIGHIT MUSIC, TOMMY DRISCOLL, "HITMAN" BANG, JIGGY (153/JOOMBAS), GLORIA KAIYI HUI, JARED FULLER FREEDMAN, ROLLO, JBACH, EMMA ROSEN, GRANT AVERILL, PHIL GOOD, 1월8일, 하윤아 (153/JOOMBAS), 김키위, 김채아 (153/JOOMBAS), 박상유 (153/JOOMBAS), STALKING GIA, JACKSON HOFFMAN, RYDER STUART
+- ## 3. Take Me to Nirvana (feat. 万妮达 Vinida Weng)
+	프로듀싱: PRODUCED BY OSRIN WILLOW KAYNE, OSRIN, HANNA JÄGER, 메리크리스마스 (153/JOOMBAS), 박상유 (153/JOOMBAS), 나정아 (153/JOOMBAS), ZAYA (153/JOOMBAS), 이스란, 조윤경, 박랑 (XYXX), BIGHIT MUSIC, 차리 (153/JOOMBAS), 구조 (153/JOOMBAS), 금토 (153/JOOMBAS), 미아 (153/JOOMBAS), 이이진, BAY (153/JOOMBAS), 윤 (153/JOOMBAS)
+- ## 4. So What
+	프로듀싱: PRODUCED BY ELKAN, KAVIN SMITH, MAIZ, PXPILLON PAUL OMAR ELKAN AGYEI, KAVIN SMITH, KAMAL WILSON, SIAN IMANI HANNAH EMEH, MAIZ, PXPILLON, YEONJUN, 구삼영 (153/JOOMBAS), BIGHIT MUSIC, MARYJANE (LALALA STUDIO), DANKE, ELLIE SUH (153/JOOMBAS), TAEHYUN, 이이진, 김갈피 (153/JOOMBAS), 장여진 (LALALA STUDIO), 조윤경
+- ## 5. 21st Century Romance
+	프로듀싱: PRODUCED BY ELOF LOELV, SLOW RABBIT, MAIZ ELOF LOELV, MAIZ, SPOON (153/JOOMBAS), BIGHIT MUSIC, SLOW RABBIT, 우승연 (153/JOOMBAS), HUENINGKAI, 나윤정 (LALALA STUDIO), 구삼영 (153/JOOMBAS), 김인형, BAY (153/JOOMBAS), ZAYA (153/JOOMBAS), 김채아 (153/JOOMBAS), 샤일로 (XYXX), 차이린 (153/JOOMBAS), 1월8일, 전지은, 문지영 (LALALA STUDIO)
+- ## 6. 다음의 다음
+	프로듀싱: PRODUCED BY DAVE HAMELIN DAVE HAMELIN, LEVEN KALI, PXPILLON, 박성희 (JAMFACTORY), 박상유 (153/JOOMBAS), DANKE, 윤 (153/JOOMBAS), SOOBIN, 구삼영 (153JOOMBAS), 정나경 (153/JOOMBAS), BIGHIT MUSIC, TENSEECHEE (XYXX), 장여진 (LALALA STUDIO), 조윤경
+
+
+---
+
+# Content
+
+---
+## Videos
+
+### Music Videos
+
+
+### Credit
+
+---
+## Photos
+
+
+### Credit

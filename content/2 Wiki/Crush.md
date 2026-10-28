@@ -1,10 +1,40 @@
 ---
 aliases:
   - 크러쉬
+  - 신효섭
 topic:
   - "[[Music]]"
+Genre:
+  - "[[R&B]]"
+  - "[[Hip Hop]]"
+  - "[[K-Pop]]"
+IG:
+  - https://www.instagram.com/crush9244/
+URL:
+  - https://x.com/crush9244
+  - https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g
+  - https://soundcloud.com/crush92444
+Wikis:
+  - https://en.wikipedia.org/wiki/Crush_(singer)
+  - https://namu.wiki/w/Crush(%EA%B0%80%EC%88%98)
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
 ---
 > [!Summary]
+> |   |   |
+> |---|---|
+> |**Crush (크러쉬)**||
+> |본명|신효섭 (申孝燮, Shin Hyosub)|
+> |출생|1992년 5월 3일<br>서울특별시 서초구 잠원동|
+> |국적|대한민국|
+> |학력|서울신동초등학교 (졸업)<br>신동중학교 (졸업)<br>한양대학교사범대학부속고등학교 (졸업)<br>호서대학교 아트앤컬처대학 (실용음악학 / 제적)|
+> |소속사|P NATION|
+> |소속 크루|VVD<br>Club Eskimo<br>FANXY CHILD|
+> |데뷔|2012년 마스터피스 Rhythm Genius|
+> |팬덤|CrushBomb (크러쉬밤)|
+> |MBTI|INFP|
 
 ---
 
@@ -12,12 +42,37 @@ topic:
 
 ## Studio Album
 
-- 
+* [[Crush On You (Crush)|Crush On You]] [1st Studio Album] (2014.06.05)
+* [[From Midnight To Sunrise (Crush)|From Midnight To Sunrise]] [2nd Studio Album] (2019.12.05)
+* [[wonderego (Crush)|wonderego]] [3rd Studio Album] (2023.11.14)
 
 ## EP
 
-- 
+* [[Interlude (Crush)|Interlude]] [1st EP] (2016.05.06)
+* [[Wonderlust (Crush)|Wonderlust]] [2nd EP] (2016.10.14)
+* [[Wonderlost (Crush)|Wonderlost]] [3rd EP] (2018.07.13)
+* [[with HER (Crush)|with HER]] [4th EP] (2020.10.20)
+* [[FANG (Crush)|FANG]] [5th EP] (2025.08.28)
 
 ## Single
+
+* [[Red Dress (Crush)|Red Dress]] [Digital Single] (2012.12.07)
+* [[Crush On You (Crush) 1|Crush On You]] [Digital Single] (2013.02.14)
+* [[가끔 (Crush)|가끔]] [Pre-release Single] (2014.04.02)
+* [[Sofa (Crush)|Sofa]] [Digital Single] (2014.10.30)
+* [[Oasis (Crush)|Oasis]] [Digital Single] (2015.07.09)
+* [[잊어버리지마 (Crush)|잊어버리지마]] [Digital Single] (2016.01.22)
+* [[Outside (Crush)|Outside]] [Digital Single] (2017.06.30)
+* [[내 편이 돼줘 (Crush)|내 편이 돼줘]] [Digital Single] (2017.12.19)
+* [[잊을만하면 (Crush)|잊을만하면]] [Digital Single] (2018.05.03)
+* [[넌 (Crush)|넌]] [Digital Single] (2018.10.17)
+* [[Lay Your Head On Me (Crush)|Lay Your Head On Me]] [Digital Single] (2018.11.16)
+* [[나빠 (Crush)|나빠]] [Digital Single] (2019.08.28)
+* [[homemade 1 (Crush)|homemade 1]] [Digital Single] (2020.05.20)
+* [[Ohio (Crush)|Ohio]] [Digital Single] (2020.07.14)
+* [[RUSH HOUR (Crush)|RUSH HOUR]] [Digital Single] (2022.09.22)
+* [[삐그덕 (Feat. 아이유) (Crush)|삐그덕 (Feat. 아이유)]] [Digital Single] (2026.10.21)
+
+## Live Album & Etc.
 
 - 

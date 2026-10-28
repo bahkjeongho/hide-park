@@ -1,18 +1,38 @@
 ---
-title: "The Journal of Aesthetics and Art Criticism (JAAC)"
-academy: "American Society for Aesthetics"
-Country/Region: "USA"
-language: "EN"
-discipline: "Philosophy"
-subdiscipline: "Aesthetics"
-publisher: "Oxford University Press"
-research_orientation: "Analytic Philosophy"
-subject_area:
-  - "Film"
-  - "Literature"
-  - "Music"
-  - "Visual Art"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Film]]"
+  - "[[Literature]]"
+  - "[[Music]]"
+  - "[[Visual Art]]"
+Discipline:
+  - "[[Philosophy]]"
+SubDiscipline:
+  - "[[Aesthetics]]"
+Orientation: Analytic Philosophy
+Academy: American Society for Aesthetics
+Publisher:
+  - "[[Oxford University Press]]"
 URL:
-  - "https://academic.oup.com/jaac"
+  - https://academic.oup.com/jaac
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Leading journal in aesthetics and philosophy of art, covering aesthetic experience, interpretation, artistic value, and related theoretical issues.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleLeading journal in aesthetics and philosophy of art, covering aesthetic experience, interpretation, artistic value, and related theoretical issues.

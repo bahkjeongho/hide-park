@@ -1,6 +1,8 @@
 ---
 aliases:
   - bmd
+topic:
+  - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/brucemaudesign/
 Website: https://www.brucemaudesign.com/

@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Creative Director]]"
 IG:
   - https://www.instagram.com/loose__c/
   - https://www.instagram.com/loose/

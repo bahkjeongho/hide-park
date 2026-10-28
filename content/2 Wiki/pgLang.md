@@ -6,11 +6,11 @@ IG:
 Website: https://pg-lang.com/
 URL:
   - https://twitter.com/pgLang
+Wikis:
+  - https://en.wikipedia.org/wiki/PGLang
 Related:
   - "[[Kendrick Lamar]]"
   - "[[Dave Free]]"
-Wikis:
-  - https://en.wikipedia.org/wiki/PGLang
 ---
 
 <img src="https://cdn.sanity.io/images/4u0xqmwo/production/7f9e9e768dedb3d6f919a253aed58908c52d5f25-1200x630.png?w=1200&fm=jpg&auto=format" alt="pgLang logo" width="160">

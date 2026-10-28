@@ -1,16 +1,36 @@
 ---
-title: "New Media & Society (NMS)"
-Country/Region: "UK"
-language: "EN"
-discipline: "Media Studies"
-subdiscipline: "Media Studies"
-publisher: "SAGE Publications"
-research_orientation: "Interdisciplinary Research"
-subject_area:
-  - "Communication"
-  - "Digital Media"
-  - "Popular Culture"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Communication]]"
+  - "[[Digital Media]]"
+  - "[[Popular Culture]]"
+Discipline:
+  - "[[Media Studies]]"
+SubDiscipline:
+  - "[[Media Studies]]"
+Orientation: Interdisciplinary Research
+Publisher:
+  - "[[SAGE Publications]]"
 URL:
-  - "https://journals.sagepub.com/home/NMS"
+  - https://journals.sagepub.com/home/NMS
+Countries:
+  - "[[UK]]"
+Language: EN
 ---
-Leading journal on digital media, internet culture, platforms, communication technologies, and their social implications.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleLeading journal on digital media, internet culture, platforms, communication technologies, and their social implications.

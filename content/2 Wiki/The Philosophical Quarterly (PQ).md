@@ -1,15 +1,35 @@
 ---
-title: "The Philosophical Quarterly (PQ)"
-academy: "Scots Philosophical Association"
-Country/Region: "UK"
-language: "EN"
-discipline: "Philosophy"
-subdiscipline: "Philosophy"
-publisher: "Oxford University Press"
-research_orientation: "Analytic Philosophy"
-subject_area:
-  - "Philosophy"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Philosophy]]"
+Discipline:
+  - "[[Philosophy]]"
+SubDiscipline:
+  - "[[Philosophy]]"
+Orientation: Analytic Philosophy
+Academy: Scots Philosophical Association
+Publisher:
+  - "[[Oxford University Press]]"
 URL:
-  - "https://academic.oup.com/pq"
+  - https://academic.oup.com/pq
+Countries:
+  - "[[UK]]"
+Language: EN
 ---
-Major journal covering all areas of philosophy, with a strong presence in analytic philosophy.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleMajor journal covering all areas of philosophy, with a strong presence in analytic philosophy.

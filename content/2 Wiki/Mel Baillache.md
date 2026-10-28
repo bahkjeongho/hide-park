@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Creative Director]]"
 ---
 >[!tldr] tl;dr
 >[[Koto]] APAC 이그제큐티브 크리에이티브 디렉터(시드니)

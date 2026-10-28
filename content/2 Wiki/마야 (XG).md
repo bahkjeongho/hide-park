@@ -1,0 +1,31 @@
+---
+aliases:
+  - MAYA
+topic:
+  - "[[Music]]"
+  - "[[Artist]]"
+  - "[[K-Pop Idol]]"
+Genre:
+  - "[[K-Pop]]"
+Labels:
+  - "[[XGALX]]"
+Member of:
+  - "[[XG]]"
+---
+> [!Summary]
+
+---
+
+# Discography
+
+## Studio Album
+
+- 
+
+## EP
+
+- 
+
+## Single
+
+- 

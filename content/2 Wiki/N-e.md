@@ -3,7 +3,6 @@ aliases:
   - Naranjo Etxeberria
 IG: https://www.instagram.com/naranjoetxeberria/
 Website: https://naranjoetxeberria.com/
-Country/Region: Madrid / Spain
 ---
 >[!tldr] tl;dr
 >

@@ -9,7 +9,6 @@ Cities:
   - "[[Los Angeles]]"
 Countries:
   - "[[USA]]"
-Country/Region: Los Angeles / USA
 ---
 
 <img src="https://humanperson.com/apple-icon-57x57.png" alt="Human Person logo" width="96">

@@ -2,8 +2,7 @@
 title: Clover House
 architect:
   - "[[MAD]]"
-city: Okazaki
-Country/Region: Japan
+Cities: Okazaki
 program:
   - School
 year: 2015

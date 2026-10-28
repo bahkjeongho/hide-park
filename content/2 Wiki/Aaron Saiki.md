@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Editor]]"
 IG:
   - https://www.instagram.com/aaronysaiki/
 Website:

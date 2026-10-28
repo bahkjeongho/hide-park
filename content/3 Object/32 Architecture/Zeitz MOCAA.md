@@ -2,8 +2,7 @@
 title: Zeitz MOCAA
 architect:
   - "[[Heatherwick Studio]]"
-city: Cape Town
-Country/Region: South Africa
+Cities: Cape Town
 program:
   - Museum
 year: 2017

@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Culture Magazine]]"
 IG:
   - https://www.instagram.com/vanityfairspain/
 Website:

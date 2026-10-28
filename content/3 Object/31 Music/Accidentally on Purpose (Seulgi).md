@@ -1,7 +1,7 @@
 ---
 title: Accidentally on Purpose
 artist:
-  - "[[Seulgi]]"
+  - "[[슬기]]"
 year: 2025
 ---
 ---

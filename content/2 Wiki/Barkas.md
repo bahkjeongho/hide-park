@@ -5,6 +5,12 @@ IG:
   - https://www.instagram.com/barkas/
 Website:
   - https://barkas.com/
+URL:
+  - https://www.linkedin.com/company/the-barkas-collective/
+Cities:
+  - "[[Copenhagen]]"
+Countries:
+  - "[[Denmark]]"
 ---
 
 <img src="https://barkas.com/wp-content/themes/barkas/images/icons/favicon-32.png" alt="Barkas logo" width="48">

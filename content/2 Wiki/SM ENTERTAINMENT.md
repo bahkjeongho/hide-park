@@ -2,6 +2,8 @@
 aliases:
   - SM Ent.
   - 에스엠 엔터테인먼트
+topic:
+  - "[[Entertainment Company]]"
 IG:
   - https://www.instagram.com/smtown/
 Website:

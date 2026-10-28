@@ -2,8 +2,7 @@
 title: The Ark
 architect:
   - "[[MAD]]"
-city: Shanghai
-Country/Region: China
+Cities: Shanghai
 program:
   - Adaptive Reuse
 year: 2026

@@ -1,7 +1,7 @@
 ---
 title: VIBE
 artist:
-  - "[[Taeyang]]"
+  - "[[태양]]"
 year: 2023
 ---
 ---

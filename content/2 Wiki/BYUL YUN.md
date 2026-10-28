@@ -1,6 +1,6 @@
 ---
 topic:
-  - Video Director
+  - "[[Video Director]]"
 IG:
   - https://www.instagram.com/byul.yun/
 Website:
@@ -15,9 +15,17 @@ Related:
 > [!Info]
 > Through Byul Yun’s lens, each film offers viewers a synesthetic experience, making them feel as if they are part of the scene or standing alongside its subjects. Her work captures deep emotions and conveys them with simplicity, creating visuals and stories that are both gentle and powerful. With her signature sense of mise-en-scène, she has collaborated with leading fashion brands while also expanding her practice through projects with K-pop artists such as aespa, RIIZE, and TXT. Byul Yun continues to shape a visual language that seamlessly bridges music, film, and style.
 
-# {{title}}
+> [!Summary]
 
-## Key Concepts
+---
 
-## Related Topics
-- [[]]
+# Portfolio
+
+
+- [[Pop Off Pop Off (KiiiKiii)|Pop Off Pop Off]] by [[KiiiKiii]] [M/V]
+- [[404 (New Era) (KiiiKiii)|404 (New Era)]] by [[KiiiKiii]] [M/V]
+- [[Beautiful Strangers (TOMORROW X TOGETHER)|Beautiful Strangers]] by [[TOMORROW X TOGETHER]] [M/V]
+
+---
+
+# People

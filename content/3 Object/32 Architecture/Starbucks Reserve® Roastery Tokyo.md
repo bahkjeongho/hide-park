@@ -2,8 +2,7 @@
 title: Starbucks Reserve® Roastery Tokyo
 architect:
   - "[[Kuma Kengo]]"
-city: Tokyo
-Country/Region: Japan
+Cities: Tokyo
 program:
   - Retail
   - Cafe

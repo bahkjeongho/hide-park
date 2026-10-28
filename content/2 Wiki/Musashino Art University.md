@@ -2,16 +2,68 @@
 aliases:
   - 武蔵野美術大学
   - 무사시노미술대학
+  - Musabi
 topic:
   - "[[Art School]]"
-Related:
+IG:
+  - https://www.instagram.com/musabi_koho
+Website:
+  - https://www.musabi.ac.jp/
+Wikis:
+  - https://en.wikipedia.org/wiki/Musashino_Art_University
   - https://namu.wiki/w/%EB%AC%B4%EC%82%AC%EC%8B%9C%EB%85%B8%EB%AF%B8%EC%88%A0%EB%8C%80%ED%95%99
+Cities:
+  - "[[Kodaira]]"
+Countries:
+  - "[[Japan]]"
 ---
 >[!tldr] tl;dr
->
+>`Art School` based in [[Kodaira]]
 
 > [!Info]
-> 
+> 무사시노미술대학(무사비)은 1929년에 설립된 도쿄의 사립 미술대학입니다. 조형학부와 조형구상학부, 대학원 조형연구과·조형구상연구과로 이루어지며, '균형 잡힌 시야를 가진 새로운 세대의 예술가와 디자이너를 기른다'는 것을 지향합니다.
+>
+> Musashino Art University (Musabi) is a private art university in Kodaira, Tokyo, established in 1929, with the Faculty of Art and Design, the Faculty of Creative Innovation, and graduate schools. Its motto: To foster a new generation of artists and designers with a well-rounded perspective.
 
 > [!Summary]
+> |   |   |
+> |---|---|
+> |Motto|To foster a new generation of artists and designers with a well-rounded perspective|
+> |Type|Private|
+> |Established|1929|
+> |President|Kabayama Sachikazu|
+> |Location|Kodaira, Tokyo, Japan|
+> |Campus|Urban|
+> |Colors|Blue|
+> |Website|musabi.ac.jp|
+
+---
+
+# Programs
+
+## Undergraduate
+
+- [[Japanese Painting (Musashino Art University)|Japanese Painting]]
+- [[Oil Painting (Musashino Art University)|Oil Painting]]
+- [[Graphic Arts (Musashino Art University)|Graphic Arts]]
+- [[Sculpture (Musashino Art University)|Sculpture]]
+- [[Visual Communication Design (Musashino Art University)|Visual Communication Design]]
+- [[Industrial, Interior and Craft Design (Musashino Art University)|Industrial, Interior and Craft Design]]
+- [[Spatial Design (Musashino Art University)|Spatial Design]]
+- [[Architecture (Musashino Art University)|Architecture]]
+- [[Basic Design (Musashino Art University)|Basic Design]]
+- [[Arts Policy and Management (Musashino Art University)|Arts Policy and Management]]
+- [[Design Informatics (Musashino Art University)|Design Informatics]]
+- [[Creative Innovation (Musashino Art University)|Creative Innovation]]
+- [[Film and Moving Image (Musashino Art University)|Film and Moving Image]]
+
+## Graduate
+
+- [[Graduate School of Art and Design (Master's and Doctoral Programs) (Musashino Art University)|Graduate School of Art and Design (Master's and Doctoral Programs)]]
+- [[Graduate School of Creative Innovation (Master's and Doctoral Programs) (Musashino Art University)|Graduate School of Creative Innovation (Master's and Doctoral Programs)]]
+
+---
+
+# People
+
 

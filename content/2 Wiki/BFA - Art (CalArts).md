@@ -1,0 +1,32 @@
+---
+topic:
+  - "[[Fine Art Program]]"
+Website:
+  - https://calarts.edu/academics/programs-and-degrees/bfa-art
+Cities:
+  - "[[Santa Clarita]]"
+Countries:
+  - "[[USA]]"
+---
+>[!tldr] tl;dr
+>`Bachelor's Program` in Art of [[CalArts]]
+
+> [!Info]
+> CalArts의 4년제 미술 BFA 프로그램은 오늘날 전 지구적 세계에서 미술 제작에 영향을 미치는 미학적·사회적·지적 맥락에 대한 이해와 비판적 자기 인식을 가지고 작업에 접근하도록 이끕니다. 비판적 사고와 폭넓은 매체에 대한 탄탄한 훈련은 자신만의 독자적인 미술 실천을 발전시키고 동시대 미술의 관습을 밀어붙일 도구를 갖추게 합니다. CalArts에서는 새로운 아이디어와 매체에 질문하고 탐구하고 실험하도록 장려하여, 독립적 미술 실천을 지속하는 데 필요한 기량을 갖춘 역사적 토대를 지닌 사상가로 준비시킵니다.
+>
+> CalArts’ four-year BFA in Art program challenges you to approach your work with a critical self-awareness and an understanding of the aesthetic, social, and intellectual contexts that inform artmaking in today’s global world. Solid training in critical thinking and a wide range of media prepares you with the tools to develop your own distinctive art practice and push the conventions of contemporary art. At CalArts, we push you to question, explore, and experiment with new ideas and media, preparing you to be a historically grounded thinker as you develop the skills necessary to sustain an independent art practice.
+
+---
+
+# Courses
+
+
+
+
+---
+
+# Faculty
+
+- `Valeria Tizol Vivas` `Faculty, Art`
+- `gloria galvez` `Co-Program Director; Faculty, Art`
+- `Lecia Dole-Recio` `Faculty, Art`

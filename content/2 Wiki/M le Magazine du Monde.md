@@ -15,21 +15,21 @@ Related:
   - "[[Le Monde]]"
 ---
 >[!tldr] tl;dr
->
+>Le Monde가 발행하는 프랑스의 주간 라이프스타일·문화 매거진
 
 > [!Info]
 > 
 
 > [!Summary]
 > |   |   |
-|---|---|
-|Zone de diffusion|France|
-|Langue|[Français](https://fr.wikipedia.org/wiki/Fran%C3%A7ais "Français")|
-|Périodicité|mensuel (novembre 2000)  <br>hebdomadaire (depuis mars 2004)|
-|Genre|Art de vivre, Culturel|
-|Prix au numéro|Vendu (sans supplément de prix) avec _Le Monde Week-end_ daté du samedi (5,20 €)|
-|Diffusion|par abonnement, en kiosque ex.|
-|Fondateur|[GS Presse](https://fr.wikipedia.org/wiki/GS_Presse "GS Presse"), [Le Monde](https://fr.wikipedia.org/wiki/Le_Monde "Le Monde")|
-|Date de fondation|_Le Monde 2_ (novembre 2000),  <br>_Le Monde Magazine_ (septembre 2009),  <br>_M, le magazine du Monde_ (septembre 2011)|
-|Éditeur|_[Le Monde](https://fr.wikipedia.org/wiki/Le_Monde "Le Monde")_|
-|Ville d’édition|[Paris](https://fr.wikipedia.org/wiki/Paris "Paris")|
+> |---|---|
+> |Zone de diffusion|France|
+> |Langue|Français|
+> |Périodicité|mensuel (novembre 2000)<br>hebdomadaire (depuis mars 2004)|
+> |Genre|Art de vivre, Culturel|
+> |Prix au numéro|Vendu (sans supplément de prix) avec Le Monde Week-end daté du samedi (5,20 €)|
+> |Diffusion|par abonnement, en kiosque ex.|
+> |Fondateur|GS Presse, Le Monde|
+> |Date de fondation|Le Monde 2 (novembre 2000)<br>Le Monde Magazine (septembre 2009)<br>M, le magazine du Monde (septembre 2011)|
+> |Éditeur|Le Monde|
+> |Ville d’édition|Paris|

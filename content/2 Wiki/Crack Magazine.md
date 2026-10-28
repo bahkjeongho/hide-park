@@ -16,10 +16,10 @@ Cities:
 Countries:
   - "[[UK]]"
 Related:
-  - "[[Plinth Media]]"
   - "[[CC Co.]]"
   - "[[Ground Work]]"
   - "[[Good Measure]]"
+  - "[[Plinth]]"
 ---
 >[!tldr] tl;dr
 >

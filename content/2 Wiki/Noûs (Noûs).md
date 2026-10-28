@@ -1,14 +1,34 @@
 ---
-title: "Noûs (Noûs)"
-Country/Region: "USA"
-language: "EN"
-discipline: "Philosophy"
-subdiscipline: "Philosophy"
-publisher: "Wiley"
-research_orientation: "Analytic Philosophy"
-subject_area:
-  - "Philosophy"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Philosophy]]"
+Discipline:
+  - "[[Philosophy]]"
+SubDiscipline:
+  - "[[Philosophy]]"
+Orientation: Analytic Philosophy
+Publisher:
+  - "[[Wiley]]"
 URL:
-  - "https://onlinelibrary.wiley.com/journal/14680068"
+  - https://onlinelibrary.wiley.com/journal/14680068
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Leading journal in analytic philosophy covering metaphysics, epistemology, philosophy of mind, language, and ethics.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleLeading journal in analytic philosophy covering metaphysics, epistemology, philosophy of mind, language, and ethics.

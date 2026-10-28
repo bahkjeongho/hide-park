@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Art School]]"
 Wikis: https://en.wikipedia.org/wiki/London_College_of_Fashion
 ---
 >[!tldr] tl;dr

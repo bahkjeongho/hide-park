@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Tech Magazine]]"
 IG:
   - https://www.instagram.com/wired_jp/
 Website:

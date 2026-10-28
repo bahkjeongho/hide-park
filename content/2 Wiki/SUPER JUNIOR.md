@@ -5,6 +5,7 @@ aliases:
   - Super Junior
 topic:
   - "[[Music]]"
+  - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
 IG:
@@ -45,19 +46,37 @@ Countries:
 
 ---
 
+# People
+
+- [[이특]] `Leader`
+- [[희철]]
+- [[예성]]
+- [[신동]]
+- [[성민]]
+- [[은혁]]
+- [[시원]]
+- [[동해]]
+- [[려욱]]
+- [[규현]]
+- [[한경]] `Former`
+- [[강인]] `Former`
+- [[기범]] `Former`
+
+---
+
 # Discography
 
 ## Studio Album
 
 * [[Super Junior05 (SUPER JUNIOR)|Super Junior05]] [1st Studio Album] (2005.12.05)
 * [[돈 돈! (Don't Don) (SUPER JUNIOR)|돈 돈! (Don't Don)]] [2nd Studio Album] (2007.09.20)
-* [[돈 돈! (Don't Don) (SUPER JUNIOR)|돈 돈! (Don't Don)]] [2nd Studio Album Repackage] (2007.11.05)
+* [[돈 돈! (Don't Don) (SUPER JUNIOR)|돈 돈! (Don't Don)]] [2nd Studio Album Repackage] (2007.09.20)
 * [[Don't Don (SUPER JUNIOR)|Don't Don]] [Japanese Edition] (2009.02.25)
 * [[Sorry, Sorry (SUPER JUNIOR)|Sorry, Sorry]] [3rd Studio Album] (2009.03.12)
 * [[너라고 (It's You) (SUPER JUNIOR)|너라고 (It's You)]] [3rd Studio Album Repackage] (2009.05.14)
 * [[Sorry, Sorry (SUPER JUNIOR)|Sorry, Sorry]] [Japanese Edition] (2009.07.15)
 * [[미인아 (BONAMANA) (SUPER JUNIOR)|미인아 (BONAMANA)]] [4th Studio Album] (2010.05.13)
-* [[미인아 (BONAMANA) (SUPER JUNIOR)|미인아 (BONAMANA)]] [4th Studio Album Repackage] (2010.06.18)
+* [[미인아 (BONAMANA) (SUPER JUNIOR)|미인아 (BONAMANA)]] [4th Studio Album Repackage] (2010.05.13)
 * [[Mr. Simple (SUPER JUNIOR)|Mr. Simple]] [5th Studio Album] (2011.08.02)
 * [[A-CHA (SUPER JUNIOR)|A-CHA]] [5th Studio Album Repackage] (2011.09.19)
 * [[Sexy, Free & Single (SUPER JUNIOR)|Sexy, Free & Single]] [6th Studio Album] (2012.07.01)
@@ -70,7 +89,7 @@ Countries:
 * [[REPLAY (SUPER JUNIOR)|REPLAY]] [8th Studio Album Repackage] (2018.04.12)
 * [[Time_Slip (SUPER JUNIOR)|Time_Slip]] [9th Studio Album] (2019.10.14)
 * [[TIMELINE (SUPER JUNIOR)|TIMELINE]] [9th Studio Album Special] (2019.11.06)
-* [[TIMELESS (SUPER JUNIOR)|TIMELESS]] [9th Studio Album Repackage] (2020.01.26)
+* [[TIMELESS (SUPER JUNIOR)|TIMELESS]] [9th Studio Album Repackage] (2020.01.28)
 * [[Star (SUPER JUNIOR)|Star]] [2nd Japanese Studio Album] (2021.01.27)
 * [[The Renaissance (SUPER JUNIOR)|The Renaissance]] [10th Studio Album] (2021.03.16)
 * [[The Road - Keep on Going (SUPER JUNIOR)|The Road : Keep on Going]] [11th Studio Album Vol.1] (2022.07.12)

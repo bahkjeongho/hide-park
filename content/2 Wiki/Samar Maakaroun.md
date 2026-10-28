@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Creative Director]]"
 Website:
   - https://www.pentagram.com/about/samar-maakaroun-2
 ---

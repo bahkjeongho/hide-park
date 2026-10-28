@@ -1,14 +1,34 @@
 ---
-title: "Design Issues (DI)"
-Country/Region: "USA"
-language: "EN"
-discipline: "Design Studies"
-subdiscipline: "Design Studies"
-publisher: "MIT Press"
-research_orientation: "Critical Theory"
-subject_area:
-  - "Design"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Design]]"
+Discipline:
+  - "[[Design Studies]]"
+SubDiscipline:
+  - "[[Design Studies]]"
+Orientation: Critical Theory
+Publisher:
+  - "[[MIT Press]]"
 URL:
-  - "https://direct.mit.edu/desi"
+  - https://direct.mit.edu/desi
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Leading journal covering design history, theory, criticism, and design research.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleLeading journal covering design history, theory, criticism, and design research.

@@ -1,14 +1,34 @@
 ---
-title: "Computational Culture (CC)"
-Country/Region: "UK"
-language: "EN"
-discipline: "Media Studies"
-subdiscipline: "Media Studies"
-publisher: "MIT Press"
-research_orientation: "Critical Theory"
-subject_area:
-  - "Digital Media"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Digital Media]]"
+Discipline:
+  - "[[Media Studies]]"
+SubDiscipline:
+  - "[[Media Studies]]"
+Orientation: Critical Theory
+Publisher:
+  - "[[MIT Press]]"
 URL:
-  - "https://direct.mit.edu/cpro"
+  - https://direct.mit.edu/cpro
+Countries:
+  - "[[UK]]"
+Language: EN
 ---
-Open-access journal exploring computation, software, platforms, and digital culture.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# People

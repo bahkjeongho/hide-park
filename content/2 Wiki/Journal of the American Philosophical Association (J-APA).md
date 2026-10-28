@@ -1,15 +1,35 @@
 ---
-title: "Journal of the American Philosophical Association (J-APA)"
-academy: "American Philosophical Association"
-Country/Region: "USA"
-language: "EN"
-discipline: "Philosophy"
-subdiscipline: "Philosophy"
-publisher: "Cambridge University Press"
-research_orientation: "Analytic Philosophy"
-subject_area:
-  - "Philosophy"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Philosophy]]"
+Discipline:
+  - "[[Philosophy]]"
+SubDiscipline:
+  - "[[Philosophy]]"
+Orientation: Analytic Philosophy
+Academy: American Philosophical Association
+Publisher:
+  - "[[Cambridge University Press]]"
 URL:
-  - "https://www.cambridge.org/core/journals/journal-of-the-american-philosophical-association"
+  - https://www.cambridge.org/core/journals/journal-of-the-american-philosophical-association
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Publishes original research across all areas of philosophy.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeoplePublishes original research across all areas of philosophy.

@@ -2,8 +2,7 @@
 title: Westbund Dream Center
 architect:
   - "[[HCCH]]"
-city: Shanghai
-Country/Region: China
+Cities: Shanghai
 program:
   - Cultural
   - Commercial

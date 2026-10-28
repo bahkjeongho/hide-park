@@ -2,8 +2,7 @@
 title: Xi’an CCBD
 architect:
   - "[[Heatherwick Studio]]"
-city: Xi'an
-Country/Region: China
+Cities: Xi'an
 program:
   - District
 year: 2024

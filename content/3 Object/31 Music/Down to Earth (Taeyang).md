@@ -1,7 +1,7 @@
 ---
 title: Down to Earth
 artist:
-  - "[[Taeyang]]"
+  - "[[태양]]"
 year: 2023
 ---
 ---

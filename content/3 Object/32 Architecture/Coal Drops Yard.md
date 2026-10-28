@@ -2,8 +2,7 @@
 title: Coal Drops Yard
 architect:
   - "[[Heatherwick Studio]]"
-city: London
-Country/Region: UK
+Cities: London
 program:
   - Retail
 year: 2018

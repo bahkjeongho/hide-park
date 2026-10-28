@@ -2,8 +2,7 @@
 title: Xinhee Design Center
 architect:
   - "[[MAD]]"
-city: Xiamen
-Country/Region: China
+Cities: Xiamen
 program:
   - Office
 year: 2017

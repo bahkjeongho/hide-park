@@ -1,15 +1,35 @@
 ---
-title: "Critical Studies in Television (CST)"
-Country/Region: "UK"
-language: "EN"
-discipline: "Media Studies"
-subdiscipline: "Media Studies"
-publisher: "SAGE Publications"
-research_orientation: "Critical Theory"
-subject_area:
-  - "Media"
-  - "Television"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Media]]"
+  - "[[Television]]"
+Discipline:
+  - "[[Media Studies]]"
+SubDiscipline:
+  - "[[Media Studies]]"
+Orientation: Critical Theory
+Publisher:
+  - "[[SAGE Publications]]"
 URL:
-  - "https://journals.sagepub.com/home/CST"
+  - https://journals.sagepub.com/home/CST
+Countries:
+  - "[[UK]]"
+Language: EN
 ---
-Journal focused on television, broadcasting, streaming media, audiences, and screen culture.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleJournal focused on television, broadcasting, streaming media, audiences, and screen culture.

@@ -1,16 +1,36 @@
 ---
-title: "Social Media + Society (SM+S)"
-Country/Region: "USA"
-language: "EN"
-discipline: "Media Studies"
-subdiscipline: "Media Studies"
-publisher: "SAGE Publications"
-research_orientation: "Interdisciplinary Research"
-subject_area:
-  - "Communication"
-  - "Digital Media"
-  - "Popular Culture"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Communication]]"
+  - "[[Digital Media]]"
+  - "[[Popular Culture]]"
+Discipline:
+  - "[[Media Studies]]"
+SubDiscipline:
+  - "[[Media Studies]]"
+Orientation: Interdisciplinary Research
+Publisher:
+  - "[[SAGE Publications]]"
 URL:
-  - "https://journals.sagepub.com/home/SMS"
+  - https://journals.sagepub.com/home/SMS
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Open-access journal focused on social media, online communities, platform culture, digital politics, and communication.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleOpen-access journal focused on social media, online communities, platform culture, digital politics, and communication.

@@ -1,5 +1,7 @@
 ---
-topic: Film Editor
+topic:
+  - "[[Editor]]"
+Film Editor
 IG: https://www.instagram.com/mahferraz/
 Website: https://www.mahferraz.com/
 Related:

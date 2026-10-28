@@ -1,17 +1,60 @@
 ---
+aliases:
+  - 엔시티 드림
 topic:
-  - "[[K-Pop Idol]]"
   - "[[Music]]"
+  - "[[Artist]]"
+  - "[[K-Pop Idol]]"
+Genre:
+  - "[[K-Pop]]"
+  - "[[Hip Hop]]"
+  - "[[R&B]]"
 IG:
   - https://www.instagram.com/nct_dream/
+Website:
+  - https://www.smtown.com/artist/musician/10037
 URL:
   - https://www.youtube.com/@NCTDREAM
   - https://x.com/NCTsmtown_DREAM
+  - https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02
+Wikis:
+  - https://namu.wiki/w/NCT%20DREAM
+  - https://en.wikipedia.org/wiki/NCT_Dream
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
 Related:
   - "[[SM ENTERTAINMENT|SM ENT.]]"
   - "[[NCT]]"
 ---
+>[!tldr] tl;dr
+>`Boy Group` based in [[Seoul]]
+
+> [!Info]
+> 
+
 > [!Summary]
+> |   |   |
+> |---|---|
+> |데뷔일|2016년 8월 25일<br>2023년 2월 8일 (일본)|
+> |데뷔 음반|디지털 싱글 Chewing Gum<br>싱글 Best Friend Ever|
+> |장르|K-POP<br>댄스<br>R&B<br>힙합<br>발라드<br>퓨처 베이스<br>트로피컬 하우스<br>일렉트로니카|
+> |소속사|SM엔터테인먼트|
+> |멤버|런쥔<br>제노<br>해찬<br>재민<br>천러<br>지성|
+> |전 멤버|마크|
+
+---
+
+# People
+
+- [[런쥔]]
+- [[제노]]
+- [[해찬]]
+- [[재민]]
+- [[천러]]
+- [[지성]]
+- [[마크]] `Former`
 
 ---
 
@@ -31,7 +74,8 @@ Related:
 
 * [[We Young (NCT DREAM)|We Young]] [1st EP] (2017.08.17)
 * [[We Go Up (NCT DREAM)|We Go Up]] [2nd EP] (2018.09.03)
-* [[We Boom (NCT DREAM)|We Boom]] [3rd EP] (2019.07.26)
+* [[We Boom (NCT DREAM)|We Boom]] [3rd EP] (2019.07.29)
+* [[THE DREAM (NCT DREAM)|THE DREAM]] [Japanese 1st EP] (2020.01.22)
 * [[RELOAD (NCT DREAM)|RELOAD]] [4th EP] (2020.04.29)
 * [[Candy (NCT DREAM)|Candy]] [Winter Special EP] (2022.12.16)
 * [[DREAM( )SCAPE (NCT DREAM)|DREAM( )SCAPE]] [5th EP] (2024.03.25)
@@ -39,19 +83,14 @@ Related:
 
 ## Single
 
-- 
-
-## Album
-
 * [[Chewing Gum (NCT DREAM)|Chewing Gum]] [Digital Single] (2016.08.27)
 * [[THE FIRST (NCT DREAM)|THE FIRST]] [1st Single] (2017.02.09)
-* [[THE DREAM (NCT DREAM)|THE DREAM]] [Japanese 1st EP] (2020.01.22)
 * [[Best Friend Ever (NCT DREAM)|Best Friend Ever]] [Japanese 1st Single] (2023.02.08)
 * [[Beatbox (English Ver.) (NCT DREAM)|Beatbox (English Ver.)]] [English Digital Single] (2023.03.21)
 * [[Broken Melodies (NCT DREAM)|Broken Melodies]] [Pre-release Single] (2023.06.19)
 * [[Moonlight (NCT DREAM)|Moonlight]] [Japanese 2nd Single] (2024.06.05)
 * [[Rains in Heaven (NCT DREAM)|Rains in Heaven]] [English Single] (2024.08.23)
 
-## Live Album
+## Live Album & Etc.
 
 * [[THE DREAM SHOW (NCT DREAM)|THE DREAM SHOW]] [Live Album] (2020.06.09)

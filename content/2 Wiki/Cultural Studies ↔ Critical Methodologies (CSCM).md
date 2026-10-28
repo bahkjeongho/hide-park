@@ -1,16 +1,36 @@
 ---
-title: "Cultural Studies ↔ Critical Methodologies (CSCM)"
-Country/Region: "USA"
-language: "EN"
-discipline: "Cultural Studies"
-subdiscipline: "Cultural Studies"
-publisher: "SAGE Publications"
-research_orientation: "Critical Theory"
-subject_area:
-  - "Communication"
-  - "Education"
-  - "Media"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Communication]]"
+  - "[[Education]]"
+  - "[[Media]]"
+Discipline:
+  - "[[Cultural Studies]]"
+SubDiscipline:
+  - "[[Cultural Studies]]"
+Orientation: Critical Theory
+Publisher:
+  - "[[SAGE Publications]]"
 URL:
-  - "https://journals.sagepub.com/home/cuv"
+  - https://journals.sagepub.com/home/cuv
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Focuses on critical and qualitative research methodologies.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleFocuses on critical and qualitative research methodologies.

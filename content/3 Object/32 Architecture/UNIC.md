@@ -2,8 +2,7 @@
 title: UNIC
 architect:
   - "[[MAD]]"
-city: Paris
-Country/Region: France
+Cities: Paris
 program:
   - Residential
 year: 2020

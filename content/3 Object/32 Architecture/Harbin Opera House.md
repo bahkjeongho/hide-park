@@ -2,8 +2,7 @@
 title: Harbin Opera House
 architect:
   - "[[MAD]]"
-city: Harbin
-Country/Region: China
+Cities: Harbin
 program:
   - Cultural
   - Opera House

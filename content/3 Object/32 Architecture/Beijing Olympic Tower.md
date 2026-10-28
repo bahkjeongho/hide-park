@@ -2,8 +2,7 @@
 title: Beijing Olympic Tower
 architect:
   - "[[CCTC]]"
-city: Beijing
-Country/Region: China
+Cities: Beijing
 program:
   - Tower
 year: 2015

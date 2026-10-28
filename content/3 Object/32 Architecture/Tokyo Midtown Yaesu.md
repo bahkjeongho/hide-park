@@ -2,8 +2,7 @@
 title: Tokyo Midtown Yaesu
 architect:
   - "[[TAKENAKA]]"
-city: Tokyo
-Country/Region: Japan
+Cities: Tokyo
 program:
   - Office
   - Retail

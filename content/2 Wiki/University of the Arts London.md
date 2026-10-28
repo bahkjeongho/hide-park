@@ -42,4 +42,3 @@ Wikis:
 - [[London College of Communication]]
 - [[London College of Fashion]]
 - [[Wimbledon College of Arts]]
-- 

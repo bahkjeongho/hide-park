@@ -2,8 +2,7 @@
 title: XOCO 325
 architect:
   - "[[DDG Partners]]"
-city: New York
-Country/Region: USA
+Cities: New York
 program:
   - Residential
   - Retail

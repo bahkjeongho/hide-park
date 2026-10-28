@@ -2,8 +2,10 @@
 aliases:
   - 엑소
   - EXO
+  - EXO-K
 topic:
   - "[[Music]]"
+  - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
 IG:
@@ -41,12 +43,29 @@ Countries:
 
 ---
 
+# People
+
+- [[시우민]]
+- [[수호]] `Leader`
+- [[레이 (EXO)|레이]]
+- [[백현 (Baekhyun)|백현]]
+- [[첸]]
+- [[찬열]]
+- [[디오]]
+- [[카이]]
+- [[세훈]]
+- [[루한]] `Former`
+- [[크리스]] `Former`
+- [[타오]] `Former`
+
+---
+
 # Discography
 
 ## Studio Album
 
 * [[XOXO (Kiss&Hug) (EXO)|XOXO (Kiss&Hug)]] [1st Studio Album] (2013.06.03)
-* [[XOXO (Kiss&Hug) (EXO)|XOXO (Kiss&Hug)]] [1st Studio Album Repackage] (2013.08.05)
+* [[XOXO (Kiss&Hug) (EXO)|XOXO (Kiss&Hug)]] [1st Studio Album Repackage] (2013.06.03)
 * [[EXODUS (EXO)|EXODUS]] [2nd Studio Album] (2015.03.30)
 * [[LOVE ME RIGHT (EXO)|LOVE ME RIGHT]] [2nd Studio Album Repackage] (2015.06.03)
 * [[EX'ACT (EXO)|EX'ACT]] [3rd Studio Album] (2016.06.09)

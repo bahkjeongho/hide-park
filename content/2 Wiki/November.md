@@ -7,10 +7,15 @@ Website: https://www.novembermag.com/
 >
 
 > [!Info]
+> 
 
-# {{title}}
+> [!Summary]
 
-## Key Concepts
+---
 
-## Related Topics
-- [[]]
+# Portfolio
+
+
+---
+
+# People

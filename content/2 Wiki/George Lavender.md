@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Creative Director]]"
 IG: https://www.instagram.com/georgelavenderr/
 Website: https://george-lavender.com/
 ---

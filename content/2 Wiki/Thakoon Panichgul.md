@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Editor-in-Chief]]"
 IG:
   - https://www.instagram.com/mrthakoon/
 ---

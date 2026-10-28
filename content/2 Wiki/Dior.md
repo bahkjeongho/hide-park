@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Fashion Brand]]"
 Wikis: https://en.wikipedia.org/wiki/Dior
 ---
 >[!tldr] tl;dr

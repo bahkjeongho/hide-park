@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Record Label]]"
 Wikis: https://en.wikipedia.org/wiki/Def_Jam_Recordings
 ---
 >[!tldr] tl;dr

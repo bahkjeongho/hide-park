@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Fashion Magazine]]"
 IG:
   - https://www.instagram.com/voguesingapore/
 Website:

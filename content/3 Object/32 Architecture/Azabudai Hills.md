@@ -2,8 +2,7 @@
 title: Azabudai Hills
 architect:
   - "[[Heatherwick Studio]]"
-city: Tokyo
-Country/Region: Japan
+Cities: Tokyo
 program:
   - District
   - Residential

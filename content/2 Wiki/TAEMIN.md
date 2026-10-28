@@ -1,8 +1,45 @@
 ---
+aliases:
+  - TAEMIN
+  - 태민
+  - 이태민
+  - Lee Taemin
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
+  - "[[K-Pop Idol]]"
+Genre:
+  - "[[K-Pop]]"
+  - "[[J-Pop]]"
+  - "[[R&B]]"
+Labels:
+  - "[[SM ENTERTAINMENT]]"
+Member of:
+  - "[[SHINee]]"
+IG:
+  - https://www.instagram.com/xoalsox
+Wikis:
+  - https://en.wikipedia.org/wiki/Taemin
+  - https://namu.wiki/w/%ED%83%9C%EB%AF%BC
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
 ---
 > [!Summary]
+> |   |   |
+> |---|---|
+> |본명|이태민 (李泰民, Lee Taemin)|
+> |출생|1993년 7월 18일, 서울특별시 도봉구|
+> |국적|대한민국|
+> |본관|전주 이씨 (全州 李氏)|
+> |신체|174cm, B형|
+> |학력|서울신학초등학교 (졸업)<br>신방학중학교 (전학)<br>청담중학교 (졸업)<br>청담고등학교 (중퇴)<br>한림연예예술고등학교 (연예과 / 졸업)<br>명지대학교 예술체육대학 (영화뮤지컬학부 뮤지컬공연전공 / 학사)|
+> |병역|사회복무요원 소집해제 (2021년 5월 31일 ~ 2023년 4월 4일)|
+> |소속사|갤럭시코퍼레이션<br>이전: SM엔터테인먼트 (2008. 05. 25. ~ 2024. 03. 31.), 빅플래닛메이드엔터 (2024. 04. 01. ~ 2026. 02. 24.)|
+> |소속 그룹|SHINee<br>SuperM|
+> |포지션|메인댄서, 보컬 (SHINee)<br>메인댄서, 리드보컬 (SuperM)|
+> |데뷔|2008년 5월 25일 SHINee 미니 1집 누난 너무 예뻐 (Replay) (그룹)<br>2014년 8월 15일 미니 1집 ACE (솔로)<br>2019년 10월 4일 SuperM 미니 1집 SuperM (그룹)|
 
 ---
 
@@ -10,12 +47,32 @@ topic:
 
 ## Studio Album
 
-- 
+* [[Press It (TAEMIN)|Press It]] [1st Studio Album] (2016.02.23)
+* [[MOVE (TAEMIN)|MOVE]] [2nd Studio Album] (2017.10.16)
+* [[MOVE-ing (TAEMIN)|MOVE-ing]] [2nd Studio Album Repackage] (2017.12.10)
+* [[TAEMIN (TAEMIN)|TAEMIN]] [1st Japanese Studio Album] (2018.11.28)
+* [[Never Gonna Dance Again : Act 1 (TAEMIN)|Never Gonna Dance Again : Act 1]] [3rd Studio Album Act 1] (2020.09.07)
+* [[Never Gonna Dance Again : Act 2 (TAEMIN)|Never Gonna Dance Again : Act 2]] [3rd Studio Album Act 2] (2020.11.09)
 
 ## EP
 
-- 
+* [[ACE (TAEMIN)|ACE]] [1st EP] (2014.08.18)
+* [[さよなら ひとり (TAEMIN)|さよなら ひとり]] [1st Japanese EP] (2016.07.27)
+* [[Flame of Love (TAEMIN)|Flame of Love]] [2nd Japanese EP] (2017.07.18)
+* [[WANT (TAEMIN)|WANT]] [2nd EP] (2019.02.11)
+* [[FAMOUS (TAEMIN)|FAMOUS]] [3rd Japanese EP] (2019.08.28)
+* [[Advice (TAEMIN)|Advice]] [3rd EP] (2021.05.18)
+* [[Guilty (TAEMIN)|Guilty]] [4th EP] (2023.10.30)
+* [[ETERNAL (TAEMIN)|ETERNAL]] [5th EP] (2024.08.19)
+* [[SOFT VIOLENCE (TAEMIN)|SOFT VIOLENCE]] [6th EP] (2026.08.31)
 
 ## Single
+
+* [[Never Gonna Dance Again : Prologue (TAEMIN)|Never Gonna Dance Again : Prologue]] [Prologue Single] (2020.08.04)
+* [[Veil (TAEMIN)|Veil]] [Special Single] (2025.09.13)
+* [[Long Way Home (TAEMIN)|Long Way Home]] [Japanese Special Single] (2026.03.27)
+* [[PERMISSION (TAEMIN)|PERMISSION]] [Japanese Special Single] (2026.05.22)
+
+## Live Album & Etc.
 
 - 

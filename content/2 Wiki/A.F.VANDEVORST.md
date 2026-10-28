@@ -2,7 +2,6 @@
 topic: Fashion Brand
 IG: https://www.instagram.com/afvandevorst/
 Website: https://shop.afvandevorst.com/
-Country/Region: Berlin / Germany
 Related:
   - "[[An Vandevorst]]"
 ---

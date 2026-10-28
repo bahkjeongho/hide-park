@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Fashion Magazine]]"
 Website:
   - https://www.gq.com/?us_site=y&verso=true
 ---

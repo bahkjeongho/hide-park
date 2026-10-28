@@ -1,15 +1,35 @@
 ---
-title: "PAJ: A Journal of Performance and Art (PAJ)"
-Country/Region: "USA"
-language: "EN"
-discipline: "Performance Studies"
-subdiscipline: "Performance Studies"
-publisher: "MIT Press"
-research_orientation: "Critical Theory"
-subject_area:
-  - "Performance"
-  - "Visual Art"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Performance]]"
+  - "[[Visual Art]]"
+Discipline:
+  - "[[Performance Studies]]"
+SubDiscipline:
+  - "[[Performance Studies]]"
+Orientation: Critical Theory
+Publisher:
+  - "[[MIT Press]]"
 URL:
-  - "https://direct.mit.edu/psct"
+  - https://direct.mit.edu/psct
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Journal covering performance art, theatre, contemporary art, and interdisciplinary artistic practice.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleJournal covering performance art, theatre, contemporary art, and interdisciplinary artistic practice.

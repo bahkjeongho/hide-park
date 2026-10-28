@@ -1,15 +1,35 @@
 ---
-title: "Cultural Trends (CT)"
-Country/Region: "UK"
-language: "EN"
-discipline: "Cultural Studies"
-subdiscipline: "Cultural Studies"
-publisher: "Taylor & Francis"
-research_orientation: "Interdisciplinary Research"
-subject_area:
-  - "Media"
-  - "Popular Culture"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Media]]"
+  - "[[Popular Culture]]"
+Discipline:
+  - "[[Cultural Studies]]"
+SubDiscipline:
+  - "[[Cultural Studies]]"
+Orientation: Interdisciplinary Research
+Publisher:
+  - "[[Taylor & Francis]]"
 URL:
-  - "https://www.tandfonline.com/journals/ccut20"
+  - https://www.tandfonline.com/journals/ccut20
+Countries:
+  - "[[UK]]"
+Language: EN
 ---
-Research on cultural policy, cultural participation, cultural industries, and cultural statistics.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleResearch on cultural policy, cultural participation, cultural industries, and cultural statistics.

@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Fashion Magazine]]"
 ---
 >[!tldr] tl;dr
 >

@@ -1,19 +1,41 @@
 ---
-kind: Design Week
-Country/Region: Germany
+aliases:
+  - BDW
 topic:
   - Multidisciplinary
-  - 
-URL:
+  - "[[Design Week]]"
+Kind:
+  - "[[Design Week]]"
+Subject:
+  - "[[Design]]"
+  - "[[Architecture]]"
+  - "[[Interior Design]]"
+  - "[[Strategic Branding]]"
+IG:
+  - https://www.instagram.com/berlindesignweek
+Website:
   - https://berlindesignweek.com/
-  - 
-rating: 5
+Cities:
+  - "[[Berlin]]"
+Countries:
+  - "[[Germany]]"
 ---
 >[!tldr] tl;dr
->
+>`Design Week` held annually in [[Berlin]]
 
 > [!Info]
-> 
+> 베를린 디자인 위크는 혁신과 지속가능성을 지향하는 디자인 문화의 새로운 접근과 트렌드를 선보입니다. 국제 무대로서 베를린의 강한 창작 풍경을 기성 스튜디오부터 차세대 디자이너, 연구 기관, 전문 네트워크에 이르는 유럽 전역의 디자인 전문가와 연결합니다. 건축, 인테리어 디자인, 전략적 브랜딩, 디지털 전환과 최첨단 연구가 하나의 생태계로 녹아듭니다.
+>
+> Die Berlin Design Week präsentiert neue Ansätze und Trends einer auf Innovation und Nachhaltigkeit ausgerichteten Designkultur. Als internationales Podium verbindet sie Berlins starke Kreativ-Landschaft mit Design-Professionals aus ganz Europa – von etablierten Studios über Next Generation Designer bis hin zu Forschungseinrichtungen und Fach-Netzwerken. Hier verschmelzen Architektur, Interior Design, Strategic Branding, digitale Transformation und cutting-edge Forschung zu einem lebendigen Ökosystem.
 
 > [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# People
 

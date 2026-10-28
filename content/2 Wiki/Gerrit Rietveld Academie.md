@@ -1,0 +1,64 @@
+---
+aliases:
+  - Rietveld
+  - Rietveld Academie
+topic:
+  - "[[Art School]]"
+IG:
+  - https://www.instagram.com/rietveldacademie
+Website:
+  - https://www.rietveldacademie.nl/en
+Wikis:
+  - https://en.wikipedia.org/wiki/Gerrit_Rietveld_Academie
+Cities:
+  - "[[Amsterdam]]"
+Countries:
+  - "[[Netherlands]]"
+---
+>[!tldr] tl;dr
+>`Art School` based in [[Amsterdam]]
+
+> [!Info]
+> 헤릿 리트벨트 아카데미는 암스테르담에 있는 소규모의 독립적이고 국제 지향적인 미술·디자인 대학입니다. 4년제 학사 과정은 공통 기초 과정인 Basicyear로 시작하며, 이후 12개 전공(학과) 중에서 정해 진학합니다. 모든 학과가 자기 분야에 질문을 던지고 실험적 접근을 공유합니다.
+>
+> The Gerrit Rietveld Academie is a small-scale, independent and internationally oriented university for fine art and design in Amsterdam (NL). A wide range of artistic expertise converges at the academy. The Rietveld Academie offers a four-year bachelor’s degree programme that starts with a general formative year, the Basicyear, after which students can make an informed choice from twelve different specialisations, the departments. All the departments at the academy question their own disciplines and share an experimental approach to education.
+
+> [!Summary]
+> |   |   |
+> |---|---|
+> |Former name|Instituut voor Kunstnijverheidsonderwijs|
+> |Type|Art academy|
+> |Established|1924|
+> |Location|Frederik Roeskestraat 96, Amsterdam, Netherlands|
+> |Website|rietveldacademie.nl|
+
+---
+
+# Programs
+
+## Undergraduate
+
+- [[Architectural Design (Gerrit Rietveld Academie)|Architectural Design]]
+- [[Ceramics (Gerrit Rietveld Academie)|Ceramics]]
+- [[designLAB (Gerrit Rietveld Academie)|designLAB]]
+- [[Fashion (Gerrit Rietveld Academie)|Fashion]]
+- [[Fine Arts (Gerrit Rietveld Academie)|Fine Arts]]
+- [[Graphic Design (Gerrit Rietveld Academie)|Graphic Design]]
+- [[Image & Language (Gerrit Rietveld Academie)|Image & Language]]
+- [[Jewellery - Linking Bodies (Gerrit Rietveld Academie)|Jewellery - Linking Bodies]]
+- [[The Large Glass (Gerrit Rietveld Academie)|The Large Glass]]
+- [[Photography (Gerrit Rietveld Academie)|Photography]]
+- [[VAV - moving image (Gerrit Rietveld Academie)|VAV - moving image]]
+- [[DOGtime - Expanded Painting (Gerrit Rietveld Academie)|DOGtime - Expanded Painting]]
+- [[DOGtime - Unstable Media (Gerrit Rietveld Academie)|DOGtime - Unstable Media]]
+
+## Graduate
+
+- [[Master of Arts in Fine Art & Design (Gerrit Rietveld Academie)|Master of Arts in Fine Art & Design]]
+- [[Master Interior Architecture (Gerrit Rietveld Academie)|Master Interior Architecture]]
+
+---
+
+# People
+
+

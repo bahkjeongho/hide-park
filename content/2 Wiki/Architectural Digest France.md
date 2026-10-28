@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Design Magazine]]"
 Website:
   - https://www.admagazine.fr/
 ---

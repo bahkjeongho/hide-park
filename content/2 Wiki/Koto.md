@@ -7,8 +7,6 @@ Website:
   - https://koto.com/
 URL:
   - https://www.linkedin.com/company/koto
-Related:
-  - "[[OFF Brand]]"
 Cities:
   - "[[Sydney]]"
   - "[[Los Angeles]]"
@@ -20,6 +18,8 @@ Countries:
   - "[[USA]]"
   - "[[UK]]"
   - "[[Germany]]"
+Related:
+  - "[[OFF Brand]]"
 ---
 >[!tldr] tl;dr
 >

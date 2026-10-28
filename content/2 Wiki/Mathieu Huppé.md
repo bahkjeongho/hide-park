@@ -1,7 +1,8 @@
 ---
+topic:
+  - "[[Art Director]]"
 IG: https://www.instagram.com/mathieuhuppe/
 Website: https://mathieuhuppe.com/
-Country/Region: Paris / France
 ---
 >[!tldr] tl;dr
 >

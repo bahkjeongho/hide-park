@@ -1,17 +1,70 @@
 ---
+aliases:
+  - 웨이션브이
+  - 威神V
+  - WeiShenV
 topic:
-  - "[[K-Pop Idol]]"
   - "[[Music]]"
+  - "[[Artist]]"
+  - "[[K-Pop Idol]]"
+Genre:
+  - "[[K-Pop]]"
+  - "[[C-Pop]]"
+  - "[[Hip Hop]]"
+  - "[[R&B]]"
 IG:
   - https://www.instagram.com/wayvofficial/
+Website:
+  - https://www.smentertainment.com/en/artist/wayv/
 URL:
   - https://www.youtube.com/@WayV
   - https://x.com/WayV_official
+  - https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz
+Wikis:
+  - https://namu.wiki/w/WayV
+  - https://en.wikipedia.org/wiki/WayV
+Cities:
+  - "[[Seoul]]"
+  - "[[Shanghai]]"
+Countries:
+  - "[[South Korea]]"
+  - "[[China]]"
 Related:
   - "[[SM ENTERTAINMENT|SM ENT.]]"
   - "[[NCT]]"
 ---
+>[!tldr] tl;dr
+>`Boy Group` unit of [[NCT]] based in [[Seoul]] and China
+
+> [!Info]
+> 
+
 > [!Summary]
+> |   |   |
+> |---|---|
+> |데뷔일|2019년 1월 17일|
+> |데뷔 음반|디지털 EP The Vision|
+> |리더|쿤|
+> |장르|월드 뮤직<br>중국 음악<br>랩 / 힙합|
+> |소속사|SM엔터테인먼트|
+> |레이블|LABEL V<br>Avex Trax|
+> |유통사|카카오엔터테인먼트<br>에이벡스 엔터테인먼트<br>텐센트 뮤직 엔터테인먼트|
+> |팬덤|WayZenNi (웨이즈니)|
+> |응원봉|대파봉 (2019~2024)<br>믐뭔봄 (2024~)|
+> |멤버|쿤<br>텐<br>샤오쥔<br>헨드리<br>양양|
+> |전 멤버|루카스<br>윈윈|
+
+---
+
+# People
+
+- [[쿤]] `Leader`
+- [[텐]]
+- [[샤오쥔]]
+- [[헨드리]]
+- [[양양]]
+- [[윈윈]] `Former`
+- [[루카스]] `Former`
 
 ---
 
@@ -19,7 +72,8 @@ Related:
 
 ## Studio Album
 
-- 
+* [[Awaken The World (WayV)|Awaken The World]] [1st Studio Album] (2020.06.09)
+* [[On My Youth (WayV)|On My Youth]] [2nd Studio Album] (2023.11.01)
 
 ## EP
 
@@ -38,10 +92,7 @@ Related:
 ## Single
 
 * [[Love Talk (WayV)|Love Talk]] [English Digital Single] (2019.11.05)
-* [[Awaken The World (WayV)|Awaken The World]] [1st Studio Album] (2020.06.09)
 * [[Turn Back Time (Korean Ver.) (WayV)|Turn Back Time (Korean Ver.)]] [Korean Digital Single] (2020.06.18)
 * [[Bad Alive (English Ver.) (WayV)|Bad Alive (English Ver.)]] [English Digital Single] (2020.07.29)
 * [[Welcome To My Paradise (WayV)|Welcome To My Paradise]] [Japanese Digital Single] (2023.05.06)
-* [[On My Youth (WayV)|On My Youth]] [2nd Studio Album] (2023.11.01)
 * [[HIGH FIVE (WayV)|HIGH FIVE]] [Pre-release Single] (2024.11.19)
-

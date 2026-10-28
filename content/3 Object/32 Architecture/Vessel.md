@@ -2,8 +2,7 @@
 title: Vessel
 architect:
   - "[[Heatherwick Studio]]"
-city: New York
-Country/Region: USA
+Cities: New York
 program:
   - Public
 year: 2019

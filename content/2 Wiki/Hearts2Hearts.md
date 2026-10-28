@@ -1,21 +1,65 @@
 ---
+aliases:
+  - 하츠투하츠
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
+  - "[[K-Pop Idol]]"
+Genre:
+  - "[[K-Pop]]"
+  - "[[Dance-Pop]]"
 IG:
   - https://www.instagram.com/hearts2hearts/
+Website:
+  - https://hearts2heartsofficial.jp/
 URL:
   - https://www.youtube.com/@hearts2hearts.official
   - https://x.com/Hearts2Hearts
+  - https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ
+Wikis:
+  - https://namu.wiki/w/Hearts2Hearts
+  - https://en.wikipedia.org/wiki/Hearts2Hearts
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
 ---
+>[!tldr] tl;dr
+>`Girl Group` based in [[Seoul]]
+
+> [!Info]
+> 
+
 > [!Summary]
+> |   |   |
+> |---|---|
+> |데뷔일|2025년 2월 24일<br>2026년 8월 12일 (일본)|
+> |데뷔 음반|싱글 1집 The Chase<br>싱글 1집 ICONIC HEART|
+> |장르|K-POP<br>댄스<br>하우스|
+> |리더|지우|
+> |소속사|SM엔터테인먼트|
+> |레이블|EMI Records|
+> |유통사|카카오엔터테인먼트<br>유니버설 뮤직 재팬<br>텐센트 뮤직 엔터테인먼트|
+> |팬덤|S2U (하츄)|
+> |응원봉|하츄봉|
+> |멤버|지우<br>카르멘<br>유하<br>스텔라<br>주은<br>에이나<br>이안<br>예온|
+
+---
+
+# People
+
+- [[지우 (Hearts2Hearts)|지우]] `Leader`
+- [[카르멘]]
+- [[유하]]
+- [[스텔라]]
+- [[주은]]
+- [[에이나]]
+- [[이안]]
+- [[예온]]
 
 ---
 
 # Discography
-
-## Studio Album
-
-- 
 
 ## EP
 
@@ -30,3 +74,4 @@ URL:
 * [[RUDE! (Hearts2Hearts)|RUDE!]] [Digital Single] (2026.02.20)
 * [[RUDE! (Japanese Ver.) (Hearts2Hearts)|RUDE! (Japanese Ver.)]] [Digital Single] (2026.03.18)
 * [[ICONIC HEART (Hearts2Hearts)|ICONIC HEART]] [1st Japanese Single] (2026.08.12)
+* [[ICONIC HEART (Korean Ver.) (Hearts2Hearts)|ICONIC HEART (Korean Ver.)]] [Digital Single] (2026.10.05)

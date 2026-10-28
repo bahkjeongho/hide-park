@@ -1,6 +1,5 @@
 ---
 aliases:
-  - 밤빵 타이거
   - 바밍타이거
   - BALMING TIGER
 topic:

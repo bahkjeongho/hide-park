@@ -1,15 +1,35 @@
 ---
-title: "Critical Quarterly (CQ)"
-Country/Region: "UK"
-language: "EN"
-discipline: "Literature"
-subdiscipline: "Literary Studies"
-publisher: "Wiley"
-research_orientation: "Critical Theory"
-subject_area:
-  - "Literature"
-  - "Popular Culture"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Literature]]"
+  - "[[Popular Culture]]"
+Discipline:
+  - "[[Literature]]"
+SubDiscipline:
+  - "[[Literary Studies]]"
+Orientation: Critical Theory
+Publisher:
+  - "[[Wiley]]"
 URL:
-  - "https://onlinelibrary.wiley.com/journal/14678705"
+  - https://onlinelibrary.wiley.com/journal/14678705
+Countries:
+  - "[[UK]]"
+Language: EN
 ---
-Journal of literary criticism, cultural commentary, and contemporary intellectual debate.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleJournal of literary criticism, cultural commentary, and contemporary intellectual debate.

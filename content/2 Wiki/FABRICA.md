@@ -1,7 +1,8 @@
 ---
+topic:
+  - "[[Creative Studio]]"
 IG: https://www.instagram.com/fabrica.work/
 Website: https://www.fabrica.works/
-Country/Region: Seoul / Korea
 Related:
   - "[[남은욱]]"
 ---

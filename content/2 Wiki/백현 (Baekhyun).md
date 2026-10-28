@@ -8,6 +8,10 @@ topic:
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
+Labels:
+  - "[[SM ENTERTAINMENT]]"
+Member of:
+  - "[[EXO]]"
 IG:
   - https://www.instagram.com/baekhyunee_exo/
 URL:

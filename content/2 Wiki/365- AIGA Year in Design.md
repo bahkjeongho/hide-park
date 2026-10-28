@@ -1,7 +1,7 @@
 ---
 topic:
   - "[[Design Award]]"
-URL:
+Website:
   - https://www.aiga.org/competitions-initiatives/365-aiga-year-in-design
 Related:
   - "[[AIGA]]"
@@ -14,4 +14,12 @@ Related:
 
 > [!Summary]
 
+---
+
+# Portfolio
+
+
+---
+
+# People
 

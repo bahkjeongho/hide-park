@@ -2,8 +2,7 @@
 title: Lucas Museum of Narrative Art
 architect:
   - "[[MAD]]"
-city: Los Angeles
-Country/Region: USA
+Cities: Los Angeles
 program:
   - Cultural
   - Museum

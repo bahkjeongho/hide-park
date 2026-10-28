@@ -1,0 +1,33 @@
+---
+aliases:
+  - SEOHYEON
+topic:
+  - "[[Music]]"
+  - "[[Artist]]"
+  - "[[K-Pop Idol]]"
+Genre:
+  - "[[K-Pop]]"
+Labels:
+  - "[[TITAN CONTENT]]"
+Member of:
+  - "[[AtHeart]]"
+IG:
+  - https://www.instagram.com/seohyeonatheart/
+---
+> [!Summary]
+
+---
+
+# Discography
+
+## Studio Album
+
+- 
+
+## EP
+
+- 
+
+## Single
+
+- 

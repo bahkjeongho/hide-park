@@ -1,7 +1,7 @@
 ---
 title: Birthday
 artist:
-  - "[[Somi]]"
+  - "[[전소미]]"
 year: 2019
 ---
 ---

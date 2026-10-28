@@ -1,14 +1,34 @@
 ---
-title: "ARTMargins (ARTMargins)"
-Country/Region: "USA"
-language: "EN"
-discipline: "Art History"
-subdiscipline: "Contemporary Art"
-publisher: "MIT Press"
-research_orientation: "Critical Theory"
-subject_area:
-  - "Visual Art"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Visual Art]]"
+Discipline:
+  - "[[Art History]]"
+SubDiscipline:
+  - "[[Contemporary Art]]"
+Orientation: Critical Theory
+Publisher:
+  - "[[MIT Press]]"
 URL:
-  - "https://direct.mit.edu/artm"
+  - https://direct.mit.edu/artm
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Journal examining global contemporary art, post-socialist cultures, and critical art history.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# People

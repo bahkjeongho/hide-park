@@ -2,8 +2,7 @@
 title: Quzhou Sports Park
 architect:
   - "[[MAD]]"
-city: Quzhou
-Country/Region: China
+Cities: Quzhou
 program:
   - Sports
 year: 2026

@@ -1,14 +1,34 @@
 ---
-title: "The Philosophical Review (PR)"
-Country/Region: "USA"
-language: "EN"
-discipline: "Philosophy"
-subdiscipline: "Philosophy"
-publisher: "Duke University Press"
-research_orientation: "Analytic Philosophy"
-subject_area:
-  - "Philosophy"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Philosophy]]"
+Discipline:
+  - "[[Philosophy]]"
+SubDiscipline:
+  - "[[Philosophy]]"
+Orientation: Analytic Philosophy
+Publisher:
+  - "[[Duke University Press]]"
 URL:
-  - "https://read.dukeupress.edu/the-philosophical-review"
+  - https://read.dukeupress.edu/the-philosophical-review
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-One of the most prestigious journals in philosophy, publishing major contributions across the discipline.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleOne of the most prestigious journals in philosophy, publishing major contributions across the discipline.

@@ -1,9 +1,8 @@
 ---
 title: Titlis Tower
 architect:
-  - "[[Herzog & DeMeuron]]"
-city: Engelberg
-Country/Region: Swiss
+  - "[[Herzog & de Meuron]]"
+Cities: Engelberg
 program:
   - Tower
 year: 2026

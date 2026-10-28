@@ -1,17 +1,37 @@
 ---
-title: "Performance Research (PR)"
-academy: "Performance Research Ltd."
-Country/Region: "UK"
-language: "EN"
-discipline: "Performance Studies"
-subdiscipline: "Performance Studies"
-publisher: "Taylor & Francis"
-research_orientation: "Practice-Based Research"
-subject_area:
-  - "Dance"
-  - "Performance"
-  - "Theatre"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Dance]]"
+  - "[[Performance]]"
+  - "[[Theatre]]"
+Discipline:
+  - "[[Performance Studies]]"
+SubDiscipline:
+  - "[[Performance Studies]]"
+Orientation: Practice-Based Research
+Academy: Performance Research Ltd.
+Publisher:
+  - "[[Taylor & Francis]]"
 URL:
-  - "https://www.tandfonline.com/journals/tpar20"
+  - https://www.tandfonline.com/journals/tpar20
+Countries:
+  - "[[UK]]"
+Language: EN
 ---
-Interdisciplinary journal exploring performance theory and artistic practice.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleInterdisciplinary journal exploring performance theory and artistic practice.

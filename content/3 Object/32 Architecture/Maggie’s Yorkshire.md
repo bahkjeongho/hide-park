@@ -2,8 +2,7 @@
 title: Maggie’s Yorkshire
 architect:
   - "[[Heatherwick Studio]]"
-city: Leeds
-Country/Region: UK
+Cities: Leeds
 program:
   - Office
   - Non-Profit

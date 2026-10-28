@@ -1,15 +1,35 @@
 ---
-title: "Popular Music and Society (PMS)"
-Country/Region: "USA"
-language: "EN"
-discipline: "Music Studies"
-subdiscipline: "Music Studies"
-publisher: "Taylor & Francis"
-research_orientation: "Cultural Studies"
-subject_area:
-  - "Music"
-  - "Popular Culture"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Music]]"
+  - "[[Popular Culture]]"
+Discipline:
+  - "[[Music Studies]]"
+SubDiscipline:
+  - "[[Music Studies]]"
+Orientation: Cultural Studies
+Publisher:
+  - "[[Taylor & Francis]]"
 URL:
-  - "https://www.tandfonline.com/journals/rpms20"
+  - https://www.tandfonline.com/journals/rpms20
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Research on popular music, music industries, audiences, identity, and culture.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleResearch on popular music, music industries, audiences, identity, and culture.

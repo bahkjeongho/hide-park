@@ -1,16 +1,36 @@
 ---
-title: "Cultural Studies (CS)"
-Country/Region: "UK"
-language: "EN"
-discipline: "Cultural Studies"
-subdiscipline: "Cultural Studies"
-publisher: "Taylor & Francis"
-research_orientation: "Cultural Studies"
-subject_area:
-  - "Digital Media"
-  - "Media"
-  - "Popular Culture"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Digital Media]]"
+  - "[[Media]]"
+  - "[[Popular Culture]]"
+Discipline:
+  - "[[Cultural Studies]]"
+SubDiscipline:
+  - "[[Cultural Studies]]"
+Orientation: Cultural Studies
+Publisher:
+  - "[[Taylor & Francis]]"
 URL:
-  - "https://www.tandfonline.com/journals/rcus20"
+  - https://www.tandfonline.com/journals/rcus20
+Countries:
+  - "[[UK]]"
+Language: EN
 ---
-Foundational journal in cultural studies.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleFoundational journal in cultural studies.

@@ -2,8 +2,7 @@
 title: Shimokitazawa Terrace Building
 architect:
   - "[[KEY OPERATION]]"
-city: Tokyo
-Country/Region: Japan
+Cities: Tokyo
 program:
   - Retail
   - Mixed Use

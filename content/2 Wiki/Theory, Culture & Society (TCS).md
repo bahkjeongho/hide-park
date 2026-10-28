@@ -1,15 +1,35 @@
 ---
-title: "Theory, Culture & Society (TCS)"
-Country/Region: "UK"
-language: "EN"
-discipline: "Cultural Studies"
-subdiscipline: "Cultural Studies"
-publisher: "SAGE Publications"
-research_orientation: "Critical Theory"
-subject_area:
-  - "Media"
-  - "Popular Culture"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Media]]"
+  - "[[Popular Culture]]"
+Discipline:
+  - "[[Cultural Studies]]"
+SubDiscipline:
+  - "[[Cultural Studies]]"
+Orientation: Critical Theory
+Publisher:
+  - "[[SAGE Publications]]"
 URL:
-  - "https://journals.sagepub.com/home/TCS"
+  - https://journals.sagepub.com/home/TCS
+Countries:
+  - "[[UK]]"
+Language: EN
 ---
-Leading journal in social and cultural theory covering media, modernity, identity, and globalization.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleLeading journal in social and cultural theory covering media, modernity, identity, and globalization.

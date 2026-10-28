@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Art Director]]"
 IG:
   - https://www.instagram.com/yung_vxrp/
 ---

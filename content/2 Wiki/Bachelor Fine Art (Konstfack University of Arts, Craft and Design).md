@@ -1,0 +1,31 @@
+---
+topic:
+  - "[[Fine Art Program]]"
+IG:
+  - https://www.instagram.com/konstfack
+Website:
+  - https://www.konstfack.se/en/Education/Bachelors-Degree-Programmes/Konst-180-hp/
+Cities:
+  - "[[Stockholm]]"
+Countries:
+  - "[[Sweden]]"
+---
+>[!tldr] tl;dr
+>`Bachelor` in fine art of [[Konstfack University of Arts, Craft and Design]]
+
+> [!Info]
+> 순수미술 학사 과정(180학점, 전일제)은 학생 각자의 예술 작업에 기반하고 집중합니다. 예술가로 일하는 데 필요한 실천적·이론적 지식을 제공하는 것이 목표입니다. 교수진은 모두 현역 예술가·작가·연구자·큐레이터이며, 해마다 새 개인 튜터가 배정되어 개별 학습 계획을 세웁니다.
+>
+> The Bachelor's programme in Fine Art is based and focused on the artistic work of each individual student. The aim is to provide you with the practical and theoretical knowledge needed for a career as an artist. The teachers you will meet during your studies are all professionally active artists, writers, researchers or curators.
+
+---
+
+# Courses
+
+
+
+
+---
+
+# Faculty
+

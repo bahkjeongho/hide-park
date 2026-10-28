@@ -8,7 +8,6 @@ IG:
   - https://www.instagram.com/abcdinamo/
 Website:
   - https://abcdinamo.com/
-Country/Region: "[[Berlin / Germany]]"
 ---
 >[!tldr] tl;dr
 >

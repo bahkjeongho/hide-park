@@ -1,14 +1,34 @@
 ---
-title: "Analysis"
-Country/Region: "UK"
-language: "EN"
-discipline: "Philosophy"
-subdiscipline: "Philosophy"
-publisher: "Oxford University Press"
-research_orientation: "Analytic Philosophy"
-subject_area:
-  - "Philosophy"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Philosophy]]"
+Discipline:
+  - "[[Philosophy]]"
+SubDiscipline:
+  - "[[Philosophy]]"
+Orientation: Analytic Philosophy
+Publisher:
+  - "[[Oxford University Press]]"
 URL:
-  - "https://academic.oup.com/analysis"
+  - https://academic.oup.com/analysis
+Countries:
+  - "[[UK]]"
+Language: EN
 ---
-Leading journal of short articles in analytic philosophy.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleLeading journal of short articles in analytic philosophy.

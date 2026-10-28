@@ -2,8 +2,7 @@
 title: Taichung Convention Center
 architect:
   - "[[MAD]]"
-city: Taichung
-Country/Region: China
+Cities: Taichung
 program:
   - Cultural
 year: 2009

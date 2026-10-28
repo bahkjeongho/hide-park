@@ -2,8 +2,7 @@
 title: Urban Forest Chongqing
 architect:
   - "[[MAD]]"
-city: Chongquing
-Country/Region: China
+Cities: Chongquing
 program:
   - Mixed Use
 year: 2009

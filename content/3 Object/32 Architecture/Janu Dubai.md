@@ -2,8 +2,7 @@
 title: Janu Dubai
 architect:
   - "[[Herzog & DeMeuron]]"
-city: Dubai
-Country/Region: UAE
+Cities: Dubai
 program:
   - Complex
   - Retail

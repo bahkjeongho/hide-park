@@ -1,13 +1,13 @@
 ---
-kind: Design Week
-Country/Region: France
 topic:
   - Multidisciplinary
-  - 
-URL:
+  - "[[Design Week]]"
+Kind:
+  - "[[Design Week]]"
+Website:
   - https://www.maison-objet.com/en/paris-design-week
-  - 
-rating: 4
+Countries:
+  - "[[France]]"
 ---
 >[!tldr] tl;dr
 >
@@ -16,4 +16,13 @@ rating: 4
 > 
 
 > [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# People
 

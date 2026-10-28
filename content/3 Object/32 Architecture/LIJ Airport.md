@@ -2,8 +2,7 @@
 title: LIJ Airport
 architect:
   - "[[MAD]]"
-city: Lishui
-Country/Region: China
+Cities: Lishui
 program:
   - Airport
   - Infrastructure

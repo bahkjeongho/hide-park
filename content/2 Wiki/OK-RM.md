@@ -5,9 +5,13 @@ IG:
   - https://www.instagram.com/okrm_london/
 Website:
   - https://www.ok-rm.co.uk/
+Cities:
+  - "[[London]]"
+Countries:
+  - "[[UK]]"
 ---
 >[!tldr] tl;dr
->
+>2008년 Oliver Knight와 Rory McGrath가 설립한 런던의 디자인 스튜디오
 
 > [!Info]
 > OK-RM, founded by Oliver Knight and Rory McGrath in 2008, is a studio intent on pushing the potentialities of what a design practice can be. Design is here understood, in its broadest sense, as a means of communicating, as a transitive verb that operates laterally across disciplines and media, and finds realisation in an arresting and aesthetic language.
@@ -21,4 +25,17 @@ Each project affords a designation of time for sustained research and investigat
 the micro and macro, formal and relational, is a durational exercise, one that enables our work to meaningfully exist in, and participate with, the world.
 
 > [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# People
+
+- [[Oliver Knight]] `Founder`
+- [[Rory McGrath]] `Founder`
+
 

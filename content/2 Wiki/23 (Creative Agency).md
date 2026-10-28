@@ -22,3 +22,15 @@ After graduating with first class honours from the Central Saint Martins Fine Ar
 
 > [!Summary]
 
+---
+
+# Portfolio
+
+
+---
+
+# People
+
+- [[Matt Roach]] `Founder`
+- [[Emma Hetherington]] `Founder`
+

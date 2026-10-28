@@ -1,8 +1,38 @@
 ---
+aliases:
+  - 백예린
+  - 白藝璘
 topic:
   - "[[Music]]"
+Genre:
+  - "[[K-Pop]]"
+  - "[[R&B]]"
+IG:
+  - https://www.instagram.com/yerin_the_genuine/
+URL:
+  - https://x.com/yerinbaek
+  - https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK
+  - https://soundcloud.com/eyriej
+Wikis:
+  - https://en.wikipedia.org/wiki/Yerin_Baek
+  - https://namu.wiki/w/%EB%B0%B1%EC%98%88%EB%A6%B0
+Cities:
+  - "[[Daejeon]]"
+Countries:
+  - "[[South Korea]]"
 ---
 > [!Summary]
+> |   |   |
+> |---|---|
+> |**백예린 (白藝璘｜Yerin Baek)**||
+> |출생|1997년 6월 26일<br>대전광역시 중구 태평동|
+> |국적|대한민국|
+> |학력|대전태평초등학교 (졸업)<br>중학교 졸업 학력 검정고시 (합격)<br>한림연예예술고등학교 (실용음악과 / 졸업)|
+> |소속사|peoplelikepeople<br>이전: JYP엔터테인먼트 (2007. ~ 2019. 09. 14.), 블루바이닐 (2019. ~ 2024.)|
+> |소속 그룹|The Volunteers|
+> |그룹 경력|15& (2012. 10. 05. ~ 2019. 08. 06.)|
+> |데뷔|2012년 10월 5일 15& 디지털 싱글 'I Dream' (듀오)<br>2015년 11월 30일 미니 1집 'FRANK' (솔로)|
+> |MBTI|INFP|
 
 ---
 
@@ -10,12 +40,24 @@ topic:
 
 ## Studio Album
 
-- 
+* [[Every letter I sent you. (Yerin Baek)|Every letter I sent you.]] [1st Studio Album] (2019.12.10)
+* [[tellusboutyourself (Yerin Baek)|tellusboutyourself]] [2nd Studio Album] (2020.12.10)
+* [[Flash and Core (Yerin Baek)|Flash and Core]] [3rd Studio Album] (2025.10.02)
 
 ## EP
 
-- 
+* [[FRANK (Yerin Baek)|FRANK]] [1st EP] (2015.11.30)
+* [[Our love is great (Yerin Baek)|Our love is great]] [2nd EP] (2019.03.18)
+* [[선물 (Love, Yerin) (Yerin Baek)|선물 (Love, Yerin)]] [3rd EP] (2021.09.10)
 
 ## Single
+
+* [[Bye bye my blue (Yerin Baek)|Bye bye my blue]] [Digital Single] (2016.06.20)
+* [[Love you on Christmas (Yerin Baek)|Love you on Christmas]] [Digital Single] (2016.12.07)
+* [[물고기 (Yerin Baek)|물고기]] [Digital Single] (2022.05.24)
+* [[New Year (Yerin Baek)|New Year]] [Digital Single] (2023.01.01)
+* [[I MET PEEJAY (Yerin Baek)|I MET PEEJAY]] [Digital Single] (2025.05.27)
+
+## Live Album & Etc.
 
 - 

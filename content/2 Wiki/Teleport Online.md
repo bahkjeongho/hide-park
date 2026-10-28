@@ -4,9 +4,15 @@ topic:
 IG:
   - https://www.instagram.com/teleport_online_com/
 Website: https://www.teleport-online.com/
+URL:
+  - https://www.teleport-rythemgame.com/
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
 ---
 >[!tldr] tl;dr
->
+>서울 기반의 크리에이티브 에이전시이자 캠페인 브랜드
 
 > [!Info]
 > _  
@@ -20,3 +26,11 @@ Through music, design, and game, we deliver a single message: “Teleport 도피
 
 > [!Summary]
 
+---
+
+# Portfolio
+
+
+---
+
+# People

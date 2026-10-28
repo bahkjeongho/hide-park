@@ -1,16 +1,36 @@
 ---
-title: "Thresholds (Thresholds)"
-academy: "MIT Department of Architecture"
-Country/Region: "USA"
-language: "EN"
-discipline: "Design Studies"
-subdiscipline: "Architecture"
-publisher: "MIT Press"
-research_orientation: "Critical Theory"
-subject_area:
-  - "Design"
-  - "Visual Art"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Design]]"
+  - "[[Visual Art]]"
+Discipline:
+  - "[[Design Studies]]"
+SubDiscipline:
+  - "[[Architecture]]"
+Orientation: Critical Theory
+Academy: MIT Department of Architecture
+Publisher:
+  - "[[MIT Press]]"
 URL:
-  - "https://direct.mit.edu/thld"
+  - https://direct.mit.edu/thld
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Journal addressing architecture, urbanism, spatial practice, and critical design discourse.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleJournal addressing architecture, urbanism, spatial practice, and critical design discourse.

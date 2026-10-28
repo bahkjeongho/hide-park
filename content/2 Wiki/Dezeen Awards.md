@@ -1,10 +1,28 @@
 ---
-kind: "Awards"
-Country/Region: "UK"
 topic:
-  - "Multidisciplinary"
-URL:
-  - "https://www.dezeen.com/awards/"
-rating: 3
+  - Multidisciplinary
+  - "[[Award]]"
+Kind:
+  - "[[Award]]"
+Website:
+  - https://www.dezeen.com/awards/
+Countries:
+  - "[[UK]]"
 ---
 ![](https://static.dezeen.com/uploads/2021/09/Dezeen-Logo.png)
+
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+---
+
+# Portfolio
+
+
+---
+
+# People
+

@@ -2,8 +2,7 @@
 title: Chaoyang Park Plaza
 architect:
   - "[[MAD]]"
-city: Beijing
-Country/Region: China
+Cities: Beijing
 program:
   - Residential
   - Office

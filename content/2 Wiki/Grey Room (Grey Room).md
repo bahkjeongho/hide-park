@@ -1,15 +1,35 @@
 ---
-title: "Grey Room (Grey Room)"
-Country/Region: "USA"
-language: "EN"
-discipline: "Art History"
-subdiscipline: "Contemporary Art"
-publisher: "MIT Press"
-research_orientation: "Critical Theory"
-subject_area:
-  - "Media"
-  - "Visual Art"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Media]]"
+  - "[[Visual Art]]"
+Discipline:
+  - "[[Art History]]"
+SubDiscipline:
+  - "[[Contemporary Art]]"
+Orientation: Critical Theory
+Publisher:
+  - "[[MIT Press]]"
 URL:
-  - "https://direct.mit.edu/grey"
+  - https://direct.mit.edu/grey
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Journal focused on art, architecture, media, and cultural theory.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleJournal focused on art, architecture, media, and cultural theory.

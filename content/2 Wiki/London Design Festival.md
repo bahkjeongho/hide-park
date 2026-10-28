@@ -1,10 +1,41 @@
 ---
-kind: "Design Festival"
-Country/Region: "UK"
+aliases:
+  - LDF
 topic:
-  - "Multidisciplinary"
-URL:
-  - "https://londondesignfestival.com/"
-rating: 4
+  - Multidisciplinary
+  - "[[Design Festival]]"
+Kind:
+  - "[[Design Festival]]"
+Subject:
+  - "[[Design]]"
+  - "[[Creative Industries]]"
+IG:
+  - https://www.instagram.com/l_d_f_official
+Website:
+  - https://londondesignfestival.com/
+Cities:
+  - "[[London]]"
+Countries:
+  - "[[UK]]"
 ---
 ![](https://londondesignfestival.com/img/opengraph.png)
+
+>[!tldr] tl;dr
+>`Design Festival` held annually in [[London]]
+
+> [!Info]
+> 런던 디자인 페스티벌은 런던을 세계의 디자인 수도로 기리고 알립니다. 이 페스티벌은 2003년 Sir John Sorrell CBE와 Ben Evans CBE가 시작했습니다. 런던에 이미 있던 디자인 활동을 토대로, 국내 최고의 사상가, 실무자, 소매업자, 교육자를 끌어들여 도시의 창의성을 알리는 연례 행사를 만든다는 구상이었습니다.
+>
+> London Design Festival celebrates and promotes London as the design capital of the world. London Design Festival was launched by Sir John Sorrell CBE and Ben Evans CBE in 2003. Building on London’s existing design activity, their concept was to create an annual event that would promote the city’s creativity, drawing in the country’s greatest thinkers, practitioners, retailers and educators to a deliver an unmissable celebration of design.
+
+---
+
+# Portfolio
+
+
+---
+
+# People
+
+- [[John Sorrell]] `Co-founder`
+- [[Ben Evans]] `Co-founder, Director`

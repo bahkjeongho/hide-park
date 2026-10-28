@@ -2,8 +2,7 @@
 title: Osaka Umeda TWIN TOWERS SOUTH
 architect:
   - "[[TAKENAKA]]"
-city: Osaka
-Country/Region: Japan
+Cities: Osaka
 program:
   - Office
   - Retail

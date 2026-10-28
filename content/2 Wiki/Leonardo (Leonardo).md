@@ -1,17 +1,37 @@
 ---
-title: "Leonardo (Leonardo)"
-academy: "International Society for the Arts"
-Country/Region: "USA"
-language: "EN"
-discipline: "Art History"
-subdiscipline: "Contemporary Art"
-publisher: "MIT Press"
-research_orientation: "Interdisciplinary Research"
-subject_area:
-  - "Design"
-  - "Digital Media"
-  - "Visual Art"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Design]]"
+  - "[[Digital Media]]"
+  - "[[Visual Art]]"
+Discipline:
+  - "[[Art History]]"
+SubDiscipline:
+  - "[[Contemporary Art]]"
+Orientation: Interdisciplinary Research
+Academy: International Society for the Arts
+Publisher:
+  - "[[MIT Press]]"
 URL:
-  - "https://leonardo.info/leonardo"
+  - https://leonardo.info/leonardo
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Interdisciplinary journal exploring interactions between art, science, and technology.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleInterdisciplinary journal exploring interactions between art, science, and technology.

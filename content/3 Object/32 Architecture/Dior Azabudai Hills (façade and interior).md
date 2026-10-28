@@ -2,8 +2,7 @@
 title: Dior Azabudai Hills (façade and interior)
 architect:
   - "[[Kuma Kengo]]"
-city: Tokyo
-Country/Region: Japan
+Cities: Tokyo
 program:
   - Commercial
 year: 2024

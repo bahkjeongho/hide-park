@@ -3,6 +3,7 @@ aliases:
   - 튜이드
 topic:
   - "[[Music]]"
+  - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
 IG:
@@ -35,6 +36,18 @@ Countries:
 
 ---
 
+# People
+
+- [[서희]]
+- [[서연]]
+- [[엘레나]]
+- [[지아]]
+- [[사키]]
+- [[세아]]
+- [[이하늬]]
+
+---
+
 # Discography
 
 ## Studio Album
@@ -43,7 +56,7 @@ Countries:
 
 ## EP
 
-* [[TUNE & PLAY (TUIDE)|TUNE & PLAY]] [1st EP] (2026.08.24)
+* [[3. Object/31. Music/TUNE & PLAY (TUIDE)|TUNE & PLAY (TUIDE)]] [1st EP] (2026.08.24)
 
 ## Single
 

@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Creative Director]]"
 ---
 >[!tldr] tl;dr
 >[[Koto]] 베를린 스튜디오의 크리에이티브 디렉터

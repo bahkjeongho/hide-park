@@ -5,6 +5,14 @@ IG:
   - https://www.instagram.com/beg00dstudios/
 Website:
   - https://begoodstudios.com/
+Cities:
+  - "[[Los Angeles]]"
+  - "[[Tokyo]]"
+  - "[[London]]"
+Countries:
+  - "[[USA]]"
+  - "[[Japan]]"
+  - "[[UK]]"
 ---
 
 <img src="https://freight.cargo.site/t/original/i/a44b9b9574e11c3a680924733f26648c2e70750190e6092ca13aae1f5e593c2c/favicon.ico" alt="Be Good Studios logo" width="48">

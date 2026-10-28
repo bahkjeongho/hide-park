@@ -1,17 +1,37 @@
 ---
-title: "Journal of Visual Culture (JVC)"
-Country/Region: "UK"
-language: "EN"
-discipline: "Visual Studies"
-subdiscipline: "Visual Studies"
-publisher: "SAGE Publications"
-research_orientation: "Critical Theory"
-subject_area:
-  - "Film"
-  - "Media"
-  - "Photography"
-  - "Visual Art"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Film]]"
+  - "[[Media]]"
+  - "[[Photography]]"
+  - "[[Visual Art]]"
+Discipline:
+  - "[[Visual Studies]]"
+SubDiscipline:
+  - "[[Visual Studies]]"
+Orientation: Critical Theory
+Publisher:
+  - "[[SAGE Publications]]"
 URL:
-  - "https://journals.sagepub.com/home/VCU"
+  - https://journals.sagepub.com/home/VCU
+Countries:
+  - "[[UK]]"
+Language: EN
 ---
-Research on visual culture, image theory, visuality, and contemporary visual practices.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleResearch on visual culture, image theory, visuality, and contemporary visual practices.

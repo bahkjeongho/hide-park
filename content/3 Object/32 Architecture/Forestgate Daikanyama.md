@@ -2,8 +2,7 @@
 title: Forestgate Daikanyama
 architect:
   - "[[Kuma Kengo]]"
-city: Tokyo
-Country/Region: Japan
+Cities: Tokyo
 program:
   - Residential
   - Retail

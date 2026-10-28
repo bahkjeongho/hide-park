@@ -1,17 +1,64 @@
 ---
+aliases:
+  - 레드벨벳
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
+  - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
+  - "[[Dance-Pop]]"
+  - "[[R&B]]"
 IG:
   - https://www.instagram.com/redvelvet.smtown/
+Website:
+  - https://www.smentertainment.com/artist/red-velvet
+  - https://redvelvet-jp.net/
 URL:
   - https://www.youtube.com/@redvelvet
   - https://x.com/RVsmtown
+  - https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM
+Wikis:
+  - https://namu.wiki/w/Red%20Velvet
+  - https://en.wikipedia.org/wiki/Red_Velvet_(group)
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
 Related:
   - "[[SM ENTERTAINMENT|SM ENT.]]"
 ---
+>[!tldr] tl;dr
+>`Girl Group` based in [[Seoul]]
+
+> [!Info]
+> 
+
 > [!Summary]
+> |   |   |
+> |---|---|
+> |데뷔일|2014년 8월 1일<br>2018년 7월 4일 (일본)|
+> |데뷔 음반|싱글 1집 행복 (Happiness)<br>미니 1집 #Cookie Jar|
+> |유닛|레드벨벳-아이린&슬기|
+> |장르|댄스<br>R&B / Soul<br>발라드|
+> |리더|아이린|
+> |소속사|SM엔터테인먼트|
+> |레이블|avex trax|
+> |유통사|카카오엔터테인먼트<br>에이벡스 엔터테인먼트<br>텐센트 뮤직 엔터테인먼트|
+> |공식 색|Pastel Coral (파스텔 코랄)|
+> |팬덤|ReVeluv<br>ReVeluv-Baby|
+> |응원봉|김만봉|
+> |멤버|아이린<br>슬기<br>웬디<br>조이<br>예리|
+
+---
+
+# People
+
+- [[아이린]] `Leader`
+- [[슬기]]
+- [[웬디]]
+- [[조이]]
+- [[예리]]
 
 ---
 
@@ -53,6 +100,3 @@ Related:
 * [[SAPPY (Digital Single) (Red Velvet)|SAPPY]] [Digital Single] (2019.01.06)
 * [[Sayonara (Red Velvet)|Sayonara]] [Digital Single] (2019.02.20)
 * [[Power Up (Japanese Ver.) (Red Velvet)|Power Up (Japanese Ver.)]] [Pre-release Single] (2019.04.24)
-
-
-

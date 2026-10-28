@@ -1,16 +1,36 @@
 ---
-title: "Critical Inquiry (CI)"
-Country/Region: "USA"
-language: "EN"
-discipline: "Literature"
-subdiscipline: "Critical Theory"
-publisher: "University of Chicago Press"
-research_orientation: "Critical Theory"
-subject_area:
-  - "Literature"
-  - "Popular Culture"
-  - "Visual Art"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Literature]]"
+  - "[[Popular Culture]]"
+  - "[[Visual Art]]"
+Discipline:
+  - "[[Literature]]"
+SubDiscipline:
+  - "[[Critical Theory]]"
+Orientation: Critical Theory
+Publisher:
+  - "[[University of Chicago Press]]"
 URL:
-  - "https://www.journals.uchicago.edu/toc/ci/current"
+  - https://www.journals.uchicago.edu/toc/ci/current
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Leading journal of critical theory, literary criticism, philosophy, and cultural analysis.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleLeading journal of critical theory, literary criticism, philosophy, and cultural analysis.

@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Design Magazine]]"
 ---
 >[!tldr] tl;dr
 >

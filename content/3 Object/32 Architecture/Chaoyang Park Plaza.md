@@ -2,8 +2,7 @@
 title: Yabuli Entrepreneurs Congress Center
 architect:
   - "[[MAD]]"
-city: Yabuli
-Country/Region: China
+Cities: Yabuli
 program:
   - Cultural
   - Infrastructure

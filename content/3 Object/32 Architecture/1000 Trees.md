@@ -2,8 +2,7 @@
 title: 1000 Trees
 architect:
   - "[[Heatherwick Studio]]"
-city: Shanghai
-Country/Region: China
+Cities: Shanghai
 program:
   - Retail
   - District

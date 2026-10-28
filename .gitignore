@@ -12,3 +12,8 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
+
+# 작업용 폴더 (나무위키 원문 캐시 등, 공개 레포에 올리지 않음)
+docs/work/
+docs/pilot/
+docs/pilot-new/

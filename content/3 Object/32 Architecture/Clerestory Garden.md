@@ -2,8 +2,7 @@
 title: Clerestory Garden
 architect:
   - "[[KEY OPERATION]]"
-city: Tokyo
-Country/Region: Japan
+Cities: Tokyo
 program:
   - Commercial
   - Mixed Use

@@ -2,8 +2,7 @@
 title: Hirakata T-SITE
 architect:
   - "[[TAKENAKA]]"
-city: Osaka
-Country/Region: Japan
+Cities: Osaka
 program:
   - Office
   - Retail

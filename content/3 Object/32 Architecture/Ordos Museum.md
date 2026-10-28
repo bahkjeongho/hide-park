@@ -2,8 +2,7 @@
 title: Ordos Museum
 architect:
   - "[[MAD]]"
-city: Ordos
-Country/Region: China
+Cities: Ordos
 program:
   - Cultural
   - Museum

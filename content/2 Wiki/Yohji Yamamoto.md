@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Fashion Designer]]"
 Wikis: https://en.wikipedia.org/wiki/Yohji_Yamamoto
 Related:
   - "[[Yohji Yamamoto (Brand)]]"

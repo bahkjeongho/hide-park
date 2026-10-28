@@ -1,15 +1,35 @@
 ---
-title: "Digital Creativity (DC)"
-Country/Region: "UK"
-language: "EN"
-discipline: "Design Studies"
-subdiscipline: "Digital Design"
-publisher: "Taylor & Francis"
-research_orientation: "Practice-Based Research"
-subject_area:
-  - "Design"
-  - "Digital Media"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Design]]"
+  - "[[Digital Media]]"
+Discipline:
+  - "[[Design Studies]]"
+SubDiscipline:
+  - "[[Digital Design]]"
+Orientation: Practice-Based Research
+Publisher:
+  - "[[Taylor & Francis]]"
 URL:
-  - "https://www.tandfonline.com/journals/ndcr20"
+  - https://www.tandfonline.com/journals/ndcr20
+Countries:
+  - "[[UK]]"
+Language: EN
 ---
-Focuses on digital design, creative technologies, interaction design, digital art, and creative practice.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleFocuses on digital design, creative technologies, interaction design, digital art, and creative practice.

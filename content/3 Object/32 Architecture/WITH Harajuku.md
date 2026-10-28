@@ -2,8 +2,7 @@
 title: WITH Harajuku
 architect:
   - "[[TAKENAKA]]"
-city: Tokyo
-Country/Region: Japan
+Cities: Tokyo
 program:
   - Retail
   - Commercial

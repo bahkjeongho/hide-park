@@ -1,9 +1,37 @@
 ---
-kind: "Design Week"
-Country/Region: "Korea"
+aliases:
+  - 서울디자인위크
 topic:
-  - "Multidisciplinary"
-URL:
-  - "https://seoul-designweek.or.kr/"
+  - Multidisciplinary
+  - "[[Design Week]]"
+Kind:
+  - "[[Design Week]]"
+Subject:
+  - "[[Design]]"
+  - "[[Product Design]]"
+IG:
+  - https://www.instagram.com/seouldesignweek.official
+Website:
+  - https://seoul-designweek.or.kr/
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
 ---
 ![](https://seoul-designweek.or.kr/assets/images/designweek2026.jpg)
+
+>[!tldr] tl;dr
+>`Design Week` held annually in [[Seoul]] by [[Seoul Design Foundation]]
+
+> [!Info]
+> <서울디자인위크>는 미래 디자인 트렌드를 예측하고(Design Trend), 지금껏 본 적 없는 새로운 디자인 제품을 선보이며(Design Launch), 모두가 즐길 수 있는(Design Festival) 아시아 대표 디자인 산업 MICE 행사입니다. 서울디자인은 기업이 보다 고도화된 성장을 이루고 디자이너가 세계를 향해 도약할 수 있도록 이끄는 발판이 되고자 합니다.
+
+---
+
+# Portfolio
+
+
+---
+
+# People
+

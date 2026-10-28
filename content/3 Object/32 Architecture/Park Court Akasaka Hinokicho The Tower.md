@@ -2,8 +2,7 @@
 title: Park Court Akasaka Hinokicho The Tower
 architect:
   - "[[Kuma Kengo]]"
-city: Tokyo
-Country/Region: Japan
+Cities: Tokyo
 program:
   - Residential
 year: 2018

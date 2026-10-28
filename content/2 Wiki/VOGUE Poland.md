@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Fashion Magazine]]"
 Website:
   - https://www.vogue.pl/
 ---

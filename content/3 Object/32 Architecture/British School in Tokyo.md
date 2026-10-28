@@ -2,8 +2,7 @@
 title: British School in Tokyo
 architect:
   - "[[Heatherwick Studio]]"
-city: Tokyo
-Country/Region: Japan
+Cities: Tokyo
 program:
   - School
 year: 2023

@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Culture Magazine]]"
 Website:
   - https://www.vanityfair.com/
 ---

@@ -2,8 +2,7 @@
 title: The Cloudscape ofHaikou
 architect:
   - "[[MAD]]"
-city: Haikou
-Country/Region: China
+Cities: Haikou
 program:
   - Cultural
 year: 2021

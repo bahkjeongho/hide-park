@@ -2,8 +2,7 @@
 title: Cs Somme Café
 architect:
   - "[[Kuma Kengo]]"
-city: Fukuoka
-Country/Region: Japan
+Cities: Fukuoka
 program:
   - Retail
   - Cafe

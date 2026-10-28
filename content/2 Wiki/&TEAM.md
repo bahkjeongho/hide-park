@@ -1,20 +1,27 @@
 ---
 aliases:
   - 앤팀
-Genre:
-  - "[[K-Pop]]"
 topic:
+  - "[[Music]]"
   - "[[Artist]]"
   - "[[K-Pop Idol]]"
-  - "[[Music]]"
+Genre:
+  - "[[K-Pop]]"
+  - "[[J-Pop]]"
 IG:
   - https://www.instagram.com/andteam_official/
+Website:
+  - https://www.andteam-official.jp/
 URL:
   - https://www.youtube.com/@andTEAM_official
   - https://x.com/andTEAMofficial
+  - https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7
 Wikis:
   - https://namu.wiki/w/%26TEAM
   - https://en.wikipedia.org/wiki/%26Team
+Cities:
+  - "[[Seoul]]"
+  - "[[Tokyo]]"
 Countries:
   - "[[South Korea]]"
   - "[[Japan]]"
@@ -22,7 +29,41 @@ Related:
   - "[[HYBE]]"
   - "[[YX LABELS]]"
 ---
+>[!tldr] tl;dr
+>`Boy Group` based in [[Seoul]] and [[Tokyo]]
+
+> [!Info]
+> 
+
 > [!Summary]
+> |   |   |
+> |---|---|
+> |결성일|2022년 9월 3일|
+> |데뷔일|2022년 12월 7일<br>2025년 10월 28일 (한국)|
+> |데뷔 음반|미니 1집 First Howling : ME<br>미니 1집 Back to Life|
+> |장르|K-POP<br>J-POP|
+> |리더|의주|
+> |서브리더|후마|
+> |소속사|YX LABELS|
+> |레이블|HYBE LABELS<br>Virgin Music|
+> |유통사|YG PLUS<br>유니버설 뮤직 재팬<br>텐센트 뮤직 엔터테인먼트|
+> |팬덤|LUNÉ (루네)|
+> |응원봉|Official Light Stick|
+> |멤버|의주<br>후마<br>케이<br>니콜라스<br>유마<br>조<br>하루아<br>타키<br>마키|
+
+---
+
+# People
+
+- [[의주]] `Leader`
+- [[후마]] `Sub Leader`
+- [[케이]]
+- [[니콜라스]]
+- [[유마]]
+- [[조]]
+- [[하루아]]
+- [[타키]]
+- [[마키]]
 
 ---
 

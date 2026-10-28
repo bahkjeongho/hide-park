@@ -1,18 +1,38 @@
 ---
-title: "The British Journal of Aesthetics (BJA)"
-academy: "British Society of Aesthetics"
-Country/Region: "UK"
-language: "EN"
-discipline: "Philosophy"
-subdiscipline: "Aesthetics"
-publisher: "Oxford University Press"
-research_orientation: "Analytic Philosophy"
-subject_area:
-  - "Film"
-  - "Literature"
-  - "Music"
-  - "Visual Art"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Film]]"
+  - "[[Literature]]"
+  - "[[Music]]"
+  - "[[Visual Art]]"
+Discipline:
+  - "[[Philosophy]]"
+SubDiscipline:
+  - "[[Aesthetics]]"
+Orientation: Analytic Philosophy
+Academy: British Society of Aesthetics
+Publisher:
+  - "[[Oxford University Press]]"
 URL:
-  - "https://academic.oup.com/bjaesthetics"
+  - https://academic.oup.com/bjaesthetics
+Countries:
+  - "[[UK]]"
+Language: EN
 ---
-Leading journal in philosophical aesthetics and philosophy of art.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleLeading journal in philosophical aesthetics and philosophy of art.

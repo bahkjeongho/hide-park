@@ -1,6 +1,7 @@
 ---
+topic:
+  - "[[Fashion Brand]]"
 Wikis: https://en.wikipedia.org/wiki/Givenchy
-Country/Region: "[[Paris / Francs]]"
 ---
 >[!tldr] tl;dr
 >

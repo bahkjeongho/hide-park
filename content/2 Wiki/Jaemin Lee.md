@@ -1,6 +1,9 @@
 ---
 aliases:
   - 이재민
+topic:
+  - "[[Art Director]]"
+  - "[[Graphic Designer]]"
 Website: https://leejaemin.net/
 ---
 >[!tldr] tl;dr

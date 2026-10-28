@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Branding Agency]]"
 IG:
   - https://www.instagram.com/peterschmidtgroup/
 Website: https://www.peter-schmidt-group.de/en/

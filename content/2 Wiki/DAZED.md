@@ -26,7 +26,7 @@ Related:
 
 ---
 
-- [[2. Wiki/Jefferson Hack]] `CEO / Co-Founder / Publisher`
+- [[Jefferson Hack]] `CEO / Co-Founder / Publisher`
 - [[Ted Stansfield]] `Editor-in-Chief`
 - [[Dominique Sisley]] `Editorial Director
 - [[Ester Mejibovski]] `Art Director`

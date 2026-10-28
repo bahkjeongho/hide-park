@@ -2,8 +2,7 @@
 title: YueCheng Courtyard Kindergarten
 architect:
   - "[[MAD]]"
-city: Beijing
-Country/Region: China
+Cities: Beijing
 program:
   - School
 year: 2020

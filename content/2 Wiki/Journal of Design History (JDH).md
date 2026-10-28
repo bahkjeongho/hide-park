@@ -1,15 +1,36 @@
 ---
-title: "Journal of Design History (JDH)"
-academy: "Design History Society"
-Country/Region: "UK"
-language: "EN"
-discipline: "Design Studies"
-subdiscipline: "Design History"
-publisher: "Oxford University Press"
-research_orientation: "Historical Research"
-subject_area:
-  - "Design"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Design]]"
+Discipline:
+  - "[[Design Studies]]"
+SubDiscipline:
+  - "[[Design History]]"
+Orientation: Historical Research
+Academy: Design History Society
+Publisher:
+  - "[[Oxford University Press]]"
 URL:
-  - "https://academic.oup.com/jdh"
+  - https://academic.oup.com/jdh
+Countries:
+  - "[[UK]]"
+Language: EN
 ---
-Leading journal on the history of design, material culture, and visual culture.
+†Leading journal on the history of design, material culture, and visual culture.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# People

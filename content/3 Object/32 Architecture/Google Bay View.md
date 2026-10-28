@@ -2,8 +2,7 @@
 title: Google Bay View
 architect:
   - "[[Heatherwick Studio]]"
-city: California
-Country/Region: USA
+Cities: California
 program:
   - Office
 year: 2022

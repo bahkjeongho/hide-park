@@ -1,17 +1,37 @@
 ---
-title: "Communication and Critical/Cultural Studies (CCCS)"
-academy: "National Communication Association"
-Country/Region: "USA"
-language: "EN"
-discipline: "Communication Studies"
-subdiscipline: "Cultural Studies"
-publisher: "Taylor & Francis"
-research_orientation: "Critical Theory"
-subject_area:
-  - "Communication"
-  - "Media"
-  - "Popular Culture"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Communication]]"
+  - "[[Media]]"
+  - "[[Popular Culture]]"
+Discipline:
+  - "[[Communication Studies]]"
+SubDiscipline:
+  - "[[Cultural Studies]]"
+Orientation: Critical Theory
+Academy: National Communication Association
+Publisher:
+  - "[[Taylor & Francis]]"
 URL:
-  - "https://www.tandfonline.com/journals/rccc20"
+  - https://www.tandfonline.com/journals/rccc20
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
-Publishes critical and cultural approaches to communication research.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeoplePublishes critical and cultural approaches to communication research.

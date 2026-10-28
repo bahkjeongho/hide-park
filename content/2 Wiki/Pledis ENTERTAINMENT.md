@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Entertainment Company]]"
 ---
 >[!tldr] tl;dr
 >

@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Fashion Brand]]"
 Wikis: https://en.wikipedia.org/wiki/Comme_des_Gar%C3%A7ons
 Related:
   - "[[Rei Kawakubo]]"

@@ -2,8 +2,7 @@
 title: Amorepacific Headquarters
 architect:
   - "[[David Chipperfield]]"
-city: Seoul
-Country/Region: South Korea
+Cities: Seoul
 program:
   - Office
 year: 2017

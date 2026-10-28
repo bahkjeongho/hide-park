@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Design Magazine]]"
 IG:
   - https://www.instagram.com/ad_italia/
 Website:

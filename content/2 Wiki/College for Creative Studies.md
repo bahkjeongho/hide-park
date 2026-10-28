@@ -1,14 +1,47 @@
 ---
+aliases:
+  - CCS
 topic:
   - "[[Art School]]"
+IG:
+  - https://www.instagram.com/ccs_detroit
+Website:
+  - https://www.collegeforcreativestudies.edu/
 Wikis:
+  - https://en.wikipedia.org/wiki/College_for_Creative_Studies
   - https://namu.wiki/w/College%20for%20Creative%20Studies
+Cities:
+  - "[[Detroit]]"
+Countries:
+  - "[[USA]]"
 ---
 >[!tldr] tl;dr
->
+>`Art School` based in [[Detroit]]
 
 > [!Info]
-> 
+> 크리에이티브 스터디즈 칼리지(CCS)는 미시간주 디트로이트에 있는 사립 예술대학으로 1,400명이 넘는 학생이 있으며 예술 교육에 집중합니다. 지역 사회 예술 파트너십 프로그램과 Henry Ford Academy: School for Creative Studies를 통해 어린이 예술 교육도 합니다.
+>
+> The College for Creative Studies (CCS) is a private art school in Detroit, Michigan. It enrolls more than 1,400 students and focuses on arts education. The college is also active in offering art education to children through its Community Arts Partnerships program and its Henry Ford Academy: School for Creative Studies.
 
 > [!Summary]
+> |   |   |
+> |---|---|
+> |Type|Private art school|
+> |Established|1906|
+> |President|Don Tuski|
+> |Undergraduates|1,440|
+> |Location|Detroit, Michigan, United States|
+> |Campus|Urban|
+> |Colors|PMS 109 (Gold), PMS 276 (Deep Purple)|
+> |Mascot|Watson Peacock|
+> |Website|ccsdetroit.edu|
+
+---
+
+# Programs
+
+---
+
+# People
+
 

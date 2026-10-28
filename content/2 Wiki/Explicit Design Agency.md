@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Design Agency]]"
 IG:
   - https://www.instagram.com/explicit.studio/
 Website: https://explicitstudio.hu/

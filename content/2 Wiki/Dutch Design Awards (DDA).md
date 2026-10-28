@@ -1,19 +1,40 @@
 ---
-kind: Awards
-Country/Region: Netherlands
+aliases:
+  - DDA
 topic:
   - Multidisciplinary
-  - 
-URL:
+  - "[[Award]]"
+Kind:
+  - "[[Award]]"
+Subject:
+  - "[[Design]]"
+  - "[[Dutch Design]]"
+IG:
+  - https://www.instagram.com/dutchdesignawards
+Website:
   - https://www.dutchdesignawards.nl/
-  - 
-rating: 5
+Cities:
+  - "[[Eindhoven]]"
+Countries:
+  - "[[Netherlands]]"
 ---
 >[!tldr] tl;dr
->
+>`Award` presented in [[Eindhoven]] by [[Dutch Design Foundation]]
 
 > [!Info]
-> 
+> Dutch Design Awards(DDA)는 20년 넘게 가장 흥미롭고 혁신적인 디자인을 기리고 시상하며, 디자이너에게 작업을 선보일 플랫폼과 연결의 기회를 제공해 왔습니다. DDA는 2003년 BNO와 DesignLink의 도움으로 설립되었고, 2005년부터 디자인 수도 에인트호번을 거점으로 합니다. 공모, 시상식, 개요 전시를 통해 최고의 네덜란드 디자인을 선보이고 보상합니다. DDA는 Dutch Design Foundation의 일부입니다.
+>
+> For over twenty years, Dutch Design Awards (DDA) has celebrated and awarded the best, most interesting, and most innovative design, providing designers with a platform to showcase their work and facilitating matchmaking. Dutch Design Awards (DDA) was established in 2003, thanks to BNO and DesignLink, under the banner of the “Dutch Design Awards”. Since 2005, DDA has been based in the design capital of Eindhoven. Through the competition, the Award Show, and an overview exhibition, DDA showcases and rewards the best in Dutch design, bringing winners to the attention of peers, the press, and the general public. DDA is part of the Dutch Design Foundation.
 
 > [!Summary]
 
+---
+
+# Portfolio
+
+
+---
+
+# People
+
+- [[Willem van Zeeland]] `Director`

@@ -2,8 +2,7 @@
 title: Chongqing Cuntan Cruise Terminal
 architect:
   - "[[MAD]]"
-city: Chongquing
-Country/Region: China
+Cities: Chongquing
 program:
   - Infrastructure
 year: 2027

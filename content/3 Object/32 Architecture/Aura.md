@@ -2,8 +2,7 @@
 title: Aura
 architect:
   - "[[MAD]]"
-city: Miami
-Country/Region: USA
+Cities: Miami
 program:
   - Residential
 year: 2023

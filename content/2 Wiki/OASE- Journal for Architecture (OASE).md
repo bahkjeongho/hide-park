@@ -1,15 +1,35 @@
 ---
-title: "OASE: Journal for Architecture (OASE)"
-Country/Region: "NL"
-language: "EN"
-discipline: "Design Studies"
-subdiscipline: "Architecture"
-publisher: "nai010 publishers"
-research_orientation: "Critical Theory"
-subject_area:
-  - "Design"
-  - "Visual Art"
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Design]]"
+  - "[[Visual Art]]"
+Discipline:
+  - "[[Design Studies]]"
+SubDiscipline:
+  - "[[Architecture]]"
+Orientation: Critical Theory
+Publisher:
+  - "[[nai010 publishers]]"
 URL:
-  - "https://oasejournal.nl/en/"
+  - https://oasejournal.nl/en/
+Countries:
+  - "[[Netherlands]]"
+Language: EN
 ---
-Journal dedicated to architecture, urbanism, design, and architectural theory.
+>[!tldr] tl;dr
+>
+
+> [!Info]
+> 
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# PeopleJournal dedicated to architecture, urbanism, design, and architectural theory.

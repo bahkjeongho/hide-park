@@ -1,17 +1,22 @@
 ---
-title: "Afterimage: The Journal of Media Arts and Cultural Criticism"
-Country/Region: USA
-language: EN
-discipline: Media Studies
-subdiscipline: Media Studies
-publisher: University of California Press
-research_orientation: Critical Theory
-subject_area:
-  - Digital Media
-  - Film
-  - Photography
+topic:
+  - "[[Journal]]"
+Subject Area:
+  - "[[Digital Media]]"
+  - "[[Film]]"
+  - "[[Photography]]"
+Discipline:
+  - "[[Media Studies]]"
+SubDiscipline:
+  - "[[Media Studies]]"
+Orientation: Critical Theory
+Publisher:
+  - "[[University of California Press]]"
 URL:
   - https://online.ucpress.edu/afterimage
+Countries:
+  - "[[USA]]"
+Language: EN
 ---
 >[!tldr] tl;dr
 >

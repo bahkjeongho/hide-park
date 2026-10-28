@@ -3,12 +3,12 @@ aliases:
   - 닉 랜드
 topic:
   - "[[Philosopher]]"
-Related:
-  - "[[CCRU]]"
-  - "[[가속주의]]"
 Wikis:
   - https://namu.wiki/w/%EB%8B%89%20%EB%9E%9C%EB%93%9C
   - https://en.wikipedia.org/wiki/Nick_Land
+Related:
+  - "[[CCRU]]"
+  - "[[가속주의]]"
 ---
 >[!tldr] tl;dr
 >

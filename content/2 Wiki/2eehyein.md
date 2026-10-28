@@ -25,6 +25,17 @@ Related:
 
 > [!Summary]
 
+---
+
+# Portfolio
+
+- [[GRLS (TUIDE)|GRLS]] by [[TUIDE]] [M/V]
+- [[BOOMPALA (LE SSERAFIM)|BOOMPALA]] by [[LE SSERAFIM]] [M/V]
+- [[Blingy (NCT 127) (Track)|Blingy]] by [[NCT 127]] [M/V]
+- [[XOXZ (IVE)|XOXZ]] by [[IVE]]
+- [[Bag Bad Back (RIIZE)|Bag Bad Back]] by [[RIIZE]] [M/V]
+- [[Brought The Heat Back (ENHYPEN)|Brought The Heat Back]] by [[ENHYPEN]] [M/V]
+- [[Bad Desire (With or Without You) (ENHYPEN)|Bad Desire]] by [[ENHYPEN]]
 
 ---
 

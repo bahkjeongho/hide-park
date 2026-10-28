@@ -1,61 +1,71 @@
 ---
-title: Whiplash
+topic:
+  - "[[EP]]"
+Genre:
+  - "[[K-Pop]]"
 artist:
   - "[[aespa]]"
-year: 2024
+Date: 2024.10.21.
 ---
 ---
 
 >[!Summary]
+> |   |   |
+> |---|---|
+> |**Whiplash**||
+> |**The 5th Mini Album**||
+> |발매일|2024년 10월 21일|
+> |가수|aespa|
+> |기획사|SM엔터테인먼트|
+> |유통사|카카오엔터테인먼트|
+> |곡 수|6곡|
+> |재생 시간|18:09|
+> |타이틀곡|Whiplash ｜01|
 
 ---
 
-## Vido
+# Track list
 
-### Music Video
+- ## 1. [[Whiplash (aespa) (Track)|Whiplash]] 
+	작사: Leslie
+	작곡: Marcus “MarcLo” Lomax, Neil Ormandy, Rosina 'Soaky' Russell, Shift K3Y
+	편곡: Shift K3Y, Neil Ormandy
+- ## 2. Kill It
+	작사: 현지원
+	작곡: IMLAY, EJAE, Kirsten Collins
+	편곡: IMLAY
+- ## 3. Flights, Not Feelings
+	작사: 이혜윰 (Jam Factory)
+	작곡: HONEY NOISE, Brown Panda, Frankie Day, Chanti (THE HUB)
+	편곡: HONEY NOISE, Brown Panda (THE HUB)
+- ## 4. Pink Hoodie
+	작사: 이은화 (153/Joombas)
+	작곡: Didrik Thott, Sebastian Thott, Maria Marcus
+	편곡: Sebastian Thott
+- ## 5. Flowers
+	작사: 지예원 (Joombas)
+	작곡: Sofia Kay, Chantry Johnson, Noémie Legrand
+	편곡: Chantry Johnson
+- ## 6. Just Another Girl
+	작사: 이스란
+	작곡: Fabian Torsson, Moa “Cazzi Opeia” Carlebecker, Ellen Berg, Nermin Harambasic
+	편곡: Phat Fabe
 
-M/V DIRECTOR & EDIT | MELTMIRROR ([@meltmirror](https://www.instagram.com/meltmirror/))  
-Executive Producer | Jang Voramee ([@jangramee](https://www.instagram.com/jangramee/))  
-  
-Production | Segajivideo ([@segajivideo](https://www.instagram.com/segajivideo/))  
-A.Director | Lee Sohyun ([@leesohynn](https://www.instagram.com/leesohynn/)), Kim Doi ([@doi_back](https://www.instagram.com/doi_back/)), Kim jeonggak ([@jeonggak](https://www.instagram.com/jeonggak/))  
-Post A.Director | Jeon Sehoon ([@22_ban](https://www.instagram.com/22_ban/))  
-Movement Director | On Kim ([@own.npc](https://www.instagram.com/own.npc/))  
-  
-📹  
-DP & DI | Shin Yechan ([@yechan_shin_](https://www.instagram.com/yechan_shin_/))  
-1st | Park Woochul, 2nd | Jang Jaewon, 3rd | Shin Gwonwoo, DIT | Jeon Youngtae  
-  
-Jimmy jib Operator | Kim ki tae  
-1st | Bing jung hyun, 2nd | Lee jae sung, 3rd | Kim tae kyun  
-  
-💡  
-Gaffer | KIM Bo-Ram ([@kimboram8265](https://www.instagram.com/kimboram8265/)) ([@WattLite](https://www.instagram.com/WattLite/))  
-Lighting Crew | OH Yu-Bin, LEE In-Hyeok, PARK Hee-Sung, PARK Ho-Jun, SONG Ji-Ho, SUNG Jin-Hwan, PARK Jin-Nu, KIM Wan-Su  
-  
-⛓️  
-Production designer | Park Yoomi ([@vanart.kr](https://www.instagram.com/vanart.kr/) )  
-Art director | Jung Yoojin, Jun Hakyung  
-Art team | Park Sucheol, Kim Donggu  
-Prop master | Jeong Jongseon  
-  
-KEY GRIP (art equipment)| Kang Minsung ([@gbb_derek](https://www.instagram.com/gbb_derek/))  
-1st | Won Heejae, 2nd | Kim Minsub, Choi Jinho, Kim Inwoo, Oh Changseok  
-  
-Layher, LED Panel | J SHOW COMPANY  
-Jeon Sunggang, Jang Wooseok, Jang Sunho, Park Sangmin  
-  
-Robot Arm (M.C.C) Operator | kim daehong  
-(AXSIX) Robot Arm Assistant | choi sejun, kim sung o, choi hyunjun, Oh seungjun, kim jungheon  
-  
-Location Sound | CHOIGOBRO, Choi Jinyoung  
-Vehicle Production | Gazette management, Kim Byung Min  
-  
-⚙️  
-Obejct assemble artist | ahry&chung ([@ahryblue](https://www.instagram.com/ahryblue/)) ([@antcfk](https://www.instagram.com/antcfk/))  
-Kinetic Artist | Junsoo Kim ([@urlook_kr](https://www.instagram.com/urlook_kr/))  
-  
-Line Producer | Seo Salva  
-PM l Yu Saewon, Lee Myungdong  
-PA l Kim Kyungtae, Lee Soojin, Yi Hyunki, Lee Jin  
-PA (Prop) | Kwon Hyeokhyeon
+
+---
+
+# Content
+
+---
+## Videos
+
+### Music Videos
+
+
+### Credit
+
+---
+## Photos
+
+
+### Credit

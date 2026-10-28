@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Fashion Brand]]"
 Wikis: https://en.wikipedia.org/wiki/Dolce_&_Gabbana
 ---
 >[!tldr] tl;dr

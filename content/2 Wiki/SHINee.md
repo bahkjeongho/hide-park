@@ -62,7 +62,7 @@ Countries:
 ## Studio Album
 
 * [[The SHINee World (SHINee)|The SHINee World]] [1st Studio Album] (2008.08.28)
-* [[AMIGO (SHINee)|AMIGO]] [1st Studio Album Repackage] (2008.10.29)
+* [[AMIGO (SHINee)|AMIGO]] [1st Studio Album Repackage] (2008.10.24)
 * [[LUCIFER (SHINee)|LUCIFER]] [2nd Studio Album] (2010.07.19)
 * [[Hello (SHINee)|Hello]] [2nd Studio Album Repackage] (2010.09.30)
 * [[THE FIRST (SHINee)|THE FIRST]] [1st Japanese Studio Album] (2011.12.07)
@@ -126,8 +126,8 @@ Countries:
 
 # People
 
-- [[Onew]] `Leader`
-- [[Jonghyun]] `Main Vocalist`
-- [[Key]]
-- [[Minho]]
-- [[TAEMIN]] `Main Dancer`
+- [[온유]] `Leader`
+- [[종현]] `Main Vocalist`
+- [[키]]
+- [[민호]]
+- [[TAEMIN|태민]] `Main Dancer`

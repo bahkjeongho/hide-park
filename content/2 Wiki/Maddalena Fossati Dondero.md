@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Editor-in-Chief]]"
 ---
 >[!tldr] tl;dr
 >

@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Type Designer]]"
 Website:
   - https://www.pentagram.com/about/andrea-trabucco-campos-2
 ---

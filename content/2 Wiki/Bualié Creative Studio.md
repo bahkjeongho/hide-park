@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Creative Studio]]"
 Website: https://www.bualie.studio/
 ---
 >[!tldr] tl;dr
