@@ -71,3 +71,17 @@ for (const f of thoughtFiles) {
 }
 fs.writeFileSync(path.join(root, "wiki-meta.json"), JSON.stringify(meta));
 console.log(`메타 생성: ${Object.keys(meta).length}개 (Wiki + Thoughts)`);
+
+// 3) 속성에 값이 하나라도 있는 노트 (note-props.json): 링크 색에서 "완전히 빈 페이지"를 가를 때 쓴다.
+//    본문이 비어도 아래 속성에 값이 있으면 빈 페이지로 보지 않는다. (aliases, topic, tags 는 값으로 세지 않는다.)
+const DATA_KEYS = ["IG", "Website", "URL", "Wikis", "Cities", "Countries", "Related", "Genre", "Labels", "Member of"];
+const withProps = [];
+for (const dir of [wiki, path.join(root, "3 Object"), thoughts]) {
+  if (!fs.existsSync(dir)) continue;
+  for (const f of walk(dir)) {
+    const text = fs.readFileSync(f, "utf8");
+    if (DATA_KEYS.some((k) => readProp(text, k).length)) withProps.push(rel(f));
+  }
+}
+fs.writeFileSync(path.join(root, "note-props.json"), JSON.stringify(withProps));
+console.log(`속성 값이 있는 노트: ${withProps.length}개`);

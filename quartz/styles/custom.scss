@@ -82,6 +82,71 @@ article a.internal {
     color: var(--hp-muted);
   }
 }
+// 다른 페이지로 가는 링크: 밑줄 + 초록. 내용이 빈 페이지로 가면 더 어두운 초록.
+article a.internal:not([role="anchor"]):not([data-footnote-ref]):not([data-footnote-backref]) {
+  color: #0bda51;
+  &:hover {
+    color: var(--hp-muted);
+  }
+  &.hp-blank {
+    color: #046b25;
+    &:hover {
+      color: var(--hp-muted);
+    }
+  }
+}
+:root[saved-theme="dark"] article a.internal.hp-blank:not([role="anchor"]) {
+  color: #0a8c36;
+  &:hover {
+    color: var(--hp-muted);
+  }
+}
+
+// 헤딩 접기: 본문 헤딩을 누르면 아래 내용이 접힌다 (scripts/hide-park.inline.ts)
+article .markdown-rendered > [hidden] {
+  display: none !important;
+}
+.markdown-rendered > [data-foldable="true"] {
+  position: relative;
+  cursor: pointer;
+}
+.hp-fold-toggle {
+  position: absolute;
+  left: -20px;
+  top: 50%;
+  width: 14px;
+  height: 14px;
+  margin-top: -7px;
+  cursor: pointer;
+  opacity: 0;
+  &::before {
+    content: "";
+    position: absolute;
+    left: 3px;
+    top: 4px;
+    border-left: 6px solid var(--hp-muted);
+    border-top: 3.5px solid transparent;
+    border-bottom: 3.5px solid transparent;
+    transform: rotate(90deg);
+    transform-origin: 3px 3.5px;
+  }
+}
+[data-foldable="true"][data-collapsed="true"] > .hp-fold-toggle {
+  opacity: 1;
+  &::before {
+    transform: none;
+  }
+}
+[data-foldable="true"]:hover > .hp-fold-toggle,
+.hp-fold-toggle:focus-visible {
+  opacity: 1;
+}
+@media (hover: none) {
+  .hp-fold-toggle {
+    opacity: 1;
+  }
+}
+
 strong {
   font-weight: 500;
 }
@@ -147,6 +212,9 @@ kbd {
 }
 
 // 경로: 모노 11px 대문자
+.breadcrumb-container {
+  margin-bottom: 20px; // 경로와 노트 제목 사이 간격
+}
 .breadcrumb-container,
 .breadcrumb-element,
 .breadcrumb-element a,
