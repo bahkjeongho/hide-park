@@ -63,7 +63,7 @@ Countries:
 
 * [[MACARONI CHEESE (YOUNG POSSE)|MACARONI CHEESE]] [1st EP] (2023.10.18)
 * [[XXL (YOUNG POSSE)|XXL]] [2nd EP] (2024.03.20)
-* [[ATE THAT (YOUNG POSSE)|ATE THAT]] [3rd EP] (2024.08.21)
+* [[ATE THAT (YOUNG POSSE) 1|ATE THAT]] [3rd EP] (2024.08.21)
 * [[Year 1 : We Still Loading (YOUNG POSSE)|Year 1 : We Still Loading]] [Digital Album] (2024.10.18)
 * [[COLD (YOUNG POSSE)|COLD]] [Special Album] (2025.03.02)
 * [[Growing Pain pt.1 : FREE (YOUNG POSSE)|Growing Pain pt.1 : FREE]] [4th EP] (2025.08.14)

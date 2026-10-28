@@ -64,7 +64,7 @@ Countries:
 ## EP
 
 * [[FOCUS (Hearts2Hearts)|FOCUS]] [1st EP] (2025.10.20)
-* [[Lemon Tang (Hearts2Hearts)|Lemon Tang]] [2nd EP] (2026.06.22)
+* [[2. Wiki/Lemon Tang (Hearts2Hearts)|Lemon Tang]] [2nd EP] (2026.06.22)
 
 ## Single
 
