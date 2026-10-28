@@ -7,6 +7,7 @@ const SCAFFOLD =
   /tl;dr|Info|Summary|Portfolio|People|Members|Key Concepts|Related Topics|Courses|Faculty|Discography|Studio Album|EP|Single|Track list|Content|\{\{title\}\}|\[\[\]\]/gi
 
 let blankSlugs: Set<string> | undefined
+const known = new Set<string>() // 노트가 있는 모든 slug
 
 // 사이트 루트 경로 (예: /hide-park). 왼쪽 위 워드마크 링크로 알아낸다.
 function siteRoot() {
@@ -29,6 +30,7 @@ async function loadBlankSlugs() {
       if (res.ok) withProps = new Set<string>(await res.json())
     } catch {}
     for (const [slug, entry] of Object.entries<any>(index)) {
+      known.add(slug)
       const text = String(entry.content ?? "")
         .replace(SCAFFOLD, " ")
         .replace(/[\s\W_]+/g, "")
@@ -59,7 +61,9 @@ async function markLinks() {
   const rootPath = siteRoot()
   for (const a of links) {
     const slug = targetSlug(a, rootPath)
-    a.classList.toggle("hp-blank", slug !== undefined && blank.has(slug))
+    // 빈 페이지이거나, 링크만 있고 노트가 만들어지지 않은 경우(색인에 없음)
+    const missing = slug !== undefined && known.size > 0 && !/\.[a-z0-9]{1,5}$/i.test(slug) && !known.has(slug)
+    a.classList.toggle("hp-blank", slug !== undefined && (blank.has(slug) || missing))
   }
 }
 
