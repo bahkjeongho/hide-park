@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Interior & Furniture Design Program]]"
 IG:
   - https://www.instagram.com/headgeneve

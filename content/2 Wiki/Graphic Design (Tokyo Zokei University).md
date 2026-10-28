@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Graphic Design Program]]"
 Website:
   - https://www.zokei.ac.jp/academics/undergrad/gd/

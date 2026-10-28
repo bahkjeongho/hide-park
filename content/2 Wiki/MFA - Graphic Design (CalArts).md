@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Graphic Design Program]]"
 Website:
   - https://calarts.edu/academics/programs-and-degrees/mfa-graphic-design

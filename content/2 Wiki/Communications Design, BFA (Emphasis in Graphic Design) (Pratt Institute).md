@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Graphic Design Program]]"
 Website:
   - https://www.pratt.edu/design/undergraduate-communications-design/communications-design-bfa-emphasis-in-graphic-design/

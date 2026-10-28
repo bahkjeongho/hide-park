@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Textile Design Program]]"
 Website:
   - https://www.gsa.ac.uk/undergraduate-degrees/textile-design

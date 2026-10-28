@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Fine Art Program]]"
 Website:
   - https://www.pratt.edu/art/fine-arts/fine-arts-mfa/

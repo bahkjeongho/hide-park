@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Fine Art Program]]"
 Website:
   - https://calarts.edu/academics/programs-and-degrees/bfa-art

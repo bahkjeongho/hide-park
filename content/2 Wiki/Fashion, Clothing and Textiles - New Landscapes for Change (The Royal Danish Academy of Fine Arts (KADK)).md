@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Fashion Design Program]]"
 IG:
   - https://www.instagram.com/kglakademi

@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Illustration Program]]"
 IG:
   - https://www.instagram.com/headgeneve

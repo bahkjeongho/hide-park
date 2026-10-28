@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Fine Art Program]]"
 Website:
   - https://www.rca.ac.uk/study/programme-finder/painting-ma/

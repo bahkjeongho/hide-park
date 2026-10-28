@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Film Program]]"
 Website:
   - https://www.artcenter.edu/academics/undergraduate-degrees/film/overview.html

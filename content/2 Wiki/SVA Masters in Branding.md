@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Branding Program]]"
 IG:
   - https://www.instagram.com/svabranding/

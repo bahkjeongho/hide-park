@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Graphic Design Program]]"
 Website:
   - https://www.artcenter.edu/academics/undergraduate-degrees/graphic-design/overview.html

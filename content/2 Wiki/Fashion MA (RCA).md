@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Fashion Design Program]]"
 Website:
   - https://www.rca.ac.uk/study/programme-finder/fashion-ma/

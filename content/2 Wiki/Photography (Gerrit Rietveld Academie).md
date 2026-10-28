@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Photography Program]]"
 IG:
   - https://www.instagram.com/rietveldacademie

@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Graphic Design Program]]"
 IG:
   - https://www.instagram.com/rietveldacademie

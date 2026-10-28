@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Textile Design Program]]"
 IG:
   - https://www.instagram.com/tamaartuniversity

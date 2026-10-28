@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Photography Program]]"
 Website:
   - https://www.saic.edu/photography/undergraduate/overview

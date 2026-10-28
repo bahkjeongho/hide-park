@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Architecture Program]]"
 IG:
   - https://www.instagram.com/rietveldacademie

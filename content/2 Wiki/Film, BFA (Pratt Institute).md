@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Film Program]]"
 Website:
   - https://www.pratt.edu/art/film-video/film-bfa/

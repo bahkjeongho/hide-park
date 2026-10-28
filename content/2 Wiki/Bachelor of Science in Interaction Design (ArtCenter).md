@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Media Design Program]]"
 Website:
   - https://www.artcenter.edu/academics/undergraduate-degrees/interaction-design/overview.html

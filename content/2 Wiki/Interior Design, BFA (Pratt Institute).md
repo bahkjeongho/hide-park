@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Interior & Furniture Design Program]]"
 Website:
   - https://www.pratt.edu/design/interior-design/interior-design-bfa/

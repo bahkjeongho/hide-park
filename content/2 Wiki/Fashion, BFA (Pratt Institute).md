@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Fashion Design Program]]"
 Website:
   - https://www.pratt.edu/design/fashion-design/fashion-design-bfa/

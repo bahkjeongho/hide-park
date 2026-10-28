@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Photography Program]]"
 Website:
   - https://www.pratt.edu/art/photography/photography-graduate/photography-mfa/

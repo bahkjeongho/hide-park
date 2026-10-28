@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Fine Art Program]]"
 IG:
   - https://www.instagram.com/tamaartuniversity

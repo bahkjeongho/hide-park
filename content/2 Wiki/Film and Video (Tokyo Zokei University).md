@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Film Program]]"
 Website:
   - https://www.zokei.ac.jp/academics/undergrad/fi/

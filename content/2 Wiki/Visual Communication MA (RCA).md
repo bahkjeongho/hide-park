@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Graphic Design Program]]"
 Website:
   - https://www.rca.ac.uk/study/programme-finder/visual-communication-ma/

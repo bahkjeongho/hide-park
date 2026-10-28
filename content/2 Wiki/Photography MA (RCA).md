@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Photography Program]]"
 Website:
   - https://www.rca.ac.uk/study/programme-finder/photography-ma/

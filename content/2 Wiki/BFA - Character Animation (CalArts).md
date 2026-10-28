@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Animation Program]]"
 Website:
   - https://calarts.edu/academics/programs-and-degrees/bfa-character-animation

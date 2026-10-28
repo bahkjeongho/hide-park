@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Fine Art Program]]"
 Website:
   - https://www.gsa.ac.uk/postgraduate-degrees/contemporary-art-practice

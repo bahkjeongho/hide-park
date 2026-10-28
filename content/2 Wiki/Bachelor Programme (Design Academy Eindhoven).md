@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Design Program]]"
 IG:
   - https://www.instagram.com/designacademyeindhoven

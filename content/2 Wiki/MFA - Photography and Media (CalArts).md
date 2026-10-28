@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Photography Program]]"
 Website:
   - https://calarts.edu/academics/programs-and-degrees/mfa-photography-and-media

@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Photography Program]]"
 Website:
   - https://www.zokei.ac.jp/academics/undergrad/ph/

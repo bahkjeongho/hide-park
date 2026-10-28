@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Media Design Program]]"
 IG:
   - https://www.instagram.com/headgeneve

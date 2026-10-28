@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Game Design Program]]"
 Website:
   - https://www.pratt.edu/art/digital-arts-and-animation/game-arts-bfa/

@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Fine Art Program]]"
 Website:
   - https://www.zokei.ac.jp/academics/undergrad/pt/

@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Craft Program]]"
 IG:
   - https://www.instagram.com/kglakademi

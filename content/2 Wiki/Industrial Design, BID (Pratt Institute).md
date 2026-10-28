@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Industrial Design Program]]"
 Website:
   - https://www.pratt.edu/design/industrial-design/industrial-design-bid/

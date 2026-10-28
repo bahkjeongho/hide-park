@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Architecture Program]]"
 Website:
   - https://www.pratt.edu/architecture/undergraduate-architecture/architecture-barch/

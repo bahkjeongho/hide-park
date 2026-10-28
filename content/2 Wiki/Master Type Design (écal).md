@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Type Design Program]]"
 IG:
   - https://www.instagram.com/ecal_ch

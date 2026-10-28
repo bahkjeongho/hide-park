@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Animation Program]]"
 Website:
   - https://www.rca.ac.uk/study/programme-finder/animation-ma/

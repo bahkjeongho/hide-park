@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Film Program]]"
 IG:
   - https://www.instagram.com/thelondonfilmschool

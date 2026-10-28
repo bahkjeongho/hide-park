@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Academic Program]]"
   - "[[Photography Program]]"
 Website:
   - https://www.artcenter.edu/academics/undergraduate-degrees/photography-and-imaging/overview.html
