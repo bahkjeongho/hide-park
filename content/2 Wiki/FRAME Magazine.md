@@ -6,17 +6,39 @@ IG:
   - https://www.instagram.com/framemagazine/
 Website:
   - https://frameweb.com/
+Wikis:
+  - https://en.wikipedia.org/wiki/Frame_(magazine)
+Cities:
+  - "[[Amsterdam]]"
+Countries:
+  - "[[Netherlands]]"
 ---
 >[!tldr] tl;dr
->
+>1997년 암스테르담에서 창간한 인테리어·공간 디자인 매거진
 
 > [!Info]
-> 
-**FRAME is the first and leading global publisher dedicated to interior design.** Through our flagship magazine, books, awards programme, and digital content, we empower designers and industry professionals with forward-looking inspiration and insights that transform spaces and improve lives around the world.
-
-Join FRAME if you’re a designer, design professional, or design-oriented brand. Discover who we are and what we offer on this page.
+> FRAME은 인테리어 디자인 전문의 첫 번째이자 대표적인 글로벌 출판사다. 대표 매거진, 책, 어워드 프로그램, 디지털 콘텐츠를 통해 디자이너와 업계 전문가에게 앞을 내다보는 영감과 통찰을 제공하여, 공간을 바꾸고 전 세계 사람들의 삶을 개선하도록 힘을 싣는다.
+>
+> 디자이너, 디자인 전문가, 디자인 지향 브랜드라면 FRAME에 함께하세요. 이 페이지에서 우리가 누구이고 무엇을 제공하는지 알아보세요.
+>
+> **FRAME is the first and leading global publisher dedicated to interior design.** Through our flagship magazine, books, awards programme, and digital content, we empower designers and industry professionals with forward-looking inspiration and insights that transform spaces and improve lives around the world.
+>
+> Join FRAME if you’re a designer, design professional, or design-oriented brand. Discover who we are and what we offer on this page.
 
 > [!Summary]
+> |   |   |
+> |---|---|
+> |Editor-in-chief|Floor Kuitert (2024–present); Robert Thiemann (1997–2023)|
+> |Categories|Interior design, Architecture|
+> |Frequency|Several times per year (print)|
+> |Publisher|Mira Huussen|
+> |Founder|Robert Thiemann and Peter Huiberts|
+> |Founded|1997 (1997)|
+> |Company|Frame Publishers|
+> |Country|Netherlands|
+> |Based in|Amsterdam|
+> |Language|English<br>(international distribution; Korean edition previously available)|
+> |Website|www.frameweb.com/magazine|
 
 ---
 

@@ -1,6 +1,10 @@
 ---
 topic:
   - "[[Graphic Designer]]"
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
 ---
 >[!tldr] tl;dr
 >[[Major Minority]]의 공동 창립 그래픽 디자이너

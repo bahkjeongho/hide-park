@@ -1,5 +1,6 @@
 ---
-topic: Art Director
+topic:
+  - "[[Art Director]]"
 IG: https://www.instagram.com/yuliamakh/
 ---
 >[!tldr] tl;dr

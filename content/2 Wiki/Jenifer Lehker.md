@@ -1,6 +1,12 @@
 ---
 topic:
   - "[[Creative Director]]"
+Cities:
+  - "[[New York]]"
+Countries:
+  - "[[USA]]"
+Related:
+  - "[[Lippincott]]"
 ---
 >[!tldr] tl;dr
 >[[Lippincott]]의 디자인 시니어 파트너

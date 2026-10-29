@@ -3,6 +3,8 @@ aliases:
   - 프랭크 오션
 topic:
   - "[[Artist]]"
+  - "[[Music]]"
+  - "[[Producer]]"
 Genre:
   - "[[R&B]]"
   - "[[Alternative R&B]]"

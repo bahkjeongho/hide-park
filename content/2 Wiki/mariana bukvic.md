@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Designer]]"
+  - "[[Product Designer]]"
 Website: https://marianabukvic.co/
 ---
 >[!tldr] tl;dr

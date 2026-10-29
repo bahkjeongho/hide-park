@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Brand Consultancy]]"
 IG:
   - https://www.instagram.com/mobydigg/
 Website: https://mobydigg.de/en/

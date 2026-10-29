@@ -9,7 +9,12 @@ Website:
 Wikis:
   - https://en.wikipedia.org/wiki/Edward_Enninful
   - https://namu.wiki/w/%EC%97%90%EB%93%9C%EC%9B%8C%EB%93%9C%20%EC%97%90%EB%8B%8C%ED%92%80
-Wikipedia: https://en.wikipedia.org/wiki/Edward_Enninful
+Cities:
+  - "[[London]]"
+Countries:
+  - "[[UK]]"
+Wikipedia:
+  - https://en.wikipedia.org/wiki/Edward_Enninful
 ---
 >[!tldr] tl;dr
 >`Editor, Founder & Chief Creative Officer` of [[EE72]]
@@ -19,7 +24,9 @@ Wikipedia: https://en.wikipedia.org/wiki/Edward_Enninful
 >`(Ex) Editor-in-Chief` of [Vogue] UK
 
 > [!Info]
-> 
+> Edward Kobina Enninful은 가나 출신의 영국 에디터이자 스타일리스트로, 영국판 《Vogue》 편집장이자 콘데 나스트 유럽 에디토리얼 디렉터였다.
+>
+> Edward Kobina Enninful is a Ghanaian-born British editor and stylist who was editor-in-chief of British Vogue and European editorial director of Condé Nast.
 
 > [!Summary]
 > |   |   |
@@ -27,7 +34,6 @@ Wikipedia: https://en.wikipedia.org/wiki/Edward_Enninful
 > |Born|Edward Kobina Enninful<br>22 February 1972<br>Takoradi, Ghana|
 > |Education|Goldsmiths, University of London (dropped out)|
 > |Occupation|Creative director|
-> |Spouse|Alec Maxwell (m. 2022)|
 
 ---
 

@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Design Studio]]"
+  - "[[Graphic Design]]"
 Website: https://typical-organization.com/
 ---
 >[!tldr] tl;dr

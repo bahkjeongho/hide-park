@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Graphic Designer]]"
 Website: https://deniskuchta.com/
 ---
 >[!tldr] tl;dr

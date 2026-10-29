@@ -3,16 +3,28 @@ topic:
   - "[[Graphic Designer]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Sagi_Haviv
+Cities:
+  - "[[New York]]"
+Countries:
+  - "[[USA]]"
+Related:
+  - "[[CGH]]"
 ---
 >[!tldr] tl;dr
 >[[CGH]]의 파트너 디자이너
 
 > [!Info]
+> Sagi Haviv는 Chermayeff & Geismar & Haviv의 파트너이자 디자이너다. US 오픈 테니스 챔피언십, Conservation International, 하버드대학교 출판부, Discovery+, L.A. Reid의 Hitco Entertainment, 미국 올림픽·패럴림픽 박물관 등 60개가 넘는 아이덴티티 프로그램을 디자인했다.
+>
+> 효과적인 로고 디자인 과정에 관한 전문가로서 《Bloomberg Businessweek》, PBS, 《Fast Company》, NBC의 《Meet The Press》에 정기적으로 기고·출연한다. TEDx, AIGA, HOW 디자인 콘퍼런스, Brand New 콘퍼런스, 프린스턴대학교, 오나시스 재단, 미국광고연맹, 컬럼비아 경영대학원 등 전 세계에서 로고 디자인을 강연한다. Clio Awards와 아트 디렉터스 클럽의 심사위원장, D&AD 어워즈의 심사위원장을 지냈다.
+>
+> 2003년 Cooper Union 예술대학을 졸업한 뒤 이 회사에 합류했다. 《Identify: Basic Principles of Identity Design in the Iconic Trademarks of Chermayeff & Geismar》(Print Publishers, 2011)와 《Identity: Chermayeff & Geismar & Haviv》(Standards Manual, 2018년 5월)의 공저자다. 뉴욕 School of Visual Arts에서 비주얼 아이덴티티 디자인을 가르친다.
+>
 > Sagi Haviv is a partner and designer at Chermayeff & Geismar & Haviv. He has designed over 60 identity programs, including those for the US Open Tennis Championships, Conservation International, Harvard University Press, Discovery+, L.A. Reid’s Hitco Entertainment, and the U.S. Olympic & Paralympic Museum.
-
-A go-to expert on the process of effective logo design, Sagi contributes regularly to Bloomberg Businessweek, PBS, Fast Company, and NBC’s Meet The Press. He speaks about logo design around the world, including for TEDx, the AIGA, the HOW Design Conference, the Brand New Conference, Princeton University, the Onassis Foundation, the American Advertising Federation, and Columbia Business School, amongst many others. Sagi has served as Jury Chair for the Clio Awards and the Art Directors Club and Jury President for the D&AD Awards.
-
-Sagi joined the firm in 2003 after graduating from The Cooper Union School of Art. He is coauthor of _Identify: Basic Principles of Identity Design in the Iconic Trademarks of Chermayeff & Geismar_ (Print Publishers, 2011) and _Identity: Chermayeff & Geismar & Haviv_ (Standards Manual, May, 2018). He teaches Visual Identity Design at the School of Visual Arts in New York City.
+>
+> A go-to expert on the process of effective logo design, Sagi contributes regularly to Bloomberg Businessweek, PBS, Fast Company, and NBC’s Meet The Press. He speaks about logo design around the world, including for TEDx, the AIGA, the HOW Design Conference, the Brand New Conference, Princeton University, the Onassis Foundation, the American Advertising Federation, and Columbia Business School, amongst many others. Sagi has served as Jury Chair for the Clio Awards and the Art Directors Club and Jury President for the D&AD Awards.
+>
+> Sagi joined the firm in 2003 after graduating from The Cooper Union School of Art. He is coauthor of _Identify: Basic Principles of Identity Design in the Iconic Trademarks of Chermayeff & Geismar_ (Print Publishers, 2011) and _Identity: Chermayeff & Geismar & Haviv_ (Standards Manual, May, 2018). He teaches Visual Identity Design at the School of Visual Arts in New York City.
 
 > [!Summary]
 > |   |   |

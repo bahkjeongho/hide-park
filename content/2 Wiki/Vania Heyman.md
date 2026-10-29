@@ -1,6 +1,6 @@
 ---
 topic:
-  - Video Director
+  - "[[Video Director]]"
 IG:
   - https://www.instagram.com/vaniaheymann/
 Website:

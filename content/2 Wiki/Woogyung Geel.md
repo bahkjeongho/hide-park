@@ -3,6 +3,12 @@ aliases:
   - 길우경
 topic:
   - "[[Art Director]]"
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
+Related:
+  - "[[Studio fnt]]"
 ---
 >[!tldr] tl;dr
 >[[Studio fnt]]의 이사이자 아트 디렉터

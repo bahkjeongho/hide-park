@@ -3,37 +3,44 @@ topic:
   - "[[Magazine]]"
   - "[[Media]]"
   - "[[Tech Magazine]]"
-IG: https://www.instagram.com/wired/
-Website: https://www.wired.com/
+IG:
+  - https://www.instagram.com/wired/
+Website:
+  - https://www.wired.com/
 Wikis:
   - https://en.wikipedia.org/wiki/Wired_(magazine)
 Cities:
   - "[[San Francisco]]"
+  - "[[New York]]"
 Countries:
   - "[[USA]]"
+Related:
+  - "[[Condé Nast]]"
 ---
->[!tldr]
->
+>[!tldr] tl;dr
+>1993년 창간한 기술이 문화·경제·정치에 미치는 영향을 다루는 미국 매거진
 
 > [!Info]
+> Wired는 신기술이 문화, 경제, 정치에 미치는 영향을 살피는 격월간 미국 매거진이다. 콘데 나스트가 인쇄판과 온라인판으로 발행하며, 1993년 1월 창간 이래 발행되고 있다. 편집 사무소는 캘리포니아 샌프란시스코에, 사업 본부는 뉴욕시에 있다.
+>
 > [Wired](app://obsidian.md/Wired) is a bimonthly American magazine that examines the impact of emerging technologies on culture, the economy, and politics. It is published in both print and online editions by [Condé Nast](app://obsidian.md/Cond%C3%A9%20Nast). The magazine has been in publication since its launch in January 1993. Its editorial office is based in San Francisco, California, with its business headquarters located in New York City.
-
 
 > [!Summary]
 > |   |   |
-|---|---|
-|Global Editorial Director|[Katie Drummond](https://en.wikipedia.org/wiki/Katie_Drummond "Katie Drummond")|
-|Former US editors-in-chief|[Louis Rossetto](https://en.wikipedia.org/wiki/Louis_Rossetto "Louis Rossetto"), Katrina Heron, [Chris Anderson](https://en.wikipedia.org/wiki/Chris_Anderson_\(writer\) "Chris Anderson (writer)"), Scott Dadich, [Nick Thompson](https://en.wikipedia.org/wiki/Nicholas_Thompson_\(editor\) "Nicholas Thompson (editor)"), [Gideon Lichfield](https://en.wikipedia.org/wiki/Gideon_Lichfield "Gideon Lichfield")|
-|Categories|[Business](https://en.wikipedia.org/wiki/Business "Business"), [technology](https://en.wikipedia.org/wiki/Technology "Technology"), [lifestyle](https://en.wikipedia.org/wiki/Lifestyle_\(sociology\) "Lifestyle (sociology)"), [thought leader](https://en.wikipedia.org/wiki/Thought_leader "Thought leader")|
-|Frequency|Bi-monthly|
-|Total circulation|540,265[[1]](https://en.wikipedia.org/wiki/Wired_\(magazine\)#cite_note-1) (2024)|
-|Founder|[Louis Rossetto](https://en.wikipedia.org/wiki/Louis_Rossetto "Louis Rossetto"), [Jane Metcalfe](https://en.wikipedia.org/wiki/Jane_Metcalfe "Jane Metcalfe")|
-|Founded|February 1991|
-|First issue|January 1993, as a quarterly|
-|Company|[Condé Nast Publications](https://en.wikipedia.org/wiki/Cond%C3%A9_Nast_Publications "Condé Nast Publications")|
-|Country|United States|
-|Based in|[San Francisco](https://en.wikipedia.org/wiki/San_Francisco "San Francisco"), California|
-|Language|English|
+> |---|---|
+> |Global Editorial Director|Katie Drummond|
+> |Former US editors-in-chief|Louis Rossetto, Katrina Heron, Chris Anderson, Scott Dadich, Nick Thompson, Gideon Lichfield|
+> |Categories|Business, technology, lifestyle, thought leader|
+> |Frequency|Bi-monthly|
+> |Founder|Louis Rossetto, Jane Metcalfe|
+> |Founded|February 1991|
+> |First issue|January 1993, as a quarterly|
+> |Company|Condé Nast Publications|
+> |Country|United States|
+> |Based in|San Francisco, California|
+> |Language|English|
+> |Website|www.wired.com|
+> |OCLC|24479723|
 
 ---
 

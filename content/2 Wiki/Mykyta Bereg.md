@@ -7,10 +7,13 @@ Website:
   - https://oveay.com/
 ---
 >[!tldr] tl;dr
->
+>우크라이나 출신, 어디서든 일하는 글로벌 에디터
 
 > [!Info]
+> 우크라이나 출신인 Mykyta는 어디에서든, 어디를 위해서든 일하는 글로벌 에디터다. 에디터가 되기 전에는 요리사이자 사진가였다.
+>
 > From Ukraine, Mykyta is a global editor working for and from everywhere. He was a chef and a photographer before becoming an editor.
 
 > [!Summary]
 
+---

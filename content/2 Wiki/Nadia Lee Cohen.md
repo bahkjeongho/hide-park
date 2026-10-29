@@ -1,5 +1,5 @@
 ---
-topic: Photographer
+topic: "[[Photographer]]"
 IG: https://www.instagram.com/nadialeecohen/
 ---
 >[!tldr] tl;dr

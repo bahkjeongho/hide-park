@@ -4,7 +4,6 @@ aliases:
   - Dijon Duenas
   - Lillith
 topic:
-  - Artist
   - "[[Music]]"
   - "[[Producer]]"
 Genre:

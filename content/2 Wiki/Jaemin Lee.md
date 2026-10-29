@@ -4,7 +4,12 @@ aliases:
 topic:
   - "[[Art Director]]"
   - "[[Graphic Designer]]"
-Website: https://leejaemin.net/
+Website:
+  - https://leejaemin.net/
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
 ---
 >[!tldr] tl;dr
 >[[Studio fnt]]의 공동 대표, 아트 디렉터 겸 그래픽 디자이너

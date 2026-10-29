@@ -1,6 +1,6 @@
 ---
 topic:
-  - Record Label
+  - "[[Record Label]]"
 IG:
   - https://www.instagram.com/soundsupply_service/
 Website:

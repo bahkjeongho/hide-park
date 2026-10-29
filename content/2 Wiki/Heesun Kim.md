@@ -3,6 +3,12 @@ aliases:
   - 김희선
 topic:
   - "[[Creative Director]]"
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
+Related:
+  - "[[Studio fnt]]"
 ---
 >[!tldr] tl;dr
 >[[Studio fnt]]의 공동 대표이자 크리에이티브 디렉터

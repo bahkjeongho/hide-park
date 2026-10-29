@@ -1,5 +1,6 @@
 ---
-topic: Photographer
+topic:
+  - "[[Photographer]]"
 IG: https://www.instagram.com/thejoaquincastillo/
 ---
 >[!tldr] tl;dr

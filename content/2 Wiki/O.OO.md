@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Design Studio]]"
+  - "[[Graphic Design]]"
 Website: https://odotoo.com/
 ---
 >[!tldr] tl;dr

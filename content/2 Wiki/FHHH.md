@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Architecture Studio]]"
 IG:
   - https://www.instagram.com/fhhhfriends/
 Website: https://fhhhfriends.com/

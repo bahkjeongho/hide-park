@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Consultancy Collective]]"
 Website: https://www.eidra.com/
 ---
 >[!tldr] tl;dr

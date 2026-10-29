@@ -4,7 +4,6 @@ aliases:
 topic:
   - "[[Art Critic]]"
   - "[[Philosopher]]"
-  - "[[]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Boris_Groys
 ---

@@ -5,15 +5,42 @@ IG:
   - https://www.instagram.com/print_mag/
 Website:
   - https://www.printmag.com/
+Wikis:
+  - https://en.wikipedia.org/wiki/Print_(magazine)
+Cities:
+  - "[[Austin]]"
+Countries:
+  - "[[USA]]"
 ---
 >[!tldr] tl;dr
->
+>1940년 창간한 미국의 그래픽 디자인 매거진, 지금은 웹사이트로 운영
 
 > [!Info]
+> 디자인이 전부이고, 전부가 디자인이다.
+>
+> PRINT(1940년 창간)는 창작자들이 모여 영감을 주고 디자인 대화를 만들어 가는 곳이다. 디자인의 모든 것에 끊임없이 호기심을 갖고, 시각 문화와 그 문화를 만드는 사람들, 그리고 모든 형식과 매체의 그래픽 디자인 표현을 보도하고 큐레이션하며 기린다. 2019년 말 PRINT 브랜드와 Printmag.com은 Debbie Millman(Design Matters), Steven Heller(The Daily Heller), Jessica Deseo(CoolWish), Deb Aldrich(D’NA Company), Laura Des Enfants(D’NA Company) 등 업계 베테랑들로 이루어진 PRINT Holdings LLC에 인수되었다.
+>
+> 이 팀은 브랜드의 깊은 유산을 존중하면서 혁신적인 새로운 방식으로 브랜드를 이어 가는 데 전념한다.
+>
+> Print는 1940년 《Print, A Quarterly Journal of the Graphic Arts》로 시작한 미국의 디자인·문화 웹사이트로, 2017년 말까지 《Print》라는 이름으로 인쇄판을 발행했다.
+>
 > ## Design is everything. Everything is design.
 > PRINT (founded 1940) is where creative people gather to inspire and build design dialogue. Perpetually curious about everything design, we report on, curate and celebrate visual culture, the makers of that culture and the expression of graphic design in all its forms and mediums. In late 2019, the PRINT brand and Printmag.com were acquired by PRINT Holdings LLC, comprised of industry veterans Debbie Millman (Design Matters), Steven Heller (The Daily Heller), Jessica Deseo (CoolWish), Deb Aldrich (D’NA Company) and Laura Des Enfants (D’NA Company).
-
-Together, this team is committed to carrying the brand forward in innovative new ways while honoring its deep legacy.
+>
+> Together, this team is committed to carrying the brand forward in innovative new ways while honoring its deep legacy.
+>
+> Print is an American design and culture website that began as Print, A Quarterly Journal of the Graphic Arts, in 1940, and continued publishing a physical edition through the end of 2017 as Print.
 
 > [!Summary]
+> |   |   |
+> |---|---|
+> |Categories|Graphic design|
+> |First issue|June 1940|
+> |Final issue|December 2017|
+> |Company|Print Holdings LLC (formerly F+W Media)|
+> |Country|United States|
+> |Based in|Austin, Texas|
+> |Language|English|
+> |Website|printmag.com|
 
+---

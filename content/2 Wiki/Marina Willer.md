@@ -5,26 +5,52 @@ IG:
   - https://www.instagram.com/marina_willer/
 Website:
   - https://www.pentagram.com/about/marina-willer
+Wikis:
+  - https://en.wikipedia.org/wiki/Marina_Willer
+Cities:
+  - "[[London]]"
+Countries:
+  - "[[UK]]"
+Related:
+  - "[[Pentagram]]"
 ---
 >[!tldr] tl;dr
-> `Partner` at [[Pentagram]]
+>`Partner` at [[Pentagram]]
 
 > [!Info]
+> Marina Willer는 왕립예술대학에서 그래픽 디자인 MA를 받은 그래픽 디자이너이자 영화감독이다. Pentagram에 파트너로 합류하기 전에는 런던 Wolff Olins의 총괄 크리에이티브 디렉터였다.
+>
+> 경력 동안 Rolls-Royce Motor Cars, Tate, 국제앰네스티, Southbank Centre, Serpentine Galleries, Oxfam, Nesta, Second Home, Moholy Nagy Foundation, 플랑드르 오페라 발레, 브라질의 Oi와 Nubank 등 주요 브랜드 아이덴티티 디자인을 이끌었다. 영국의 대표적 동물 구조 센터 Battersea, 《Sight and Sound》 매거진, Maggie’s 암 센터의 리브랜딩을 이끌었고, Macmillan Cancer Support 브랜드를 디자인한 디자이너 중 한 명이기도 했다.
+>
+> Willer의 첫 장편 영화 《Red Trees》는 2017년 칸 영화제에서 초연되었고 2018년 넷플릭스로 전 세계에 공개되었다. 그의 영화는 파리 까르띠에 재단, 런던 ICA, 세계적 영화제에서 상영되었다. 영국의 상징적 건축가 Richard Rogers를 위해 여러 편의 영화를 만들었는데, 퐁피두 센터와 디자인 박물관의 Rogers 전시를 소개한 〈Exposed〉와 왕립예술원에서 상영된 〈Ethos〉가 있다. 이 영화들은 Rogers 및 그의 건축 사무소 RSH+P와의 오랜 협업의 결과이며, Willer는 RSH+P의 비주얼 아이덴티티도 만들었다.
+>
+> 다방면의 디자이너로서 디자인 박물관의 대형 전시 ‘Ferrari: Under the Skin’과 ‘Stanley Kubrick: The Exhibition’을 디자인했다. 두 전시 모두 박물관 역사상 가장 많은 관객이 찾은 전시였다.
+>
+> 왕립예술대학의 심사위원을 지냈고, 세계에서 가장 권위 있는 그래픽 디자인 협회인 AGI의 회원이다. D&AD 심사위원장을 여러 번 맡았다.
+>
+> 수상으로는 2004년 상파울루 영화제 최우수 브라질 단편영화, 2000년 Promax 최우수 영국 홍보 영상, 2002년 Design Effectiveness Awards의 Oi 부문 그랑프리, 2007년 Macmillan 금상이 있다. Serpentine Galleries 아이덴티티는 2014년 디자인 박물관 ‘Beazley Designs of the Year’ 후보에 올랐고, Moholy-Nagy Foundation 브랜드 아이덴티티는 Dezeen Award 최종 후보였으며 2021년 D&AD 우드 펜슬을 받았다.
+>
+> 영국 디자인계의 선도적 인물로 꾸준히 인정받아 왔으며, 2017년 《Creative Review》 Creative Leaders, 2018년 《Design Week》 명예의 전당 헌액, 2021년 왕립예술협회(RSA)의 왕립산업디자이너(RDI) 칭호 등 다양한 영예를 받았다.
+>
 > Marina Willer is a graphic designer and filmmaker with an MA in Graphic Design from the Royal College of Art. Before joining Pentagram as a partner, she was head creative director for Wolff Olins in London.
-
-During the course of her career, Willer has led the design of major brand identity schemes including Rolls Royce Motor-Cars, Tate, Amnesty International, Southbank Centre, Serpentine Galleries, Oxfam, Nesta, Second Home, Moholy Nagy Foundation, Opera Ballet of Flandres, and Brazil’s Oi and Nubank among many others. Marina also lead the rebrand of Battersea (one of​ ​Britain's​ most famous animal rescue centres), _Sight and Sound_ magazine, and Maggie's cancer centres, and was also one of the designers behind the brand for Macmillan Cancer support.
-
-Willer’s first feature film, Red Trees, premiered at the 2017 Cannes Film Festival and was [released worldwide by Netflix](https://www.netflix.com/title/80206758) in 2018. Her films have been shown at [Fondation Cartier](http://fondation.cartier.com/) in Paris, the [ICA](https://www.ica.art/) in London and prestigious film festivals worldwide. Marina has made several films for iconic British architect Richard Rogers, including “Exposed” — a film to introduce Rogers' exhibition at the Pompidou Centre and the Design Museum—and “Ethos”, which was screened at the Royal Academy of Arts. The films are the result of a longstanding collaboration with Rogers and his architectural practice RSH+P, for which Willer created the visual identity. 
-
-A multi-faceted designer, Willer has designed major exhibitions for the Design Museum including ‘Ferrari: Under the Skin’ and ‘Stanley Kubrick: The Exhibition’. Both were the most-visited exhibitions in the history of the Museum.
-
-She has been an examiner at the Royal College of Art and is a member of the AGI ([Alliance Graphique Internationale](http://a-g-i.org/)) the most prestigious graphic design association in the world. She has been chair of the D&AD jury on numerous occasions.
-
-Awards include best Brazilian short film at the São Paulo Film Festival, 2004, Best British Promotional Film at Promex 2000, Grand Prix for Oi at the 2002 Design Effectiveness Awards and Gold for Macmillan 2007. Her Serpentine Galleries identity was among the 2014 nominees for the Design Museum’s ‘Beazley Designs of the Year and her brand identity for the Moholy-Nagy Foundation was shortlisted for a Dezeen Award and received a D&AD Wood Pencil in 2021.
-
-Consistently recognised as a leading figure in UK design, during the course of her career Willer has been the recipient of a variety of industry honours including _Creative Review_’s [Creative Leaders 2017](https://www.creativereview.co.uk/creative-leaders-50/). In 2018 she was inducted into _Design Week_’s Hall of Fame, and in 2021 she was honoured with the title Royal Designer for Industry (RDI) by the Royal Society of Arts.
+>
+> During the course of her career, Willer has led the design of major brand identity schemes including Rolls Royce Motor-Cars, Tate, Amnesty International, Southbank Centre, Serpentine Galleries, Oxfam, Nesta, Second Home, Moholy Nagy Foundation, Opera Ballet of Flandres, and Brazil’s Oi and Nubank among many others. Marina also lead the rebrand of Battersea (one of​ ​Britain's​ most famous animal rescue centres), _Sight and Sound_ magazine, and Maggie's cancer centres, and was also one of the designers behind the brand for Macmillan Cancer support.
+>
+> Willer’s first feature film, Red Trees, premiered at the 2017 Cannes Film Festival and was [released worldwide by Netflix](https://www.netflix.com/title/80206758) in 2018. Her films have been shown at [Fondation Cartier](http://fondation.cartier.com/) in Paris, the [ICA](https://www.ica.art/) in London and prestigious film festivals worldwide. Marina has made several films for iconic British architect Richard Rogers, including “Exposed” — a film to introduce Rogers' exhibition at the Pompidou Centre and the Design Museum—and “Ethos”, which was screened at the Royal Academy of Arts. The films are the result of a longstanding collaboration with Rogers and his architectural practice RSH+P, for which Willer created the visual identity.
+>
+> A multi-faceted designer, Willer has designed major exhibitions for the Design Museum including ‘Ferrari: Under the Skin’ and ‘Stanley Kubrick: The Exhibition’. Both were the most-visited exhibitions in the history of the Museum.
+>
+> She has been an examiner at the Royal College of Art and is a member of the AGI ([Alliance Graphique Internationale](http://a-g-i.org/)) the most prestigious graphic design association in the world. She has been chair of the D&AD jury on numerous occasions.
+>
+> Awards include best Brazilian short film at the São Paulo Film Festival, 2004, Best British Promotional Film at Promex 2000, Grand Prix for Oi at the 2002 Design Effectiveness Awards and Gold for Macmillan 2007. Her Serpentine Galleries identity was among the 2014 nominees for the Design Museum’s ‘Beazley Designs of the Year and her brand identity for the Moholy-Nagy Foundation was shortlisted for a Dezeen Award and received a D&AD Wood Pencil in 2021.
+>
+> Consistently recognised as a leading figure in UK design, during the course of her career Willer has been the recipient of a variety of industry honours including _Creative Review_’s [Creative Leaders 2017](https://www.creativereview.co.uk/creative-leaders-50/). In 2018 she was inducted into _Design Week_’s Hall of Fame, and in 2021 she was honoured with the title Royal Designer for Industry (RDI) by the Royal Society of Arts.
 
 > [!Summary]
+> |   |   |
+> |---|---|
+> |Occupations|Graphic designer, creative director, filmmaker|
+> |Employer|Pentagram|
 
 ---
 

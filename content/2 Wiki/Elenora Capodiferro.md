@@ -1,5 +1,5 @@
 ---
-topic: Art Driector
+topic: "[[Art Director]]"
 IG: https://www.instagram.com/ellieout/
 ---
 >[!tldr] tl;dr

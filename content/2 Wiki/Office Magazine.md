@@ -1,6 +1,6 @@
 ---
 topic:
-  - "[[Magazine]]"
+  - "[[Fashion Magazine]]"
 IG:
   - https://www.instagram.com/officemagazine/
 Website: https://officemagazine.net/

@@ -5,12 +5,30 @@ IG:
   - https://www.instagram.com/balmerhahlen/
 Website:
   - https://www.balmerhahlen.ch/
+Cities:
+  - "[[Lausanne]]"
+Countries:
+  - "[[Switzerland]]"
 ---
 >[!tldr] tl;dr
->
+>2013년부터 로잔에서 활동하는 스위스 그래픽 디자인 스튜디오, Priscilla Balmer와 Yvo Hählen
 
 > [!Info]
+> 섬세함과 인쇄 품질에 대한 각별한 관심으로 이름을 알린 스위스 그래픽 디자인 스튜디오.
+>
+> Priscilla Balmer와 Yvo Hählen이 설립한 Balmer Hählen은 2013년부터 로잔 중심부에서 활동해 온 그래픽 디자인 스튜디오다. 네 명으로 구성된 팀은 두 사람의 경력의 중심에 있는 예술, 디자인, 음악, 사진 같은 문화 분야를 주로 다룬다.
+>
+> 초학제적 접근으로 디지털 매체와 인쇄를 매일 사고에 통합하며 이 둘을 상호 보완적인 매체로 본다. 종이와 인쇄 기술에 상당한 전문성을 쌓았고, 이 주제와 관련된 여러 행사를 열기도 했다.
+>
+> 국내외에서 이룬 성과는 정기적으로 전시되고 수상한다. 2018년에는 권위 있는 도쿄 TDC 연례 어워드를 받았다. 또한 Priscilla Balmer와 Yvo Hählen은 콘퍼런스, 심사, 워크숍에서 자신들의 접근 방식을 공유해 달라는 요청을 자주 받는다. 이 경험으로 마카오(2024), 한국(2023), 멕시코(2022), 일본(2018) 등을 방문했다.
+>
+> 2022년부터 두 공동 창립자는 국제그래픽연맹(AGI) 회원이며, 이는 그래픽 디자인 분야에서의 헌신과 전문성에 대한 인정이다.
+>
 > The Swiss graphic design studio has made a name for itself through its special attention to detail and the quality of its prints.
+
+> [!Summary]
+
+---
 
 ## The Studio
 
@@ -29,6 +47,3 @@ Through their transdisciplinary approach, Balmer Hählen integrates digital medi
 Their achievements, both locally and internationally, are regularly exhibited and rewarded. In 2018, the studio received the prestigious [Tokyo Type Directors Club](https://tokyotypedirectorsclub.org/en/) Annual Awards. In addition, Priscilla Balmer and Yvo Hählen are often asked to share their approach during conferences, jury and workshops. Their experience has led them to travel to countries such as Macau (2024), South Korea (2023), Mexico (2022) and Japan (2018).
 
 Since 2022, the two co-founders of the studio have been members of the [Alliance Graphique Internationale (AGI)](https://a-g-i.org/), a recognition of their commitment and expertise in the field of graphic design.
-
-> [!Summary]
-

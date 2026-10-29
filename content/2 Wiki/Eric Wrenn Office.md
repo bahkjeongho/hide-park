@@ -6,12 +6,19 @@ IG:
   - https://www.instagram.com/p/DeHbI22lvVJ/?img_index=1
 Website:
   - https://ericwrennoffice.com/
+Cities:
+  - "[[New York]]"
+Countries:
+  - "[[USA]]"
 ---
 >[!tldr] tl;dr
->
+>2011년 설립한 뉴욕 기반의 크리에이티브 컨설턴시, 아트 디렉터 Eric Wrenn
 
 > [!Info]
+> ERIC WRENN OFFICE는 아트 디렉터 Eric Wrenn의 크리에이티브 컨설턴시다. 2011년에 설립된 뉴욕 기반의 이 스튜디오는 아티스트와 다른 창작 클라이언트를 위한 섬세하고 독특한 작업으로 명성을 쌓았다. Wrenn은 2014년부터 2020년까지 《Artforum International》의 디자인 디렉터였다. 2026년에는 에르메스의 매거진 《Le Monde d’Hermès》의 게스트 아티스틱 디렉터로 임명되었다.
+>
 > ERIC WRENN OFFICE IS THE CREATIVE CONSULTANCY OF ART DIRECTOR ERIC WRENN. ESTABLISHED IN 2011, THE NEW YORK–BASED STUDIO HAS DEVELOPED A REPUTATION FOR NUANCED, DISTINCTIVE WORK PRODUCED FOR ARTISTS AND OTHER CREATIVE CLIENTS. FROM 2014 TO 2020 WRENN WAS DESIGN DIRECTOR OF ARTFORUM INTERNATIONAL. IN 2026 WRENN WAS APPOINTED GUEST ARTISTIC DIRECTOR OF LE MONDE D’HERMÈS, THE MAGAZINE OF HERMÈS.
 
 > [!Summary]
 
+---

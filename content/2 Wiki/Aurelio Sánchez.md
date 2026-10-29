@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Graphic Designer]]"
+  - "[[Brand Design]]"
 Website: https://www.fluorink.net/
 ---
 >[!tldr] tl;dr

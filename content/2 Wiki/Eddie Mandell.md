@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Graphic Designer]]"
+  - "[[Art Director]]"
 IG:
   - https://www.instagram.com/eddiemandell/
 Website: https://eddiemandell.com/

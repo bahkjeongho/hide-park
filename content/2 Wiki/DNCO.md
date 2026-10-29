@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Design Studio]]"
+  - "[[Brand Consultancy]]"
 IG:
   - https://www.instagram.com/dnco/
 Website: https://dnco.com/

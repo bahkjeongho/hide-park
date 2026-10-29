@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Graphic Designer]]"
 Website: https://brandocorradini.com/
 ---
 >[!tldr] tl;dr

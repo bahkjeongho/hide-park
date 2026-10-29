@@ -1,5 +1,8 @@
 ---
-Website: https://twothree.kr/
+topic:
+  - "[[Design Studio]]"
+Website:
+  - https://cargocollective.com/twothree
 ---
 >[!tldr] tl;dr
 >

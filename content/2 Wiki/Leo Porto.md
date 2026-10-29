@@ -1,12 +1,21 @@
 ---
 topic:
   - "[[Creative Director]]"
+Cities:
+  - "[[New York]]"
+Countries:
+  - "[[USA]]"
+Related:
+  - "[[PORTO ROCHA]]"
 ---
 >[!tldr] tl;dr
-> `Founder & Creative Director` of [[PORTO ROCHA]]
+>`Founder & Creative Director` of [[PORTO ROCHA]]
 
 > [!Info]
+> Leo Porto는 뉴욕에 기반을 둔 브라질 출신 크리에이티브 디렉터이자 PORTO ROCHA의 공동 창립자다. 그의 작업은 브랜드 아이덴티티 시스템을 중심으로, 정밀하면서도 표현적인 견고한 틀을 문화와 함께 확장하고 진화하도록 설계하는 데 있다. 스튜디오를 설립하기 전에는 COLLINS의 디자인 디렉터였고 Pentagram, Mother, Chermayeff & Geismar & Haviv에서 일했다. 뉴욕 School of Visual Arts에서 타이포그래피를 가르쳤으며 D&AD, The One Club, Print Magazine, Type Directors Club 등의 상과 매체에서 인정받았다.
+>
 > Leo Porto is a NY-based Brazilian creative director and co-founder of PORTO ROCHA. His work centers around brand identity systems, building robust frameworks that are both precise and expressive — designed to scale and evolve with culture. Prior to founding the studio, Leo was a Design Director at COLLINS and worked at Pentagram, Mother, and Chermayeff & Geismar & Haviv. He has taught typography at the School of Visual Arts in New York, and has been recognized by awards and publications including D&AD, The One Club, Print Magazine, and The Type Directors Club.
 
 > [!Summary]
 
+---

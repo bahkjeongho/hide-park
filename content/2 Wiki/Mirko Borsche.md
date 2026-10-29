@@ -4,7 +4,12 @@ aliases:
 topic:
   - "[[Art Director]]"
   - "[[Designer]]"
-IG: https://www.instagram.com/mirkoborsche/
+IG:
+  - https://www.instagram.com/mirkoborsche/
+Cities:
+  - "[[Munich]]"
+Countries:
+  - "[[Germany]]"
 tags:
   - Design
   - Art-Director

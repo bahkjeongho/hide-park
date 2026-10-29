@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/thirstcraft/
 Website: https://thirstcraft.com/

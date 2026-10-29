@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Design Studio]]"
+  - "[[Graphic Design]]"
 Website: http://www.related.design/
 ---
 >[!tldr] tl;dr

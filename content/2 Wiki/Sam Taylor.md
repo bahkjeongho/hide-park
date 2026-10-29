@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Brand Strategist]]"
 Related:
   - "[[XXIX]]"
 ---

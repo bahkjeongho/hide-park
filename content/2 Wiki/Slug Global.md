@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Creative Team]]"
 IG:
   - https://www.instagram.com/slugglobal/
 Website: https://www.slugglobal.com/

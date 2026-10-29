@@ -2,7 +2,7 @@
 aliases:
   - Tae Kyun Kim
   - 김태균
-topic: Photographer
+topic: "[[Photographer]]"
 IG: https://www.instagram.com/less_photo/
 Website: http://www.lesshot.com/
 ---

@@ -1,6 +1,12 @@
 ---
 topic:
   - "[[Creative Director]]"
+Cities:
+  - "[[Hong Kong]]"
+Countries:
+  - "[[Hong Kong]]"
+Related:
+  - "[[Lippincott]]"
 ---
 >[!tldr] tl;dr
 >[[Lippincott]]의 디자인 파트너, APAC 크리에이티브 디렉터

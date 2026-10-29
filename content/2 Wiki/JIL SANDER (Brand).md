@@ -1,13 +1,23 @@
 ---
 topic:
   - "[[Fashion Brand]]"
-Wikis: https://en.wikipedia.org/wiki/Jil_Sander_(company)
+Wikis:
+  - https://en.wikipedia.org/wiki/Jil_Sander_(company)
+  - https://namu.wiki/w/%EC%A7%88%20%EC%83%8C%EB%8D%94
+Cities:
+  - "[[Milan]]"
+Countries:
+  - "[[Italy]]"
+Related:
+  - "[[OTB]]"
 ---
 >[!tldr] tl;dr
 >1968년 Jil Sander가 함부르크에서 시작한 패션 브랜드(OTB Group 소속)
 
 > [!Info]
-> 
+> Jil Sander S.p.A.는 1968년 독일 함부르크에서 설립되어 현재 이탈리아 밀라노에 본사를 둔 럭셔리 패션 하우스다. Jil Sander가 설립했으며 미니멀하고 깔끔한 디자인으로 가장 잘 알려져 있다. 1999년 Prada에 인수되었고, Sander는 이후 창작상의 견해 차이로 자신의 이름을 건 레이블을 떠났다. 여러 차례 소유주가 바뀐 끝에 2021년 3월 이탈리아 패션 그룹 OTB가 인수했다. 크리에이티브 디렉터는 Simone Bellotti다.
+>
+> Jil Sander S.p.A. is a luxury fashion house founded in 1968 in Hamburg, Germany, and currently headquartered in Milan, Italy. Founded by Jil Sander, the brand is best known for its minimalist and clean designs. The brand was acquired by Prada in 1999 and Sander subsequently departed her eponymous label due to creative differences. After several changes of ownership, the Jil Sander brand was acquired by Italian fashion group OTB in March 2021. Simone Bellotti is the creative director.
 
 > [!Summary]
 > |   |   |
@@ -25,3 +35,5 @@ Wikis: https://en.wikipedia.org/wiki/Jil_Sander_(company)
 > |Net income|€7.5 million (2023)|
 > |Number of employees|208 (2025)|
 > |Parent|OTB Group|
+
+---

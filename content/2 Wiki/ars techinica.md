@@ -5,14 +5,30 @@ IG:
   - https://www.instagram.com/arstechnica/
 Website:
   - https://arstechnica.com/
+Wikis:
+  - https://en.wikipedia.org/wiki/Ars_Technica
+Countries:
+  - "[[USA]]"
+Related:
+  - "[[Condé Nast]]"
 ---
 >[!tldr] tl;dr
->
+>1998년 시작한 기술·과학·정책 뉴스 웹사이트
 
 > [!Info]
-> 
+> Ars Technica는 Ken Fisher와 Jon Stokes가 1998년 만든 기술, 과학, 정치, 사회 뉴스와 의견 웹사이트다. 컴퓨터 하드웨어와 소프트웨어, 과학, 기술 정책, 비디오 게임 같은 주제의 뉴스, 리뷰, 가이드를 게재한다.
+>
+> Ars Technica is a website covering news and opinions in technology, science, politics, and society, created by Ken Fisher and Jon Stokes in 1998. It publishes news, reviews, and guides on issues such as computer hardware and software, science, technology policy, and video games.
 
 > [!Summary]
+> |   |   |
+> |---|---|
+> |Website type|Technology<br>Information|
+> |Available in|English|
+> |Owner|Condé Nast|
+> |Creators|Ken Fisher<br>Jon Stokes|
+> |Website|arstechnica.com|
+> |Launched|1998|
 
 ---
 

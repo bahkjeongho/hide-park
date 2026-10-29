@@ -1,14 +1,38 @@
 ---
 topic:
   - "[[Fashion Brand]]"
+IG:
+  - https://www.instagram.com/vetements_official/
+Website:
+  - https://www.vetements.com
+URL:
+  - https://www.youtube.com/@VETEMENTSOFFICIAL
+Wikis:
+  - https://en.wikipedia.org/wiki/Vetements
+  - https://namu.wiki/w/%EB%B2%A0%ED%8A%B8%EB%A9%8D
+Cities:
+  - "[[Zurich]]"
+Countries:
+  - "[[Switzerland]]"
 ---
 >[!tldr] tl;dr
->
+>2014년 Demna Gvasalia와 Guram Gvasalia가 시작한 스위스·프랑스 럭셔리 패션 하우스
 
 > [!Info]
-> 
+> Vetements는 2014년 조지아 출신 패션 디자이너 Demna Gvasalia와 Guram Gvasalia가 시작한 스위스-프랑스 럭셔리 패션 하우스다. 처음에는 디자인 집단으로 설립되었고, 오버사이즈 비율, 재구성된 의류, 스트리트웨어, 익숙한 옷과 이미지의 재해석으로 알려지게 되었다.
+>
+> Vetements started in 2014 as a Swiss-French luxury fashion house founded by Georgian fashion designers Demna Gvasalia and Guram Gvasalia. Initially established as a design collective, the label became known for oversized proportions, reconstructed garments, streetwear and the reinterpretation of familiar clothing and imagery.
 
 > [!Summary]
+> |   |   |
+> |---|---|
+> |Industry|Fashion|
+> |Founded|2014|
+> |Founders|Demna Gvasalia, Guram Gvasalia|
+> |Headquarters|Zürich, Switzerland|
+> |Products|Clothing, shoes, accessories|
+> |Owner|Vetements Group AG|
+> |Website|vetements.com|
 
 ---
 

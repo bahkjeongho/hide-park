@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Creative Consultancy]]"
 IG:
   - https://www.instagram.com/thechasecreative/
 Website: https://www.thechase.co.uk/

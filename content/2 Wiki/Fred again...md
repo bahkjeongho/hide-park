@@ -4,7 +4,6 @@ aliases:
   - Fred Again
   - Fred
 topic:
-  - Artist
   - "[[Music]]"
   - "[[Producer]]"
   - "[[DJ]]"

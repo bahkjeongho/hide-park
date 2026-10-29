@@ -1,5 +1,8 @@
 ---
-topic: Creative Director
+topic:
+  - "[[Creative Studio]]"
+  - "[[Design Studio]]"
+  - "[[Graphic Design]]"
 IG: https://www.instagram.com/metals.us/
 Website: https://www.francfernandez.com/
 URL: https://www.instagram.com/francfernandez/

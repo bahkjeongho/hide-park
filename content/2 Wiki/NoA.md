@@ -1,4 +1,7 @@
 ---
+topic:
+  - "[[Creative Team]]"
+  - "[[Consulting Agency]]"
 Website: https://www.thenorthalliance.com/
 ---
 >[!tldr] tl;dr

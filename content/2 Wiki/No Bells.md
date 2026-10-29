@@ -4,14 +4,17 @@ topic:
   - "[[Culture Magazine]]"
 IG:
   - https://www.instagram.com/nobells/
-Website: https://nobells.blog/
+Website:
+  - https://nobells.blog/
 Related:
   - "[[Kieran Press-Reynolds]]"
 ---
 >[!tldr] tl;dr
->
+>2021년 시작한 인터넷 언더그라운드 음악 블로그·허브
 
 > [!Info]
+> No Bells는 2021년 틈새 음악 블로깅과 먼지 쌓인 글들의 모음으로 시작했다. 이후 더 넓은 인터넷 언더그라운드의 허브가 되었고, 장면을 만들고 몸을 흔드는 음반들을 앞과 뒤로 살핀다. 아트 디렉션과 웹 디자인을 이끈 Srikar Poruri에게 감사를 전한다(내가 이 사이트를 혼자 운영하던 때를 기억한다면 당신은 정식 Day 1이다). 마지막으로 길을 닦아 준 블로그들, Passion of the Weiss, 2dopeboyz, Cocaine Blunts, Tone Glow 등에게 감사를 전한다. 그들의 탁월함의 일부라도 이루고 몇 사람에게 영감을 주길 바란다. 사이트에 글을 쓰고 싶다면 기고 가이드라인을 확인해 주세요. – Mano Sundaresan
+>
 > No Bells originally began in 2021 as a bit of a catch-all for niche music blogging and pieces collecting digital dust. It’s since become a hub of the wider internet underground, looking forwards and backwards at the records that shape scenes and shake our bodies. Shoutout to [Srikar Poruri](https://twitter.com/srikar_poruri) for leading art direction and web design (if you remember when I ran this site solo you’re officially a Day 1). Finally, shoutout to all the blogs that paved the way–Passion of the Weiss, 2dopeboyz, Cocaine Blunts, Tone Glow, etc etc. Hopefully we achieve a fraction of their excellence and inspire a few folks, too. If you’re interested in writing for the site, check out our [pitching guidelines](https://nobells.blog/pitching-guidelines/). – Mano Sundaresan
 
 > [!Summary]

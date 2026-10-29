@@ -2,8 +2,10 @@
 topic:
   - "[[Media]]"
   - "[[Tech Magazine]]"
-IG: "\thttps://www.instagram.com/verge/"
-Website: https://www.theverge.com/
+IG:
+  - "\thttps://www.instagram.com/verge/"
+Website:
+  - https://www.theverge.com/
 Wikis:
   - https://en.wikipedia.org/wiki/The_Verge
 Cities:
@@ -12,26 +14,31 @@ Countries:
   - "[[USA]]"
 ---
 >[!tldr] tl;dr
->
+>2011년 시작한 미국의 기술 뉴스 매체
 
 > [!Info]
+> The Verge는 기술, 그리고 기술이 우리에게 어떤 느낌을 주는지에 관한 매체다. 2011년에 창간해 사이트, 영상, 팟캐스트를 통해 속보, 리뷰, 수상 경력의 특집과 탐사까지 모든 것을 독자에게 전한다.
+>
+> 우리의 원래 편집적 통찰은 모바일 기술이 새로운 세대의 디지털 소비자를 만들면서 기술이 문화의 변두리에서 한가운데로 옮겨 왔다는 것이었다. 이제 우리는 미디어, 교통, 과학의 혁명을 몰고 온 눈부신 화면의 세계에 산다. 미래는 그 어느 때보다 빠르게 오고 있다.
+>
+> The Verge는 뉴욕시 로어 맨해튼에 본사를 둔 미국의 온라인 기술 뉴스 매체로, Penske Media Corporation 산하 PMX Global, LLC가 운영한다. 웹사이트는 뉴스, 특집 기사, 구매 가이드, 제품 리뷰, 가전 뉴스, 팟캐스트를 게재한다.
+>
 > _The Verge_ is about technology and how it makes us feel. Founded in 2011, we offer our audience everything from breaking news to reviews to award-winning features and investigations, on our site, in video, and in podcasts.
-
-Our original editorial insight was that technology had migrated from the far fringes of the culture to the absolute center as mobile technology created a new generation of digital consumers. Now, we live in a dazzling world of screens that has ushered in revolutions in media, transportation, and science. The future is arriving faster than ever.
+>
+> Our original editorial insight was that technology had migrated from the far fringes of the culture to the absolute center as mobile technology created a new generation of digital consumers. Now, we live in a dazzling world of screens that has ushered in revolutions in media, transportation, and science. The future is arriving faster than ever.
+>
+> The Verge is an online American technology news publication headquartered in Lower Manhattan, New York City, and operated by PMX Global, LLC, unit of Penske Media Corporation. The website publishes news, feature stories, guidebooks, product reviews, consumer electronics news, and podcasts.
 
 > [!Summary]
 > |   |   |
-|---|---|
-|Website type|[Technology News](https://en.wikipedia.org/wiki/Technology_journalism "Technology journalism") [Science](https://en.wikipedia.org/wiki/Science "Science"), [Entertainment](https://en.wikipedia.org/wiki/Entertainment "Entertainment")|
-|Headquarters|85 [Broad Street](https://en.wikipedia.org/wiki/Broad_Street_\(Manhattan\) "Broad Street (Manhattan)")  <br>[New York City](https://en.wikipedia.org/wiki/New_York_City "New York City"), NY 10004  <br>U.S.|
-|Owners|- [Vox Media Inc.](https://en.wikipedia.org/wiki/Vox_Media "Vox Media") (2011–2026)<br>- [PMX Global, LLC](https://en.wikipedia.org/wiki/Penske_Media_Corporation#PMX_Global "Penske Media Corporation") (since 2026)|
-|Creators|- [Joshua Topolsky](https://en.wikipedia.org/wiki/Joshua_Topolsky "Joshua Topolsky")[[1]](https://en.wikipedia.org/wiki/The_Verge#cite_note-beyond-1)<br>- [Jim Bankoff](https://en.wikipedia.org/wiki/Jim_Bankoff "Jim Bankoff")[[1]](https://en.wikipedia.org/wiki/The_Verge#cite_note-beyond-1)<br>- [Marty Moe](https://en.wikipedia.org/wiki/Marty_Moe "Marty Moe")[[1]](https://en.wikipedia.org/wiki/The_Verge#cite_note-beyond-1)|
-|Editor|[Nilay Patel](https://en.wikipedia.org/wiki/Nilay_Patel "Nilay Patel")[[2]](https://en.wikipedia.org/wiki/The_Verge#cite_note-WiredMay2015-2)|
-|Website|[theverge.com](https://www.theverge.com/)|
-|Commercial|Yes|
-|Registration|Required to subscribe for access|
-|Launched|November 1, 2011; 14 years ago[[3]](https://en.wikipedia.org/wiki/The_Verge#cite_note-NiemanLabNovember2011-3)|
-|Current status|Online|
+> |---|---|
+> |Website type|Technology News Science, Entertainment|
+> |Headquarters|85 Broad Street<br>New York City, NY 10004<br>U.S.|
+> |Owners|Vox Media Inc. (2011–2026)<br>PMX Global, LLC (since 2026)|
+> |Creators|Joshua Topolsky<br>Jim Bankoff<br>Marty Moe|
+> |Editor|Nilay Patel|
+> |Website|theverge.com|
+> |Launched|November 1, 2011|
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 aliases:
   - Twenty Nine
-topic: Studio
+topic:
+  - "[[Design Studio]]"
+  - "[[Brand Design]]"
 IG: https://www.instagram.com/xxix_co
 Website: https://www.xxix.co/
 ---
