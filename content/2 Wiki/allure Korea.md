@@ -10,6 +10,8 @@ URL:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://www.allurekorea.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >뷰티·패션·여행 등 실용 정보를 다루는 얼루어의 한국판
 

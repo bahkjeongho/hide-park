@@ -5,8 +5,7 @@ aliases:
   - Nico
   - 니콜라스 자르
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Electronic]]"
   - "[[Experimental]]"
@@ -31,6 +30,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://www.jaar.site/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://conservatory.afi.com/editing/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Master's Program` in editing of [[American Film Institute (AFI)]]
 

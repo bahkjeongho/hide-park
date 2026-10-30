@@ -4,8 +4,7 @@ aliases:
   - Pharrell
   - Skateboard P
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Hip Hop]]"
   - "[[R&B]]"
@@ -31,6 +30,8 @@ Related:
   - "[[N.E.R.D.]]"
   - "[[the Neptunes]]"
 ---
+<iframe src="https://pharrellwilliams.com" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Electronic]]"
 Website:
@@ -9,6 +8,8 @@ Website:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://kirararararararara.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

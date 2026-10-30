@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://sva.edu/academics/undergraduate/bfa-comics" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Bachelor's Program` in comics of [[SVA]]
 

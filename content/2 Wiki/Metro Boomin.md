@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[Producer]]"
 Labels:
   - "[[Boominati Worldwide]]"
@@ -19,6 +18,8 @@ Wikis:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://www.boominatiworldwide.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -13,6 +13,8 @@ Wikis:
 Related:
   - "[[Apple]]"
 ---
+<iframe src="https://www.apple.com/leadership/john-ternus/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >2001년 Apple 제품 디자인팀에 합류해 2026년 9월부터 CEO를 맡은 엔지니어
 

@@ -3,8 +3,7 @@ aliases:
   - Tia Cabral
   - Chrystia Cabral
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Progressive Pop]]"
   - "[[Experimental Pop]]"
@@ -17,6 +16,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://spelllingmusic.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

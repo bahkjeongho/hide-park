@@ -4,8 +4,7 @@ aliases:
   - EXO
   - EXO-K
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"

@@ -8,6 +8,8 @@ Website:
 Wikis:
   - https://en.wikipedia.org/wiki/Collier_Schorr
 ---
+<iframe src="http://www.collierschorr.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >사진가
 

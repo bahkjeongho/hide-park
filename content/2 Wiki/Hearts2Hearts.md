@@ -2,8 +2,7 @@
 aliases:
   - 하츠투하츠
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -26,6 +25,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://hearts2heartsofficial.jp/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

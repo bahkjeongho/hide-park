@@ -6,6 +6,8 @@ IG:
 Website:
   - https://studioshinyoo.com/
 ---
+<iframe src="https://studioshinyoo.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

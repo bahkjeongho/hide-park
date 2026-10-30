@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Netherlands]]"
 ---
+<iframe src="https://www.rietveldacademie.nl/en/page/386/fine-arts" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Bachelor` in fine arts of [[Gerrit Rietveld Academie]]
 

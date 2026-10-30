@@ -3,8 +3,7 @@ aliases:
   - 백예린
   - 白藝璘
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[K-Pop]]"
   - "[[R&B]]"

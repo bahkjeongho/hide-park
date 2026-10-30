@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[West Coast Hip-Hop]]"
 Website:
@@ -13,6 +12,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://vincestaples.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

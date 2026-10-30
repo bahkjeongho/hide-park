@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[EDM]]"
   - "[[Electro House]]"
@@ -13,6 +12,8 @@ Wikis:
 Countries:
   - "[[Australia]]"
 ---
+<iframe src="https://www.ninajirachi.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

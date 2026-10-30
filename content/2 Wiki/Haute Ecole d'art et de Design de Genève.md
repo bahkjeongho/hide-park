@@ -16,6 +16,8 @@ Cities:
 Countries:
   - "[[Switzerland]]"
 ---
+<iframe src="https://www.hesge.ch/head/en" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Art School` based in [[Geneva]]
 

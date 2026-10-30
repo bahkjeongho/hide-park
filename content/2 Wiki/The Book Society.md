@@ -7,6 +7,8 @@ Website: https://thebooksociety.org/blog
 Related:
   - "[[Mediabus]]"
 ---
+<iframe src="https://thebooksociety.org/blog" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

@@ -9,6 +9,8 @@ Related:
   - "[[Condé Nast]]"
   - "[[Architectural Digest]]"
 ---
+<iframe src="https://www.adstyle.com.cn/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >Architectural Digest의 중국판(安邸AD)
 

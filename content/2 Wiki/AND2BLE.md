@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Labels:
   - "[[YH Entertainment]]"
@@ -21,6 +20,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://and2ble.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

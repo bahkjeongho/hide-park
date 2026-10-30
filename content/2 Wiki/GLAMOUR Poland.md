@@ -6,6 +6,8 @@ IG:
 Website:
   - https://www.glamour.pl/
 ---
+<iframe src="https://www.glamour.pl/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

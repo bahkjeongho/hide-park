@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Indie Folk]]"
   - "[[Chamber Pop]]"
@@ -21,6 +20,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://www.sufjan.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

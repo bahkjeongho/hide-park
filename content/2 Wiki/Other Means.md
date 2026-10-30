@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://othermeans.us/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >브루클린의 그래픽 디자인 스튜디오, Gary Fogelson·Phil Lubliner·Ryan Waller가 이끎
 

@@ -3,8 +3,7 @@ aliases:
   - ROSALÍA
   - 로살리아
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Flamenco Pop]]"
   - "[[Urbano]]"
@@ -27,6 +26,8 @@ Cities:
 Countries:
   - "[[Spain]]"
 ---
+<iframe src="https://rosalia.com" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

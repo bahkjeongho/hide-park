@@ -4,8 +4,7 @@ aliases:
   - Struction
   - Felix Manuel
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Drum and Bass]]"
   - "[[Downtempo]]"

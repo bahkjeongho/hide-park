@@ -16,6 +16,8 @@ Related:
   - "[[Condé Nast]]"
   - "[[GLAMOUR (Magazine)]]"
 ---
+<iframe src="https://www.glamourmagazine.co.uk/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >Glamour의 영국판
 

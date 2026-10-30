@@ -3,8 +3,7 @@ aliases:
   - 율
   - Nat Ćmiel
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Synth-pop]]"
   - "[[Ambient Pop]]"
@@ -27,6 +26,8 @@ Countries:
   - "[[Singapore]]"
   - "[[UK]]"
 ---
+<iframe src="https://www.yeule.jp/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

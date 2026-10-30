@@ -6,8 +6,7 @@ aliases:
   - Neon Black
   - Aden
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[IDM]]"
   - "[[House]]"
@@ -25,6 +24,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://machinedrum.net/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

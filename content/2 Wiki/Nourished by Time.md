@@ -4,8 +4,7 @@ aliases:
   - Riley With Fire
   - Mother Marcus
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Alternative R&B]]"
   - "[[Synth-Pop]]"

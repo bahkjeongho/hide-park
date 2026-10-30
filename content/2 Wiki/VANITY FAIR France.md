@@ -14,6 +14,8 @@ Related:
   - "[[Condé Nast]]"
   - "[[VANITY FAIR]]"
 ---
+<iframe src="https://www.vanityfair.fr/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >Vanity Fair의 프랑스판
 

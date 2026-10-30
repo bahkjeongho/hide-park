@@ -12,6 +12,8 @@ IG:
 Website:
   - https://www.oneclub.org/nextcreativeleaders/
 ---
+<iframe src="https://www.oneclub.org/nextcreativeleaders/" width="100%" height="700px"></iframe>
+
 ![](https://www.oneclub.org/images/logo/logo-big.png)
 
 >[!tldr] tl;dr

@@ -1,6 +1,8 @@
 ---
 Website: https://oh-socool.com/
 ---
+<iframe src="https://oh-socool.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

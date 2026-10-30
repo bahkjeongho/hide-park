@@ -2,8 +2,7 @@
 aliases:
   - Ciccone Youth
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Noise Rock]]"
   - "[[Indie Rock]]"
@@ -18,6 +17,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://www.sonicyouth.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

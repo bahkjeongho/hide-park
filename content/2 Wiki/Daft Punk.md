@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[French House]]"
   - "[[Electronic]]"
@@ -22,6 +21,8 @@ Cities:
 Countries:
   - "[[France]]"
 ---
+<iframe src="https://daftpunk.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

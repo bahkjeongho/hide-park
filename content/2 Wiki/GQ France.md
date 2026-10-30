@@ -17,6 +17,8 @@ Related:
   - "[[Condé Nast]]"
   - "[[GQ]]"
 ---
+<iframe src="https://www.gqmagazine.fr/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >2008년 창간한 GQ의 프랑스판
 

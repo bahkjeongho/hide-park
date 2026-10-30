@@ -16,6 +16,8 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+<iframe src="https://www.tatler.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >1709년 창간으로 알려진 영국의 사교계·패션 매거진
 

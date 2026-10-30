@@ -3,8 +3,7 @@ aliases:
   - 크러쉬
   - 신효섭
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[R&B]]"
   - "[[Hip Hop]]"

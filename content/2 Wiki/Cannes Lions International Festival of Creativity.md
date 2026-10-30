@@ -19,6 +19,8 @@ Cities:
 Countries:
   - "[[France]]"
 ---
+<iframe src="https://www.canneslions.com/" width="100%" height="700px"></iframe>
+
 ![](https://images.ctfassets.net/vjs6vfoxg7y6/4opCcrk7JYjMCKvmvacrmm/260c0f614f4f5c17ebba85ea5eab3fe6/Open_Graph_Image_home.png)
 
 >[!tldr] tl;dr

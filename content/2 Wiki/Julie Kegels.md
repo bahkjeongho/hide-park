@@ -8,6 +8,8 @@ Website:
 Countries:
   - "[[Belgium]]"
 ---
+<iframe src="https://www.juliekegels.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >2024년에 자신의 레이블을 시작한 벨기에 디자이너 Julie Kegels
 

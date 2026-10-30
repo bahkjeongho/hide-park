@@ -8,6 +8,8 @@ Website:
 URL:
   - https://www.linkedin.com/company/dept.global/
 ---
+<iframe src="https://www.dept.global/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

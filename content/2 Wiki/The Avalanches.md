@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Electronic]]"
   - "[[Sampledelia]]"
@@ -23,6 +22,8 @@ Cities:
 Countries:
   - "[[Australia]]"
 ---
+<iframe src="http://www.theavalanches.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

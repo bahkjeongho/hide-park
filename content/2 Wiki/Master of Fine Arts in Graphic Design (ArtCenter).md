@@ -9,6 +9,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://www.artcenter.edu/academics/graduate-degrees/graphic-design/overview.html" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Master's Program` in Graphic Design of [[ArtCenter]]
 

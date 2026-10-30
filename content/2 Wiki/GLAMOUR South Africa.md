@@ -6,6 +6,8 @@ IG:
 Website:
   - https://www.glamour.co.za/
 ---
+<iframe src="https://www.glamour.co.za/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

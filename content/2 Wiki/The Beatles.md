@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Labels:
   - "[[Apple Records]]"
   - "[[Parlophone]]"
@@ -16,6 +15,8 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/The_Beatles
 ---
+<iframe src="https://thebeatles.com" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

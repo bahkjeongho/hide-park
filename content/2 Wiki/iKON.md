@@ -2,8 +2,7 @@
 aliases:
   - 아이콘
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Labels:
   - "[[143 Entertainment]]"

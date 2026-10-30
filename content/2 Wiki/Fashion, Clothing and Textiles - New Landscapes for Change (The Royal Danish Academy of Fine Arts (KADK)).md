@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Denmark]]"
 ---
+<iframe src="https://royaldanishacademy.com/en/programme/fashion-clothing-textiles" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Master` in fashion, clothing and textiles of [[The Royal Danish Academy of Fine Arts (KADK)]]
 

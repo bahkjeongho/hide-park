@@ -19,6 +19,8 @@ Countries:
 Related:
   - "[[Condé Nast]]"
 ---
+<iframe src="https://www.glamour.com/?us_site=y" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >1939년 뉴욕에서 창간한 미국의 여성 라이프스타일 매거진
 

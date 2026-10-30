@@ -3,8 +3,7 @@ aliases:
   - 배드 버니
   - Benito Antonio Martínez Ocasio
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Latin Hip Hop]]"
   - "[[Latin Trap]]"

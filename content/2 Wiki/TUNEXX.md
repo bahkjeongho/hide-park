@@ -2,8 +2,7 @@
 aliases:
   - 튜넥스
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Labels:
   - "[[IST Entertainment]]"
@@ -21,6 +20,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://www.tunexx.co.kr/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

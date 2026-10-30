@@ -13,6 +13,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="http://nonamepress.kr/" width="100%" height="700px"></iframe>
 
 <img src="https://www.nonamepress.kr/faviconNp.ico" alt="(NO-NAME)PRESS logo" width="96">
 

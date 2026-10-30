@@ -8,6 +8,8 @@ Website:
 Related:
   - "[[Gal Muggia]]"
 ---
+<iframe src="https://www.vaniaheymann.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

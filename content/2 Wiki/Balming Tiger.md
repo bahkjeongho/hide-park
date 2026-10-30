@@ -3,8 +3,7 @@ aliases:
   - 바밍타이거
   - BALMING TIGER
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Alternative K-Pop]]"
 IG:

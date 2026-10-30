@@ -2,8 +2,7 @@
 aliases:
   - 오드유스
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -25,6 +24,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="http://itopgroup.com/bbs/page.php" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

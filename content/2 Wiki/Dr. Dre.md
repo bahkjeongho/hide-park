@@ -5,8 +5,7 @@ aliases:
   - Brickhard
   - The Mechanic
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[Rapper]]"
   - "[[Producer]]"
 Genre:
@@ -31,6 +30,8 @@ Wikis:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://drdre.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

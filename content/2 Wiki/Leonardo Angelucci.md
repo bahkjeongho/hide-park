@@ -9,6 +9,8 @@ Cities:
 Countries:
   - "[[Switzerland]]"
 ---
+<iframe src="https://www.unstated.co/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 > `Part` of [[Unstated International]]
 

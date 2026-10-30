@@ -2,8 +2,7 @@
 aliases:
   - 투어스
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -26,6 +25,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://www.pledis.co.kr/artist/detail/TWS/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

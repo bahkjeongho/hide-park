@@ -19,6 +19,8 @@ Countries:
 Related:
   - "[[University of Southern California]]"
 ---
+<iframe src="https://cinema.usc.edu/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Art School` based in [[Los Angeles]]
 

@@ -18,6 +18,8 @@ Cities:
 Countries:
   - "[[Germany]]"
 ---
+<iframe src="https://www.adc.de/adc-festival/adc-festival-2026/" width="100%" height="700px"></iframe>
+
 ![](https://www.adc.de/content/uploads/2025/12/EIGA670_251218_ADC_Keyvisuals_16x9_V1.jpg)
 >[!tldr] tl;dr
 >`Design Festival` held annually in [[Stuttgart]]

@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Netherlands]]"
 ---
+<iframe src="https://www.kabk.nl/en/programmes/master/type-and-media" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Master of Arts` in type design and typography of [[Royal Academy of Art, The Hague]]
 

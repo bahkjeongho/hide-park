@@ -8,6 +8,8 @@ IG:
 Website:
   - https://a-g-i.org/
 ---
+<iframe src="https://a-g-i.org/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

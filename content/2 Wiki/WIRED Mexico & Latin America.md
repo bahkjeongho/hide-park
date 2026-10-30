@@ -6,6 +6,8 @@ IG:
 Website:
   - https://es.wired.com/
 ---
+<iframe src="https://es.wired.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

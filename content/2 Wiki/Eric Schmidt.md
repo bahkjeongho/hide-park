@@ -13,6 +13,8 @@ Wikis:
 Related:
   - "[[Google]]"
 ---
+<iframe src="https://ericschmidt.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >2001~2011년 Google CEO를 지낸 미국 사업가·컴퓨터 엔지니어
 

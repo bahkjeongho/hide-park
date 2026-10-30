@@ -18,6 +18,8 @@ Cities:
 Countries:
   - "[[Netherlands]]"
 ---
+<iframe src="https://www.dutchdesignawards.nl/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Award` presented in [[Eindhoven]] by [[Dutch Design Foundation]]
 

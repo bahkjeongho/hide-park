@@ -32,4 +32,6 @@ Language: EN
 
 ---
 
-# PeopleResearch on cultural policy, cultural participation, cultural industries, and cultural statistics.
+# People
+
+Research on cultural policy, cultural participation, cultural industries, and cultural statistics.

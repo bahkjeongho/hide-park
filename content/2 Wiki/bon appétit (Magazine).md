@@ -19,6 +19,8 @@ Countries:
 Related:
   - "[[Condé Nast]]"
 ---
+<iframe src="https://www.bonappetit.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >1956년부터 발행해 온 콘데 나스트의 미국 음식·접대 월간지
 

@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+<iframe src="https://lfs.org.uk/course/ma-international-film-business/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Master` in international film business of [[London Film School]]
 

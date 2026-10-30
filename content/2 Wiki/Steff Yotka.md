@@ -13,6 +13,8 @@ tags:
 Related:
   - "[[i-D]]"
 ---
+<iframe src="https://www.steffyotka.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >에디터·작가·크리에이티브 컨설턴트, i-D 편집장 지명자
 

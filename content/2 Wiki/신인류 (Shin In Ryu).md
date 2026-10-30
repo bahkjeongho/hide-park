@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 IG:
   - https://www.instagram.com/shin_in_ryu
 URL:

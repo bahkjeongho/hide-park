@@ -2,8 +2,7 @@
 aliases:
   - 엔시티 드림
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -27,6 +26,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://www.smtown.com/artist/musician/10037" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -5,6 +5,8 @@ topic: "[[Designer]]"
 IG: https://www.instagram.com/lee_h.yun/
 Website: https://iamhyun.com/
 ---
+<iframe src="https://iamhyun.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 > `(Ex) Designer` of [[Gretel]], [[Deacde]], [[XXIX]], [[Order]], [[2x4]]
 

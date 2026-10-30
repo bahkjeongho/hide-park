@@ -17,6 +17,7 @@ Countries:
 Related:
   - "[[NTS Radio]]"
 ---
+<iframe src="https://soup.world/" width="100%" height="700px"></iframe>
 
 <img src="https://soup.world/src/assets/logo-large.svg" alt="SOUP.WORLD logo" width="200">
 

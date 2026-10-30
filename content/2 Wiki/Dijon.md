@@ -4,8 +4,7 @@ aliases:
   - Dijon Duenas
   - Lillith
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[Producer]]"
 Genre:
   - "[[Alternative R&B]]"
@@ -25,6 +24,8 @@ Wikis:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://www.dijondijon.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

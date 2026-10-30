@@ -9,6 +9,8 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+<iframe src="https://www.rca.ac.uk/study/programme-finder/animation-ma/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Master's Program` in Animation of [[RCA]]
 

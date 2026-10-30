@@ -10,6 +10,8 @@ Wikis:
   - https://namu.wiki/w/%EB%9E%98%EB%A6%AC%20%EC%97%98%EB%A6%AC%EC%8A%A8
   - https://en.wikipedia.org/wiki/Larry_Ellison
 ---
+<iframe src="https://www.oracle.com/corporate/executives/larry-ellison/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >Oracle을 공동 창업한 미국 사업가
 

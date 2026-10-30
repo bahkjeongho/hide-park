@@ -12,6 +12,7 @@ Cities:
 Countries:
   - "[[Sweden]]"
 ---
+<iframe src="https://www.stockholmdesignlab.se/" width="100%" height="700px"></iframe>
 
 <img src="https://www.stockholmdesignlab.se/apple-touch-icon.png" alt="Stockholm Design Lab logo" width="96">
 

@@ -14,6 +14,8 @@ Related:
   - "[[Simon Reynolds]]"
   - "[[k-punk]]"
 ---
+<iframe src="http://k-punk.abstractdynamics.org/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

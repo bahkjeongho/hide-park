@@ -11,6 +11,8 @@ Wikis:
   - https://namu.wiki/w/%EC%82%AC%ED%8B%B0%EC%95%84%20%EB%82%98%EB%8D%B8%EB%9D%BC
   - https://en.wikipedia.org/wiki/Satya_Nadella
 ---
+<iframe src="https://news.microsoft.com/exec/satya-nadella/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >2014년부터 Microsoft를 이끄는 인도계 미국인 경영인
 

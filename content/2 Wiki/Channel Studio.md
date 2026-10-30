@@ -12,6 +12,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://channel.studio/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >기술과 디자인을 결합하는 브랜드·사용자 경험 혁신 회사
 

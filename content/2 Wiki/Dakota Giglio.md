@@ -6,6 +6,8 @@ IG:
 Website:
   - https://dakotagiglio.com/
 ---
+<iframe src="https://dakotagiglio.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >편집으로 감정을 불러일으키는 에디터
 

@@ -12,6 +12,8 @@ Countries:
 Related:
   - "[[METALS]]"
 ---
+<iframe src="https://eddiemandell.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >[[METALS]]의 공동 창립자이자 뉴욕 기반 비주얼 아티스트
 

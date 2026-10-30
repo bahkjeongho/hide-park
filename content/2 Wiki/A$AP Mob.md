@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Labels:
   - "[[ASAP Worldwide]]"
   - "[[AWGE]]"
@@ -21,6 +20,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="http://www.asapmob.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 |---|---|

@@ -16,6 +16,8 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+<iframe src="https://theface.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >1980년 Nick Logan이 창간한 영국의 유스 컬처 잡지
 

@@ -18,6 +18,8 @@ Related:
   - "[[Condé Nast]]"
   - "[[VOGUE]]"
 ---
+<iframe src="https://www.voguearabia.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >2017년 두바이에서 창간한 아랍판 보그
 

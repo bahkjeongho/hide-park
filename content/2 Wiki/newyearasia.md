@@ -17,6 +17,8 @@ Related:
   - "[[SONG SEOYOON]]"
   - "[[TAKANOHVSKAYA]]"
 ---
+<iframe src="https://new-year.asia/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

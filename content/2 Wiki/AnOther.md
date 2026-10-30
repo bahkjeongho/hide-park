@@ -18,6 +18,8 @@ Countries:
 Related:
   - "[[Dazed Media]]"
 ---
+<iframe src="https://www.anothermag.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >2001년 Jefferson Hack이 런던에서 창간한 연 2회 발행 패션 매거진
 

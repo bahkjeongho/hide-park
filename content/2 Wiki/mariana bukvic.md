@@ -4,6 +4,8 @@ topic:
   - "[[Product Designer]]"
 Website: https://marianabukvic.co/
 ---
+<iframe src="https://marianabukvic.co/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 > `Product Design Manager` of [[Apple]]
 > `(Ex) Creative Design Manager` of [[Netflix]]

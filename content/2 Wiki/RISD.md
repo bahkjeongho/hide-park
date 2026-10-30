@@ -13,6 +13,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://www.risd.edu/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >로드아일랜드 프로비던스에 있는 사립 미술·디자인 대학
 

@@ -2,8 +2,7 @@
 aliases:
   - BCNR
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Art Rock]]"
   - "[[Chamber Pop]]"
@@ -24,6 +23,8 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+<iframe src="https://blackcountrynewroad.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

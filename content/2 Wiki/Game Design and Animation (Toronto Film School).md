@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Canada]]"
 ---
+<iframe src="https://www.torontofilmschool.ca/programs/video-game-animation/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Diploma Program` in game design and animation of [[Toronto Film School]]
 

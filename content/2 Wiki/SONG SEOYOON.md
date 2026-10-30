@@ -8,6 +8,8 @@ Website:
 Related:
   - "[[newyearasia]]"
 ---
+<iframe src="https://new-year.asia/artist/song-seoyoon/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >뉴욕에서 패션을 공부하고 글로벌 브랜드의 크리에이티브 디렉터를 지낸 디렉터
 

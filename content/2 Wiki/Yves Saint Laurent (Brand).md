@@ -12,6 +12,8 @@ Countries:
 Related:
   - "[[Kering]]"
 ---
+<iframe src="https://www.ysl.com" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >1961년 Yves Saint Laurent와 Pierre Bergé가 세운 파리의 프랑스 럭셔리 패션 하우스, Kering 소속
 

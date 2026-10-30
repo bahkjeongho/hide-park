@@ -2,8 +2,7 @@
 aliases:
   - Harley Streten
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Electronic]]"
   - "[[Future Bass]]"
@@ -24,6 +23,8 @@ Cities:
 Countries:
   - "[[Australia]]"
 ---
+<iframe src="https://flumemusic.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

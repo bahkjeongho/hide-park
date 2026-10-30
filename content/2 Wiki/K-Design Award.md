@@ -18,6 +18,8 @@ Website:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://kdesignaward.com/" width="100%" height="700px"></iframe>
+
 ![](https://kdesignaward.com/files/attach/site_image/site_image.1770708515.png)
 
 >[!tldr] tl;dr

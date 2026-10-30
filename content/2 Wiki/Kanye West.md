@@ -6,8 +6,7 @@ aliases:
   - 예
 topic:
   - Artist
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Hip Hop]]"
   - "[[Pop]]"
@@ -33,6 +32,8 @@ tags:
   - Rapper
   - Hip-Hop
 ---
+<iframe src="https://yeezy.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

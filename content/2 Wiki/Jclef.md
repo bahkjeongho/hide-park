@@ -3,8 +3,7 @@ aliases:
   - 제이클레프
   - 허영진
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Hip Hop]]"
   - "[[R&B]]"

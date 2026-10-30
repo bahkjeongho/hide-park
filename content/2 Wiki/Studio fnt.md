@@ -9,6 +9,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://studiofnt.com/" width="100%" height="700px"></iframe>
 
 <img src="https://freight.cargo.site/t/original/i/e4e6c7026c81f6fbbc811703d9c5f7bd7fb9c54c8e21c30f00c4dda3bf713dd6/logo_square.ico" alt="Studio fnt logo" width="96">
 

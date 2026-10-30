@@ -15,6 +15,8 @@ Related:
   - "[[Condé Nast]]"
   - "[[Architectural Digest]]"
 ---
+<iframe src="https://www.ad-italia.it/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >Architectural Digest의 이탈리아판
 

@@ -4,6 +4,8 @@ topic:
 IG: "\thttps://www.instagram.com/ohezin/"
 Website: https://ohezin.kr/
 ---
+<iframe src="https://ohezin.kr/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

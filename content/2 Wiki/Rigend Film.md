@@ -10,6 +10,8 @@ Website: https://www.rigend.com/
 Related:
   - "[[윤승림]]"
 ---
+<iframe src="https://www.rigend.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

@@ -2,6 +2,8 @@
 Website:
   - https://www.pentagram.com/about/john-rushworth
 ---
+<iframe src="https://www.pentagram.com/about/john-rushworth" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

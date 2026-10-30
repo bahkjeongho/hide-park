@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Indie Rock]]"
   - "[[Art Rock]]"
@@ -22,6 +21,8 @@ Cities:
 Countries:
   - "[[Canada]]"
 ---
+<iframe src="https://www.arcadefire.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -20,4 +20,4 @@ IG:
 - [[NEON (A2O LITE)]] by [[A2O LITE]]
 
 ![](https://youtu.be/jWQx2f-CErU?si=gJFHQdm6jC9kaT1h)
-- [[Whiplash (aespa)|Whiplash]] by [[aespa]]
+- [[Whiplash (aespa) (Track)|Whiplash]] by [[aespa]]

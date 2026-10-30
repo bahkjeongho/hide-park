@@ -2,8 +2,7 @@
 aliases:
   - 아이딧
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Labels:
   - "[[Starship Entertainment]]"
@@ -23,6 +22,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://www.idid-official.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

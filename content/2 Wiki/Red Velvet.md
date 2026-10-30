@@ -2,8 +2,7 @@
 aliases:
   - 레드벨벳
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -28,6 +27,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://www.smentertainment.com/artist/red-velvet" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

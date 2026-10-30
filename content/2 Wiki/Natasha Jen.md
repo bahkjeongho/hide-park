@@ -10,6 +10,8 @@ Countries:
 Related:
   - "[[Pentagram]]"
 ---
+<iframe src="https://www.pentagram.com/about/natasha-jen" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >Pentagram 뉴욕 사무소의 파트너, 타이베이 출신 디자이너·교육자
 

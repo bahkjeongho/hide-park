@@ -3,8 +3,7 @@ aliases:
   - 키비츠
   - AOMG Girls
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[Hip Hop]]"
@@ -27,6 +26,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://aomgofficial.com/keyveatz" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

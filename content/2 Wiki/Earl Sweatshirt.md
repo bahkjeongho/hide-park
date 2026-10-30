@@ -3,8 +3,7 @@ aliases:
   - Thebe Kgositsile
   - Sly Tendencies
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[West Coast Hip Hop]]"
   - "[[Alternative Hip Hop]]"
@@ -24,6 +23,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://earlsweatshirt.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -6,6 +6,8 @@ Website:
 Wikis:
   - https://namu.wiki/w/MUSIC%20AWARDS%20JAPAN
 ---
+<iframe src="https://www.musicawardsjapan.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

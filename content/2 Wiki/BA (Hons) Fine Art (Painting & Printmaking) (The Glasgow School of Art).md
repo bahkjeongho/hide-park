@@ -9,6 +9,8 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+<iframe src="https://www.gsa.ac.uk/undergraduate-degrees/painting-printmaking" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Bachelor's Program` in Painting & Printmaking of [[The Glasgow School of Art]]
 

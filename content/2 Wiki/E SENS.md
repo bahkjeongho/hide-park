@@ -4,8 +4,7 @@ aliases:
   - E SENS
   - Esens
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Hip Hop]]"
 IG:

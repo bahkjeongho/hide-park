@@ -5,8 +5,7 @@ aliases:
   - 김형서
   - Kim Hyeong-seo
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[R&B]]"
 IG:

@@ -2,8 +2,7 @@
 aliases:
   - 리한나
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[R&B]]"
   - "[[Pop]]"
@@ -24,6 +23,8 @@ Cities:
 Countries:
   - "[[Barbados]]"
 ---
+<iframe src="https://www.rihanna.com" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

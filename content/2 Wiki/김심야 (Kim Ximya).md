@@ -4,8 +4,7 @@ aliases:
   - Kim Ximya
   - 김동현
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Hip Hop]]"
 IG:

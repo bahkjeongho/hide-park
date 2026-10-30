@@ -4,9 +4,8 @@ aliases:
   - La Flame
   - Cactus Jack
 topic:
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[Rapper]]"
-  - "[[Music]]"
 Genre:
   - "[[Hip Hop]]"
   - "[[Trap]]"
@@ -33,6 +32,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://www.travisscott.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

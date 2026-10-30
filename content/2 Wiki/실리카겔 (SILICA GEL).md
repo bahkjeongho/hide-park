@@ -4,8 +4,7 @@ aliases:
   - Silica Gel
   - SILICA GEL
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Psychedelic Rock]]"
   - "[[Indie Rock]]"

@@ -17,6 +17,8 @@ Countries:
 Related:
   - "[[Condé Nast]]"
 ---
+<iframe src="https://www.allure.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >1991년 창간한 미국의 뷰티 매거진, 2022년 12월 종이판 발행을 마침
 

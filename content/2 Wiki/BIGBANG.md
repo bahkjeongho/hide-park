@@ -2,8 +2,7 @@
 aliases:
   - 빅뱅
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Labels:
   - "[[YG Entertainment]]"

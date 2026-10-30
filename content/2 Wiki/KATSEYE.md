@@ -2,8 +2,7 @@
 aliases:
   - 캣츠아이
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -28,6 +27,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://www.katseye.world/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

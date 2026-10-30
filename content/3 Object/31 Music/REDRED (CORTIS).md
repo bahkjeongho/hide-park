@@ -16,11 +16,9 @@
 ### Credit
 
 Artist | CORTIS  
-  
-Executive Producer | SEONJEONG SHIN, SEOYOUNG KIM  
-  
+Executive Producer | SEONJEONG SHIN, SEOYOUNG KIM    
 Chief Producer | “hitman” bang  
-  
+
 Head of Creative | SEOYOUNG KIM  
 VISUAL BRANDING | JAE, WONSEON, SEO BIN, Dahye Jeong, Daebong Jung, Minah Jee  
 A&R | Jiyoon June Kwon, Sohee Lily Min  
@@ -29,9 +27,7 @@ Project Management | Injoong Yong
 Hair | Kim Jeong hyun  
 Make Up | Cho Yunha  
 Stylist | Jiyeon Park, Sangwook Park  
-  
--  
-  
+
 Director | YVNG WING (IDIOTS)  
 1st Assistant Director | Jongho JP (IDIOTS), NOHP (IDIOTS)  
 2nd Assistant Director | Yunjung Kim, Hyerim Cha  

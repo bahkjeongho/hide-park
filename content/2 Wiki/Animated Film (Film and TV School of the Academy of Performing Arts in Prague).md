@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Czech Republic]]"
 ---
+<iframe src="https://www.famu.cz/en/departments/department-of-animated-film/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Bachelor's Program` in animated film of [[Film and TV School of the Academy of Performing Arts in Prague]]
 

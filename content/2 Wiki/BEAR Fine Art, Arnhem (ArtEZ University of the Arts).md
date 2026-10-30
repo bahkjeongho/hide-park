@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Netherlands]]"
 ---
+<iframe src="https://www.artez.nl/en/programmes/bachelor/bear-fine-art-arnhem" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Bachelor's Program` in fine art (BEAR) of [[ArtEZ University of the Arts]]
 

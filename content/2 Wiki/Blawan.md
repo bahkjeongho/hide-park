@@ -4,8 +4,7 @@ aliases:
   - Bored Young Adults
   - Kilner
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Techno]]"
   - "[[Industrial Techno]]"
@@ -25,6 +24,8 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+<iframe src="https://www.blawan.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

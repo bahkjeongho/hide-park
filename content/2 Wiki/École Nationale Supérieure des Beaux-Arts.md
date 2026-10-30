@@ -21,6 +21,8 @@ Cities:
 Countries:
   - "[[France]]"
 ---
+<iframe src="https://www.beauxartsparis.fr/en" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Art School` based in [[Paris]]
 

@@ -2,8 +2,7 @@
 aliases:
   - The Everything-You-Knows
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Hardcore Punk]]"
   - "[[Melodic Hardcore]]"
@@ -17,6 +16,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://turnstilehardcore.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

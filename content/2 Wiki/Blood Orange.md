@@ -3,8 +3,7 @@ aliases:
   - Dev Hynes
   - Lightspeed Champion
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Alternative R&B]]"
   - "[[Progressive R&B]]"
@@ -15,6 +14,8 @@ Website:
 Wikis:
   - https://en.wikipedia.org/wiki/Dev_Hynes
 ---
+<iframe src="https://bloodorange.net/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

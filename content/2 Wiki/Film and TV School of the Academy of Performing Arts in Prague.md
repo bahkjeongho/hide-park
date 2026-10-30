@@ -18,6 +18,8 @@ Cities:
 Countries:
   - "[[Czech Republic]]"
 ---
+<iframe src="https://www.famu.cz/en/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Art School` based in [[Prague]]
 

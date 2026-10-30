@@ -5,8 +5,7 @@ aliases:
   - Future Hendrix
   - Pluto
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Trap]]"
   - "[[Southern Hip Hop]]"
@@ -27,6 +26,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://freebandz.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

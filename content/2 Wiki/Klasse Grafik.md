@@ -10,6 +10,8 @@ Cities:
 Countries:
   - "[[Germany]]"
 ---
+<iframe src="https://klassegrafik.de/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >Analytical Graphics class at the [[HFBK]] Hamburg
 

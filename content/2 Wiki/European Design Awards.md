@@ -14,6 +14,8 @@ IG:
 Website:
   - https://europeandesign.org/
 ---
+<iframe src="https://europeandesign.org/" width="100%" height="700px"></iframe>
+
 ![](https://europeandesign.s3.eu-central-1.amazonaws.com/uploads/2023/12/14223950/fb-share-eda.jpg)
 
 >[!tldr] tl;dr

@@ -3,8 +3,7 @@ aliases:
   - 이즈나
   - IZNA
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -27,6 +26,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://wake-one.com/en/artists/izna/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

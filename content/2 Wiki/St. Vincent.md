@@ -2,8 +2,7 @@
 aliases:
   - Annie Clark
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Art Rock]]"
   - "[[Indie Rock]]"
@@ -18,6 +17,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://ilovestvincent.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

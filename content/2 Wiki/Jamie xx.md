@@ -2,8 +2,7 @@
 aliases:
   - James Thomas Smith
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Electronic]]"
   - "[[Indie Pop]]"
@@ -23,6 +22,8 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+<iframe src="https://www.jamiexx.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

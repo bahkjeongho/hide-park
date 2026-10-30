@@ -3,8 +3,7 @@ aliases:
   - 타일러, 더 크리에이터
   - Tyler, The Creator
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Alternative Hip Hop]]"
   - "[[Neo Soul]]"
@@ -30,6 +29,8 @@ Countries:
 Related:
   - "[[Odd Future]]"
 ---
+<iframe src="https://golfwang.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

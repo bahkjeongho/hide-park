@@ -15,6 +15,8 @@ Countries:
 Related:
   - "[[Rei Kawakubo]]"
 ---
+<iframe src="https://www.comme-des-garcons.com" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >1969년 Rei Kawakubo가 설립한 일본 패션 레이블, 파리에 본사 사무소
 

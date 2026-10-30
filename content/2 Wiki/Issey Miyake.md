@@ -1,14 +1,31 @@
 ---
+aliases:
+  - 三宅一生
 topic:
   - "[[Fashion Designer]]"
+Website:
+  - http://www.isseymiyake.com/
+Wikis:
+  - https://en.wikipedia.org/wiki/Issey_Miyake
 ---
+<iframe src="http://www.isseymiyake.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
->
+>플리츠 플리즈 라인으로 알려진 일본 패션 디자이너
 
 > [!Info]
-> 
+> Issey Miyake(三宅一生, 1938년 4월 22일 ~ 2022년 8월 5일)는 일본의 패션 디자이너다. 기술 중심의 의상 디자인, 특히 Pleats Please 라인과 전시, L'eau d'Issey 같은 향수로 알려졌다.
+>
+> Issey Miyake (Japanese: 三宅 一生, Hepburn: Miyake Issei; [mijake iꜜsseː] 22 April 1938 – 5 August 2022) was a Japanese fashion designer. He was known for his technology-driven clothing designs, notably the Pleats, Please line, exhibitions and fragrances such as L'eau d'Issey.
 
 > [!Summary]
+> |   |   |
+> |---|---|
+> |Born|Kazunaru Miyake<br>22 April 1938<br>Hiroshima, Empire of Japan|
+> |Died|5 August 2022<br>Tokyo, Japan|
+> |Education|Tama Art University|
+> |Notable work|Pleats, Please<br>Bao Bao bags<br>L'eau d'Issey|
+> |Awards|Praemium Imperiale|
 
 ---
 

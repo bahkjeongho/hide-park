@@ -6,6 +6,8 @@ IG:
 Website:
   - https://rariesthetics.com/
 ---
+<iframe src="https://rariesthetics.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

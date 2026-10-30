@@ -10,6 +10,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://www.pratt.edu/architecture/undergraduate-architecture/architecture-barch/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Bachelor's Program` in Architecture of [[Pratt Institute]]
 

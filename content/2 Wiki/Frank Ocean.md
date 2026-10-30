@@ -2,8 +2,7 @@
 aliases:
   - 프랭크 오션
 topic:
-  - "[[Artist]]"
-  - "[[Music]]"
+  - "[[Music Artist]]"
   - "[[Producer]]"
 Genre:
   - "[[R&B]]"
@@ -27,6 +26,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://blonded.co/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

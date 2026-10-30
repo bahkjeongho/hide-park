@@ -2,6 +2,8 @@
 Website:
   - https://www.pentagram.com/about/abbott-miller
 ---
+<iframe src="https://www.pentagram.com/about/abbott-miller" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

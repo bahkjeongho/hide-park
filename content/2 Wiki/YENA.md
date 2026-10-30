@@ -3,8 +3,7 @@ aliases:
   - 최예나
   - Choi Yena
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[K-Pop]]"
 IG:

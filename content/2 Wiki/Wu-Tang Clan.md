@@ -2,8 +2,7 @@
 aliases:
   - Wu-Tang
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[Rapper]]"
 Genre:
   - "[[East Coast Hip-Hop]]"
@@ -29,6 +28,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://wutangclan.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

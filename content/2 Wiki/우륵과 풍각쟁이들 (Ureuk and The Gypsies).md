@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[Band]]"
 IG:
   - https://www.instagram.com/ureuk_gypsies/

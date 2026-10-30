@@ -19,6 +19,8 @@ Related:
   - "[[Condé Nast]]"
   - "[[VOGUE]]"
 ---
+<iframe src="https://www.vogue.fr/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >1920년 창간한 프랑스판 보그
 

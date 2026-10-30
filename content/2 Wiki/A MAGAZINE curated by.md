@@ -6,6 +6,8 @@ IG:
 Website:
   - https://amagazinecuratedby.myshopify.com/
 ---
+<iframe src="https://amagazinecuratedby.myshopify.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >매 호 한 명의 디자이너를 초청 큐레이터로 삼아 그의 세계를 다루는 패션 매거진
 

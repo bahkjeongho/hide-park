@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Britpop]]"
   - "[[Art Rock]]"
@@ -22,6 +21,8 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+<iframe src="https://welovepulp.info/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

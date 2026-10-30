@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Sweden]]"
 ---
+<iframe src="https://www.konstfack.se/en/Education/Bachelors-Degree-Programmes/Industridesign-180-hp/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Bachelor` in industrial design of [[Konstfack University of Arts, Craft and Design]]
 

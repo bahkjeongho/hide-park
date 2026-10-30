@@ -9,6 +9,7 @@ Website:
 URL:
   - https://www.linkedin.com/company/kallan-&-co
 ---
+<iframe src="https://www.kallan.co/" width="100%" height="700px"></iframe>
 
 <img src="https://framerusercontent.com/images/hMkw6QrVebZkGvuxtQ9irL3jwo0.png" alt="Kallan&Co logo" width="96">
 

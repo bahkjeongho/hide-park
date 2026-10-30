@@ -9,6 +9,8 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
+<iframe src="https://www.zokei.ac.jp/academics/undergrad/ph/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Bachelor` in photography of [[Tokyo Zokei University]]
 

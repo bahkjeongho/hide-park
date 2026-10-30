@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
+<iframe src="https://www.musabi.ac.jp/course/undergraduate/iic/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Bachelor` in industrial, interior and craft design of [[Musashino Art University]]
 

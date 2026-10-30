@@ -12,6 +12,8 @@ Cities:
 Countries:
   - "[[Norway]]"
 ---
+<iframe src="https://bleed.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >오슬로 기반의 수상 경력 있는 스칸디나비아 디자인 스튜디오
 

@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Labels:
   - "[[Odd Future]]"
 IG:
@@ -15,6 +14,8 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Odd_Future
 ---
+<iframe src="https://oddfuture.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

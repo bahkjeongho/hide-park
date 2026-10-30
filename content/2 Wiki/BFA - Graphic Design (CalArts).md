@@ -9,6 +9,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://calarts.edu/academics/programs-and-degrees/bfa-graphic-design" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Bachelor's Program` in Graphic Design of [[CalArts]]
 

@@ -8,6 +8,8 @@ Website:
 Wikis:
   - https://en.wikipedia.org/wiki/Neil_Krug
 ---
+<iframe src="https://neilkrug.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >Lana Del Rey, Tame Impala 등을 촬영한 미국 포토그래퍼
 

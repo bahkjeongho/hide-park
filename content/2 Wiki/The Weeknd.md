@@ -3,8 +3,7 @@ aliases:
   - 위켄드
   - Abel Tesfaye
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[R&B]]"
   - "[[Pop]]"
@@ -25,6 +24,8 @@ Cities:
 Countries:
   - "[[Canada]]"
 ---
+<iframe src="https://www.theweeknd.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

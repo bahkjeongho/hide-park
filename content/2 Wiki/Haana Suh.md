@@ -6,6 +6,8 @@ IG:
 Website:
   - https://haanasa.com/
 ---
+<iframe src="https://haanasa.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 > `Stylist` for [[KiiiKiii]], [[NCT WISH]], etc.
 > `Former Visual Director` of [[TAMBURINS]]

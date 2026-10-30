@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 IG:
   - https://instagram.com/m_a_n_d_o_n_g
 URL:

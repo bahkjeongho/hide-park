@@ -10,6 +10,8 @@ URL:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://wvdesign.kr/work" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >뷰티 브랜드의 전략·아이덴티티·제품을 만드는 크리에이티브 하우스
 

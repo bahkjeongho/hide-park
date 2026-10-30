@@ -12,6 +12,8 @@ Cities:
 Countries:
   - "[[UAE]]"
 ---
+<iframe src="https://the-brandidentity.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >그래픽·브랜드 디자인의 큐레이션 아카이브, 2015년부터
 
@@ -19,16 +21,11 @@ Countries:
 > The Brand Identity는 최고(Greatest™)의 창작물과 그 뒤의 회사들을 모은 고도로 큐레이션된 아카이브다. 브랜드를 만들어 가는 프로젝트, 과정, 사람들에 대한 사례 연구와 인터뷰를 만든다. 신진부터 세계적 아이콘까지.
 >
 > The Greatest™
->
 > 2015년부터 우리는 그래픽·브랜드 디자인에서 기억될 것이 무엇인지를 정의해 왔다.
 >
 > 우리가 큐레이션한 콘텐츠는 디자인을 호흡하며 사는 전 세계 독자에게 월 2,000만 번 노출되고 공유된다. 그들은 모든 접점 뒤의 디테일, 장인정신, 사고를 알아본다. 그들은 디자인 때문에 브랜드에 투자하는 사람들이다.
 >
-> 그들은 맛만큼 컵을 보고 커피를 고른다.
->
-> 성능만큼 그것을 빚은 비전을 보고 자동차를 고른다.
->
-> 그들은 형태와 기능을 동등하게 보며, 좋아하는 브랜드와 디자이너에게도 같은 것을 요구한다.
+> 그들은 맛만큼 컵을 보고 커피를 고른다. 성능만큼 그것을 빚은 비전을 보고 자동차를 고른다. 그들은 형태와 기능을 동등하게 보며, 좋아하는 브랜드와 디자이너에게도 같은 것을 요구한다.
 >
 > The Brand Identity is a highly curated archive of the Greatest™ creative work and the companies behind it. We create case studies and interviews on the projects, process and people shaping brands. From [emerging names](https://www.instagram.com/p/DPmXxhJALws/?img_index=1) to [global icons](https://the-brandidentity.com/project/los-york-builds-a-tarot-universe-for-netflixs-biggest-global-campaign).
 >

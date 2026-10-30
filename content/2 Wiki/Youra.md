@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[Singer-Songwriter]]"
 IG:
   - https://www.instagram.com/you.ra/

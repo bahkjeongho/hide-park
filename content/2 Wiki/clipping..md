@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[Band]]"
 Labels:
   - "[[Deathbomb Arc]]"
@@ -17,6 +16,8 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Clipping_(band)
 ---
+<iframe src="http://www.itsclippingbitch.com" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

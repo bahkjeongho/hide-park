@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Indie Rock]]"
   - "[[Indie Pop]]"
@@ -22,6 +21,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://www.vampireweekend.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

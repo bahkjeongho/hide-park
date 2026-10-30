@@ -3,8 +3,7 @@ aliases:
   - 데이식스
   - Day6
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
   - "[[Rock Band]]"
 Genre:
@@ -31,6 +30,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://day6.jype.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

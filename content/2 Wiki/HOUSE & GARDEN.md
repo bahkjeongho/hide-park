@@ -19,6 +19,8 @@ Countries:
 Related:
   - "[[Condé Nast]]"
 ---
+<iframe src="https://www.houseandgarden.co.uk/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >1901년 미국에서 시작한 콘데 나스트의 인테리어·정원 매거진
 

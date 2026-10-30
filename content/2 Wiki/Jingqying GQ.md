@@ -11,6 +11,8 @@ Related:
   - "[[Condé Nast]]"
   - "[[GQ]]"
 ---
+<iframe src="https://www.gq.com.cn/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >2009년 창간한 GQ의 중국판(精英GQ)
 

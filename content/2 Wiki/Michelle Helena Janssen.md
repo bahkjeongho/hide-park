@@ -10,6 +10,8 @@ URL:
   - https://www.linkedin.com/in/michelle-helena-janssen/
   - https://vimeo.com/michellehelenajanssen
 ---
+<iframe src="https://michellehelenajanssen.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 > `Art Director` of [[Crack Magazine]]
 

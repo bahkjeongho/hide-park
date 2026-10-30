@@ -19,6 +19,8 @@ Related:
   - "[[Condé Nast]]"
   - "[[VOGUE]]"
 ---
+<iframe src="https://www.vogue.com.tw/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >1996년 창간한 보그의 대만판, 보그 최초의 중국어(만다린) 판
 

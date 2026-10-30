@@ -6,6 +6,8 @@ IG:
 Website:
   - https://smith-diction.com/
 ---
+<iframe src="https://smith-diction.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >13년 넘게 크고 작은 브랜드를 만들어 온 아이덴티티 디자인 스튜디오
 

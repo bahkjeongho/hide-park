@@ -4,8 +4,7 @@ aliases:
   - 李旻徽
   - Minhwi Lee
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Film Score]]"
 IG:

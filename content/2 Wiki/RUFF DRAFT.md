@@ -12,6 +12,8 @@ Countries:
 Related:
   - "[[노재훈]]"
 ---
+<iframe src="https://ruff-draft.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >서울 기반의 비주얼 크리에이티브 에이전시
 

@@ -7,6 +7,8 @@ Website: https://elliottelder.co.uk/
 Related:
   - "[[UNCANNY]]"
 ---
+<iframe src="https://elliottelder.co.uk/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

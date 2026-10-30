@@ -17,7 +17,7 @@ Related:
 >`Founder, Editor-in-Chief & Creative Director` by [[032c]]
 
 > [!Info]
-> Joerg Koch는 ‘생각하는 남자의 패션 매거진’ 032c의 창립자이자 편집장이며, SSENSE의 편집장이기도 하다. Koch의 매거진은 Martin Margiela를 비롯해 패션계에서 가장 과묵한 인물들로 꾸준히 채워진다. SSENSE는 월 2,200만 페이지뷰를 기록하는 글로벌 이커머스 플랫폼으로, 미국, 한국, 중국이 주요 시장이다.
+> Joerg Koch는 ‘생각하는 남자의 패션 매거진’ [[032c]]의 창립자이자 편집장이며, [[SSENSE]]의 편집장이기도 하다. Koch의 매거진은 [[Martin Margiela]]를 비롯해 패션계에서 가장 과묵한 인물들로 꾸준히 채워진다. SSENSE는 월 2,200만 페이지뷰를 기록하는 글로벌 이커머스 플랫폼으로, 미국, 한국, 중국이 주요 시장이다.
 >
 > 032c는 “Who is Steven Meisel?”(1988~2008년 Vogue Italia 커버를 모은 16페이지 접지 아카이브가 포함된 Meisel 독점 인터뷰)나 “Hip, Hop, You Don’t Stop”(전설적인 독일 출판인 Gerhard Stiedl의 상세한 초상) 같은 기사를 만든다.
 >

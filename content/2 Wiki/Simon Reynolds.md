@@ -12,6 +12,8 @@ Wikis:
 Related:
   - "[[Kieran Press-Reynolds]]"
 ---
+<iframe src="https://blissout.blogspot.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

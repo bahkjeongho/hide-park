@@ -2,8 +2,7 @@
 aliases:
   - 키키
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -26,6 +25,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://kiiikiii.kr" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

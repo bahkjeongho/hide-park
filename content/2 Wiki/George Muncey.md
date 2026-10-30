@@ -8,6 +8,8 @@ Website: https://www.georgemuncey.com/
 Related:
   - "[[UNCANNY]]"
 ---
+<iframe src="https://www.georgemuncey.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

@@ -6,6 +6,8 @@ IG:
 Website:
   - https://www.nickyumul.com/
 ---
+<iframe src="https://www.nickyumul.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >영상과 영화에 푹 빠진 필리핀·중국계 캐나다 출신 에디터
 

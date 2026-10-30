@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
+<iframe src="https://www.tamabi.ac.jp/academic-programs/textile-design/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Bachelor` in textile design of [[Tama Art University]]
 

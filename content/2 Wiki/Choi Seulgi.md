@@ -10,6 +10,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="http://www.chsg.kr/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >한국에서 에이전시·스튜디오 경력을 쌓고 뉴욕 브루클린에서 활동하는 그래픽 디자이너
 

@@ -4,8 +4,7 @@ aliases:
   - 브로콜리너마저
   - Broccoli, You Too?
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Indie Rock]]"
   - "[[Indie Pop]]"

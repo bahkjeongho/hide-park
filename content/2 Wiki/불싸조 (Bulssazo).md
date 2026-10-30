@@ -3,8 +3,7 @@ aliases:
   - 불싸조
   - Bulssazo
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Shoegaze]]"
   - "[[Dream Pop]]"

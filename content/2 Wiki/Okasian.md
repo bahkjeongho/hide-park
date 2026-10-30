@@ -5,8 +5,7 @@ aliases:
   - 김지용
   - KZN
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Hip Hop]]"
 IG:

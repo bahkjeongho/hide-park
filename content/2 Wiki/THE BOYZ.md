@@ -3,8 +3,7 @@ aliases:
   - 더보이즈
   - The Boyz
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -25,6 +24,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="http://theboyz.jp/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

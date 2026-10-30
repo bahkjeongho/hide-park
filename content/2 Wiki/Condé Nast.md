@@ -11,6 +11,8 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Cond%C3%A9_Nast
 ---
+<iframe src="https://www.condenast.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

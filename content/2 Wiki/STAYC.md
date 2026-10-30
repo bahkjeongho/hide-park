@@ -2,8 +2,7 @@
 aliases:
   - 스테이씨
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Labels:
   - "[[HIGHUP ENTERTAINMENT]]"

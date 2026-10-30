@@ -4,8 +4,7 @@ aliases:
   - 엔이알디
   - N.E.R.D.
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Funk Rock]]"
   - "[[Alternative Rock]]"
@@ -28,6 +27,8 @@ Related:
   - "[[Pharrell Williams]]"
   - "[[The Neptunes]]"
 ---
+<iframe src="http://nooneeverreallydies.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

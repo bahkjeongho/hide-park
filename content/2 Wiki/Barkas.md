@@ -12,6 +12,7 @@ Cities:
 Countries:
   - "[[Denmark]]"
 ---
+<iframe src="https://barkas.com/" width="100%" height="700px"></iframe>
 
 <img src="https://barkas.com/wp-content/themes/barkas/images/icons/favicon-32.png" alt="Barkas logo" width="48">
 

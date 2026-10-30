@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Netherlands]]"
 ---
+<iframe src="https://www.rietveldacademie.nl/en/page/383/fashion" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Bachelor` in fashion of [[Gerrit Rietveld Academie]]
 

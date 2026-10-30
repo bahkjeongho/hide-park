@@ -5,8 +5,7 @@ aliases:
   - 이태민
   - Lee Taemin
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -32,6 +31,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://taemin-official.com" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

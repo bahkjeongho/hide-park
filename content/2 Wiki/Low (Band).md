@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Labels:
   - "[[Vernon Yard]]"
   - "[[Kranky]]"

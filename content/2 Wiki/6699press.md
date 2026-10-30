@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://6699press.kr/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

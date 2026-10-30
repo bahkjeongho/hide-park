@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[Band]]"
 Labels:
   - "[[DooRooDooRoo Artist Company]]"
@@ -21,6 +20,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="http://hyukoh.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

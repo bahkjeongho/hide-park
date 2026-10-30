@@ -12,6 +12,8 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+<iframe src="https://katiegrand.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Director` of [[Perfect Magazine]]
 > `Contributing Fashion Creative Director` of [[W Magazine]]

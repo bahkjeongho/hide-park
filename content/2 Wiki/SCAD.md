@@ -22,6 +22,8 @@ Countries:
   - "[[USA]]"
   - "[[France]]"
 ---
+<iframe src="https://www.scad.edu/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >미국 조지아주 서배너에 기반을 둔 사립 예술·디자인 대학
 

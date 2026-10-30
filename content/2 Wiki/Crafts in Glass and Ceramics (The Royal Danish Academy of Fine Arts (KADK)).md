@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Denmark]]"
 ---
+<iframe src="https://royaldanishacademy.com/en/programme/craft-glass-and-ceramics" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Bachelor` in crafts in glass and ceramics of [[The Royal Danish Academy of Fine Arts (KADK)]]
 

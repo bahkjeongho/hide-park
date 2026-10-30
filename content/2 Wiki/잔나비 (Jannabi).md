@@ -3,8 +3,7 @@ aliases:
   - 잔나비
   - JANNABI
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 IG:
   - https://www.instagram.com/bandjannabi
 URL:

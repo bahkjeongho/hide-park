@@ -2,8 +2,7 @@
 aliases:
   - 트레저
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Labels:
   - "[[YG Entertainment]]"

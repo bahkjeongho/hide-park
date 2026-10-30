@@ -20,6 +20,7 @@ Countries:
 Related:
   - "[[Eidra]]"
 ---
+<iframe src="https://www.kurppahosk.com/" width="100%" height="700px"></iframe>
 
 <img src="https://cdn.sanity.io/images/0y14le4e/production/821a6d2cf56e4d6dc8b1c664d3b5cc7bfc7277ab-1200x630.png?fit=max&auto=format" alt="Kurppa Hosk logo" width="140">
 

@@ -3,8 +3,7 @@ aliases:
   - 長谷川白紙
   - 하세가와 하쿠시
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 IG:
   - https://www.instagram.com/hsgwhks/
 Website:
@@ -22,6 +21,8 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
+<iframe src="https://hakushihasegawa.com" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

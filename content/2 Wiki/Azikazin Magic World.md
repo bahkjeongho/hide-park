@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[Creative Collective]]"
 IG:
   - https://www.instagram.com/azikazinmagicworld/
@@ -12,6 +11,8 @@ Wikis:
 Related:
   - "[[Lionclad]]"
 ---
+<iframe src="https://azikazinmagicworld.com/news/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

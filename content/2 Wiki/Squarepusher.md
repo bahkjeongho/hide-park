@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Labels:
   - "[[Warp]]"
   - "[[Rephlex]]"
@@ -18,6 +17,8 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Squarepusher
 ---
+<iframe src="http://www.squarepusher.net" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -15,6 +15,8 @@ Website:
 Countries:
   - "[[Switzerland]]"
 ---
+<iframe src="https://www.themostbeautifulswissbooks.ch/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Design Award` presented annually
 

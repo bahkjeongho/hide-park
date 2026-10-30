@@ -4,8 +4,7 @@ aliases:
   - Freddie Kane
   - Fredrick Tipton
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Midwestern Hip Hop]]"
   - "[[Gangsta Rap]]"

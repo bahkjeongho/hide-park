@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 IG:
   - https://www.instagram.com/yoshinorisunahara/
 Website:
@@ -13,6 +12,8 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Yoshinori_Sunahara
 ---
+<iframe src="http://www.y-sunahara.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

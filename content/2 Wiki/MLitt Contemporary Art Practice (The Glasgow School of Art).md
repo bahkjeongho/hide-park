@@ -9,6 +9,8 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+<iframe src="https://www.gsa.ac.uk/postgraduate-degrees/contemporary-art-practice" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Master's Program` in Contemporary Art Practice of [[The Glasgow School of Art]]
 

@@ -6,6 +6,8 @@ Website:
 Related:
   - "[[Koto]]"
 ---
+<iframe src="https://offbrandkoto.substack.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >Koto가 발행하는 브랜딩 뉴스레터
 

@@ -17,6 +17,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://www.fitnyc.edu/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Art School` based in [[New York]]
 

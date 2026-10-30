@@ -2,8 +2,7 @@
 aliases:
   - 엔하이픈
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -32,6 +31,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="http://beliftlab.com/enhypen" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

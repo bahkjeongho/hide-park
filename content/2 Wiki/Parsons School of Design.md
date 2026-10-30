@@ -20,6 +20,8 @@ Countries:
 Related:
   - "[[The New School]]"
 ---
+<iframe src="https://www.newschool.edu/parsons/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Art School` based in [[New York]]
 

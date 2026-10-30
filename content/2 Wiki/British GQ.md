@@ -18,6 +18,8 @@ Countries:
 Related:
   - "[[Condé Nast]]"
 ---
+<iframe src="https://www.gq-magazine.co.uk/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >1988년 창간한 GQ의 영국판 남성 매거진
 

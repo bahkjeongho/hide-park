@@ -2,8 +2,7 @@
 aliases:
   - 스트록스
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Indie Rock]]"
   - "[[Garage Rock Revival]]"
@@ -26,6 +25,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://www.thestrokes.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

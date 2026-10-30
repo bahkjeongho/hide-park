@@ -2,8 +2,7 @@
 aliases:
   - 82메이저
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -27,6 +26,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://greatment.co.kr/ko/82major" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

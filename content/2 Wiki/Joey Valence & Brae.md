@@ -2,8 +2,7 @@
 aliases:
   - JVB
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Punk Rap]]"
   - "[[Rap Rock]]"
@@ -18,6 +17,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://www.jvbsucks.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

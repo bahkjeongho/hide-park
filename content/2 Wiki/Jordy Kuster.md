@@ -12,6 +12,8 @@ Countries:
 Related:
   - "[[MOUTHWASH Studio]]"
 ---
+<iframe src="https://www.jordy-kuster.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Member` of [[MOUTHWASH Studio]]
 

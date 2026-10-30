@@ -17,6 +17,8 @@ Related:
   - "[[Condé Nast]]"
   - "[[VANITY FAIR]]"
 ---
+<iframe src="https://www.vanityfair.it/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >Vanity Fair의 이탈리아판
 

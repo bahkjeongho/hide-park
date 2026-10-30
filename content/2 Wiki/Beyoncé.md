@@ -4,8 +4,7 @@ aliases:
   - Beyoncé Knowles
   - Queen Bey
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[R&B]]"
   - "[[Pop]]"
@@ -27,6 +26,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://beyonce.com" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

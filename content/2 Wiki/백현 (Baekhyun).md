@@ -4,8 +4,7 @@ aliases:
   - Byun Baekhyun
   - 변백현
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"

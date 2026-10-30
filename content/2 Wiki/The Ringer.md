@@ -8,6 +8,8 @@ Website: https://www.theringer.com/
 Wikis:
   - https://en.wikipedia.org/wiki/The_Ringer_(website)
 ---
+<iframe src="https://www.theringer.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

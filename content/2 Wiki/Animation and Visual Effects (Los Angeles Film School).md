@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://www.lafilm.edu/programs/animation-vfx/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Bachelor's Program` in animation and visual effects of [[Los Angeles Film School]]
 

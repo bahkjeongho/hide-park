@@ -10,6 +10,8 @@ Cities:
 Countries:
   - "[[Canada]]"
 ---
+<iframe src="https://www.nicklosacco.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >몬트리올 기반, 웹사이트와 타이포그래피에 집중하는 디자이너
 

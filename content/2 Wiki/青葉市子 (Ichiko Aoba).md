@@ -3,8 +3,7 @@ aliases:
   - Ichiko Aoba
   - 青葉市子
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[Singer-Songwriter]]"
 Labels:
   - "[[Sinonome]]"
@@ -25,6 +24,8 @@ Wikis:
 Countries:
   - "[[Japan]]"
 ---
+<iframe src="https://ichikoaoba.com" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

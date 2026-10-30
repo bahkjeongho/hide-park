@@ -4,8 +4,7 @@ aliases:
   - Kiha & The Faces
   - 장얼
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Indie Rock]]"
 IG:

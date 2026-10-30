@@ -10,6 +10,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="http://studiogomin.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >서울 기반의 그래픽 디자인 스튜디오
 

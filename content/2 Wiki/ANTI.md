@@ -14,6 +14,7 @@ Cities:
 Countries:
   - "[[Norway]]"
 ---
+<iframe src="https://anti.as/" width="100%" height="700px"></iframe>
 
 <img src="https://anti.as/dist/assets/favicons/favicon-16x16.png" alt="ANTI logo" width="96">
 

@@ -9,6 +9,8 @@ Related:
   - "[[백준열]]"
   - "[[이소림]]"
 ---
+<iframe src="https://aabb.kr/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

@@ -5,8 +5,7 @@ aliases:
   - DΞΔN
   - Kwon Hyuk
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Alternative R&B]]"
 IG:

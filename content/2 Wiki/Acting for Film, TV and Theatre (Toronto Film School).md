@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Canada]]"
 ---
+<iframe src="https://www.torontofilmschool.ca/programs/acting/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Diploma Program` in acting for film, tv and theatre of [[Toronto Film School]]
 

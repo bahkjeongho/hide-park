@@ -2,8 +2,7 @@
 aliases:
   - Injury Reserve
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Labels:
   - "[[Las Fuegas]]"
   - "[[Loma Vista]]"
@@ -19,6 +18,8 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Injury_Reserve
 ---
+<iframe src="http://floss.digital/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

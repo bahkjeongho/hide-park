@@ -12,6 +12,8 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Benjamin_H._Bratton
 ---
+<iframe src="https://bratton.info/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 > `Professor of Philosophy of Technology` at [[University of California]], San Diego
 > `Director & Editor-in-Chief` of [[2. Wiki/Antikythera|Antikythera]]

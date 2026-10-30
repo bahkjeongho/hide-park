@@ -3,8 +3,7 @@ aliases:
   - FKA twigs
   - FKA 트위그스
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Avant-Pop]]"
   - "[[Electronic]]"
@@ -27,6 +26,8 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+<iframe src="https://fkatwigsofficial.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[R&B]]"
   - "[[Alternative R&B]]"
@@ -13,6 +12,8 @@ Wikis:
   - https://en.wikipedia.org/wiki/Joji_(musician)
   - https://namu.wiki/w/Joji
 ---
+<iframe src="https://jojimusic.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

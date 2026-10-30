@@ -6,6 +6,8 @@ IG:
 Website:
   - https://amgrandquist.com/
 ---
+<iframe src="https://amgrandquist.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 > `Stylist` for [[Kylie Jenner]]
 > `Stylist Duo` with [[Mackenzie Grandquist]]

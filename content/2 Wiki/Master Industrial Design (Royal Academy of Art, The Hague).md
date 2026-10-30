@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Netherlands]]"
 ---
+<iframe src="https://www.kabk.nl/en/programmes/master/industrial-design" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Master of Arts` in industrial design of [[Royal Academy of Art, The Hague]]
 

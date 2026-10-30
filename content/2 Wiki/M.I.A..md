@@ -3,8 +3,7 @@ aliases:
   - Maya
   - Mathangi Arulpragasam
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Hip Hop]]"
   - "[[Dance]]"

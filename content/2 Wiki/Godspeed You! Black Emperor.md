@@ -3,8 +3,7 @@ aliases:
   - GY!BE
   - Godspeed You Black Emperor!
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Post-Rock]]"
 Website:
@@ -16,6 +15,8 @@ Cities:
 Countries:
   - "[[Canada]]"
 ---
+<iframe src="https://www.brainwashed.com/godspeed/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

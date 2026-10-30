@@ -3,8 +3,7 @@ aliases:
   - 에프엑스
   - F(x)
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[K-Pop]]"
   - "[[Electropop]]"

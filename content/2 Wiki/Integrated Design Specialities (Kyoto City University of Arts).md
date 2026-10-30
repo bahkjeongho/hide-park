@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
+<iframe src="https://www.kcua.ac.jp/en/faculty-of-fine-arts-list/arts_en/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Bachelor` in integrated design (Department of Design) of [[Kyoto City University of Arts]]
 

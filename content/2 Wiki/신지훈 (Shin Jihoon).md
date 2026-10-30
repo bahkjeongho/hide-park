@@ -4,8 +4,7 @@ aliases:
   - 辛知勳
   - SHIN JIHOON
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[K-Pop]]"
 IG:

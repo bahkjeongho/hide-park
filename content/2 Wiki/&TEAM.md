@@ -2,8 +2,7 @@
 aliases:
   - 앤팀
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -29,6 +28,8 @@ Countries:
   - "[[South Korea]]"
   - "[[Japan]]"
 ---
+<iframe src="https://www.andteam-official.jp/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

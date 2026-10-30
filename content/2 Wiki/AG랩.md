@@ -8,6 +8,7 @@ Website:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://lab.ag.co.kr/" width="100%" height="700px"></iframe>
 
 <img src="https://lab.ag.co.kr/media/site/e32c2c5f32-1789357897/favicon-192x.png" alt="AG랩 logo" width="96">
 

@@ -4,6 +4,8 @@ IG:
 Website:
   - https://www.pentagram.com/about/jon-marshall
 ---
+<iframe src="https://www.pentagram.com/about/jon-marshall" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

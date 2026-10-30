@@ -4,8 +4,7 @@ aliases:
   - Solange
   - Solange Knowles-Smith
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[R&B]]"
 IG:
@@ -26,6 +25,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="http://www.solangemusic.com" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

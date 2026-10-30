@@ -7,6 +7,8 @@ Website:
 Countries:
   - "[[Brazil]]"
 ---
+<iframe src="https://bernardoabdalah.cargo.site/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >브라질 출신의 비주얼 디자이너·크리에이티브 디렉터
 

@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://www.lafilm.edu/programs/music-production/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Master's Program` in music production of [[Los Angeles Film School]]
 

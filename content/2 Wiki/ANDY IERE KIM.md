@@ -9,6 +9,8 @@ URL:
 Related:
   - "[[newyearasia]]"
 ---
+<iframe src="https://new-year.asia/artist/andy-iere-kim/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

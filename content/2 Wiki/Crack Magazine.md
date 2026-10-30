@@ -22,6 +22,8 @@ Related:
   - "[[Good Measure]]"
   - "[[Plinth]]"
 ---
+<iframe src="https://crackmagazine.net/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >2009년 브리스톨에서 시작한 영국의 독립 음악·문화 매거진
 

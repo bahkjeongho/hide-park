@@ -16,6 +16,8 @@ Countries:
 Wikipedia:
   - https://en.wikipedia.org/wiki/Edward_Enninful
 ---
+<iframe src="https://ee72.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Editor, Founder & Chief Creative Officer` of [[EE72]]
 >`(Ex) Fashion Director` of [[i-D]]

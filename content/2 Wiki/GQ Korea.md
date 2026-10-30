@@ -16,6 +16,8 @@ Related:
   - "[[Condé Nast]]"
   - "[[GQ]]"
 ---
+<iframe src="https://www.gqkorea.co.kr/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >2001년 창간한 GQ의 한국판
 

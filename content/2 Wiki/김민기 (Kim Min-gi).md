@@ -3,8 +3,7 @@ aliases:
   - 金敏基
   - Kim Min-ki
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Wikis:
   - https://namu.wiki/w/%EA%B9%80%EB%AF%BC%EA%B8%B0
 Cities:

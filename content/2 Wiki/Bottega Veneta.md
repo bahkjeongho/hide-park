@@ -13,6 +13,8 @@ Countries:
 Related:
   - "[[Kering]]"
 ---
+<iframe src="https://www.bottegaveneta.com" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >1966년 비첸차에서 시작한 밀라노의 이탈리아 럭셔리 패션 하우스, Kering 소속
 

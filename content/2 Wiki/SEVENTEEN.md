@@ -3,8 +3,7 @@ aliases:
   - 세븐틴
   - SVT
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -31,6 +30,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://www.pledis.co.kr/ko/artist/detail/seventeen" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

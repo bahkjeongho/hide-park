@@ -3,8 +3,7 @@ aliases:
   - Chang Kiha
   - 張基河
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 IG:
   - https://www.instagram.com/kihachang/
 Website:
@@ -21,6 +20,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="http://kihafaces.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

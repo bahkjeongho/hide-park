@@ -6,8 +6,7 @@ aliases:
   - Hachi
   - ハチ
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 IG:
   - https://www.instagram.com/hachi_08/
 Website:
@@ -27,6 +26,8 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
+<iframe src="https://reissuerecords.net/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

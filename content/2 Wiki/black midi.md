@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Website:
   - https://bmblackmidi.com/
 Wikis:
@@ -11,6 +10,8 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+<iframe src="https://bmblackmidi.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

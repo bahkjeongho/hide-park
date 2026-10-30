@@ -3,8 +3,7 @@ aliases:
   - 버벌진트
   - 김진태
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Hip Hop]]"
 IG:

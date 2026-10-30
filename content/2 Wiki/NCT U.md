@@ -3,8 +3,7 @@ aliases:
   - 엔시티 유
 topic:
   - "[[K-Pop Idol]]"
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[K-Pop]]"
   - "[[Pop]]"
@@ -23,6 +22,8 @@ Countries:
 Related:
   - "[[SM ENTERTAINMENT|SM ENT.]]"
 ---
+<iframe src="http://nct.smtown.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

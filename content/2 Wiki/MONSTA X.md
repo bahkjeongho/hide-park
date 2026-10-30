@@ -2,8 +2,7 @@
 aliases:
   - 몬스타엑스
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Labels:
   - "[[Starship Entertainment]]"
@@ -24,6 +23,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="http://monstax-e.com" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

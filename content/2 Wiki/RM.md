@@ -4,8 +4,7 @@ aliases:
   - Rap Monster
   - RM
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
   - "[[Rapper]]"
 Genre:

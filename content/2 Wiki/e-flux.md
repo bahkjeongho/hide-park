@@ -6,6 +6,8 @@ IG:
   - https://www.instagram.com/e_flux/
 Website: https://www.e-flux.com/
 ---
+<iframe src="https://www.e-flux.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

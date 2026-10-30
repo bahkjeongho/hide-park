@@ -10,6 +10,8 @@ URL:
   - https://www.tiktok.com/@theperfectmagazine
   - https://www.youtube.com/channel/UCnt0aX3rKW8Zajzgg6N67dQ
 ---
+<iframe src="https://www.theperfectmagazine.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >Katie Grand가 이끄는 크리에이티브 커뮤니티이자 패션 매거진
 

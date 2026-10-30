@@ -14,6 +14,8 @@ Countries:
 Related:
   - "[[김은서]]"
 ---
+<iframe src="https://tistcollective.kr/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >서울 기반의 디자인 스튜디오 TIST COLLECTIVE
 

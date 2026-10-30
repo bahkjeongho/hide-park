@@ -4,8 +4,7 @@ aliases:
   - Nucksal
   - 이준영
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Hip Hop]]"
 IG:

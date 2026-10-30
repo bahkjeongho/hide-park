@@ -2,8 +2,7 @@
 aliases:
   - 넷 갈라
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Club Music]]"
 IG:

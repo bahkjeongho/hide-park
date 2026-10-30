@@ -3,8 +3,7 @@ aliases:
   - 제로베이스원
   - ZB1
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -29,6 +28,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://wake-one.com/artists/zerobaseone" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

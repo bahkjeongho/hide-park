@@ -2,8 +2,7 @@
 aliases:
   - Adrian Thaws
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Trip Hop]]"
   - "[[Electronic]]"
@@ -17,6 +16,8 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+<iframe src="https://trickysite.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

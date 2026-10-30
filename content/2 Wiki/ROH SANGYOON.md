@@ -12,6 +12,8 @@ Countries:
 Related:
   - "[[newyearasia]]"
 ---
+<iframe src="https://new-year.asia/artist/roh-sangyoon/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >한국 비주얼 신에서 약 10년간 인정받아 온 크리에이티브 디렉터
 

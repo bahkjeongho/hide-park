@@ -2,8 +2,7 @@
 aliases:
   - Poetical Prophets
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[East Coast Hip Hop]]"
   - "[[Hardcore Hip Hop]]"

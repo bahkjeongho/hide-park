@@ -3,8 +3,7 @@ aliases:
   - Alejandra Ghersi
   - Nuuro
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Experimental]]"
   - "[[Deconstructed Club]]"
@@ -25,6 +24,8 @@ Cities:
 Countries:
   - "[[Venezuela]]"
 ---
+<iframe src="http://www.arca1000000.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

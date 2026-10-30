@@ -10,6 +10,8 @@ Related:
   - "[[Eddie Mandell]]"
   - "[[Chase Shewbridge]]"
 ---
+<iframe src="https://www.francfernandez.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

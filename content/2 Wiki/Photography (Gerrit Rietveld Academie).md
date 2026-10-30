@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Netherlands]]"
 ---
+<iframe src="https://www.rietveldacademie.nl/en/page/389/photography" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Bachelor` in photography of [[Gerrit Rietveld Academie]]
 

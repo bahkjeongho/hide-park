@@ -4,8 +4,7 @@ aliases:
   - Thugger
   - King Slime
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Trap]]"
   - "[[Southern Hip Hop]]"

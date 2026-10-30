@@ -7,8 +7,7 @@ aliases:
   - Pretty Flacko Jodye II
   - Lord Pretty Flacko Jodye
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[Rapper]]"
 Genre:
   - "[[East Coast Hip-Hop]]"
@@ -36,6 +35,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://asaprocky.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

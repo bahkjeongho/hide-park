@@ -9,6 +9,8 @@ Website:
 URL:
   - https://1granary.substack.com/
 ---
+<iframe src="https://1granary.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >2013년 패션 디자인 졸업생들이 시작한 글로벌 패션 교육 플랫폼이자 크리에이티브 네트워크
 

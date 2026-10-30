@@ -2,8 +2,7 @@
 aliases:
   - LCD
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Dance-Punk]]"
   - "[[Dance-Rock]]"
@@ -18,6 +17,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://lcdsoundsystem.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

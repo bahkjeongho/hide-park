@@ -4,8 +4,7 @@ aliases:
   - 0PN
   - Daniel Lopatin
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Electronic]]"
   - "[[Experimental]]"
@@ -26,6 +25,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="http://pointnever.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

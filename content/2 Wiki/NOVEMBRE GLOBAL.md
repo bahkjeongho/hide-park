@@ -6,6 +6,8 @@ IG:
 Website:
   - https://novembre.global/
 ---
+<iframe src="https://novembre.global/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

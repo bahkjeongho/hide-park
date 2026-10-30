@@ -6,6 +6,8 @@ IG:
 Website:
   - https://loveandmoney.com/
 ---
+<iframe src="https://loveandmoney.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

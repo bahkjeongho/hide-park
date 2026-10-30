@@ -13,6 +13,8 @@ Countries:
 Related:
   - "[[Kering]]"
 ---
+<iframe src="https://www.balenciaga.com" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >1919년 Cristóbal Balenciaga가 스페인에서 세운 파리의 패션 하우스, Kering 소속
 

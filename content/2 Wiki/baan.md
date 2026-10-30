@@ -3,8 +3,7 @@ aliases:
   - 반
 topic:
   - "[[Band]]"
-  - "[[Artist]]"
-  - "[[Music]]"
+  - "[[Music Artist]]"
   - "[[Rock Band]]"
 Genre:
   - "[[Post-Hardcore]]"

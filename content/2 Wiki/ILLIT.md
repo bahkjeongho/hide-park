@@ -2,8 +2,7 @@
 aliases:
   - 아일릿
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -30,6 +29,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://beliftlab.com/artist/profile/Illit" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

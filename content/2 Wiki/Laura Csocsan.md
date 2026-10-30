@@ -9,6 +9,8 @@ Cities:
 Countries:
   - "[[Switzerland]]"
 ---
+<iframe src="https://lauracsocsan.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >부다페스트 출신으로 로잔에 기반한 독립 그래픽·타입 디자이너
 

@@ -20,6 +20,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://nycxdesign.org/welcome" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Design Festival` held annually in [[New York]]
 

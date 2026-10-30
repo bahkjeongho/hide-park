@@ -12,6 +12,8 @@ Countries:
 Related:
   - "[[Pentagram]]"
 ---
+<iframe src="https://www.pentagram.com/about/paula-scher" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >1991년부터 Pentagram 뉴욕 사무소의 파트너인 미국 그래픽 디자이너
 

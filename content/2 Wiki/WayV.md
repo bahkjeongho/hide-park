@@ -4,8 +4,7 @@ aliases:
   - 威神V
   - WeiShenV
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -32,6 +31,8 @@ Countries:
   - "[[South Korea]]"
   - "[[China]]"
 ---
+<iframe src="https://www.smentertainment.com/en/artist/wayv/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

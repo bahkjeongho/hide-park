@@ -3,8 +3,7 @@ aliases:
   - 세이마이네임
   - SMN
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -26,6 +25,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://in-kode.com/say_my_name.html" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

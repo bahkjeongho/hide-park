@@ -18,6 +18,8 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+<iframe src="https://www.gsa.ac.uk/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Art School` based in [[Glasgow]]
 

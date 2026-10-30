@@ -20,11 +20,10 @@ Countries:
 Related:
   - "[[DAZED]]"
 ---
-
-<img src="https://dazed.studio/assets/favicons/apple-touch-icon-152x152.png" alt="DAZED STUDIO logo" width="96">
+<iframe src="https://dazed.studio/" width="100%" height="700px"></iframe>
 
 >[!tldr] tl;dr
->Dazed Group 소속의 문화 컨설팅·스토리텔링 기반 크리에이티브 에이전시
+>[[Dazed Group]] 소속의 문화 컨설팅·스토리텔링 기반 크리에이티브 에이전시
 
 > [!Info]
 > Dazed Studio, our cultural consultancy and storytelling-led creative agency, translates that authority into brand worlds designed for now and built for what’s next.
@@ -34,10 +33,6 @@ We create brand relevance by embedding stories in the communities, conversations
 Where traditional ad and communications agencies build one-off moments, we build cultural ecosystems: living platforms where storytelling, experience, talent, and community reinforce one another across digital and physical space. 
 
 > [!Summary]
-
-
-
->  [Website]() 
 
 ---
 

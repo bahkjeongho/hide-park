@@ -3,6 +3,8 @@ topic:
   - "[[Creative Company]]"
 Website: https://center.design/
 ---
+<iframe src="https://center.design/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

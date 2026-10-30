@@ -6,6 +6,8 @@ IG:
 Website:
   - https://www.vogue.pt/
 ---
+<iframe src="https://www.vogue.pt/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

@@ -6,6 +6,8 @@ IG:
 Website:
   - https://www.wired.cz/
 ---
+<iframe src="https://www.wired.cz/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

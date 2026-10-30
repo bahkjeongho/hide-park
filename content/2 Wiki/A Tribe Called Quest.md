@@ -2,8 +2,7 @@
 aliases:
   - ATCQ
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[East Coast Hip-Hop]]"
   - "[[Jazz Rap]]"
@@ -19,6 +18,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="https://atribecalledquest.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

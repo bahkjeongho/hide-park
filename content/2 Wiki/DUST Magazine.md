@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Germany]]"
 ---
+<iframe src="https://dustmagazine.com/on-the-row-reviews-from-the-79th-cannes-film-festival/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >2010년 베를린에서 시작한 패션과 그 반대편을 다루는 연 2회 유럽 매거진
 

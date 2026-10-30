@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Canada]]"
 ---
+<iframe src="https://www.torontofilmschool.ca/programs/graphic-design-interactive-media/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Diploma Program` in graphic design and interactive media of [[Toronto Film School]]
 

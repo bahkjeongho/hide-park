@@ -2,8 +2,7 @@
 aliases:
   - 에이투오 메이
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Labels:
   - "[[A2O Entertainment]]"

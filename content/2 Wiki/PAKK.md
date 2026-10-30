@@ -2,8 +2,7 @@
 aliases:
   - 팎
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Post-Hardcore]]"
   - "[[Post-Rock]]"

@@ -5,6 +5,7 @@ IG:
   - https://www.instagram.com/kalabika/
 Website: https://www.kalabika.com/
 ---
+<iframe src="https://www.kalabika.com/" width="100%" height="700px"></iframe>
 
 <img src="https://images.squarespace-cdn.com/content/v1/66647a1dde5dfe734bb42140/c41d6a51-543e-4aee-b6c9-71e1262e4efa/favicon.ico?format=100w" alt="KALABIKA logo" width="96">
 

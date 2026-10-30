@@ -6,6 +6,8 @@ IG:
 Website:
   - https://www.gaadesign.studio/
 ---
+<iframe src="https://www.gaadesign.studio/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

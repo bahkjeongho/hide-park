@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Canada]]"
 ---
+<iframe src="https://www.torontofilmschool.ca/programs/screenwriting/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Diploma Program` in screenwriting of [[Toronto Film School]]
 

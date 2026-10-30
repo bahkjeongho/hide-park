@@ -18,6 +18,8 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
+<iframe src="https://www.g-mark.org/en" width="100%" height="700px"></iframe>
+
 ![](https://images.ctfassets.net/5md7dhlbngv9/24XNyfFoPavdNpcGtudqE/142db7e765f61207fe8d1e73fa832104/g-mark.jpeg)
 
 >[!tldr] tl;dr

@@ -3,8 +3,7 @@ aliases:
   - 에스파
   - æspa
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -30,6 +29,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://aespa.com" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

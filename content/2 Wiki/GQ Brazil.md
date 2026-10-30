@@ -6,6 +6,8 @@ IG:
 Website:
   - https://gq.globo.com/
 ---
+<iframe src="https://gq.globo.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

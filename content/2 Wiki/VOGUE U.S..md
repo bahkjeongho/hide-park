@@ -20,6 +20,8 @@ Related:
   - "[[Condé Nast]]"
   - "[[VOGUE]]"
 ---
+<iframe src="https://www.vogue.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >Vogue의 미국판, 1892년 뉴욕에서 창간
 

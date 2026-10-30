@@ -4,8 +4,7 @@ aliases:
   - Beenzino
   - 임성빈
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Hip Hop]]"
 IG:

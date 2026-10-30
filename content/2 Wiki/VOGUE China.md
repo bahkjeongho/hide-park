@@ -13,6 +13,8 @@ Related:
   - "[[Condé Nast]]"
   - "[[VOGUE]]"
 ---
+<iframe src="https://www.vogue.com.cn/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >2005년 창간한 중국판 보그
 

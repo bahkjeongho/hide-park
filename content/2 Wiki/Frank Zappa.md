@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Labels:
   - "[[Verve]]"
   - "[[Bizarre]]"
@@ -16,6 +15,8 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Frank_Zappa
 ---
+<iframe src="https://zappa.com" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

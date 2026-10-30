@@ -7,6 +7,8 @@ IG:
 Website:
   - https://11thhouseagency.com/artist/rusty-snyder
 ---
+<iframe src="https://11thhouseagency.com/artist/rusty-snyder" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

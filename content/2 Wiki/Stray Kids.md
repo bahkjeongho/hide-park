@@ -3,8 +3,7 @@ aliases:
   - 스트레이 키즈
   - SKZ
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -31,6 +30,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://straykids.jype.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

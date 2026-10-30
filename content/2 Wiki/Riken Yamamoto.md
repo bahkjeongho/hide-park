@@ -12,6 +12,8 @@ Wikis:
 Countries:
   - "[[Japan]]"
 ---
+<iframe src="https://riken-yamamoto.co.jp/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >2024년 프리츠커상을 받은 일본 건축가
 

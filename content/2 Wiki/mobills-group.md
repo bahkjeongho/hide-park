@@ -5,6 +5,8 @@ topic:
 Website:
   - https://mobills-group.com/
 ---
+<iframe src="https://mobills-group.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >2020년 설립한 브랜드·캐릭터 디자인과 마케팅 커뮤니케이션 전략 크리에이티브 스튜디오
 

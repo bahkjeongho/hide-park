@@ -2,8 +2,7 @@
 aliases:
   - 키스오브라이프
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -28,6 +27,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="http://s2ent.co.kr/34" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

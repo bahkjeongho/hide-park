@@ -18,6 +18,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://seoul-designweek.or.kr/" width="100%" height="700px"></iframe>
+
 ![](https://seoul-designweek.or.kr/assets/images/designweek2026.jpg)
 
 >[!tldr] tl;dr

@@ -3,8 +3,7 @@ aliases:
   - Sam Shepherd
   - Samuel Thomas Shepherd
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Electronic]]"
   - "[[Jazz]]"
@@ -24,6 +23,8 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+<iframe src="https://floatingpoints.co.uk/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

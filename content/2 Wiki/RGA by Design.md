@@ -6,6 +6,8 @@ Website: https://www.rga.com/
 Related:
   - "[[George Lavender]]"
 ---
+<iframe src="https://www.rga.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >R/GA is a company of reinvention.  
 As technology changes the world,  

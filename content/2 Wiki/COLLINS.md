@@ -9,6 +9,7 @@ URL:
   - https://www.linkedin.com/company/collins-/
   - https://twitter.com/wearecollins
 ---
+<iframe src="https://www.wearecollins.com/" width="100%" height="700px"></iframe>
 
 <img src="https://wearecollins.com/icons/apple-touch-icon.png" alt="COLLINS logo" width="96">
 

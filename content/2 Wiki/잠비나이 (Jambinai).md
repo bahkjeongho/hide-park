@@ -3,8 +3,7 @@ aliases:
   - 잠비나이
   - Jambinai
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 IG:
   - https://www.instagram.com/jambinai
 Wikis:

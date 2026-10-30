@@ -2,8 +2,7 @@
 aliases:
   - 핑크 플로이드
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Progressive Rock]]"
   - "[[Art Rock]]"
@@ -26,6 +25,8 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
+<iframe src="https://pinkfloyd.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

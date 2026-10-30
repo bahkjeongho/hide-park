@@ -11,6 +11,8 @@ Website:
 Wikis:
   - https://en.wikipedia.org/wiki/SM_Entertainment
 ---
+<iframe src="https://www.smentertainment.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

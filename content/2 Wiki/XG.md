@@ -3,8 +3,7 @@ aliases:
   - 엑스지
   - XG
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[Hip Hop]]"
@@ -23,6 +22,8 @@ Wikis:
 Countries:
   - "[[Japan]]"
 ---
+<iframe src="https://xgalx.com/xg/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

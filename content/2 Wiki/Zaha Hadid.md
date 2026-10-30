@@ -8,6 +8,8 @@ Website:
 Wikis:
   - https://en.wikipedia.org/wiki/Zaha_Hadid
 ---
+<iframe src="http://www.zaha-hadid.com" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >'곡선의 여왕'으로 불린 이라크·영국 건축가
 

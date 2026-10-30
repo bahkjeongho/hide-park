@@ -2,8 +2,7 @@
 aliases:
   - Jeong Cha-sik
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Countries:
   - "[[South Korea]]"
 ---

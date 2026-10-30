@@ -21,6 +21,8 @@ Related:
   - "[[Condé Nast]]"
   - "[[VOGUE]]"
 ---
+<iframe src="https://www.vogue.it/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >1964년 창간한 이탈리아판 보그
 

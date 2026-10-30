@@ -3,8 +3,7 @@ aliases:
   - 알파드라이브원
   - ALD1
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -28,6 +27,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://wake-one.com/artists/alpha-drive-one/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

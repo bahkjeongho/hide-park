@@ -5,8 +5,7 @@ aliases:
   - Hova
   - Shawn Carter
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[East Coast Hip-Hop]]"
   - "[[Mafioso Rap]]"
@@ -27,6 +26,8 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
+<iframe src="http://jayz30.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

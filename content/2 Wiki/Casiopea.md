@@ -5,8 +5,7 @@ aliases:
   - Casiopea 3rd
   - Casiopea-P4
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Jazz Fusion]]"
   - "[[Jazz Funk]]"
@@ -27,6 +26,8 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
+<iframe src="http://www.casiopea.co.jp/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

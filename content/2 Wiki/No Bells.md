@@ -9,6 +9,8 @@ Website:
 Related:
   - "[[Kieran Press-Reynolds]]"
 ---
+<iframe src="https://nobells.blog/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >2021년 시작한 인터넷 언더그라운드 음악 블로그·허브
 

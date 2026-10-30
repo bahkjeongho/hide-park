@@ -1,14 +1,30 @@
 ---
 topic:
   - "[[Fashion Designer]]"
+Website:
+  - http://www.simonerocha.com
+Wikis:
+  - https://en.wikipedia.org/wiki/Simone_Rocha
 ---
+<iframe src="http://www.simonerocha.com" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
->
+>아일랜드 패션 디자이너, 2014년 올해의 젊은 디자이너
 
 > [!Info]
-> 
+> Simone Rocha(1986년 9월 11일생)는 아일랜드의 패션 디자이너다. 아버지는 패션 디자이너 John Rocha다. 국립 미술디자인대학(NCAD)과 센트럴 세인트 마틴스에서 공부했고, 2010년 테이트 모던에서 열린 런던 패션 위크에서 졸업 컬렉션을 선보였다. 2014년 하퍼스 바자 선정 올해의 젊은 디자이너, 2016년 브리티시 패션 어워즈 올해의 여성복 디자이너로 뽑혔다.
+>
+> Simone Rocha (born 11 September 1986) is an Irish fashion designer. Her father is a fashion designer John Rocha. She trained at the National College of Art and Design and Central Saint Martins, launching her graduate collection in 2010 at the Tate Modern and London Fashion Week.
+>
+> She was named Young Designer of the Year in 2014 by Harper's Bazaar, and Womenswear Designer of the Year 2016 at the British Fashion Awards.
 
 > [!Summary]
+> |   |   |
+> |---|---|
+> |Born|September 11, 1986<br>Dublin, Ireland|
+> |Education|National College of Art and Design<br>Central Saint Martins|
+> |Occupation|Fashion designer|
+> |Father|John Rocha|
 
 ---
 

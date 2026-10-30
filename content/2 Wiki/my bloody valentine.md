@@ -2,8 +2,7 @@
 aliases:
   - MBV
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Shoegaze]]"
   - "[[Noise Pop]]"
@@ -24,6 +23,8 @@ Cities:
 Countries:
   - "[[Ireland]]"
 ---
+<iframe src="https://www.mybloodyvalentine.org/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -2,8 +2,7 @@
 aliases:
   - フィッシュマンズ
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Genre:
   - "[[Dub]]"
   - "[[Neo-Psychedelia]]"
@@ -23,6 +22,8 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
+<iframe src="http://www.fishmans.jp/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -20,6 +20,8 @@ Countries:
 Related:
   - "[[GAA Design Studio]]"
 ---
+<iframe src="https://www.gaadesign.studio/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Founder` of [[GAA Design Studio]]
 

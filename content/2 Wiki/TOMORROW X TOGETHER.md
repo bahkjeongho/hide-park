@@ -3,8 +3,7 @@ aliases:
   - 투모로우바이투게더
   - TXT
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -30,6 +29,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://txt.ibighit.com/" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

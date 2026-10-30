@@ -4,6 +4,8 @@ topic:
   - "[[Creative Production]]"
 Website: https://www.canadacanada.com/
 ---
+<iframe src="https://www.canadacanada.com/" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >
 

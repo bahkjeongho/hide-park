@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
 Wikis:
   - https://namu.wiki/w/XXX(%EB%93%80%EC%98%A4)
 ---

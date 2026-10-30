@@ -11,6 +11,8 @@ Cities:
 Countries:
   - "[[Netherlands]]"
 ---
+<iframe src="https://www.artez.nl/en/programmes/master/illustration-based-narrative-arnhem" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 >`Master's Program` in illustration based narrative of [[ArtEZ University of the Arts]]
 

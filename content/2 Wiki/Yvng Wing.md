@@ -8,6 +8,8 @@ IG:
 Website:
   - https://vimeo.com/yvngwing94
 ---
+<iframe src="https://vimeo.com/yvngwing94" width="100%" height="700px"></iframe>
+
 >[!tldr] tl;dr
 > `Founder & Director` of [[IDIOTS KR]]
 

@@ -1,7 +1,6 @@
 ---
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[Rapper]]"
 Labels:
   - "[[OVO Sound]]"
@@ -23,6 +22,8 @@ Cities:
 Countries:
   - "[[Canada]]"
 ---
+<iframe src="https://drakerelated.com" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -2,8 +2,7 @@
 aliases:
   - 에이투오 소울
 topic:
-  - "[[Music]]"
-  - "[[Artist]]"
+  - "[[Music Artist]]"
   - "[[K-Pop Idol]]"
 Labels:
   - "[[A2O Entertainment]]"
@@ -22,6 +21,8 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
+<iframe src="https://a2osoul.world" width="100%" height="700px"></iframe>
+
 > [!Summary]
 > |   |   |
 > |---|---|
