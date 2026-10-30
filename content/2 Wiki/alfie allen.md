@@ -10,7 +10,7 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://www.alfie-allen.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.alfie-allen.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >런던에서 일하는 독립 그래픽 디자이너·아트 디렉터, 전 Crack Magazine 크리에이티브 디렉터

@@ -17,7 +17,7 @@ Countries:
   - "[[USA]]"
   - "[[Australia]]"
 ---
-<iframe src="https://us.division.global/" width="100%" height="700px"></iframe>
+<iframe src="https://us.division.global/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://us.division.global/favicon/favicon-148x148.png" alt="DIVISION (Creative Company) logo" width="96">
 

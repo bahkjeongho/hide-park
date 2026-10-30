@@ -18,7 +18,7 @@ Cities:
 Countries:
   - "[[Germany]]"
 ---
-<iframe src="https://iconic-awards.com/en/" width="100%" height="700px"></iframe>
+<iframe src="https://iconic-awards.com/en/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 ![](https://iconic-awards.com/_assets/8527f122aa2069c02d9fe9c530e7bdc5/Images/socialmedia-placeholder-facebook.jpg)
 

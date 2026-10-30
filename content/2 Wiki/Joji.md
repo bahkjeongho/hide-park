@@ -12,7 +12,7 @@ Wikis:
   - https://en.wikipedia.org/wiki/Joji_(musician)
   - https://namu.wiki/w/Joji
 ---
-<iframe src="https://jojimusic.com/" width="100%" height="700px"></iframe>
+<iframe src="https://jojimusic.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 > [!Summary]
 > |   |   |

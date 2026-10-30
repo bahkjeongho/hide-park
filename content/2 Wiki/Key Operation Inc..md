@@ -8,7 +8,7 @@ Website:
 Countries:
   - "[[Japan]]"
 ---
-<iframe src="https://www.keyoperation.com/en/" width="100%" height="700px"></iframe>
+<iframe src="https://www.keyoperation.com/en/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >주택에서 상업시설까지 기획·설계·감리를 하는 일본 건축 사무소

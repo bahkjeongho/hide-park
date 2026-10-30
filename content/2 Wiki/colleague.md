@@ -8,7 +8,7 @@ Website:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://colleague.co.kr/" width="100%" height="700px"></iframe>
+<iframe src="https://colleague.co.kr/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >영화 비평의 동료들을 위한 임시 대피소를 지향하는 웹진

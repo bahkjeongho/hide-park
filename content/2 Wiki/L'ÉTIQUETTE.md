@@ -12,7 +12,7 @@ Cities:
 Countries:
   - "[[France]]"
 ---
-<iframe src="https://letiquette.com/en/" width="100%" height="700px"></iframe>
+<iframe src="https://letiquette.com/en/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >2018년 파리에서 시작한 패션·라이프스타일 매거진

@@ -6,7 +6,7 @@ Website:
 Wikis:
   - https://en.wikipedia.org/wiki/Jil_Sander
 ---
-<iframe src="https://www.jilsander.com" width="100%" height="700px"></iframe>
+<iframe src="https://www.jilsander.com" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >Jil Sander 패션 하우스를 설립한 독일의 미니멀리스트 디자이너

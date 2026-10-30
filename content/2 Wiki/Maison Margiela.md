@@ -18,7 +18,7 @@ Related:
   - "[[Martin Margiela]]"
   - "[[OTB]]"
 ---
-<iframe src="https://www.maisonmargiela.com/en-us/" width="100%" height="700px"></iframe>
+<iframe src="https://www.maisonmargiela.com/en-us/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >1988년 Martin Margiela와 Jenny Meirens가 세운 파리의 프랑스 럭셔리 패션 하우스

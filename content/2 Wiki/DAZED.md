@@ -25,7 +25,7 @@ Related:
   - "[[Dazed Media]]"
   - "[[2. Wiki/Jefferson Hack]]"
 ---
-<iframe src="https://www.dazeddigital.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.dazeddigital.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >1991년 Jefferson Hack과 Rankin이 런던에서 창간한 영국의 유스 컬처·패션 매거진

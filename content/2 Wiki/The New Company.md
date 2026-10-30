@@ -10,7 +10,7 @@ Website:
 URL:
   - https://www.are.na/new-co/channels
 ---
-<iframe src="https://www.thenewcompany.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.thenewcompany.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >2018년 설립된 디자인·마케팅 에이전시

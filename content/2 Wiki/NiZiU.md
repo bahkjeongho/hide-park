@@ -28,7 +28,7 @@ Countries:
   - "[[South Korea]]"
   - "[[Japan]]"
 ---
-<iframe src="https://www.niziu.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.niziu.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 > [!Summary]
 > |   |   |

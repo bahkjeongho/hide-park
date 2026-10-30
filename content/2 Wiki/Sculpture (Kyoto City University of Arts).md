@@ -11,7 +11,7 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
-<iframe src="https://www.kcua.ac.jp/en/faculty-of-fine-arts-list/arts_en/" width="100%" height="700px"></iframe>
+<iframe src="https://www.kcua.ac.jp/en/faculty-of-fine-arts-list/arts_en/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >`Bachelor` in sculpture (Department of Fine Arts) of [[Kyoto City University of Arts]]

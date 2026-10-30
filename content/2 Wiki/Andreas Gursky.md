@@ -10,7 +10,7 @@ Wikis:
 Countries:
   - "[[Germany]]"
 ---
-<iframe src="https://www.andreasgursky.com/en" width="100%" height="700px"></iframe>
+<iframe src="https://www.andreasgursky.com/en" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >사진으로 가장 잘 알려진 독일 작가, 뒤셀도르프 사진학파

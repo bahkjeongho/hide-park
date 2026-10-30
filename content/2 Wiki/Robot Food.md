@@ -9,7 +9,7 @@ URL:
   - http://www.linkedin.com/company/robot-food/
   - https://twitter.com/RobotFoodDesign
 ---
-<iframe src="https://www.robot-food.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.robot-food.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >브랜드의 차별점을 찾아 사람들과 연결하는 브랜드 에이전시

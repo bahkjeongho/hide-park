@@ -11,7 +11,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://leejaemin.net/" width="100%" height="700px"></iframe>
+<iframe src="https://leejaemin.net/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >[[Studio fnt]]의 공동 대표, 아트 디렉터 겸 그래픽 디자이너

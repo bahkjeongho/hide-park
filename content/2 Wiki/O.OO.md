@@ -5,7 +5,7 @@ topic:
 Website:
   - https://odotoo.com/
 ---
-<iframe src="https://odotoo.com/" width="100%" height="700px"></iframe>
+<iframe src="https://odotoo.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >리소그래프 인쇄 경험을 바탕으로 한 두 명의 그래픽 디자이너가 운영하는 비주얼 디자인 랩

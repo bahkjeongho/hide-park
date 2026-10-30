@@ -20,7 +20,7 @@ Cities:
 Countries:
   - "[[Germany]]"
 ---
-<iframe src="https://berlindesignweek.com/" width="100%" height="700px"></iframe>
+<iframe src="https://berlindesignweek.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >`Design Week` held annually in [[Berlin]]

@@ -8,7 +8,7 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Giorgio_Armani
 ---
-<iframe src="https://www.armani.com/index.html" width="100%" height="700px"></iframe>
+<iframe src="https://www.armani.com/index.html" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >Armani 패션 하우스를 설립한 이탈리아 패션 디자이너

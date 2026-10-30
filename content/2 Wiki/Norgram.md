@@ -10,7 +10,7 @@ URL:
 Countries:
   - "[[Denmark]]"
 ---
-<iframe src="https://www.norgram.co/" width="100%" height="700px"></iframe>
+<iframe src="https://www.norgram.co/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://www.norgram.co/favicon.png" alt="Norgram logo" width="96">
 

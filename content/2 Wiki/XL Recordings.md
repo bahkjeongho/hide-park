@@ -5,7 +5,7 @@ Website:
   - https://www.xlrecordings.com/
 Wikis: https://en.wikipedia.org/wiki/XL_Recordings
 ---
-<iframe src="https://www.xlrecordings.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.xlrecordings.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >

@@ -14,7 +14,7 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Anthony_Fantano
 ---
-<iframe src="https://theneedledrop.com/" width="100%" height="700px"></iframe>
+<iframe src="https://theneedledrop.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >유튜브 채널 theneedledrop을 운영하는 미국의 음악 평론가

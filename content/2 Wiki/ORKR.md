@@ -10,7 +10,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://www.o-r-k-r.kr/" width="100%" height="700px"></iframe>
+<iframe src="https://www.o-r-k-r.kr/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >2020년 서울에서 시작한 브랜드 컨설팅 에이전시

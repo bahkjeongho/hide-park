@@ -10,7 +10,7 @@ Cities:
 Countries:
   - "[[France]]"
 ---
-<iframe src="https://www.lisasturacci.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.lisasturacci.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >파리와 로리스(보클뤼즈)를 오가는 프랑스 그래픽 디자이너

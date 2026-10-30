@@ -13,7 +13,7 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://www.studionari.co.uk/" width="100%" height="700px"></iframe>
+<iframe src="https://www.studionari.co.uk/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >런던 기반의 브랜딩·디자인 스튜디오

@@ -18,7 +18,7 @@ Related:
   - "[[Condé Nast]]"
   - "[[VOGUE]]"
 ---
-<iframe src="https://www.vogue.co.kr/" width="100%" height="700px"></iframe>
+<iframe src="https://www.vogue.co.kr/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >1996년 두산매거진이 창간한 한국판 보그

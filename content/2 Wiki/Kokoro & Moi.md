@@ -13,7 +13,7 @@ Cities:
 Countries:
   - "[[Finland]]"
 ---
-<iframe src="https://www.kokoromoi.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.kokoromoi.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="http://www.kokoromoi.com/wp-content/uploads/2017/09/cropped-KM-favicon-192x192.png" alt="Kokoro & Moi logo" width="96">
 

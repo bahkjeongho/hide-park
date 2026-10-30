@@ -12,7 +12,7 @@ Related:
   - "[[Kendrick Lamar]]"
   - "[[Dave Free]]"
 ---
-<iframe src="https://pg-lang.com/" width="100%" height="700px"></iframe>
+<iframe src="https://pg-lang.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://cdn.sanity.io/images/4u0xqmwo/production/7f9e9e768dedb3d6f919a253aed58908c52d5f25-1200x630.png?w=1200&fm=jpg&auto=format" alt="pgLang logo" width="160">
 

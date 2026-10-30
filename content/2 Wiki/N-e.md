@@ -12,7 +12,7 @@ Cities:
 Countries:
   - "[[Spain]]"
 ---
-<iframe src="https://naranjoetxeberria.com/" width="100%" height="700px"></iframe>
+<iframe src="https://naranjoetxeberria.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >2014년 마드리드에서 시작한 그래픽 디자인 중심의 크리에이티브 팀

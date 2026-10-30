@@ -6,7 +6,7 @@ Website:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://g-g-s.kr/" width="100%" height="700px"></iframe>
+<iframe src="https://g-g-s.kr/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://g-g-s.kr/wp-content/uploads/2023/08/cropped-favicon-192x192.png" alt="generalgraphics logo" width="96">
 

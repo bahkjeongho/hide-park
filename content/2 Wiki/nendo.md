@@ -14,7 +14,7 @@ Countries:
   - "[[Japan]]"
   - "[[Italy]]"
 ---
-<iframe src="https://www.nendo.jp/en/" width="100%" height="700px"></iframe>
+<iframe src="https://www.nendo.jp/en/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >2002년 Oki Sato를 중심으로 설립된 도쿄·밀라노 기반 디자인 오피스

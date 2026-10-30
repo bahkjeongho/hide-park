@@ -12,7 +12,7 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Yoshinori_Sunahara
 ---
-<iframe src="http://www.y-sunahara.com/" width="100%" height="700px"></iframe>
+<iframe src="http://www.y-sunahara.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 > [!Summary]
 > |   |   |

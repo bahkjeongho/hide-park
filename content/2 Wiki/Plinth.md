@@ -15,7 +15,7 @@ Countries:
 Related:
   - "[[Crack Magazine]]"
 ---
-<iframe src="https://plinth.media/" width="100%" height="700px"></iframe>
+<iframe src="https://plinth.media/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >브리스톨 기반 디자인 스튜디오, Crack Magazine의 자매 회사

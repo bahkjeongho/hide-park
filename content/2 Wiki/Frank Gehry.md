@@ -6,7 +6,7 @@ Website:
 Wikis:
   - https://en.wikipedia.org/wiki/Frank_Gehry
 ---
-<iframe src="https://www.foga.com" width="100%" height="700px"></iframe>
+<iframe src="https://www.foga.com" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >구겐하임 빌바오, 월트 디즈니 콘서트 홀로 알려진 포스트모던 건축가

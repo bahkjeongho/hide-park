@@ -8,7 +8,7 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Mackey_Saturday
 ---
-<iframe src="https://mackeysaturday.com/" width="100%" height="700px"></iframe>
+<iframe src="https://mackeysaturday.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >[[CGH]]의 프린시펄 디자이너

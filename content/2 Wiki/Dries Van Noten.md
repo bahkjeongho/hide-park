@@ -8,7 +8,7 @@ Website:
 Wikis:
   - https://en.wikipedia.org/wiki/Dries_van_Noten
 ---
-<iframe src="https://www.driesvannoten.com" width="100%" height="700px"></iframe>
+<iframe src="https://www.driesvannoten.com" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >자신의 이름을 딴 브랜드를 공동 설립한 벨기에 패션 디자이너

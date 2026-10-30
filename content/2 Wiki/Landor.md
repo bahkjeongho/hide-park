@@ -62,7 +62,7 @@ Countries:
   - "[[Mexico]]"
   - "[[South Africa]]"
 ---
-<iframe src="https://landor.com/en/" width="100%" height="700px"></iframe>
+<iframe src="https://landor.com/en/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://landor.com/apple-touch-icon.png" alt="Landor logo" width="96">
 

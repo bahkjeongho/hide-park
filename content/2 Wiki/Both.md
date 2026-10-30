@@ -10,7 +10,7 @@ Cities:
 Countries:
   - "[[Australia]]"
 ---
-<iframe src="https://both.studio/" width="100%" height="700px"></iframe>
+<iframe src="https://both.studio/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >멜버른 기반의 브랜딩·커뮤니케이션 스튜디오

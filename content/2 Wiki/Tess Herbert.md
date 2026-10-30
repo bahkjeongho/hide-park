@@ -9,7 +9,7 @@ Cities:
   - "[[London]]"
   - "[[Los Angeles]]"
 ---
-<iframe src="https://tessherbert.com/" width="100%" height="700px"></iframe>
+<iframe src="https://tessherbert.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >런던과 로스앤젤레스에서 활동하는 스타일리스트

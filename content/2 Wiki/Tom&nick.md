@@ -6,7 +6,7 @@ IG:
 Website:
   - https://www.tomandnick.com/
 ---
-<iframe src="https://www.tomandnick.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.tomandnick.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://contents.sixshop.com/uploadedFiles/158797/default/image_1718177900873.png" alt="Tom&nick logo" width="96">
 

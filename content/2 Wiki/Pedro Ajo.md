@@ -6,7 +6,7 @@ IG:
 Website:
   - https://www.pedroajo.com/?filter=all
 ---
-<iframe src="https://www.pedroajo.com/?filter=all" width="100%" height="700px"></iframe>
+<iframe src="https://www.pedroajo.com/?filter=all" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >Nike, Loewe, Marni 등의 브랜드와 웹사이트를 디자인한 그래픽 디자이너

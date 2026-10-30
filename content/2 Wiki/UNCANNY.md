@@ -8,7 +8,7 @@ Related:
   - "[[Elliott Elder]]"
   - "[[George Muncey]]"
 ---
-<iframe src="https://uncanny.services/" width="100%" height="700px"></iframe>
+<iframe src="https://uncanny.services/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://cdn.sanity.io/images/2zjl80yp/production/5c494e74cab6fab68b871e9176a67e9301ae4b05-1024x1024.jpg?w=1200&h=1200&fit=crop&crop=entropy&auto=format" alt="UNCANNY logo" width="96">
 

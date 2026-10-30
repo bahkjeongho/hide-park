@@ -13,7 +13,7 @@ Countries:
 Related:
   - "[[LVMH]]"
 ---
-<iframe src="https://www.fendi.com" width="100%" height="700px"></iframe>
+<iframe src="https://www.fendi.com" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >1925년 Adele와 Edoardo Fendi가 시작한 이탈리아 패션 하우스(LVMH 소속)

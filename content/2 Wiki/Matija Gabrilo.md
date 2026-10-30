@@ -6,7 +6,7 @@ IG:
 Website:
   - https://mgabrilo.work/archive
 ---
-<iframe src="https://mgabrilo.work/archive" width="100%" height="700px"></iframe>
+<iframe src="https://mgabrilo.work/archive" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >크리에이티브·아트 디렉션, 디자인, 전략을 아우르는 국제 사무소 운영

@@ -12,7 +12,7 @@ Cities:
 Countries:
   - "[[UAE]]"
 ---
-<iframe src="https://the-brandidentity.com/" width="100%" height="700px"></iframe>
+<iframe src="https://the-brandidentity.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >그래픽·브랜드 디자인의 큐레이션 아카이브, 2015년부터

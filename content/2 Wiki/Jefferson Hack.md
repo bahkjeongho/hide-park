@@ -17,7 +17,7 @@ Related:
   - "[[AnOther]]"
   - "[[NOWNESS]]"
 ---
-<iframe src="https://www.jeffersonhack.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.jeffersonhack.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >`Founder & Creative Director` of [[DAZED]], [[AnOther]], [[NOWNESS]]

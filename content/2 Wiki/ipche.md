@@ -9,7 +9,7 @@ Website:
 Related:
   - "[[황철호]]"
 ---
-<iframe src="https://ip-che.com/ko-kr" width="100%" height="700px"></iframe>
+<iframe src="https://ip-che.com/ko-kr" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >

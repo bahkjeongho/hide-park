@@ -6,7 +6,7 @@ Website:
 Wikis:
   - https://en.wikipedia.org/wiki/Simone_Rocha
 ---
-<iframe src="https://www.simonerocha.com" width="100%" height="700px"></iframe>
+<iframe src="https://www.simonerocha.com" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >아일랜드 패션 디자이너, 2014년 올해의 젊은 디자이너

@@ -9,7 +9,7 @@ Website:
 Countries:
   - "[[France]]"
 ---
-<iframe src="https://www.maison-objet.com/en/paris-design-week" width="100%" height="700px"></iframe>
+<iframe src="https://www.maison-objet.com/en/paris-design-week" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >

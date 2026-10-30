@@ -10,7 +10,7 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
-<iframe src="https://www.takenaka.co.jp/takenaka_e/" width="100%" height="700px"></iframe>
+<iframe src="https://www.takenaka.co.jp/takenaka_e/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >일본 5대 종합건설사 중 하나, 건축 설계·시공, 오사카 본사

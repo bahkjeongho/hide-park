@@ -7,7 +7,7 @@ Website:
   - https://maedastudio.com/
 Wikis: https://en.wikipedia.org/wiki/John_Maeda
 ---
-<iframe src="https://maedastudio.com/" width="100%" height="700px"></iframe>
+<iframe src="https://maedastudio.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 > `(Ex) President & CEO` of [[RISD]]

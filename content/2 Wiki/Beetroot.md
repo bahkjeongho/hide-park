@@ -9,7 +9,7 @@ Website:
 URL:
   - https://www.facebook.com/beetrootdesigngroup/
 ---
-<iframe src="https://beetroot.gr/" width="100%" height="700px"></iframe>
+<iframe src="https://beetroot.gr/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://beetroot.gr/beetroot-site/assets/images/icons/icon2.png" alt="Beetroot logo" width="96">
 

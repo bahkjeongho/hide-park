@@ -10,7 +10,7 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.jwcreativestudio.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.jwcreativestudio.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >뉴욕 기반의 크리에이티브 디렉터·스타일리스트

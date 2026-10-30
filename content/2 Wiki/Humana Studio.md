@@ -13,7 +13,7 @@ Cities:
 Countries:
   - "[[Portugal]]"
 ---
-<iframe src="https://www.humanastudio.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.humanastudio.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://www.humanastudio.com/favicon.ico" alt="Humana Studio logo" width="96">
 

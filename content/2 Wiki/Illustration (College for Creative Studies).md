@@ -11,7 +11,7 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.ccsdetroit.edu/academics/programs/illustration/" width="100%" height="700px"></iframe>
+<iframe src="https://www.ccsdetroit.edu/academics/programs/illustration/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >`Bachelor's Program` in illustration of [[College for Creative Studies]]

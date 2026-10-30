@@ -8,7 +8,7 @@ Wikis:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="http://www.richardmeier.com/" width="100%" height="700px"></iframe>
+<iframe src="http://www.richardmeier.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >흰색을 즐겨 쓴 기하학적 설계로 알려진 미국 건축가, 1984년 프리츠커상 수상

@@ -16,7 +16,7 @@ Website:
 Countries:
   - "[[Japan]]"
 ---
-<iframe src="https://www.jia.or.jp/jia-awards/" width="100%" height="700px"></iframe>
+<iframe src="https://www.jia.or.jp/jia-awards/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 ![](https://www.jia.or.jp/jia-official/cms/wp-content/themes/jia-official/img/ogp.jpg)
 

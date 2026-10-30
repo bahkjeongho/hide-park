@@ -8,7 +8,7 @@ Website:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://projectroom.kr/" width="100%" height="700px"></iframe>
+<iframe src="https://projectroom.kr/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >아이덴티티부터 웹·패키지·사진·영상·마케팅까지 브랜드를 만들고 돕는 스튜디오

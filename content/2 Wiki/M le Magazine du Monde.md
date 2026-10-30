@@ -14,7 +14,7 @@ Countries:
 Related:
   - "[[Le Monde]]"
 ---
-<iframe src="https://www.lemonde.fr/m-le-mag/" width="100%" height="700px"></iframe>
+<iframe src="https://www.lemonde.fr/m-le-mag/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >Le Monde가 발행하는 프랑스의 주간 라이프스타일·문화 매거진

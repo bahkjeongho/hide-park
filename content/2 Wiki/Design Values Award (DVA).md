@@ -16,7 +16,7 @@ Cities:
 Countries:
   - "[[China]]"
 ---
-<iframe src="https://awards.designsociety.cn/en" width="100%" height="700px"></iframe>
+<iframe src="https://awards.designsociety.cn/en" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >`Award` presented in [[Shenzhen]] by [[Design Society]] and [[V&A]]

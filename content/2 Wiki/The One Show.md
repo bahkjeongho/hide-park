@@ -19,7 +19,7 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.oneclub.org/theoneshow/" width="100%" height="700px"></iframe>
+<iframe src="https://www.oneclub.org/theoneshow/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 ![](https://www.oneclub.org/images/logo/logo-big.png)
 

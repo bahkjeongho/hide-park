@@ -13,7 +13,7 @@ Cities:
 Countries:
   - "[[Netherlands]]"
 ---
-<iframe src="https://fromform.nl/" width="100%" height="700px"></iframe>
+<iframe src="https://fromform.nl/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >Ashley Govers와 Jurjen Versteeg가 2013년 로테르담에서 시작한 영화·디자인 독립 스튜디오

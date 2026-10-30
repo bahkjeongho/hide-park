@@ -16,7 +16,7 @@ Website:
 Cities:
   - "[[Hong Kong]]"
 ---
-<iframe src="https://dfaawards.com/en/index/" width="100%" height="700px"></iframe>
+<iframe src="https://dfaawards.com/en/index/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 ![](https://dfaawards.com/lib/ico/favicon.png)
 

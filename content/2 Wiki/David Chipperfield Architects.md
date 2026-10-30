@@ -16,7 +16,7 @@ Countries:
   - "[[China]]"
   - "[[Spain]]"
 ---
-<iframe src="https://davidchipperfield.com/" width="100%" height="700px"></iframe>
+<iframe src="https://davidchipperfield.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >1985년 설립, 런던·베를린·밀라노·상하이·산티아고 데 콤포스텔라에 사무소를 둔 건축 사무소

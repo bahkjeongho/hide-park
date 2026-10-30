@@ -24,7 +24,7 @@ Cities:
 Countries:
   - "[[Venezuela]]"
 ---
-<iframe src="http://www.arca1000000.com/" width="100%" height="700px"></iframe>
+<iframe src="http://www.arca1000000.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 > [!Summary]
 > |   |   |

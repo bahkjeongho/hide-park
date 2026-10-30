@@ -8,7 +8,7 @@ Wikis:
 Countries:
   - "[[France]]"
 ---
-<iframe src="https://www.jeannouvel.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.jeannouvel.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >아랍세계연구소를 설계하고 2008년 프리츠커상을 받은 프랑스 건축가

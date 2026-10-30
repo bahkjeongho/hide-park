@@ -14,7 +14,7 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://sociodesign.co.uk/" width="100%" height="700px"></iframe>
+<iframe src="https://sociodesign.co.uk/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://www.datocms-assets.com/150473/1757947682-socio_favicon_2.png?auto=format&h=192&w=192" alt="SocioDesign logo" width="96">
 

@@ -12,7 +12,7 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.printmag.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.printmag.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >1940년 창간한 미국의 그래픽 디자인 매거진, 지금은 웹사이트로 운영

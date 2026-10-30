@@ -8,7 +8,7 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://alexhunting.studio/" width="100%" height="700px"></iframe>
+<iframe src="https://alexhunting.studio/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >런던 기반의 에디토리얼 디자인 스튜디오

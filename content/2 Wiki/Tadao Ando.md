@@ -12,7 +12,7 @@ Wikis:
 Countries:
   - "[[Japan]]"
 ---
-<iframe src="https://www.tadao-ando.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.tadao-ando.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >건축과 풍경의 통합으로 알려진 독학의 일본 건축가, 1995년 프리츠커상 수상

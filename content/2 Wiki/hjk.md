@@ -10,7 +10,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://hjk.graphics/" width="100%" height="700px"></iframe>
+<iframe src="https://hjk.graphics/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >서울의 그래픽 디자이너 김효진의 개인 작업

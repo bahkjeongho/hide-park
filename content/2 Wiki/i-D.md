@@ -17,7 +17,7 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://i-d.co/" width="100%" height="700px"></iframe>
+<iframe src="https://i-d.co/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >1980년 [[Terry Jones]]가 런던에서 창간한 패션·유스 컬처 매거진

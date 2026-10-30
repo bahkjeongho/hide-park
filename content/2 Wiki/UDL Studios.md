@@ -14,7 +14,7 @@ Cities:
 Countries:
   - "[[China]]"
 ---
-<iframe src="https://u-d-l.com/" width="100%" height="700px"></iframe>
+<iframe src="https://u-d-l.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >브랜드·산업·디지털을 아우르는 베이징·선전의 다학제 디자인 스튜디오

@@ -11,7 +11,7 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.ccsdetroit.edu/academics/programs/communication-design-strategy/" width="100%" height="700px"></iframe>
+<iframe src="https://www.ccsdetroit.edu/academics/programs/communication-design-strategy/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >`Bachelor's Program` in communication design and strategy of [[College for Creative Studies]]

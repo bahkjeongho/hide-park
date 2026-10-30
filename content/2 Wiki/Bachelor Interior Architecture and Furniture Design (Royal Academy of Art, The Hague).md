@@ -11,7 +11,7 @@ Cities:
 Countries:
   - "[[Netherlands]]"
 ---
-<iframe src="https://www.kabk.nl/en/programmes/bachelor/interior-architecture-and-furniture-design" width="100%" height="700px"></iframe>
+<iframe src="https://www.kabk.nl/en/programmes/bachelor/interior-architecture-and-furniture-design" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >`Bachelor of Arts` in interior architecture and furniture design of [[Royal Academy of Art, The Hague]]

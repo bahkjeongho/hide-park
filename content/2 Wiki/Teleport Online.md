@@ -11,7 +11,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://www.teleport-online.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.teleport-online.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >서울 기반의 크리에이티브 에이전시이자 캠페인 브랜드

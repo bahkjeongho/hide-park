@@ -23,7 +23,7 @@ Cities:
 Countries:
   - "[[Ireland]]"
 ---
-<iframe src="https://www.roisinmurphyofficial.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.roisinmurphyofficial.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 > [!Summary]
 > |   |   |

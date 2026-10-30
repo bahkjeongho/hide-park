@@ -6,7 +6,7 @@ IG:
 Website:
   - https://www.coeval-magazine.com/
 ---
-<iframe src="https://www.coeval-magazine.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.coeval-magazine.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >예술, 패션, 음악, 문화를 실험적·아방가르드 시각으로 다루는 온·오프라인 매거진

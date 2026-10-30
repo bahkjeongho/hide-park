@@ -24,7 +24,7 @@ Countries:
 Related:
   - "[[University of London]]"
 ---
-<iframe src="https://www.gold.ac.uk/" width="100%" height="700px"></iframe>
+<iframe src="https://www.gold.ac.uk/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >`University` based in [[London]]
