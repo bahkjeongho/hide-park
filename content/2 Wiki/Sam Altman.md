@@ -12,7 +12,7 @@ Wikis:
   - https://namu.wiki/w/%EC%83%98%20%EC%98%AC%ED%8A%B8%EB%A8%BC
   - https://en.wikipedia.org/wiki/Sam_Altman
 ---
-<iframe src="https://blog.samaltman.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://blog.samaltman.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >2019년부터 OpenAI를 이끄는 미국 기업가·투자자

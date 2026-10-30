@@ -18,7 +18,7 @@ Countries:
   - "[[Netherlands]]"
   - "[[France]]"
 ---
-<iframe src="https://dogstudio.co/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://dogstudio.co/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://dogstudio.co/app/themes/portfolio-2018/static/assets/images/favicon.png" alt="DOGSTUDIO logo" width="96">
 

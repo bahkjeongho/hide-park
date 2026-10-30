@@ -14,7 +14,7 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://officemagazine.net/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://officemagazine.net/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >2014년 뉴욕에서 창간한 아트·컬처 매거진

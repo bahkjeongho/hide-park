@@ -6,7 +6,7 @@ IG:
 Website:
   - https://www.magnastudios.com/
 ---
-<iframe src="https://www.magnastudios.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.magnastudios.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >스크립티드, 논픽션, 브랜디드, 뮤직비디오 부문을 아우르는 다학제 크리에이티브 스튜디오

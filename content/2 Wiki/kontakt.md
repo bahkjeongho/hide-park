@@ -12,7 +12,7 @@ Countries:
   - "[[Japan]]"
   - "[[France]]"
 ---
-<iframe src="https://kontakt.press/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://kontakt.press/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >도쿄와 파리에 사무실을 둔 크리에이티브 에이전시

@@ -14,7 +14,7 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://helloapplied.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://helloapplied.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >클라이언트를 깊이 생각하는 크리에이티브 팀의 디자인 스튜디오

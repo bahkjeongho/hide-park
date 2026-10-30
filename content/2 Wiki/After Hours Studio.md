@@ -15,7 +15,7 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://afterhours.studio/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://afterhours.studio/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://afterhours.studio/_app/immutable/assets/ah-studio-wordmark.97dae2a8.svg" alt="After Hours Studio logo" width="200">
 

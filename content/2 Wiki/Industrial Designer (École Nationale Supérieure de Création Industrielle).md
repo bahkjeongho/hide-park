@@ -11,7 +11,7 @@ Cities:
 Countries:
   - "[[France]]"
 ---
-<iframe src="https://www.ensci.com/en/formations/industrial-designer" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.ensci.com/en/formations/industrial-designer" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >`Bachelor's and Master's Program` in industrial design of [[École Nationale Supérieure de Création Industrielle]]

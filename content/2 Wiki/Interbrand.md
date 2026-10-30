@@ -33,7 +33,7 @@ Countries:
   - "[[China]]"
   - "[[India]]"
 ---
-<iframe src="https://interbrand.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://interbrand.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >1974년부터 브랜드 전략·경험 디자인·브랜드 가치 평가를 하는 글로벌 브랜드 컨설팅

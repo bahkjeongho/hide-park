@@ -26,7 +26,7 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
-<iframe src="https://www.casiopea.co.jp/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.casiopea.co.jp/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 > [!Summary]
 > |   |   |

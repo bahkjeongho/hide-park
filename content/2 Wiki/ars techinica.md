@@ -12,7 +12,7 @@ Countries:
 Related:
   - "[[Condé Nast]]"
 ---
-<iframe src="https://arstechnica.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://arstechnica.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >1998년 시작한 기술·과학·정책 뉴스 웹사이트

@@ -19,7 +19,7 @@ Cities:
 Countries:
   - "[[Spain]]"
 ---
-<iframe src="https://www.offf.barcelona/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.offf.barcelona/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 ![](https://static.wixstatic.com/media/cd0191_45c51dd2fa93412b9b3c342140c59d81%7Emv2.png/v1/fit/w_2500,h_1330,al_c/cd0191_45c51dd2fa93412b9b3c342140c59d81%7Emv2.png)
 

@@ -10,7 +10,7 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Tom_Ford
 ---
-<iframe src="https://www.tomford.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.tomford.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >자신의 브랜드를 만든 미국 패션 디자이너이자 영화감독

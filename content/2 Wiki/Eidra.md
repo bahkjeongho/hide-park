@@ -6,7 +6,7 @@ Website:
 URL:
   - https://www.linkedin.com/company/eidra-group/
 ---
-<iframe src="https://www.eidra.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.eidra.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >

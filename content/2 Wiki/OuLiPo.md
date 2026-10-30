@@ -9,7 +9,7 @@ Website: https://oulipo.net/
 Wikis:
   - https://en.wikipedia.org/wiki/Oulipo
 ---
-<iframe src="https://oulipo.net/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://oulipo.net/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >제약을 실험하는 작가들의 문학 공방 울리포

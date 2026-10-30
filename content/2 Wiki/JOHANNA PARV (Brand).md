@@ -14,7 +14,7 @@ Countries:
 Related:
   - "[[Johanna Parv]]"
 ---
-<iframe src="https://www.johannaparv.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.johannaparv.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >에스토니아 출신 디자이너가 런던에서 이끄는 ‘기능적 럭셔리’ 여성복 레이블

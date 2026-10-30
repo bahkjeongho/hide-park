@@ -12,7 +12,7 @@ Cities:
 Countries:
   - "[[Brazil]]"
 ---
-<iframe src="https://www.gustavopenna.com.br/en" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.gustavopenna.com.br/en" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >벨루오리존치를 기반으로 활동하는 브라질 건축가·도시계획가

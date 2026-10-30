@@ -13,7 +13,7 @@ Wikis:
   - https://en.wikipedia.org/wiki/Kendrick_Lamar
   - https://namu.wiki/w/%EC%BC%84%EB%93%9C%EB%A6%AD%20%EB%9D%BC%EB%A7%88
 ---
-<iframe src="https://oklama.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://oklama.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 > [!Summary]
 > |   |   |

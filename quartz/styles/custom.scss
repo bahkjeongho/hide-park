@@ -102,22 +102,24 @@ article a.internal {
   }
 }
 // 다른 페이지로 가는 링크: 밑줄 + 초록. 내용이 빈 페이지로 가면 더 어두운 초록.
+// 색은 옵시디언 custom.css에 맞춘다 (위키링크 #9ece6a, 빈 노트 #256630, 마우스를 올리면 #80b918).
 article a.internal:not([role="anchor"]):not([data-footnote-ref]):not([data-footnote-backref]) {
-  color: #0bda51;
+  color: #9ece6a;
   &:hover {
-    color: var(--hp-muted);
+    color: #80b918;
   }
   &.hp-blank {
-    color: #046b25;
+    color: #256630;
+    text-decoration-color: #d4d700; // 옵시디언의 --link-unresolved-decoration-color
     &:hover {
-      color: var(--hp-muted);
+      color: #80b918;
     }
   }
 }
 :root[saved-theme="dark"] article a.internal.hp-blank:not([role="anchor"]) {
   color: #0a8c36;
   &:hover {
-    color: var(--hp-muted);
+    color: #80b918;
   }
 }
 
@@ -228,7 +230,7 @@ kbd {
       }
       .center,
       footer {
-        max-width: 700px;
+        max-width: 1080px;
         min-width: 0;
         width: 100%;
         margin-left: auto;
@@ -587,5 +589,59 @@ html .callout[data-callout] {
   .callout-title-inner > p {
     font-size: 14px;
     font-weight: 600;
+  }
+}
+
+// ---- 노트 맨 위에 넣은 웹사이트 임베드(iframe) ----
+// 노트에는 width="1080px"로 적혀 있지만, 본문 칸이 더 좁은 화면(노트북·태블릿·모바일)에서는 칸 폭에 맞춰 줄어들게 한다.
+.center article iframe {
+  max-width: 100%;
+}
+
+// ---- 본문 텍스트 색: 옵시디언 custom.css에 맞춘다 ----
+// 외부 링크, 굵게, 기울임: #3c096c (어두운 보라). 다크 모드에서는 배경에 묻히므로 같은 계열의 밝은 보라(#bb9af7, 태그 색)를 쓴다.
+// (속성 표 안의 링크 .note-properties-link 는 기존 디자인 그대로 둔다.)
+article a.external:not(.note-properties-link),
+article strong,
+article em {
+  color: #3c096c;
+}
+article a.external:not(.note-properties-link):hover {
+  color: #1e6091; // 옵시디언의 --link-external-color-hover
+}
+:root[saved-theme="dark"] article a.external:not(.note-properties-link),
+:root[saved-theme="dark"] article strong,
+:root[saved-theme="dark"] article em {
+  color: #bb9af7;
+}
+:root[saved-theme="dark"] article a.external:not(.note-properties-link):hover {
+  color: #8ab4f8;
+}
+
+// #태그 (위의 내부 링크 초록보다 우선하도록 선택자를 같은 수준으로 맞춘다)
+article a.internal.tag-link:not([role="anchor"]):not([data-footnote-ref]):not([data-footnote-backref]) {
+  color: #bb9af7;
+}
+
+// 코드: 인라인 코드 배경 #4A5252 / 글자 #FAF9F6, 코드 블록 배경 #1f2335 / 테두리 #292e42 / 모서리 8px
+article :not(pre) > code {
+  background-color: #4a5252;
+  color: #faf9f6;
+  border-radius: 4px;
+  padding: 0.1em 0.4em;
+}
+article pre {
+  background-color: #1f2335;
+  border: 1px solid #292e42;
+  border-radius: 8px;
+  padding: 12px 16px;
+  code {
+    background: transparent;
+    color: #faf9f6;
+    padding: 0;
+  }
+  // 라이트 모드에서도 어두운 배경에 맞는 구문 강조 색(다크 테마 색)을 쓴다.
+  code span {
+    color: var(--shiki-dark, #faf9f6);
   }
 }

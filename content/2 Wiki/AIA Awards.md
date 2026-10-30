@@ -14,7 +14,7 @@ Website:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.aia.org/design-excellence/awards" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.aia.org/design-excellence/awards" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 ![](https://www.aia.org/sites/default/files/styles/16_9_1300x731/public/2024-05/harkin-north-facade.jpg?h=3bc16ef9&itok=XaRM7WGG)
 

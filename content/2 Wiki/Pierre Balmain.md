@@ -6,7 +6,7 @@ Website:
 Wikis:
   - https://en.wikipedia.org/wiki/Pierre_Balmain
 ---
-<iframe src="https://www.balmain.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.balmain.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >패션 하우스 Balmain의 창립자인 프랑스 디자이너

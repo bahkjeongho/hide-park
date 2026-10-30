@@ -12,7 +12,7 @@ Countries:
 Related:
   - "[[the thing Agency]]"
 ---
-<iframe src="https://www.thethingmagazine.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.thethingmagazine.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >디자인, 트렌드, 미학, 동시대 문화를 다루는 베를린 기반의 독립 매거진

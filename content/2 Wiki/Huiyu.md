@@ -8,7 +8,7 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://huiyuu.net/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://huiyuu.net/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >타이완 출신, 뉴욕에서 Wolff Olins에 재직하는 디자이너

@@ -8,7 +8,7 @@ Website:
 Wikis:
   - https://en.wikipedia.org/wiki/Issey_Miyake
 ---
-<iframe src="https://www.isseymiyake.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.isseymiyake.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >플리츠 플리즈 라인으로 알려진 일본 패션 디자이너

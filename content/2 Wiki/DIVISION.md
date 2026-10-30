@@ -3,7 +3,7 @@ topic:
   - "[[Creative Company]]"
 Website: https://apac.division.global/
 ---
-<iframe src="https://apac.division.global/" width="100%" height="700px" style="border: 0; border-radius: 20px;"></iframe>
+<iframe src="https://apac.division.global/" width="1080px" height="720px" style="border: 0; border-radius: 20px;"></iframe>
 
 >[!tldr] tl;dr
 >

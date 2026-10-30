@@ -22,7 +22,7 @@ Countries:
 Related:
   - "[[SM ENTERTAINMENT|SM ENT.]]"
 ---
-<iframe src="http://nct.smtown.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="http://nct.smtown.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 > [!Summary]
 > |   |   |

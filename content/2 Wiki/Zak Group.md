@@ -11,7 +11,7 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://www.zak.group/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.zak.group/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://www.zak.group/public/logo-48.png" alt="Zak Group logo" width="48">
 

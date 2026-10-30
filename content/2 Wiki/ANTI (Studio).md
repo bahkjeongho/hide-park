@@ -14,7 +14,7 @@ Cities:
 Countries:
   - "[[Norway]]"
 ---
-<iframe src="https://anti.as/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://anti.as/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >오슬로 기반의 브랜드·광고·디지털 크리에이티브 스튜디오

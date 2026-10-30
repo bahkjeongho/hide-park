@@ -3,7 +3,7 @@ topic:
   - "[[Branding Agency]]"
 Website: https://www.plus-ex.com/
 ---
-<iframe src="https://www.plus-ex.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.plus-ex.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >2010년 브랜드 경험 통합에서 출발한 브랜딩 에이전시

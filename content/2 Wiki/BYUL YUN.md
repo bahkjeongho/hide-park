@@ -11,7 +11,7 @@ Countries:
 Related:
   - "[[newyearasia]]"
 ---
-<iframe src="https://new-year.asia/artist/byul-yun/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://new-year.asia/artist/byul-yun/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >공감각적 영상 경험을 만드는 디렉터, K-pop과 패션 작업

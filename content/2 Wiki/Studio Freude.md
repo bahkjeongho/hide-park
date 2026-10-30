@@ -8,7 +8,7 @@ Cities:
 Countries:
   - "[[Austria]]"
 ---
-<iframe src="https://freude.studio/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://freude.studio/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >2023년 빈에서 시작한 브랜드 경험 디자인 스튜디오

@@ -10,7 +10,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="http://studio-hinge.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="http://studio-hinge.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="http://studio-hinge.com/wp-content/uploads/2024/04/cropped-favicon-32x32.jpg" alt="Studio Hinge logo" width="96">
 

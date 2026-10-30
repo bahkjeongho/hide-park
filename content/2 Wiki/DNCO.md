@@ -10,7 +10,7 @@ Cities:
   - "[[London]]"
   - "[[New York]]"
 ---
-<iframe src="https://dnco.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://dnco.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://dnco.com/icon.svg" alt="DNCO logo" width="96">
 

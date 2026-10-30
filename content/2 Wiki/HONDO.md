@@ -15,7 +15,7 @@ Countries:
   - "[[Spain]]"
   - "[[UK]]"
 ---
-<iframe src="https://www.hondo.studio/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.hondo.studio/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >팔마 데 마요르카와 런던을 오가는 브랜딩·에디토리얼·타이포그래피 디자인 스튜디오

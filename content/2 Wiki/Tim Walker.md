@@ -8,7 +8,7 @@ Website:
 Wikis:
   - https://en.wikipedia.org/wiki/Tim_Walker
 ---
-<iframe src="https://www.timwalkerphotography.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.timwalkerphotography.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >환상적인 상상력의 패션 화보와 초상 사진으로 알려진 영국의 사진가

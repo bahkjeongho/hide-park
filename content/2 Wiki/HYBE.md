@@ -13,7 +13,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://hybecorp.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://hybecorp.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://hybecorp.com/public/opengraph/main/og.png" alt="HYBE logo" width="160">
 

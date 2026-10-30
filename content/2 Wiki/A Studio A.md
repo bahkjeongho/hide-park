@@ -3,7 +3,7 @@ topic:
   - "[[Design Studio]]"
 Website: https://a-studio-a.com/
 ---
-<iframe src="https://a-studio-a.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://a-studio-a.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >

@@ -8,7 +8,7 @@ Cities:
 Countries:
   - "[[Germany]]"
 ---
-<iframe src="https://www.veryes.co/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.veryes.co/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://www.veryes.co/apple-icon.png?apple-icon.2gsbfp7q59363.png" alt="veryes logo" width="96">
 

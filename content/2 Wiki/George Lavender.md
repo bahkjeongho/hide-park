@@ -4,7 +4,7 @@ topic:
 IG: https://www.instagram.com/georgelavenderr/
 Website: https://george-lavender.com/
 ---
-<iframe src="https://george-lavender.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://george-lavender.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 > `Creative Director` of [[RGA by Design]]

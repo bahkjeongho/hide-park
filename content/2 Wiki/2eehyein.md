@@ -18,7 +18,7 @@ Countries:
 Related:
   - "[[newyearasia]]"
 ---
-<iframe src="https://new-year.asia/artist/2eehyein/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://new-year.asia/artist/2eehyein/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >서울을 기반으로 하는 디렉터이자 사진가, K-pop 뮤직비디오와 패션 캠페인

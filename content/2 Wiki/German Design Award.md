@@ -17,7 +17,7 @@ Website:
 Countries:
   - "[[Germany]]"
 ---
-<iframe src="https://www.german-design-award.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.german-design-award.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 ![](https://www.german-design-award.com/fileadmin/_processed_/d/2/csm_german-design-award-2027-open-call_1ec11a2f4e.jpg)
 

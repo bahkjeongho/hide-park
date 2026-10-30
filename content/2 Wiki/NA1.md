@@ -10,7 +10,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://na1.group/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://na1.group/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://freight.cargo.site/t/original/i/C1574638266723114628262996850754/pavicon-hana-02-01.ico" alt="NA1 logo" width="96">
 

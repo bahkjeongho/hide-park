@@ -20,7 +20,7 @@ tags:
 Related:
   - "[[Ma Yansong]]"
 ---
-<iframe src="https://www.i-mad.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.i-mad.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >2004년 Ma Yansong이 설립한 베이징·로스앤젤레스·로마의 글로벌 건축 스튜디오

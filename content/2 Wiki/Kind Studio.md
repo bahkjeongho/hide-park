@@ -11,7 +11,7 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://kindstudio.co.uk/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://kindstudio.co.uk/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://cdn.prod.website-files.com/5cd15c1d6f4a423535818ed9/5d5ea686aeeaa5e15ecaa03b_webclip.jpg" alt="Kind Studio logo" width="96">
 

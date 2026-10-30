@@ -7,7 +7,7 @@ IG:
 Website:
   - https://www.hommegirls.com/
 ---
-<iframe src="https://www.hommegirls.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.hommegirls.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >Thakoon Panichgul이 설립한 남성복에서 영감을 받은 패션 매거진

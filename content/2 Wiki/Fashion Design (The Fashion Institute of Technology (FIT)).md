@@ -11,7 +11,7 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.fitnyc.edu/academics/academic-divisions/art-and-design/fashion-design/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.fitnyc.edu/academics/academic-divisions/art-and-design/fashion-design/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >`Bachelor's Program` in fashion design of [[The Fashion Institute of Technology (FIT)]]

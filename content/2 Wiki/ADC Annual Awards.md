@@ -15,7 +15,7 @@ IG:
 Website:
   - https://www.oneclub.org/adcawards/
 ---
-<iframe src="https://www.oneclub.org/adcawards/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.oneclub.org/adcawards/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 ![](https://www.oneclub.org/images/logo/logo-big.png)
 

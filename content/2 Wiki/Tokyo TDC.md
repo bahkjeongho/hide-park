@@ -20,7 +20,7 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
-<iframe src="https://tokyotypedirectorsclub.org/award/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://tokyotypedirectorsclub.org/award/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 ![](https://tokyotypedirectorsclub.org/wp-content/themes/tokyotypedirectorsclub/assets/images/ogimage.jpg)
 

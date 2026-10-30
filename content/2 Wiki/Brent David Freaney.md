@@ -6,7 +6,7 @@ IG:
 Website:
   - https://www.specialoffer.inc/
 ---
-<iframe src="https://www.specialoffer.inc/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.specialoffer.inc/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >Special Offer, Inc.의 아트 디렉터

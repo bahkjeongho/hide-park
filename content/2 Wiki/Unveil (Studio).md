@@ -8,7 +8,7 @@ Website:
 URL:
   - https://twitter.com/uvlstudios
 ---
-<iframe src="https://unveil.fr/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://unveil.fr/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >인공지능으로 인간의 창의성을 확장하는 크리에이티브 스튜디오

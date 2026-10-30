@@ -20,7 +20,7 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.oneclub.org/tdcawards/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.oneclub.org/tdcawards/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 ![](https://www.oneclub.org/images/logo/logo-big.png)
 

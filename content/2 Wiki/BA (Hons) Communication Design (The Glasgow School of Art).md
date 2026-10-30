@@ -9,7 +9,7 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://www.gsa.ac.uk/undergraduate-degrees/communication-design" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.gsa.ac.uk/undergraduate-degrees/communication-design" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >`Bachelor's Program` in Communication Design of [[The Glasgow School of Art]]

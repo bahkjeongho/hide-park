@@ -13,7 +13,7 @@ Countries:
   - "[[UK]]"
   - "[[France]]"
 ---
-<iframe src="https://walesbonner.net" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://walesbonner.net" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >런던 레이블 Wales Bonner를 이끌며 Hermès 남성복 디렉터에 임명된 영국 디자이너

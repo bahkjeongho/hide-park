@@ -11,7 +11,7 @@ Countries:
 Related:
   - "[[Crack Magazine]]"
 ---
-<iframe src="https://cc-co.org/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://cc-co.org/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://cc-co.org/wp-content/themes/ccco/images/logo_ccco.svg" alt="CC Co. logo" width="200">
 

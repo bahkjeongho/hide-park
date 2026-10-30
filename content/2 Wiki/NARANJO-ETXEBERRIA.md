@@ -11,7 +11,7 @@ Cities:
 Countries:
   - "[[Spain]]"
 ---
-<iframe src="https://naranjoetxeberria.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://naranjoetxeberria.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://naranjoetxeberria.com/wp-content/uploads/2024/01/FAVICON_V03.png" alt="NARANJO-ETXEBERRIA logo" width="96">
 

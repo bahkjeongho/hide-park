@@ -10,7 +10,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://bitnaneun.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://bitnaneun.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >박시영 디자이너가 이끄는 서울의 그래픽 디자인 스튜디오, 영화 포스터 디자인

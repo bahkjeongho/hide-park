@@ -20,7 +20,7 @@ Countries:
 Related:
   - "[[DAZED]]"
 ---
-<iframe src="https://dazed.studio/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://dazed.studio/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >[[Dazed Group]] 소속의 문화 컨설팅·스토리텔링 기반 크리에이티브 에이전시

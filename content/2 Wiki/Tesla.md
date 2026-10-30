@@ -7,7 +7,7 @@ Website:
 Wikis:
   - https://namu.wiki/w/%ED%85%8C%EC%8A%AC%EB%9D%BC(%EA%B8%B0%EC%97%85)
 ---
-<iframe src="https://www.tesla.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.tesla.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >

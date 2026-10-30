@@ -10,7 +10,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://studio-d-d.com/kr" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://studio-d-d.com/kr" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://studio-d-d.com/assets/meta.jpg" alt="Double D Studio logo" width="140">
 

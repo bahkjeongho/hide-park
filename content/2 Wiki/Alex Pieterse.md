@@ -10,7 +10,7 @@ Cities:
 Countries:
   - "[[Spain]]"
 ---
-<iframe src="https://www.alexpieterse.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.alexpieterse.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >암스테르담 출신, 지금은 바르셀로나에서 활동하는 에디터

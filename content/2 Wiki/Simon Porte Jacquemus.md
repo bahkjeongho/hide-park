@@ -10,7 +10,7 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Simon_Porte_Jacquemus
 ---
-<iframe src="https://www.jacquemus.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.jacquemus.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >Jacquemus 레이블의 창립자인 프랑스 패션 디자이너

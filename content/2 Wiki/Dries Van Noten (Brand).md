@@ -14,7 +14,7 @@ Wikis:
 Countries:
   - "[[Belgium]]"
 ---
-<iframe src="https://www.driesvannoten.com" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.driesvannoten.com" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >벨기에 디자이너 Dries Van Noten이 CEO Christine Mathys와 공동 설립한 패션 브랜드

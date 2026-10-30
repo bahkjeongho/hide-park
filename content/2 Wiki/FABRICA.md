@@ -12,7 +12,7 @@ Countries:
 Related:
   - "[[남은욱]]"
 ---
-<iframe src="https://www.fabrica.works/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.fabrica.works/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >크리에이티브 디렉션·제작·PR을 아우르는 서울의 융합 크리에이티브 스튜디오

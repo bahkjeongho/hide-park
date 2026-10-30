@@ -12,7 +12,7 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://www.6a.co.uk/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.6a.co.uk/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >2001년 Tom Emerson과 Stephanie Macdonald가 설립한 런던의 건축 사무소

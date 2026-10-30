@@ -13,7 +13,7 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://anagram.london/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://anagram.london/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >클라이언트와 브랜드가 눈길을 끌고 마음을 얻도록 돕는 브랜드·디자인 스튜디오

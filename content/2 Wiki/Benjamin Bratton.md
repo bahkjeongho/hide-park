@@ -12,7 +12,7 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Benjamin_H._Bratton
 ---
-<iframe src="https://bratton.info/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://bratton.info/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 > `Professor of Philosophy of Technology` at [[University of California]], San Diego

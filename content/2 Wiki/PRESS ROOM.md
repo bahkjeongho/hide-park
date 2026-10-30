@@ -9,7 +9,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://www.press-room.kr/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.press-room.kr/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://www.press-room.kr/wp-content/uploads/2023/08/cropped-별파비콘-192x192.png" alt="PRESS ROOM logo" width="96">
 

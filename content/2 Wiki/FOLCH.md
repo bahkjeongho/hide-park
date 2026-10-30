@@ -10,7 +10,7 @@ Cities:
 Countries:
   - "[[Spain]]"
 ---
-<iframe src="https://www.folchstudio.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.folchstudio.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >브랜드의 아이디어를 구체화해 온 바르셀로나의 다학제 커뮤니케이션 에이전시

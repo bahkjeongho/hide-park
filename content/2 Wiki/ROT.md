@@ -6,7 +6,7 @@ IG:
 Website:
   - https://www.rot.world/home
 ---
-<iframe src="https://www.rot.world/home" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.rot.world/home" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >디지털과 물리 공간에 걸쳐 시각 세계를 구축하는 다학제 크리에이티브 스튜디오

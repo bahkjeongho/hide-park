@@ -7,7 +7,7 @@ IG:
 Website:
   - https://contemporarytype.com/
 ---
-<iframe src="https://contemporarytype.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://contemporarytype.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >Contemporary Type is a carefully curated font marketplace. We bring together typefaces of high quality, fresh aesthetics and unique design. Below you can find the core ideas behind the project.

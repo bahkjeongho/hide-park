@@ -17,7 +17,7 @@ Wikis:
 Related:
   - "[[Microsoft]]"
 ---
-<iframe src="http://www.thegatesnotes.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="http://www.thegatesnotes.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >Microsoft를 공동 창업한 미국 사업가이자 자선가

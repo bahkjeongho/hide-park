@@ -6,7 +6,7 @@ IG:
 Website:
   - https://haanasa.com/
 ---
-<iframe src="https://haanasa.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://haanasa.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 > `Stylist` for [[KiiiKiii]], [[NCT WISH]], etc.

@@ -11,7 +11,7 @@ URL:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://thewatermelon.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://thewatermelon.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >브랜드 컨설팅 & 경험을 다루는 에이전시

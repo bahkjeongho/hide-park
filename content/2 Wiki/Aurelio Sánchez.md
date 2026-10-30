@@ -5,7 +5,7 @@ topic:
 Website:
   - https://www.fluorink.net/
 ---
-<iframe src="https://www.fluorink.net/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.fluorink.net/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >아트 디렉션과 그래픽 디자인을 하는 디자이너

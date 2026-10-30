@@ -10,7 +10,7 @@ Countries:
 Related:
   - "[[newyearasia]]"
 ---
-<iframe src="https://new-year.asia/artist/dasom-han/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://new-year.asia/artist/dasom-han/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >크리에이티브 디렉터이자 사진가, 앨범 아트워크와 비주얼 작업

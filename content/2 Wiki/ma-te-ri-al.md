@@ -11,7 +11,7 @@ Website:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://ma-te-ri-al.online/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://ma-te-ri-al.online/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >스루패스로서의 비평을 지향하는 한국 무빙이미지 비평 매체

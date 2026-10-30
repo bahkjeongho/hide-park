@@ -28,7 +28,7 @@ Countries:
   - "[[China]]"
   - "[[Switzerland]]"
 ---
-<iframe src="https://big.dk/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://big.dk/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >2006년 Bjarke Ingels가 코펜하겐에서 설립한 건축·디자인 그룹

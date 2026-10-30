@@ -8,7 +8,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://mhtl.world/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://mhtl.world/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >Mat-Kkal과 Lucky Park이 2020년 시작한 서울의 디자인 스튜디오

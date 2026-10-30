@@ -8,7 +8,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="http://www.mykc.kr/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="http://www.mykc.kr/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >에디토리얼·브랜딩·공간 그래픽을 다루는 서울의 그래픽 디자인 스튜디오

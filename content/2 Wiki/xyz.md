@@ -10,7 +10,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://xyzxyz.co/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://xyzxyz.co/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >브랜드·공간·디지털을 아우르는 서울의 디자인·기술 스튜디오

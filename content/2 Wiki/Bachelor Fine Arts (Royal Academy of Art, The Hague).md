@@ -11,7 +11,7 @@ Cities:
 Countries:
   - "[[Netherlands]]"
 ---
-<iframe src="https://www.kabk.nl/en/programmes/bachelor/fine-arts" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.kabk.nl/en/programmes/bachelor/fine-arts" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
 >`Bachelor of Arts` in fine arts of [[Royal Academy of Art, The Hague]]

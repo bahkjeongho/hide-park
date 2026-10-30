@@ -8,7 +8,7 @@ Cities:
 Countries:
   - "[[France]]"
 ---
-<iframe src="https://www.maybe-paris.com/" width="100%" height="700px" style="border: 0; border-radius: 18px;"></iframe>
+<iframe src="https://www.maybe-paris.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 <img src="https://www.maybe-paris.com/media/site/18cfc05c5f-1600348112/favicon-128x128.png" alt="MAYBE PARIS logo" width="96">
 
