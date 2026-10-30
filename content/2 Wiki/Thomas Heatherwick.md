@@ -1,14 +1,34 @@
 ---
 topic:
   - "[[Architect]]"
+Website:
+  - http://www.heatherwick.com
+Wikis:
+  - https://en.wikipedia.org/wiki/Thomas_Heatherwick
+Cities:
+  - "[[London]]"
+Countries:
+  - "[[UK]]"
 ---
 >[!tldr] tl;dr
->
+>런던 Heatherwick Studio를 이끄는 영국 디자이너
 
 > [!Info]
-> 
+> Thomas Alexander Heatherwick(1970년 2월 17일생)는 영국의 디자이너이자 런던 기반 디자인 사무소 Heatherwick Studio의 설립자다. 킹스크로스에 있는 스튜디오에서 약 250명의 건축가, 디자이너, 기업가로 이루어진 팀과 일한다.
+>
+> 수상 경력이 많은 그의 프로젝트로는 2010년 엑스포 영국관, 홍콩 퍼시픽 플레이스 리노베이션, 2012년 하계 올림픽·패럴림픽 성화대, 뉴욕의 베슬, 뉴 루트마스터 버스가 있다. 런던 템스강의 가든 브리지는 취소되었다.
+>
+> Thomas Alexander Heatherwick,  (born 17 February 1970) is an English designer and the founder of London-based design practice Heatherwick Studio.  He works with a team of about 250 architects, designers and entrepreneurs from his studio in King's Cross, London.
+>
+> Heatherwick's projects, many of which have won design awards, include the UK pavilion at Expo 2010, the renovation of the Hong Kong Pacific Place, the Olympic cauldron for the 2012 Summer Olympics and Paralympics, Vessel in New York City, and the New Routemaster bus. The Garden Bridge over the Thames in Central London was cancelled.
 
 > [!Summary]
+> |   |   |
+> |---|---|
+> |Born|Thomas Alexander Heatherwick<br>17 February 1970<br>London, England|
+> |Education|Manchester Polytechnic<br>Royal College of Art|
+> |Notable work|The Rolling Bridge (2005)<br>B of the Bang (2005)<br>East Beach Cafe (2005)<br>UK pavilion at Expo 2010<br>Longchamp store in SoHo<br>Olympics cauldron (2012)<br>Zeitz MOCAA (2017)<br>Vessel (2019)|
+> |Honours|Commander of the British Empire|
 
 ---
 

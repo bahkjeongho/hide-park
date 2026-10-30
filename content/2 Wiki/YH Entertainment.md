@@ -1,14 +1,31 @@
 ---
 topic:
   - "[[Entertainment Company]]"
+IG:
+  - https://www.instagram.com/yh_actors/
+URL:
+  - https://youtube.com/@yhent_official
+  - https://x.com/yhent_official
+Wikis:
+  - https://namu.wiki/w/YH%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8
 ---
 >[!tldr] tl;dr
->
+>2014년 설립된 한국의 연예 기획사
 
 > [!Info]
-> 
+> 대한민국의 연예 기획사. 2014년 8월 29일, 중국의 위에화엔터테인먼트(YH 엔터테인먼트 그룹)의 자회사로 설립되었다. 설립 후 '위에화엔터테인먼트코리아'로 매니지먼트업을 진행하다 2025년 11월 17일 현재의 이름으로 상호명을 바꾸었다. 설립 이후로 WOODZ, 이도현, EVERGLOW, 최예나, TEMPEST, 박천, 최우진, DáFF, AND2BLE을 배출하였다.
 
 > [!Summary]
+> |   |   |
+> |---|---|
+> |정식 명칭|주식회사 와이에이치 엔터테인먼트<br>YH Entertainment<br>[ 이전 기업명 펼치기 · 접기 ](주)위에화엔터테인먼트코리아 (2014년 ~ 2025년)|
+> |국가|대한민국|
+> |설립일|2014년 8월 24일|
+> |대표자|이상규, 정해창|
+> |업종명|매니저업, 엔터테인먼트업 등|
+> |상장 여부|비상장기업|
+> |모기업|위에화엔터테인먼트|
+> |소재지|서울특별시 강남구 논현로 403 (역삼동)|
 
 ---
 

@@ -8,6 +8,7 @@ topic:
   - "[[Producer]]"
   - "[[DJ]]"
   - "[[Youtuber]]"
+  - "[[Music]]"
 IG:
   - https://www.instagram.com/jebsensei/
 Website:

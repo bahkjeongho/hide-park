@@ -1,0 +1,48 @@
+---
+topic:
+  - "[[Entrepreneur]]"
+  - "[[Engineer]]"
+IG:
+  - https://www.instagram.com/elonmusk/
+URL:
+  - https://x.com/elonmusk
+Wikis:
+  - https://namu.wiki/w/%EC%9D%BC%EB%A1%A0%20%EB%A8%B8%EC%8A%A4%ED%81%AC
+  - https://en.wikipedia.org/wiki/Elon_Musk
+Related:
+  - "[[Tesla]]"
+  - "[[SpaceX]]"
+  - "[[Boring Company]]"
+  - "[[Neurallink]]"
+  - "[[SpaceXSI]]"
+---
+>[!tldr] tl;dr
+>Tesla와 SpaceX를 이끄는 산업가·기술자
+
+> [!Info]
+> Elon Reeve Musk(1971년 6월 28일생)는 Tesla와 SpaceX의 최고경영자(CEO)이자 최대 주주인 산업가이자 기술자이며 전 공직자다. 남아프리카공화국 프리토리아에서 태어나 1989년 캐나다로 이주했고, 1997년 펜실베이니아 대학교에서 학사 학위를 받은 뒤 캘리포니아로 건너가 사업을 시작했다. 1995년 웹 소프트웨어 회사 Zip2를 공동 창업했고, X.com을 공동 창업해 2000년 Confinity와 합병해 PayPal이 되었다. 2002년 SpaceX를 창업해 CEO 겸 수석 엔지니어가 되었고, 2004년 Tesla에 엔젤 투자자로 합류해 이후 CEO가 되었다.
+>
+> Elon Reeve Musk (  EE-lon; born June 28, 1971) is an industrialist, technologist, and former public official who is the chief executive officer (CEO) and largest shareholder of Tesla and SpaceX.
+>
+> Born into the wealthy Musk family in Pretoria, South Africa, Musk emigrated in 1989 to Canada; he has Canadian citizenship since his mother was born there. He received bachelor's degrees in 1997 from the University of Pennsylvania before moving to California to pursue business ventures. In 1995, Musk co-founded Zip2, a web software company. Following its sale in 1999, he co-founded X.com, an e-commerce payment system that merged with Confinity in March 2000 to form PayPal. Musk also became an American citizen in 2002.
+>
+> In 2002, Musk founded and became CEO and chief engineer of SpaceX, a space technology company. Musk joined Tesla as an angel investor in 2004 and became its CEO and product architect in 2008. In 2015, Musk co-founded OpenAI to advance artificial intelligence (AI) research, but later left; his growing discontent with the organization's direction and leadership in the AI boom in the 2020s led him to establish xAI, which became a subsidiary of SpaceX in 2026. In 2022, he acquired Twitter, a social networking service, and made significant changes, including rebranding it as X in 2023. His other businesses include Neuralink, a neurotechnology company that he co-founded in 2016, and the Boring Company, a tunneling company that he founded in 2017.
+
+> [!Summary]
+> |   |   |
+> |---|---|
+> |Born|Elon Reeve Musk<br>June 28, 1971<br>Pretoria, Transvaal, South Africa|
+> |Citizenship|South Africa<br>Canada<br>United States (since 2002)|
+> |Education|University of Pennsylvania (BA, BS)|
+> |Occupations|CEO and product architect of Tesla<br>Founder, CEO, and chief engineer of SpaceX<br>Founder and CEO of SpaceXAI<br>Founder and CTO of X Corp.<br>Co-founder of Neuralink, The Boring Company, OpenAI, Zip2, X.com and PayPal<br>President of the Musk Foundation|
+> |Political party|Independent|
+> |Awards|Full list|
+
+---
+
+# Portfolio
+
+
+---
+
+# People

@@ -2,7 +2,6 @@
 aliases:
   - 콜리그
 topic:
-  - "[[Webzine]]"
   - "[[Culture Magazine]]"
 Website:
   - https://colleague.co.kr/

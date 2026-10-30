@@ -1,13 +1,22 @@
 ---
 topic:
   - "[[Entertainment Company]]"
-Wikis: https://en.wikipedia.org/wiki/Roc_Nation
+Wikis:
+  - https://en.wikipedia.org/wiki/Roc_Nation
+Cities:
+  - "[[New York]]"
+Countries:
+  - "[[USA]]"
 ---
 >[!tldr] tl;dr
->
+>Jay-Z가 2008년 설립한 미국의 엔터테인먼트 회사
 
 > [!Info]
-> 
+> Roc Nation LLC는 Jay-Z가 2008년 설립한 미국의 엔터테인먼트 회사다. 본사는 뉴욕에 있고 로스앤젤레스와 런던에도 사무실이 있으며, 그의 이전 레이블 Roc-A-Fella Records의 후신이다. 음반 레이블, 에이전시, 미디어 제작사, 의류 라인이자 교육·자선 프로그램을 운영한다. Jay-Z와 Live Nation Entertainment가 공동 소유한다.
+>
+> Roc Nation LLC is an American entertainment company founded by Jay-Z in 2008. Headquartered in New York City, the company is a successor to his previous Roc-A-Fella Records label, with additional offices in Los Angeles and London. It serves as a record label, talent agency, media production firm, and clothing line, as well as educational and philanthropic programs.
+>
+> It is co-owned by Jay-Z & Live Nation Entertainment.
 
 > [!Summary]
 > |   |   |

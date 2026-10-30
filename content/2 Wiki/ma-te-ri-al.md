@@ -2,8 +2,8 @@
 aliases:
   - 마테리알
 topic:
-  - "[[Critique]]"
-  - "[[Magazine]]"
+  - "[[Moving Image Critic]]"
+  - "[[Film Magazine]]"
 IG:
   - https://www.instagram.com/ma.te.ri.al/
 Website:

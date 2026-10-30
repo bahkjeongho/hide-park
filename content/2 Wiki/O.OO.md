@@ -2,16 +2,17 @@
 topic:
   - "[[Design Studio]]"
   - "[[Graphic Design]]"
-Website: https://odotoo.com/
+Website:
+  - https://odotoo.com/
 ---
 >[!tldr] tl;dr
->
+>리소그래프 인쇄 경험을 바탕으로 한 두 명의 그래픽 디자이너가 운영하는 비주얼 디자인 랩
 
 > [!Info]
+> 두 명의 그래픽 디자이너로 이루어진 비주얼 디자인 연구실이다. 리소그래프 인쇄 경험을 바탕으로 유연하고 역동적인 방식으로 혁신적인 비주얼 작업을 만든다.
+>
+> O.OO is a visual design laboratory that consists of two graphic designers. With our experience in RISOGRAPH printing, our studio adopts a flexible and dynamic approach to design that creates plenty of innovative visual works.
 
-# {{title}}
+> [!Summary]
 
-## Key Concepts
-
-## Related Topics
-- [[]]
+---

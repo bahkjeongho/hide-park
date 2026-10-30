@@ -1,16 +1,17 @@
 ---
 topic:
   - "[[Graphic Designer]]"
-Website: https://deniskuchta.com/
+Website:
+  - https://deniskuchta.com/
 ---
 >[!tldr] tl;dr
->
+>그래픽 디자인과 개념적 사고를 내세우는 디자이너
 
 > [!Info]
+> 그래픽 디자인과 개념적 사고
+>
+> Graphic design & conceptual thinking
 
-# {{title}}
+> [!Summary]
 
-## Key Concepts
-
-## Related Topics
-- [[]]
+---

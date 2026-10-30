@@ -3,16 +3,28 @@ topic:
   - "[[Architect]]"
 IG:
   - https://www.instagram.com/gustavopennaarq/
-Website: https://www.gustavopenna.com.br/en
+Website:
+  - https://www.gustavopenna.com.br/en
+Wikis:
+  - https://pt.wikipedia.org/wiki/Gustavo_Penna
+Cities:
+  - "[[Belo Horizonte]]"
+Countries:
+  - "[[Brazil]]"
 ---
 >[!tldr] tl;dr
->
+>벨루오리존치를 기반으로 활동하는 브라질 건축가·도시계획가
 
 > [!Info]
-
-# {{title}}
-
-## Key Concepts
-
-## Related Topics
+> Gustavo Penna(1950년 4월생)는 건축가이자 도시계획가로, 1973년부터 벨루오리존치 중심가의 백 년 된 저택에서 사무소 Gustavo Penna Arquiteto & Associados를 운영한다. 2014년 월드컵을 위한 미네이랑 경기장 개보수, 브라질리아의 언론 자유 기념비, 벨루오리존치와 상파울루의 Rede Bandeirantes 사옥이 그의 설계에서 나왔다.
+>
+> # {{title}}
+>
+> ## Key Concepts
+>
+> ## Related Topics
 - [[]]
+
+> [!Summary]
+
+---

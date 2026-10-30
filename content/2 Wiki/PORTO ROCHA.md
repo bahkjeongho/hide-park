@@ -14,9 +14,6 @@ Countries:
   - "[[USA]]"
   - "[[UK]]"
 ---
-
-<img src="https://www.portorocha.com/_vercel/image?url=https:%2F%2Fimages.prismic.io%2Fportorocha%2Fag9Pp6YofJOwHgrA_readymaglogo.png?auto=format%252Ccompress%26v=dpl_9U9GBE9sncTqKna7spespc14NJ8e&w=374&q=90" alt="PORTO ROCHA logo" width="96">
-
 >[!tldr] tl;dr
 >뉴욕과 런던에 오피스를 둔 글로벌 전략·디자인 에이전시
 

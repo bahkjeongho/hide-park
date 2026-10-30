@@ -2,16 +2,17 @@
 topic:
   - "[[Graphic Designer]]"
   - "[[Brand Design]]"
-Website: https://www.fluorink.net/
+Website:
+  - https://www.fluorink.net/
 ---
 >[!tldr] tl;dr
->
+>아트 디렉션과 그래픽 디자인을 하는 디자이너
 
 > [!Info]
+> 아트 디렉션 및 그래픽 디자인
+>
+> Art Direction & Graphic Design
 
-# {{title}}
+> [!Summary]
 
-## Key Concepts
-
-## Related Topics
-- [[]]
+---

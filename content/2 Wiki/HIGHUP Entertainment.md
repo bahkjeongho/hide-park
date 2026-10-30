@@ -1,14 +1,34 @@
 ---
 topic:
   - "[[Entertainment Company]]"
+IG:
+  - https://www.instagram.com/highup_ent/
+URL:
+  - https://www.youtube.com/channel/UCBEu7Q6arDR7GdfnwBL2AUw
+  - https://x.com/highup_ent
+Wikis:
+  - https://namu.wiki/w/%ED%95%98%EC%9D%B4%EC%97%85%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8
 ---
 >[!tldr] tl;dr
->
+>블랙아이드필승이 설립한 한국의 연예 기획사
 
 > [!Info]
-> 
+> 블랙아이드필승이 설립한 대한민국의 연예 기획사.
 
 > [!Summary]
+> |   |   |
+> |---|---|
+> |정식 명칭|주식회사 하이업엔터테인먼트|
+> |영문 명칭|Highup Entertainment Corp.|
+> |국가|대한민국|
+> |설립일|2017년 6월 14일|
+> |업종명|연예 매니지먼트업 등|
+> |설립자|송주영, 최규성|
+> |대표자|최진우|
+> |최대 주주|카카오엔터테인먼트|
+> |모기업|카카오엔터테인먼트|
+> |상장 여부|비상장기업|
+> |소재지|서울특별시 마포구 동교로23길 67, 2층 (연남동)|
 
 ---
 

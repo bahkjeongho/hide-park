@@ -4,6 +4,7 @@ aliases:
   - 濱口 竜介
 topic:
   - "[[Filmmaker]]"
+  - "[[Film Director]]"
 Wikis:
   - https://namu.wiki/w/%ED%95%98%EB%A7%88%EA%B5%AC%EC%B9%98%20%EB%A5%98%EC%8A%A4%EC%BC%80
   - https://en.wikipedia.org/wiki/Ryusuke_Hamaguchi

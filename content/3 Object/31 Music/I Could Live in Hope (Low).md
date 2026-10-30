@@ -1,7 +1,7 @@
 ---
 title: I Could Live in Hope
 artist:
-  - "[[Low]]"
+  - "[[Low (Band)]]"
 year: 1994
 ---
 ---
