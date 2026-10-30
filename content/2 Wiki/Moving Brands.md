@@ -10,8 +10,6 @@ URL:
   - https://www.facebook.com/movingbrands/
   - https://www.youtube.com/user/movingbrands
 ---
-<iframe src="https://movingbrands.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1998년에 시작한 독립 글로벌 디자인 스튜디오
 

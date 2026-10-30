@@ -15,8 +15,6 @@ Website:
 Countries:
   - "[[Netherlands]]"
 ---
-<iframe src="https://debestverzorgdeboeken.nl/en/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Award` presented annually
 

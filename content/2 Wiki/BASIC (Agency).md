@@ -16,8 +16,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.basicagency.com/" width="100%" height="700px"></iframe>
-
 <img src="https://cdn.sanity.io/files/8nn8fua5/production/50caf8cdc335b8df17c56cc2954b7342864747f0.ico" alt="BASIC (Agency) logo" width="96">
 
 >[!tldr] tl;dr

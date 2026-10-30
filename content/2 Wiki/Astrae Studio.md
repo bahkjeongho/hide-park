@@ -6,8 +6,6 @@ IG:
 Website:
   - https://www.astrae.studio/
 ---
-<iframe src="https://www.astrae.studio/" width="100%" height="700px"></iframe>
-
 <img src="https://c-p.rmcdn.net/54bd61314e589d610ce94de2/upload-ac7c6bfd-b2b4-4533-a039-1d5a048927d3_144.png" alt="Astrae Studio logo" width="96">
 
 >[!tldr] tl;dr

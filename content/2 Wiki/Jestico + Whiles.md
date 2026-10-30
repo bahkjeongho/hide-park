@@ -16,8 +16,6 @@ Countries:
   - "[[UK]]"
   - "[[Czech Republic]]"
 ---
-<iframe src="https://www.jesticowhiles.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1977년 런던에서 설립된 건축·인테리어 디자인 사무소
 

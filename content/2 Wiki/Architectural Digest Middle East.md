@@ -13,8 +13,6 @@ Related:
   - "[[Condé Nast]]"
   - "[[Architectural Digest]]"
 ---
-<iframe src="https://www.admiddleeast.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >Architectural Digest의 중동판
 

@@ -18,8 +18,6 @@ Countries:
 Related:
   - "[[WPP]]"
 ---
-<iframe src="https://www.designbridge.com/work" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >WPP 소속, 전 세계 16개 스튜디오를 둔 글로벌 브랜드 디자인 에이전시
 

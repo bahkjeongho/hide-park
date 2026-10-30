@@ -20,8 +20,6 @@ Countries:
 Related:
   - "[[Condé Nast]]"
 ---
-<iframe src="https://www.vogue.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1892년 뉴욕에서 창간한 세계적인 패션 매거진
 

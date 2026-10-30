@@ -12,7 +12,7 @@ Labels:
 IG:
   - https://www.instagram.com/cortis/
 Website:
-  - http://cortisofficial.us/
+  - https://cortisofficial.us/
 URL:
   - https://www.youtube.com/channel/UCZMYvSPulDSUdx7bdtTFdrg
   - https://x.com/cortis_bighit
@@ -24,7 +24,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="http://cortisofficial.us/" width="100%" height="700px"></iframe>
+<iframe src="https://cortisofficial.us/" width="100%" height="700px"></iframe>
 
 > [!Summary]
 > |   |   |

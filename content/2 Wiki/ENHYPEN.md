@@ -17,7 +17,7 @@ Labels:
 IG:
   - https://www.instagram.com/enhypen/
 Website:
-  - http://beliftlab.com/enhypen
+  - https://beliftlab.com/enhypen
   - https://enhypen-jp.weverse.io/
 URL:
   - https://www.youtube.com/channel/UCArLZtok93cO5R9RI4_Y5Jw
@@ -31,7 +31,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="http://beliftlab.com/enhypen" width="100%" height="700px"></iframe>
+<iframe src="https://beliftlab.com/enhypen" width="100%" height="700px"></iframe>
 
 > [!Summary]
 > |   |   |

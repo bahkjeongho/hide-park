@@ -27,8 +27,6 @@ Countries:
   - "[[France]]"
   - "[[UAE]]"
 ---
-<iframe src="https://www.istitutomarangoni.com/en" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Art School` based in [[Milan]]
 

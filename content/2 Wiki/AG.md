@@ -5,14 +5,14 @@ topic:
 IG:
   - https://www.instagram.com/ag.co.kr/
 Website:
-  - http://ag.co.kr/
+  - https://ag.co.kr/
   - https://aglab.neocities.org/
 Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="http://ag.co.kr/" width="100%" height="700px"></iframe>
+<iframe src="https://ag.co.kr/" width="100%" height="700px"></iframe>
 
 <img src="http://ag.co.kr/media/site/e32c2c5f32-1776757984/favicon-192x.png" alt="AG logo" width="96">
 

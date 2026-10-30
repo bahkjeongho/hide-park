@@ -13,8 +13,6 @@ Cities:
 Countries:
   - "[[Germany]]"
 ---
-<iframe src="https://abcdinamo.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >베를린 기반의 독립 타입 디자인 스튜디오
 

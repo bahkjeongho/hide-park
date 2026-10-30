@@ -28,8 +28,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="http://www.blackpinkofficial.com/" width="100%" height="700px"></iframe>
-
 > [!Summary]
 > |   |   |
 > |---|---|

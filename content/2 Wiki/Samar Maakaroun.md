@@ -6,8 +6,6 @@ Website:
 Related:
   - "[[Pentagram]]"
 ---
-<iframe src="https://www.pentagram.com/about/samar-maakaroun-2" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >Pentagram 파트너, 다국어 접근으로 알려진 디자이너·크리에이티브 디렉터
 

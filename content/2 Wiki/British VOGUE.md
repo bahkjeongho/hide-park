@@ -19,8 +19,6 @@ Countries:
 Related:
   - "[[Condé Nast]]"
 ---
-<iframe src="https://www.vogue.co.uk/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1916년 런던에서 창간한 영국판 보그
 

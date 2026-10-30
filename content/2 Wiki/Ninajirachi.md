@@ -12,8 +12,6 @@ Wikis:
 Countries:
   - "[[Australia]]"
 ---
-<iframe src="https://www.ninajirachi.com/" width="100%" height="700px"></iframe>
-
 > [!Summary]
 > |   |   |
 > |---|---|

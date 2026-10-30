@@ -2,7 +2,7 @@
 topic:
   - "[[Architect]]"
 Website:
-  - http://www.heatherwick.com
+  - https://heatherwick.com
 Wikis:
   - https://en.wikipedia.org/wiki/Thomas_Heatherwick
 Cities:
@@ -10,7 +10,7 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="http://www.heatherwick.com" width="100%" height="700px"></iframe>
+<iframe src="https://heatherwick.com" width="100%" height="700px"></iframe>
 
 >[!tldr] tl;dr
 >런던 Heatherwick Studio를 이끄는 영국 디자이너

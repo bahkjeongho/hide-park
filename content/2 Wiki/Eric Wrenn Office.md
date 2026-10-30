@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://ericwrennoffice.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >2011년 설립한 뉴욕 기반의 크리에이티브 컨설턴시, 아트 디렉터 Eric Wrenn
 

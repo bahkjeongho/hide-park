@@ -7,14 +7,14 @@ topic:
   - "[[Music Critic]]"
 IG:
   - https://www.instagram.com/afantano/
-Website: http://theneedledrop.com/
+Website: https://theneedledrop.com/
 URL:
   - https://www.youtube.com/theneedledrop
   - https://x.com/theneedledrop
 Wikis:
   - https://en.wikipedia.org/wiki/Anthony_Fantano
 ---
-<iframe src="http://theneedledrop.com/" width="100%" height="700px"></iframe>
+<iframe src="https://theneedledrop.com/" width="100%" height="700px"></iframe>
 
 >[!tldr] tl;dr
 >유튜브 채널 theneedledrop을 운영하는 미국의 음악 평론가

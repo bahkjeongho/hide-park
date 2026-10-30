@@ -29,8 +29,6 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://www.fredagain.com/" width="100%" height="700px"></iframe>
-
 > [!Summary]
 > |   |   |
 > |---|---|

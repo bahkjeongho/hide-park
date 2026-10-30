@@ -6,8 +6,6 @@ IG:
 Website:
   - https://www.valentine-worldwide.com/
 ---
-<iframe src="https://www.valentine-worldwide.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >
 

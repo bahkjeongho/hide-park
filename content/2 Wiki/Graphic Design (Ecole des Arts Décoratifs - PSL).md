@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[France]]"
 ---
-<iframe src="https://www.ensad.fr/en/node/88" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor's and Master's Program` in graphic design of [[Ecole des Arts Décoratifs - PSL]]
 

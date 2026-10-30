@@ -10,8 +10,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.pratt.edu/art/digital-arts-and-animation/game-arts-bfa/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor's Program` in Game Arts of [[Pratt Institute]]
 

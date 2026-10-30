@@ -14,8 +14,6 @@ Related:
   - "[[Condé Nast]]"
   - "[[VANITY FAIR]]"
 ---
-<iframe src="https://www.revistavanityfair.es/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >Vanity Fair의 스페인판
 

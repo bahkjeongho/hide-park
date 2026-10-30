@@ -15,8 +15,6 @@ Related:
   - "[[Condé Nast]]"
   - "[[GQ]]"
 ---
-<iframe src="https://www.revistagq.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1994년 창간한 GQ의 스페인판
 

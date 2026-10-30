@@ -3,13 +3,13 @@ topic:
   - "[[Design Studio]]"
   - "[[Graphic Design]]"
 Website:
-  - http://www.press-room.kr/
+  - https://www.press-room.kr/
 Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="http://www.press-room.kr/" width="100%" height="700px"></iframe>
+<iframe src="https://www.press-room.kr/" width="100%" height="700px"></iframe>
 
 <img src="https://www.press-room.kr/wp-content/uploads/2023/08/cropped-별파비콘-192x192.png" alt="PRESS ROOM logo" width="96">
 

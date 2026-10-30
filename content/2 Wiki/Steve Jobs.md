@@ -10,8 +10,6 @@ Wikis:
 Related:
   - "[[Apple]]"
 ---
-<iframe src="https://www.apple.com/stevejobs" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >Apple을 공동 창업한 미국 사업가·발명가·투자자
 

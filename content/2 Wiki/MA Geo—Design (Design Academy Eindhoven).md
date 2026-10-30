@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[Netherlands]]"
 ---
-<iframe src="https://www.designacademy.nl/page/5809/geo%E2%80%94design" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Master` in design of [[Design Academy Eindhoven]]
 

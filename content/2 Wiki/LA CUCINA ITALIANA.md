@@ -19,8 +19,6 @@ Countries:
 Related:
   - "[[Condé Nast]]"
 ---
-<iframe src="https://www.lacucinaitaliana.it/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1929년 창간한 이탈리아의 요리·음식 문화 월간지
 

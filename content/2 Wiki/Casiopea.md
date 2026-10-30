@@ -13,7 +13,7 @@ Genre:
 IG:
   - https://www.instagram.com/casiopea_official1979/
 Website:
-  - http://www.casiopea.co.jp/
+  - https://www.casiopea.co.jp/
 URL:
   - https://www.youtube.com/channel/UC_OoUPNzopNkXLld8X5cwgw
   - https://x.com/Casiopea_staff
@@ -26,7 +26,7 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
-<iframe src="http://www.casiopea.co.jp/" width="100%" height="700px"></iframe>
+<iframe src="https://www.casiopea.co.jp/" width="100%" height="700px"></iframe>
 
 > [!Summary]
 > |   |   |

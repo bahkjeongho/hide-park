@@ -16,8 +16,6 @@ Countries:
 Related:
   - "[[Gobidai]]"
 ---
-<iframe src="https://www.zokei.ac.jp/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Art School` based in [[Hachioji]]
 

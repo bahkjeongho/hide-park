@@ -18,8 +18,6 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
-<iframe src="https://www.tamabi.ac.jp/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Art School` based in [[Hachioji]]
 

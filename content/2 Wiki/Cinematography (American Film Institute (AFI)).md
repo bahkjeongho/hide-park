@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://conservatory.afi.com/cinematography/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Master's Program` in cinematography of [[American Film Institute (AFI)]]
 

@@ -2,8 +2,6 @@
 Website:
   - https://www.pentagram.com/about/domenic-lippa
 ---
-<iframe src="https://www.pentagram.com/about/domenic-lippa" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >
 

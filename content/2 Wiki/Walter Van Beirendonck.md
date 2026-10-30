@@ -8,8 +8,6 @@ Website:
 Wikis:
   - https://en.wikipedia.org/wiki/Walter_Van_Beirendonck
 ---
-<iframe src="http://www.waltervanbeirendonck.com" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >앤트워프 왕립예술아카데미 패션과를 이끈 벨기에 디자이너
 

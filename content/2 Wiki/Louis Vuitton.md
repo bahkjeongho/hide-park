@@ -13,8 +13,6 @@ Countries:
 Related:
   - "[[LVMH]]"
 ---
-<iframe src="https://www.louisvuitton.com" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1854년 Louis Vuitton이 설립한 파리의 프랑스 럭셔리 패션 하우스, LVMH 소속
 

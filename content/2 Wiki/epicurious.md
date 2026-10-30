@@ -20,8 +20,6 @@ Related:
   - "[[Condé Nast]]"
   - "[[bon appétit (Magazine)]]"
 ---
-<iframe src="https://www.epicurious.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1995년 콘데 나스트가 만든 음식·요리 디지털 브랜드
 

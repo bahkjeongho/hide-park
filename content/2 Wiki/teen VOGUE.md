@@ -18,8 +18,6 @@ Related:
   - "[[Condé Nast]]"
   - "[[VOGUE]]"
 ---
-<iframe src="https://www.teenvogue.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >2003년 창간해 2017년 12월 종이 잡지 발행을 마친 Vogue의 10대 대상 매거진
 

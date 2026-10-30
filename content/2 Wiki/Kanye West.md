@@ -32,8 +32,6 @@ tags:
   - Rapper
   - Hip-Hop
 ---
-<iframe src="https://yeezy.com/" width="100%" height="700px"></iframe>
-
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -12,8 +12,6 @@ Countries:
 Related:
   - "[[Pentagram]]"
 ---
-<iframe src="https://www.pentagram.com/about/hugh-miller" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >Pentagram 런던 사무소의 파트너, 그래픽 디자이너·아트 디렉터
 

@@ -13,8 +13,6 @@ Related:
   - "[[Condé Nast]]"
   - "[[GQ]]"
 ---
-<iframe src="https://www.gqmiddleeast.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >2018년 창간한 GQ의 중동판
 

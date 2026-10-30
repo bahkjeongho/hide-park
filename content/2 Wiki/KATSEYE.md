@@ -27,8 +27,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.katseye.world/" width="100%" height="700px"></iframe>
-
 > [!Summary]
 > |   |   |
 > |---|---|

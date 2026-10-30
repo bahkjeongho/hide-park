@@ -10,7 +10,7 @@ Genre:
 IG:
   - https://www.instagram.com/fishmans_official/
 Website:
-  - http://www.fishmans.jp/
+  - https://www.fishmans.jp/
 URL:
   - https://x.com/FISHMANS_JAPAN
   - https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR
@@ -22,7 +22,7 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
-<iframe src="http://www.fishmans.jp/" width="100%" height="700px"></iframe>
+<iframe src="https://www.fishmans.jp/" width="100%" height="700px"></iframe>
 
 > [!Summary]
 > |   |   |

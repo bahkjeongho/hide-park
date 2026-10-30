@@ -11,8 +11,6 @@ Website:
   - https://www.nytimes.com/
 Wikis: https://en.wikipedia.org/wiki/The_New_York_Times
 ---
-<iframe src="https://www.nytimes.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >
 

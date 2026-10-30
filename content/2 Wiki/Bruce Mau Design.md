@@ -10,8 +10,6 @@ Website:
 URL:
   - https://www.linkedin.com/company/bruce-mau-design/
 ---
-<iframe src="https://www.brucemaudesign.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >다학제 브랜드·디자인 스튜디오 BMD
 

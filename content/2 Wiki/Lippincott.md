@@ -22,8 +22,6 @@ Countries:
   - "[[China]]"
   - "[[South Korea]]"
 ---
-<iframe src="https://www.lippincott.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1943년 설립된 글로벌 브랜드·경험·마케팅 컨설팅 회사
 

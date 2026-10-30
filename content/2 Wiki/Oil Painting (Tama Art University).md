@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
-<iframe src="https://www.tamabi.ac.jp/academic-programs/oil-painting/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor` in oil painting of [[Tama Art University]]
 

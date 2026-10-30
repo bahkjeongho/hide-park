@@ -17,8 +17,6 @@ Countries:
 Related:
   - "[[Condé Nast]]"
 ---
-<iframe src="https://www.wired.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1993년 창간한 기술이 문화·경제·정치에 미치는 영향을 다루는 미국 매거진
 

@@ -16,8 +16,6 @@ Related:
   - "[[Condé Nast]]"
   - "[[GQ]]"
 ---
-<iframe src="https://www.gqitalia.it/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1999년 창간한 GQ의 이탈리아판
 

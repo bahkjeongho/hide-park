@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[Austria]]"
 ---
-<iframe src="https://www.akbild.ac.at/en/studies/study-programs/architecture" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor's and Master's Program` in architecture of [[Academy of Fine Arts Vienna]]
 

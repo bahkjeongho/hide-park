@@ -9,7 +9,7 @@ Genre:
 IG:
   - https://www.instagram.com/thebeachboys/
 Website:
-  - http://thebeachboys.com/
+  - https://thebeachboys.com/
 URL:
   - https://www.youtube.com/channel/UCEPcmp9VIOGj-0X1J4IC9EA
   - https://www.youtube.com/channel/UCUxNZEOdVy77QiiSTHk8bug
@@ -23,7 +23,7 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="http://thebeachboys.com/" width="100%" height="700px"></iframe>
+<iframe src="https://thebeachboys.com/" width="100%" height="700px"></iframe>
 
 > [!Summary]
 > |   |   |

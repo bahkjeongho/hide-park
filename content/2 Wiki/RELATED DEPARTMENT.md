@@ -2,9 +2,9 @@
 topic:
   - "[[Design Studio]]"
   - "[[Graphic Design]]"
-Website: http://www.related.design/
+Website: https://www.related.design/
 ---
-<iframe src="http://www.related.design/" width="100%" height="700px"></iframe>
+<iframe src="https://www.related.design/" width="100%" height="700px"></iframe>
 
 >[!tldr] tl;dr
 >

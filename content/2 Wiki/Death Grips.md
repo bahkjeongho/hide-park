@@ -27,8 +27,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="http://thirdworlds.net/" width="100%" height="700px"></iframe>
-
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -13,8 +13,6 @@ Cities:
 Countries:
   - "[[Switzerland]]"
 ---
-<iframe src="https://swissarchitecturalaward.com/en/" width="100%" height="700px"></iframe>
-
 ![](https://swissarchitecturalaward.com/comceptw/img/iOS-App.png)
 
 >[!tldr] tl;dr

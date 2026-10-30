@@ -18,8 +18,6 @@ Countries:
 Related:
   - "[[Condé Nast]]"
 ---
-<iframe src="https://www.worldofinteriors.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1981년 창간한 영국의 인테리어 디자인 월간지
 

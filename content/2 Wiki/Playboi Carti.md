@@ -17,8 +17,6 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Playboi_Carti
 ---
-<iframe src="https://www.playboicarti.com/" width="100%" height="700px"></iframe>
-
 > [!Summary]
 > |   |   |
 > |---|---|

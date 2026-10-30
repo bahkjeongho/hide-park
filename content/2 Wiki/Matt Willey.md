@@ -2,8 +2,6 @@
 Website:
   - https://www.pentagram.com/about/matt-willey
 ---
-<iframe src="https://www.pentagram.com/about/matt-willey" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >
 

@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://www.burberry.com" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1856년 Thomas Burberry가 시작한 영국의 패션 하우스
 

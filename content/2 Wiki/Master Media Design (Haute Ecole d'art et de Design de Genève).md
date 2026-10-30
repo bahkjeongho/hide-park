@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[Switzerland]]"
 ---
-<iframe src="https://www.hesge.ch/head/en/programs-research/master-arts-media-design" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Master` in media design of [[Haute Ecole d'art et de Design de Genève]]
 

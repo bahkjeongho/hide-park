@@ -9,7 +9,7 @@ Genre:
 IG:
   - https://www.instagram.com/theavalanches/
 Website:
-  - http://www.theavalanches.com/
+  - https://www.theavalanches.com/
 URL:
   - https://www.youtube.com/channel/UCxKS_QjhJAfV2hgLYxxGkWA
   - https://x.com/TheAvalanches
@@ -22,7 +22,7 @@ Cities:
 Countries:
   - "[[Australia]]"
 ---
-<iframe src="http://www.theavalanches.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.theavalanches.com/" width="100%" height="700px"></iframe>
 
 > [!Summary]
 > |   |   |

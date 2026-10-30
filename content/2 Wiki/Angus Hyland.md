@@ -14,8 +14,6 @@ Countries:
 Related:
   - "[[Pentagram]]"
 ---
-<iframe src="https://www.pentagram.com/about/angus-hyland" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1998년부터 Pentagram 런던 사무소의 파트너인 영국 그래픽 디자이너
 

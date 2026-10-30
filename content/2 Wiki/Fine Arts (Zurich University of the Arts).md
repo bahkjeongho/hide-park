@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[Switzerland]]"
 ---
-<iframe src="https://www.zhdk.ch/en/69" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor's and Master's Program` in fine arts of [[Zurich University of the Arts]]
 

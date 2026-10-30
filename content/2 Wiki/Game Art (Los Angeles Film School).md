@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.lafilm.edu/programs/animation-vfx/game-art/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor's Program` in game art of [[Los Angeles Film School]]
 

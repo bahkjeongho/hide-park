@@ -9,8 +9,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.pratt.edu/art/fine-arts/fine-arts-mfa/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Master's Program` in Fine Arts of [[Pratt Institute]]
 

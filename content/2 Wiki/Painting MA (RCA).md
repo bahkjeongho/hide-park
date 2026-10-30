@@ -9,8 +9,6 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://www.rca.ac.uk/study/programme-finder/painting-ma/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Master's Program` in Painting of [[RCA]]
 

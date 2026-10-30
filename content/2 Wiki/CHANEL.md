@@ -16,8 +16,6 @@ Countries:
   - "[[UK]]"
   - "[[France]]"
 ---
-<iframe src="https://www.chanel.com" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1910년 Coco Chanel이 파리에서 창립한 영국·프랑스계 럭셔리 패션 하우스
 

@@ -4,12 +4,12 @@ topic:
 IG:
   - https://www.instagram.com/tessherbert/
 Website:
-  - http://tessherbert.com/
+  - https://tessherbert.com/
 Cities:
   - "[[London]]"
   - "[[Los Angeles]]"
 ---
-<iframe src="http://tessherbert.com/" width="100%" height="700px"></iframe>
+<iframe src="https://tessherbert.com/" width="100%" height="700px"></iframe>
 
 >[!tldr] tl;dr
 >런던과 로스앤젤레스에서 활동하는 스타일리스트

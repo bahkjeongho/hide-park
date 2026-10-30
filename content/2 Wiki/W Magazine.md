@@ -17,8 +17,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.wmagazine.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1972년 John B. Fairchild가 창간한 미국의 대형 판형 패션 매거진
 

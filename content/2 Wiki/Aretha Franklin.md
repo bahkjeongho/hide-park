@@ -15,8 +15,6 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Aretha_Franklin
 ---
-<iframe src="https://www.arethafranklin.net/" width="100%" height="700px"></iframe>
-
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -23,8 +23,6 @@ Cities:
 Countries:
   - "[[Italy]]"
 ---
-<iframe src="https://www.polimi.it/en" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`University` based in [[Milan]]
 

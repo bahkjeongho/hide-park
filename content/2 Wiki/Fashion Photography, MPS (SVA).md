@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://sva.edu/academics/graduate/mps-fashion-photography" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Master's Program` in fashion photography of [[SVA]]
 

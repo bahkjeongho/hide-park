@@ -14,8 +14,6 @@ Cities:
 Countries:
   - "[[Italy]]"
 ---
-<iframe src="https://www.off---white.com" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >2013년 Virgil Abloh가 밀라노에서 창립한 이탈리아 럭셔리 패션 브랜드
 

@@ -10,8 +10,6 @@ URL:
 Related:
   - "[[Vania Heyman]]"
 ---
-<iframe src="https://www.instagram.com/gmuggia/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >
 

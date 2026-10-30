@@ -8,8 +8,6 @@ Website:
 URL:
   - https://www.linkedin.com/company/area-17
 ---
-<iframe src="https://area17.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >장인정신·영향력·영혼으로 세상을 공동 창조하는 디자인·기술 에이전시
 

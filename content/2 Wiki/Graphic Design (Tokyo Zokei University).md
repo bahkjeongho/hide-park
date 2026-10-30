@@ -9,8 +9,6 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
-<iframe src="https://www.zokei.ac.jp/academics/undergrad/gd/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor` in graphic design of [[Tokyo Zokei University]]
 

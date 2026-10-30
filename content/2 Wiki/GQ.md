@@ -19,8 +19,6 @@ Countries:
 Related:
   - "[[Condé Nast]]"
 ---
-<iframe src="https://www.gq.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1957년 Gentleman’s Quarterly로 창간해 1967년 GQ가 된 미국의 남성 패션·스타일 매거진
 

@@ -25,8 +25,6 @@ Wikis:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://charlixcx.com/" width="100%" height="700px"></iframe>
-
 > [!Summary]
 > |   |   |
 > |---|---|

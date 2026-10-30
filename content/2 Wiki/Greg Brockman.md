@@ -13,8 +13,6 @@ Wikis:
   - https://namu.wiki/w/%EA%B7%B8%EB%A0%89%20%EB%B8%8C%EB%A1%9D%EB%A7%8C
   - https://en.wikipedia.org/wiki/Greg_Brockman
 ---
-<iframe src="https://gregbrockman.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >OpenAI 공동 창업자이자 사장인 미국 기업가·소프트웨어 엔지니어
 

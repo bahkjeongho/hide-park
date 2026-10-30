@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[Belgium]]"
 ---
-<iframe src="https://ap-arts.be/en/education/fine-arts-sculpture" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor's and Master's Program` in fine art (sculpture) of [[Royal Academy of Fine Arts Antwerp]]
 

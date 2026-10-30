@@ -2,8 +2,6 @@
 Website:
   - https://www.pentagram.com/about/justus-oehler
 ---
-<iframe src="https://www.pentagram.com/about/justus-oehler" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >
 

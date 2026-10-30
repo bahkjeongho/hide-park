@@ -10,8 +10,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://humanperson.com/" width="100%" height="700px"></iframe>
-
 <img src="https://humanperson.com/apple-icon-57x57.png" alt="Human Person logo" width="96">
 
 >[!tldr] tl;dr

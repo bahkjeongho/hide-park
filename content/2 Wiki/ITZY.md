@@ -26,8 +26,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="http://itzy.jype.com/" width="100%" height="700px"></iframe>
-
 > [!Summary]
 > |   |   |
 > |---|---|

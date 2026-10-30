@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[Switzerland]]"
 ---
-<iframe src="https://www.ecal.ch/en/courses-and-research/bachelor/bachelor-media-interaction-design/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor` in media and interaction design of [[écal]]
 

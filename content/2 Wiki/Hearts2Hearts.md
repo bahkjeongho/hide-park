@@ -25,8 +25,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://hearts2heartsofficial.jp/" width="100%" height="700px"></iframe>
-
 > [!Summary]
 > |   |   |
 > |---|---|

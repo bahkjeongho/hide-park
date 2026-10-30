@@ -18,8 +18,6 @@ Cities:
 Countries:
   - "[[Austria]]"
 ---
-<iframe src="https://www.viennadesignweek.at/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Design Week` held annually in [[Vienna]]
 

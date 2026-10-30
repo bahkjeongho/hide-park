@@ -22,8 +22,6 @@ Countries:
   - "[[USA]]"
   - "[[Germany]]"
 ---
-<iframe src="https://www.pentagram.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1972년 런던에서 설립된 독립 디자인 컨설턴시, 파트너가 직접 소유·운영
 

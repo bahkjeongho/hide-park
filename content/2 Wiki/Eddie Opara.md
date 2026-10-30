@@ -2,8 +2,6 @@
 Website:
   - https://www.pentagram.com/about/eddie-opara
 ---
-<iframe src="https://www.pentagram.com/about/eddie-opara" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >
 

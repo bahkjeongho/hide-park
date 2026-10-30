@@ -10,8 +10,6 @@ Countries:
 Related:
   - "[[Richard Rogers]]"
 ---
-<iframe src="http://www.normanfosterfoundation.org/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >하이테크 건축의 선구자, Foster + Partners 설립자
 

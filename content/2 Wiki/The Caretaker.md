@@ -7,14 +7,14 @@ Labels:
   - "[[V/Vm Test Records]]"
   - "[[History Always Favours the Winners]]"
 Website:
-  - http://www.brainwashed.com/vvm
+  - https://brainwashed.com/vvm
 URL:
   - https://x.com/LeylandKirby
 Wikis:
   - https://en.wikipedia.org/wiki/The_Caretaker_(musician)
   - https://namu.wiki/w/%EB%8D%94%20%EC%BC%80%EC%96%B4%ED%85%8C%EC%9D%B4%EC%BB%A4
 ---
-<iframe src="http://www.brainwashed.com/vvm" width="100%" height="700px"></iframe>
+<iframe src="https://brainwashed.com/vvm" width="100%" height="700px"></iframe>
 
 > [!Summary]
 > |   |   |

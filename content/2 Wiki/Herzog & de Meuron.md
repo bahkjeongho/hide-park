@@ -26,8 +26,6 @@ Countries:
   - "[[USA]]"
   - "[[France]]"
 ---
-<iframe src="https://www.herzogdemeuron.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1978년 Jacques Herzog와 Pierre de Meuron이 바젤에서 설립한 건축 사무소
 

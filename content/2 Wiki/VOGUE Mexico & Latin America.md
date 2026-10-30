@@ -6,8 +6,6 @@ IG:
 Website:
   - https://www.vogue.mx/
 ---
-<iframe src="https://www.vogue.mx/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >
 

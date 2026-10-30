@@ -12,7 +12,7 @@ Genre:
 IG:
   - https://www.instagram.com/jayz/
 Website:
-  - http://jayz30.com/
+  - https://www.jayz30.com/
 URL:
   - https://www.youtube.com/channel/UC_Bf08Y-3m6CMAvTms3EkKg
   - https://x.com/S_C_
@@ -26,7 +26,7 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="http://jayz30.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.jayz30.com/" width="100%" height="700px"></iframe>
 
 > [!Summary]
 > |   |   |

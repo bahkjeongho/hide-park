@@ -8,8 +8,6 @@ Website:
 Wikis:
   - https://en.wikipedia.org/wiki/Ann_Demeulemeester
 ---
-<iframe src="http://www.anndemeulemeester.be" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >앤트워프 식스의 일원인 벨기에 패션 디자이너
 

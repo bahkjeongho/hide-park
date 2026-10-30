@@ -19,8 +19,6 @@ Countries:
   - "[[Qatar]]"
   - "[[Australia]]"
 ---
-<iframe src="https://www.oma.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1975년 로테르담에서 시작한 국제 건축 파트너십
 

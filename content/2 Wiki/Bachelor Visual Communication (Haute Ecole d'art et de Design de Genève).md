@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[Switzerland]]"
 ---
-<iframe src="https://www.hesge.ch/head/en/programs-research/bachelor-arts-visual-communication" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor` in visual communication of [[Haute Ecole d'art et de Design de Genève]]
 

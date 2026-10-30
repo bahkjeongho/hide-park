@@ -10,8 +10,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.pratt.edu/design/fashion-design/fashion-design-bfa/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor's Program` in Fashion Design of [[Pratt Institute]]
 

@@ -10,8 +10,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.pratt.edu/design/industrial-design/industrial-design-bid/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor's Program` in Industrial Design of [[Pratt Institute]]
 

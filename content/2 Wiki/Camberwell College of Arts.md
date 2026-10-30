@@ -21,8 +21,6 @@ Countries:
 Related:
   - "[[University of the Arts London]]"
 ---
-<iframe src="https://www.arts.ac.uk/camberwell" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Art School` based in [[London]]
 

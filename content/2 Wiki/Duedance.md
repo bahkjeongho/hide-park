@@ -10,8 +10,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://duedance.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >브랜딩·UX·공간을 하나의 매트릭스로 다루는 서울의 브랜딩 에이전시
 

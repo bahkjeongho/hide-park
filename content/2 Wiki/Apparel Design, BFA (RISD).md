@@ -9,8 +9,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.risd.edu/academics/apparel-design/bachelors-program" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor's Program` in apparel design of [[RISD]]
 

@@ -26,8 +26,6 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://fkatwigsofficial.com/" width="100%" height="700px"></iframe>
-
 > [!Summary]
 > |   |   |
 > |---|---|

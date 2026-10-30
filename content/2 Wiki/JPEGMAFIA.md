@@ -24,8 +24,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.jpegmafia.net/" width="100%" height="700px"></iframe>
-
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -10,8 +10,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.pratt.edu/design/interior-design/interior-design-bfa/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor's Program` in Interior Design of [[Pratt Institute]]
 

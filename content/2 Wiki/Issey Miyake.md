@@ -4,11 +4,11 @@ aliases:
 topic:
   - "[[Fashion Designer]]"
 Website:
-  - http://www.isseymiyake.com/
+  - https://www.isseymiyake.com/
 Wikis:
   - https://en.wikipedia.org/wiki/Issey_Miyake
 ---
-<iframe src="http://www.isseymiyake.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.isseymiyake.com/" width="100%" height="700px"></iframe>
 
 >[!tldr] tl;dr
 >플리츠 플리즈 라인으로 알려진 일본 패션 디자이너

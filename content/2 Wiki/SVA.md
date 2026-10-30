@@ -20,8 +20,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://sva.edu/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >뉴욕의 사립 예술·디자인 대학
 

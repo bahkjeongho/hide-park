@@ -15,8 +15,6 @@ Related:
   - "[[Kering]]"
   - "[[Alexander McQueen]]"
 ---
-<iframe src="https://www.alexandermcqueen.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1992년 Alexander McQueen이 시작한 영국의 패션 하우스(Kering 소속)
 

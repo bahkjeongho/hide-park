@@ -13,8 +13,6 @@ Cities:
 Countries:
   - "[[Netherlands]]"
 ---
-<iframe src="https://frameweb.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1997년 암스테르담에서 창간한 인테리어·공간 디자인 매거진
 

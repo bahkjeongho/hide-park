@@ -22,8 +22,6 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://www.jamiexx.com/" width="100%" height="700px"></iframe>
-
 > [!Summary]
 > |   |   |
 > |---|---|

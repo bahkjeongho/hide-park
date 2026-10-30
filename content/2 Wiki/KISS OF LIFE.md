@@ -14,7 +14,7 @@ Labels:
 IG:
   - https://www.instagram.com/kissoflife_s2/
 Website:
-  - http://s2ent.co.kr/34
+  - https://s2ent.co.kr/34
 URL:
   - https://www.youtube.com/channel/UCvEEeBssb4XxIfWWIB8IjMw
   - https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky
@@ -27,7 +27,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="http://s2ent.co.kr/34" width="100%" height="700px"></iframe>
+<iframe src="https://s2ent.co.kr/34" width="100%" height="700px"></iframe>
 
 > [!Summary]
 > |   |   |

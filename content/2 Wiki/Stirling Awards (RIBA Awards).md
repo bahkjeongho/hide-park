@@ -15,8 +15,6 @@ Website:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://www.riba.org/explore/awards/" width="100%" height="700px"></iframe>
-
 ![](https://www.riba.org/media/ltelapqy/south_awards_2025_hope_communal_garden.jpg)
 
 >[!tldr] tl;dr

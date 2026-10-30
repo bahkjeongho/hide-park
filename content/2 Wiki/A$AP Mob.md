@@ -8,7 +8,7 @@ Labels:
 IG:
   - https://www.instagram.com/asapmob/
 Website:
-  - http://www.asapmob.com/
+  - https://www.asapmob.com/
 URL:
   - https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS
   - https://x.com/asapmob
@@ -20,7 +20,7 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="http://www.asapmob.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.asapmob.com/" width="100%" height="700px"></iframe>
 
 > [!Summary]
 > |   |   |

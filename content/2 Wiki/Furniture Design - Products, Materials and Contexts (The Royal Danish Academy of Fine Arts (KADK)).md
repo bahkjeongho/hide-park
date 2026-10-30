@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[Denmark]]"
 ---
-<iframe src="https://royaldanishacademy.com/en/programme/furniture-design" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Master` in furniture design of [[The Royal Danish Academy of Fine Arts (KADK)]]
 

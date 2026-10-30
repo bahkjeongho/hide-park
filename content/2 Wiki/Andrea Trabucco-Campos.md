@@ -4,8 +4,6 @@ topic:
 Website:
   - https://www.pentagram.com/about/andrea-trabucco-campos-2
 ---
-<iframe src="https://www.pentagram.com/about/andrea-trabucco-campos-2" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >
 

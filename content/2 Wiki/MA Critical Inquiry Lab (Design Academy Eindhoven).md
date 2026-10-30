@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[Netherlands]]"
 ---
-<iframe src="https://www.designacademy.nl/page/408/critical-inquiry-lab" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Master` in design of [[Design Academy Eindhoven]]
 

@@ -2,8 +2,6 @@
 Website:
   - https://www.pentagram.com/about/dj-stout
 ---
-<iframe src="https://www.pentagram.com/about/dj-stout" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >
 

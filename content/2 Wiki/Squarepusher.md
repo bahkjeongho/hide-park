@@ -9,7 +9,7 @@ Labels:
 IG:
   - https://www.instagram.com/sqpusher/
 Website:
-  - http://www.squarepusher.net
+  - https://squarepusher.net
 URL:
   - https://www.youtube.com/channel/UCMBGYerL97F0TaInwrlpvZQ
   - https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko
@@ -17,7 +17,7 @@ URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Squarepusher
 ---
-<iframe src="http://www.squarepusher.net" width="100%" height="700px"></iframe>
+<iframe src="https://squarepusher.net" width="100%" height="700px"></iframe>
 
 > [!Summary]
 > |   |   |

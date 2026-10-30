@@ -14,8 +14,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://andwalsh.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >
 

@@ -17,8 +17,6 @@ Related:
   - "[[Condé Nast]]"
   - "[[VOGUE]]"
 ---
-<iframe src="https://www.vogue.es/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >Vogue의 스페인판
 

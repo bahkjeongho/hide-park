@@ -17,8 +17,6 @@ Cities:
 Countries:
   - "[[Italy]]"
 ---
-<iframe src="https://www.prada.com" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1913년 Mario Prada가 밀라노에서 설립한 이탈리아 럭셔리 패션 하우스
 

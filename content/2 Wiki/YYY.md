@@ -15,8 +15,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="https://y-y-y.site/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >서울 기반의 브랜딩·웹·그래픽 디자인 스튜디오
 

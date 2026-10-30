@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[France]]"
 ---
-<iframe src="https://www.ensad.fr/en/fashion-and-accessory-design" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor's and Master's Program` in fashion and accessory design of [[Ecole des Arts Décoratifs - PSL]]
 

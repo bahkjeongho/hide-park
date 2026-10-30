@@ -4,8 +4,6 @@ topic:
 Website:
   - https://www.anthropic.com/
 ---
-<iframe src="https://www.anthropic.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >
 

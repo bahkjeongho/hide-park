@@ -10,8 +10,6 @@ Cities:
 Countries:
   - "[[France]]"
 ---
-<iframe src="https://www.artpartner.com/imruh-asha/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Fashion Director` at [[DAZED]]
 

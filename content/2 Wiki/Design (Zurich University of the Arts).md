@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[Switzerland]]"
 ---
-<iframe src="https://www.zhdk.ch/en/63" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor's and Master's Program` in design of [[Zurich University of the Arts]]
 

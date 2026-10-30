@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://www.rada.ac.uk/courses/ba-hons-acting/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor's Program` in acting of [[RADA]]
 

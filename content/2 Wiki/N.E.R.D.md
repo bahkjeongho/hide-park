@@ -12,7 +12,7 @@ Genre:
 IG:
   - https://www.instagram.com/nerd/
 Website:
-  - http://nooneeverreallydies.com/
+  - https://nooneeverreallydies.com/
 URL:
   - https://x.com/nerdarmy
   - https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi
@@ -27,7 +27,7 @@ Related:
   - "[[Pharrell Williams]]"
   - "[[The Neptunes]]"
 ---
-<iframe src="http://nooneeverreallydies.com/" width="100%" height="700px"></iframe>
+<iframe src="https://nooneeverreallydies.com/" width="100%" height="700px"></iframe>
 
 > [!Summary]
 > |   |   |

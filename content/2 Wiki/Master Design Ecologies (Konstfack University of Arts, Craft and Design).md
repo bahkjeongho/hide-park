@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[Sweden]]"
 ---
-<iframe src="https://www.konstfack.se/en/Education/Masters-Degree-Programmes/Masters-programme-Design-Ecologies/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Master` in design ecologies of [[Konstfack University of Arts, Craft and Design]]
 

@@ -21,8 +21,6 @@ Related:
   - "[[Condé Nast]]"
   - "[[VOGUE]]"
 ---
-<iframe src="https://www.vogue.co.jp/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1999년 Vogue Nippon으로 창간한 일본판 보그
 

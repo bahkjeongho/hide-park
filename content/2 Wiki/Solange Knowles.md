@@ -10,7 +10,7 @@ Genre:
 IG:
   - https://www.instagram.com/solangeknowles/
 Website:
-  - http://www.solangemusic.com
+  - https://www.solangemusic.com
   - https://solange-k.net
 URL:
   - https://www.youtube.com/channel/UCwLW3Cf-us5rBPSPeXnIm6Q
@@ -25,7 +25,7 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="http://www.solangemusic.com" width="100%" height="700px"></iframe>
+<iframe src="https://www.solangemusic.com" width="100%" height="700px"></iframe>
 
 > [!Summary]
 > |   |   |

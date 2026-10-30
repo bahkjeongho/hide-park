@@ -17,8 +17,6 @@ Cities:
 Countries:
   - "[[Germany]]"
 ---
-<iframe src="https://www.udk-berlin.de/en/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Art School` based in [[Berlin]]
 

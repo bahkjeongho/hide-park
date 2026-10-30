@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://www.rada.ac.uk/courses/ma-theatre-costume/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Master's Program` in theatre costume of [[RADA]]
 

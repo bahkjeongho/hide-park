@@ -11,7 +11,7 @@ IG:
   - https://www.instagram.com/official_theboyz/
   - https://www.instagram.com/THEBOYZ_officl/
 Website:
-  - http://theboyz.jp/
+  - https://theboyz.jp/
 URL:
   - https://www.youtube.com/channel/UCkJ1rbOrsyPfBuHNfnLPm-Q
   - https://x.com/officl_theboyz
@@ -24,7 +24,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="http://theboyz.jp/" width="100%" height="700px"></iframe>
+<iframe src="https://theboyz.jp/" width="100%" height="700px"></iframe>
 
 > [!Summary]
 > |   |   |

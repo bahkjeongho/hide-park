@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[Czech Republic]]"
 ---
-<iframe src="https://www.famu.cz/en/departments/department-of-directing/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Master's Program` in directing of [[Film and TV School of the Academy of Performing Arts in Prague]]
 

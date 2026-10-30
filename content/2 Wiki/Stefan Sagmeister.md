@@ -14,8 +14,6 @@ Related:
   - "[[Sagmeister Inc.]]"
   - "[[Sagmeister & Walsh]]"
 ---
-<iframe src="http://sagmeister.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >뉴욕을 기반으로 활동하는 오스트리아 출신 그래픽 디자이너
 

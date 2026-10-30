@@ -12,8 +12,6 @@ Countries:
 Related:
   - "[[Pentagram]]"
 ---
-<iframe src="https://www.pentagram.com/about/emily-oberman" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >Pentagram 뉴욕 사무소의 파트너, 《SNL》 타이틀 디자이너
 

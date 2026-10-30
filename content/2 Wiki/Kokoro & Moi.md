@@ -4,7 +4,7 @@ topic:
   - "[[Branding Agency]]"
 IG:
   - https://www.instagram.com/kokoromoi/
-Website: http://www.kokoromoi.com/
+Website: https://www.kokoromoi.com/
 URL:
   - https://www.linkedin.com/company/kokoro-&-moi/
   - https://www.behance.net/kokoromoi
@@ -13,7 +13,7 @@ Cities:
 Countries:
   - "[[Finland]]"
 ---
-<iframe src="http://www.kokoromoi.com/" width="100%" height="700px"></iframe>
+<iframe src="https://www.kokoromoi.com/" width="100%" height="700px"></iframe>
 
 <img src="http://www.kokoromoi.com/wp-content/uploads/2017/09/cropped-KM-favicon-192x192.png" alt="Kokoro & Moi logo" width="96">
 

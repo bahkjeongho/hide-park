@@ -11,8 +11,6 @@ URL:
 Countries:
   - "[[Germany]]"
 ---
-<iframe src="https://www.peter-schmidt-group.de/en/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1972년부터 이어 온 독일의 브랜드·디자인 에이전시
 

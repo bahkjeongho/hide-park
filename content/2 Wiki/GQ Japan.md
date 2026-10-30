@@ -16,8 +16,6 @@ Related:
   - "[[Condé Nast]]"
   - "[[GQ]]"
 ---
-<iframe src="https://www.gqjapan.jp/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >1993년 창간한 GQ의 일본판
 

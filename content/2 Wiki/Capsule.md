@@ -15,8 +15,6 @@ Countries:
 Related:
   - "[[KALEIDOSCOPE]]"
 ---
-<iframe src="https://capsule.global/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >밀라노 디자인 위크 기간에 연 1회 발행하는 급진적 디자인 플랫폼
 

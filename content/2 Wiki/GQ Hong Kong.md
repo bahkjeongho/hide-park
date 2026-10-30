@@ -11,8 +11,6 @@ URL:
 Countries:
   - "[[Hong Kong]]"
 ---
-<iframe src="https://gqhongkong.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >홍콩의 남성 패션·문화 매거진 GQ 홍콩판
 

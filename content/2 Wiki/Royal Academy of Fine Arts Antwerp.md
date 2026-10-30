@@ -19,8 +19,6 @@ Cities:
 Countries:
   - "[[Belgium]]"
 ---
-<iframe src="https://ap-arts.be/en/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Art School` based in [[Antwerp]]
 

@@ -6,8 +6,6 @@ Website:
 Wikis:
   - https://namu.wiki/w/OpenAI
 ---
-<iframe src="https://openai.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >
 

@@ -6,8 +6,6 @@ IG:
 Website:
   - https://vimeo.com/aaronysaiki
 ---
-<iframe src="https://vimeo.com/aaronysaiki" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >일본계 브라질인 에디터
 

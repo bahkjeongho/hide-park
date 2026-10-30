@@ -2,13 +2,13 @@
 topic:
   - "[[Design Studio]]"
 Website:
-  - http://hongxkim.com/
+  - https://hongxkim.com/
 Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="http://hongxkim.com/" width="100%" height="700px"></iframe>
+<iframe src="https://hongxkim.com/" width="100%" height="700px"></iframe>
 
 <img src="https://hongxkim.com/wp-content/themes/keruluke/favicon/apple-icon-60x60.png" alt="Eunjoo Hong and Hyungjae Kim logo" width="96">
 

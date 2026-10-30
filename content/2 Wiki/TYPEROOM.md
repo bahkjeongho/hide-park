@@ -6,8 +6,6 @@ IG:
 Website:
   - https://www.typeroom.eu/about
 ---
-<iframe src="https://www.typeroom.eu/about" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >
 

@@ -9,8 +9,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.pratt.edu/art/photography/photography-graduate/photography-mfa/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Master's Program` in Photography of [[Pratt Institute]]
 

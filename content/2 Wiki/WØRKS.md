@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://works.studio/" width="100%" height="700px"></iframe>
-
 <img src="https://works.studio/_next/image?url=%2Fimages%2Flogo-black.png&w=3000&q=96" alt="WØRKS logo" width="200">
 
 >[!tldr] tl;dr

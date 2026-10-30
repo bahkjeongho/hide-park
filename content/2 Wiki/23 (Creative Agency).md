@@ -10,8 +10,6 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
-<iframe src="https://www.weare23.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 > `Creative Direction` for [[Perfect Magazine]]
 

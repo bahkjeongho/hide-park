@@ -11,8 +11,6 @@ Cities:
 Countries:
   - "[[Switzerland]]"
 ---
-<iframe src="https://www.ecal.ch/en/courses-and-research/master/product-design/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Master` in product design of [[écal]]
 

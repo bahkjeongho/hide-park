@@ -15,8 +15,6 @@ Cities:
 Countries:
   - "[[Netherlands]]"
 ---
-<iframe src="https://www.rietveldacademie.nl/en" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Art School` based in [[Amsterdam]]
 

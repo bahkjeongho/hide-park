@@ -12,7 +12,7 @@ Labels:
 IG:
   - https://www.instagram.com/oddyouth_official/
 Website:
-  - http://itopgroup.com/bbs/page.php
+  - https://itopgroup.com/bbs/page.php
 URL:
   - https://www.youtube.com/@ODD_YOUTH
   - https://x.com/oddyouth_offcl
@@ -24,7 +24,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
-<iframe src="http://itopgroup.com/bbs/page.php" width="100%" height="700px"></iframe>
+<iframe src="https://itopgroup.com/bbs/page.php" width="100%" height="700px"></iframe>
 
 > [!Summary]
 > |   |   |

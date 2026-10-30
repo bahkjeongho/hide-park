@@ -22,8 +22,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="http://www.gregoryporter.com/" width="100%" height="700px"></iframe>
-
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -14,8 +14,6 @@ Countries:
 Related:
   - "[[Pentagram]]"
 ---
-<iframe src="https://www.pentagram.com/about/marina-willer" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Partner` at [[Pentagram]]
 

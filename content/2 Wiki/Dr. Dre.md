@@ -30,8 +30,6 @@ Wikis:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://drdre.com/" width="100%" height="700px"></iframe>
-
 > [!Summary]
 > |   |   |
 > |---|---|

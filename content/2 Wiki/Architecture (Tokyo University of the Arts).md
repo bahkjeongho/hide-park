@@ -13,8 +13,6 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
-<iframe src="https://www.geidai.ac.jp/english/fine-arts/architecture" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >`Bachelor's Program` in architecture of [[Tokyo University of the Arts]]
 

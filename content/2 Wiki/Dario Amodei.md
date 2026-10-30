@@ -13,8 +13,6 @@ Wikis:
 Related:
   - "[[Anthropic]]"
 ---
-<iframe src="https://darioamodei.com/" width="100%" height="700px"></iframe>
-
 >[!tldr] tl;dr
 >Claude를 만든 Anthropic의 공동 창업자이자 CEO, AI 연구자
 

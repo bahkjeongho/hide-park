@@ -13,8 +13,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<iframe src="https://www.xxix.co/" width="100%" height="700px"></iframe>
-
 <img src="https://www.xxix.co/icon.png" alt="XXIX logo" width="96">
 
 >[!tldr] tl;dr
