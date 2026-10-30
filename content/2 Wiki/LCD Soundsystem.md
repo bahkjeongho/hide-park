@@ -3,6 +3,7 @@ aliases:
   - LCD
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Dance-Punk]]"
   - "[[Dance-Rock]]"
@@ -84,7 +85,6 @@ Countries:
 * [[I Used To (Dixon Retouch) (LCD Soundsystem)|I Used To (Dixon Retouch)]] [Digital Single] (2018.08.17)
 * [[(We Don’t Need This) Fascist Groove Thang (LCD Soundsystem)|(We Don’t Need This) Fascist Groove Thang]] [Digital Single] (2018.11.02)
 * [[new body rhumba (from the film White Noise) (LCD Soundsystem)|new body rhumba (from the film White Noise)]] [Digital Single] (2022.09.30)
-* [[Pow Pow (Idjut Boys Remix) / Too Much Love (Rub-N-Tug Remix) (LCD Soundsystem)|Pow Pow (Idjut Boys Remix) / Too Much Love (Rub-N-Tug Remix)]] [Digital Single] (2024.05.10)
 * [[x-ray eyes (LCD Soundsystem)|x-ray eyes]] [Digital Single] (2024.11.01)
 * [[x-ray eyes (extended trash can dub) (LCD Soundsystem)|x-ray eyes (extended trash can dub)]] [Digital Single] (2024.11.22)
 

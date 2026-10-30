@@ -5,6 +5,7 @@ aliases:
   - Fredrick Tipton
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Midwestern Hip Hop]]"
   - "[[Gangsta Rap]]"
@@ -23,12 +24,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Rapper` from [[Gary]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

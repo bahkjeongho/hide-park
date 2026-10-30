@@ -11,6 +11,8 @@ Genre:
   - "[[Hip Hop]]"
   - "[[Dance-Pop]]"
   - "[[Hyperpop]]"
+Labels:
+  - "[[SM ENTERTAINMENT]]"
 IG:
   - https://www.instagram.com/aespa_official/
 Website:
@@ -18,8 +20,8 @@ Website:
   - https://aespa-official.jp
 URL:
   - https://www.youtube.com/@aespa
-  - https://x.com/aespa_official
   - https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE
+  - https://x.com/aespa_official
 Wikis:
   - https://namu.wiki/w/aespa
   - https://en.wikipedia.org/wiki/Aespa
@@ -27,15 +29,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[SM ENTERTAINMENT|SM Ent.]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|
@@ -89,20 +83,13 @@ Related:
 * [[Life's Too Short (aespa)|Life's Too Short]] [Digital Single] (2022.06.24)
 * [[Welcome To MY World (Feat. nævis) (aespa)|Welcome To MY World (Feat. nævis)]] [Pre-release Single] (2023.05.02)
 * [[Better Things (aespa)|Better Things]] [Digital Single] (2023.08.18)
-* [[Better Things (Sped Up + Slowed Down) (aespa)|Better Things (Sped Up + Slowed Down)]] [Remix Single] (2023.09.08)
-* [[Better Things (Tropkillaz Remix) (aespa)|Better Things (Tropkillaz Remix)]] [Remix Single] (2023.09.22)
-* [[Better Things (RAYE Remix) (aespa)|Better Things (RAYE Remix)]] [Remix Single] (2023.09.29)
-* [[Better Things (Dance Remix) (aespa)|Better Things (Dance Remix)]] [Remix Single] (2023.10.27)
 * [[Jingle Bell Rock (aespa)|Jingle Bell Rock]] [Digital Single] (2023.11.24)
-* [[Jingle Bell Rock (Sped Up Ver.) (aespa)|Jingle Bell Rock (Sped Up Ver.)]] [Remix Single] (2023.12.15)
-* [[Drama (Sped Up Ver.) (aespa)|Drama (Sped Up Ver.)]] [Remix Single] (2023.12.15)
 * [[Supernova (aespa)|Supernova]] [Pre-release Single] (2024.05.13)
 * [[Hot Mess (aespa)|Hot Mess]] [1st Japanese Single] (2024.07.03)
 * [[SYNK PARALLEL LINE (aespa)|SYNK : PARALLEL LINE]] [Special Digital Single] (2024.10.09)
 * [[Whiplash (English Ver.) (aespa)|Whiplash (English Ver.)]] [Digital Single] (2025.03.27)
 * [[Dirty Work (aespa)|Dirty Work]] [1st Single] (2025.06.27)
 * [[Rich Man (English Ver.) (aespa)|Rich Man (English Ver.)]] [Digital Single] (2025.09.12)
-* [[Rich Man (Remixes) (aespa)|Rich Man (Remixes)]] [Remix EP] (2025.09.19)
 * [[SYNK aeXIS LINE (2025) (aespa)|SYNK : aeXIS LINE]] [Special Digital Single] (2025.11.17)
 * [[ATTITUDE (aespa)|ATTITUDE]] [Digital Single] (2026.03.06)
 * [[WDA (Whole Different Animal) (aespa)|WDA (Whole Different Animal)]] [Pre-release Single] (2026.05.11)

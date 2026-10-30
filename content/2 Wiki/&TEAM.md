@@ -8,14 +8,17 @@ topic:
 Genre:
   - "[[K-Pop]]"
   - "[[J-Pop]]"
+Labels:
+  - "[[YX LABELS]]"
+  - "[[HYBE]]"
 IG:
   - https://www.instagram.com/andteam_official/
 Website:
   - https://www.andteam-official.jp/
 URL:
   - https://www.youtube.com/@andTEAM_official
-  - https://x.com/andTEAMofficial
   - https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7
+  - https://x.com/andTEAMofficial
 Wikis:
   - https://namu.wiki/w/%26TEAM
   - https://en.wikipedia.org/wiki/%26Team
@@ -25,16 +28,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
   - "[[Japan]]"
-Related:
-  - "[[HYBE]]"
-  - "[[YX LABELS]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]] and [[Tokyo]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

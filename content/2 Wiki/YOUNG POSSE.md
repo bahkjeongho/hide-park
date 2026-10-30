@@ -10,13 +10,16 @@ Genre:
   - "[[Hip Hop]]"
   - "[[Dance-Pop]]"
   - "[[R&B]]"
+Labels:
+  - "[[DSP Media]]"
 IG:
   - https://www.instagram.com/youngposseup/
 Website:
   - https://youngposse.kr
 URL:
-  - https://x.com/youngposseup
+  - https://www.youtube.com/@YOUNGPOSSEUP
   - https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff
+  - https://x.com/youngposseup
 Wikis:
   - https://namu.wiki/w/YOUNG%20POSSE
   - https://en.wikipedia.org/wiki/Young_Posse
@@ -25,12 +28,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

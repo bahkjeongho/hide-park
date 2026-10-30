@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Indie Rock]]"
   - "[[Indie Pop]]"
@@ -21,12 +22,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Band` from [[New York City]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

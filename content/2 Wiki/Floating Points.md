@@ -4,6 +4,7 @@ aliases:
   - Samuel Thomas Shepherd
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Electronic]]"
   - "[[Jazz]]"
@@ -23,12 +24,6 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
->[!tldr] tl;dr
->`Record Producer` & `DJ` from [[Manchester]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

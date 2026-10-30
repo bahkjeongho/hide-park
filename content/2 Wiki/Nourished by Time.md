@@ -5,6 +5,7 @@ aliases:
   - Mother Marcus
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Alternative R&B]]"
   - "[[Synth-Pop]]"

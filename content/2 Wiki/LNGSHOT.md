@@ -9,6 +9,15 @@ Genre:
   - "[[K-Pop]]"
   - "[[Alternative Hip Hop]]"
   - "[[R&B]]"
+Labels:
+  - "[[MORE VISION]]"
+IG:
+  - https://www.instagram.com/lngshot4sho
+Website:
+  - https://lngshot4sho.com/
+URL:
+  - https://www.youtube.com/@lngshot4sho
+  - https://x.com/LNGSHOT4sho
 Wikis:
   - https://namu.wiki/w/LNGSHOT
   - https://en.wikipedia.org/wiki/Lngshot
@@ -17,12 +26,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

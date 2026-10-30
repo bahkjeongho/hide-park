@@ -5,6 +5,7 @@ aliases:
   - Felix Manuel
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Drum and Bass]]"
   - "[[Downtempo]]"

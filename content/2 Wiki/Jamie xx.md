@@ -3,6 +3,7 @@ aliases:
   - James Thomas Smith
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Electronic]]"
   - "[[Indie Pop]]"
@@ -22,12 +23,6 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
->[!tldr] tl;dr
->`Musician`, `DJ` & `Producer` of [[The xx]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

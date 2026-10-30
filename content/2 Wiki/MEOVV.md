@@ -9,12 +9,16 @@ Genre:
   - "[[K-Pop]]"
   - "[[Hip Hop]]"
   - "[[R&B]]"
+Labels:
+  - "[[THEBLACKABEL]]"
 IG:
   - https://www.instagram.com/meovv/
+Website:
+  - https://www.universal-music.co.jp/meovv/
 URL:
   - https://www.youtube.com/@MEOVV_OFFICIAL
-  - https://x.com/OFFICIAL_MEOVV
   - https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv
+  - https://x.com/OFFICIAL_MEOVV
 Wikis:
   - https://namu.wiki/w/MEOVV
   - https://en.wikipedia.org/wiki/Meovv
@@ -23,12 +27,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

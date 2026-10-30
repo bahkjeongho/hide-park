@@ -3,6 +3,7 @@ aliases:
   - 리한나
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[R&B]]"
   - "[[Pop]]"
@@ -23,12 +24,6 @@ Cities:
 Countries:
   - "[[Barbados]]"
 ---
->[!tldr] tl;dr
->`Singer` for [[Roc Nation]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

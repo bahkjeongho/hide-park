@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Indie Rock]]"
   - "[[Art Rock]]"
@@ -21,12 +22,6 @@ Cities:
 Countries:
   - "[[Canada]]"
 ---
->[!tldr] tl;dr
->`Band` from [[Montreal]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

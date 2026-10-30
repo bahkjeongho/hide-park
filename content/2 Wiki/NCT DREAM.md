@@ -9,14 +9,16 @@ Genre:
   - "[[K-Pop]]"
   - "[[Hip Hop]]"
   - "[[R&B]]"
+Labels:
+  - "[[SM ENTERTAINMENT]]"
 IG:
   - https://www.instagram.com/nct_dream/
 Website:
   - https://www.smtown.com/artist/musician/10037
 URL:
   - https://www.youtube.com/@NCTDREAM
-  - https://x.com/NCTsmtown_DREAM
   - https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02
+  - https://x.com/NCTsmtown_DREAM
 Wikis:
   - https://namu.wiki/w/NCT%20DREAM
   - https://en.wikipedia.org/wiki/NCT_Dream
@@ -24,16 +26,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[SM ENTERTAINMENT|SM ENT.]]"
-  - "[[NCT]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

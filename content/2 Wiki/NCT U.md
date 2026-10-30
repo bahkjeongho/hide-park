@@ -4,6 +4,7 @@ aliases:
 topic:
   - "[[K-Pop Idol]]"
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[K-Pop]]"
   - "[[Pop]]"
@@ -22,12 +23,6 @@ Countries:
 Related:
   - "[[SM ENTERTAINMENT|SM ENT.]]"
 ---
->[!tldr] tl;dr
->`Boy Group` unit of [[NCT]] based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

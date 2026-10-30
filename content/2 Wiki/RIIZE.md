@@ -7,6 +7,8 @@ topic:
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
+Labels:
+  - "[[SM ENTERTAINMENT]]"
 IG:
   - https://www.instagram.com/riize_official/
 Website:
@@ -14,8 +16,8 @@ Website:
   - https://riizeofficial.jp/
 URL:
   - https://www.youtube.com/channel/UCdVD0MsYecQaIE5Ru-pOIQQ
-  - https://x.com/riize_official
   - https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX
+  - https://x.com/riize_official
 Wikis:
   - https://namu.wiki/w/RIIZE
   - https://en.wikipedia.org/wiki/Riize
@@ -23,15 +25,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[SM ENTERTAINMENT|SM ENT.]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

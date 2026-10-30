@@ -5,6 +5,7 @@ aliases:
   - Kilner
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Techno]]"
   - "[[Industrial Techno]]"
@@ -24,12 +25,6 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
->[!tldr] tl;dr
->`DJ` & `Record Producer` from [[Barnsley]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

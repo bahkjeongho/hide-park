@@ -4,6 +4,7 @@ aliases:
   - 白藝璘
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[K-Pop]]"
   - "[[R&B]]"

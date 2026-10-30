@@ -18,6 +18,12 @@ Member of:
   - "[[SHINee]]"
 IG:
   - https://www.instagram.com/xoalsox
+Website:
+  - https://taemin-official.com
+URL:
+  - https://www.youtube.com/channel/UCa2YkG6KvkGXJd5UmvZbXGw
+  - https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8
+  - https://x.com/Taemin_Xoalsox_
 Wikis:
   - https://en.wikipedia.org/wiki/Taemin
   - https://namu.wiki/w/%ED%83%9C%EB%AF%BC

@@ -4,6 +4,7 @@ aliases:
   - XG
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[Hip Hop]]"
@@ -22,12 +23,6 @@ Wikis:
 Countries:
   - "[[Japan]]"
 ---
->[!tldr] tl;dr
->`Girl Group` for [[XGALX]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

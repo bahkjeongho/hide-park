@@ -10,6 +10,8 @@ Genre:
   - "[[Pop]]"
   - "[[Hip Hop]]"
   - "[[EDM]]"
+Labels:
+  - "[[YG Entertainment]]"
 IG:
   - https://www.instagram.com/blackpinkofficial/
 Website:
@@ -17,8 +19,8 @@ Website:
   - https://ygex.jp/blackpink/
 URL:
   - https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A
-  - https://x.com/ygofficialblink
   - https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF
+  - https://x.com/ygofficialblink
 Wikis:
   - https://en.wikipedia.org/wiki/Blackpink
   - https://namu.wiki/w/BLACKPINK

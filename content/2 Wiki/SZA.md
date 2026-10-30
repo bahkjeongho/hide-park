@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[R&B]]"
   - "[[Hip Hop]]"

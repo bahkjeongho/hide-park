@@ -4,6 +4,7 @@ aliases:
   - Benito Antonio Martínez Ocasio
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Latin Hip Hop]]"
   - "[[Latin Trap]]"

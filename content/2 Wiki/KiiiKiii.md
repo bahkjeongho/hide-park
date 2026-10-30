@@ -8,14 +8,16 @@ topic:
 Genre:
   - "[[K-Pop]]"
   - "[[Dance-Pop]]"
+Labels:
+  - "[[Starship Entertainment]]"
 IG:
   - https://www.instagram.com/kiiikiii.official/
 Website:
   - https://kiiikiii.kr
 URL:
   - https://www.youtube.com/channel/UCaHwGJXFb28TekZMf7iFg5Q
-  - https://x.com/We_KiiiKiii
   - https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP
+  - https://x.com/We_KiiiKiii
 Wikis:
   - https://en.wikipedia.org/wiki/KiiiKiii
   - https://namu.wiki/w/KiiiKiii
@@ -23,15 +25,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[Starship Entertainment]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

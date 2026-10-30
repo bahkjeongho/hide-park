@@ -20,8 +20,8 @@ Website:
   - https://illit-official.jp/
 URL:
   - https://www.youtube.com/channel/UCEpFoWeCMCo5z3EvWaz6hQQ
-  - https://x.com/ILLIT_official
   - https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN
+  - https://x.com/ILLIT_official
 Wikis:
   - https://namu.wiki/w/ILLIT
   - https://en.wikipedia.org/wiki/Illit
@@ -29,15 +29,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[BELIFT LAB]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

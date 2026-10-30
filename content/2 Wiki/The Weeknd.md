@@ -4,6 +4,7 @@ aliases:
   - Abel Tesfaye
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[R&B]]"
   - "[[Pop]]"

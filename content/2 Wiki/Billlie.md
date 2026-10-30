@@ -8,13 +8,14 @@ topic:
 Genre:
   - "[[K-Pop]]"
   - "[[R&B]]"
+Labels:
+  - "[[Mystic Story]]"
 IG:
   - https://www.instagram.com/billlie.official
 URL:
-  - https://x.com/Billlieofficial
   - https://www.youtube.com/@Billlie
+  - https://x.com/Billlieofficial
   - https://weverse.io/billlie/feed
-  - https://www.facebook.com/p/Billlie.official
 Wikis:
   - https://en.wikipedia.org/wiki/Billlie
   - https://namu.wiki/w/Billlie

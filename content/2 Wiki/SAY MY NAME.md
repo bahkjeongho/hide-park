@@ -8,29 +8,35 @@ topic:
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
+Labels:
+  - "[[iNKODE]]"
+IG:
+  - https://www.instagram.com/sa2m2nam3
+Website:
+  - https://in-kode.com/say_my_name.html
 URL:
+  - https://www.youtube.com/@sa2m2nam3
   - https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS
+  - https://x.com/sa2m2nam3
 Wikis:
   - https://en.wikipedia.org/wiki/Say_My_Name_(group)
+  - https://namu.wiki/w/SAY%20MY%20NAME%28%EC%95%84%EC%9D%B4%EB%8F%8C%29
 Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|
-> |Origin|South Korea|
-> |Genre|K-pop|
-> |Label|Inkode|
-> |Debut|October 16, 2024 (EP Say My Name)|
-> |Members|Hitomi<br>Shuie<br>Mei<br>Kanny<br>Soha<br>Dohee<br>Junhwi<br>Seungjoo|
+> |약칭|SMN (세마넴)|
+> |데뷔일|2024년 10월 16일<br>2025년 4월 11일|
+> |데뷔 음반|EP 1집<br>SAY MY NAME<br>디지털 싱글<br>ShaLala (Japanese version)|
+> |장르|K-POP, 댄스|
+> |리더|히토미|
+> |소속사|iNKODE<br>iNKODE JAPAN|
+> |유통사|워너 뮤직 코리아<br>워너 뮤직 재팬|
+> |팬덤|LOVvmE(로미)|
 
 ---
 

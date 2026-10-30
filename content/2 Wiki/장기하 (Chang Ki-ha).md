@@ -4,6 +4,7 @@ aliases:
   - 張基河
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 IG:
   - https://www.instagram.com/kihachang/
 Website:
@@ -20,12 +21,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Singer-Songwriter` for [[DooRooDooRoo Artist Company]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

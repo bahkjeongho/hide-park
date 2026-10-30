@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Alternative Rock]]"
   - "[[Art Rock]]"
@@ -21,12 +22,6 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
->[!tldr] tl;dr
->`Band` from [[Abingdon]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

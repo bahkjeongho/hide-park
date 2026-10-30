@@ -10,12 +10,16 @@ Genre:
   - "[[Hip Hop]]"
   - "[[R&B]]"
   - "[[Soul]]"
+Labels:
+  - "[[S2 Entertainment]]"
 IG:
   - https://www.instagram.com/kissoflife_s2/
+Website:
+  - http://s2ent.co.kr/34
 URL:
   - https://www.youtube.com/channel/UCvEEeBssb4XxIfWWIB8IjMw
-  - https://x.com/KISSOFLIFE_S2
   - https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky
+  - https://x.com/KISSOFLIFE_S2
 Wikis:
   - https://namu.wiki/w/KISS%20OF%20LIFE
   - https://en.wikipedia.org/wiki/Kiss_of_Life_(group)
@@ -24,12 +28,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

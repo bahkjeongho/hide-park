@@ -3,6 +3,7 @@ aliases:
   - 넷 갈라
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Club Music]]"
 IG:
@@ -14,12 +15,6 @@ Wikis:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Club Music` Artist for [[NBDKNW]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

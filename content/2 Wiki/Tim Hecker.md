@@ -3,6 +3,7 @@ aliases:
   - Jetone
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Electronic]]"
   - "[[Ambient]]"

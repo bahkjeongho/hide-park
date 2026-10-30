@@ -12,6 +12,9 @@ Genre:
   - "[[Rock]]"
   - "[[R&B]]"
   - "[[Hip Hop]]"
+Labels:
+  - "[[BELIFT LAB]]"
+  - "[[HYBE]]"
 IG:
   - https://www.instagram.com/enhypen/
 Website:
@@ -19,8 +22,8 @@ Website:
   - https://enhypen-jp.weverse.io/
 URL:
   - https://www.youtube.com/channel/UCArLZtok93cO5R9RI4_Y5Jw
-  - https://x.com/ENHYPEN
   - https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9
+  - https://x.com/ENHYPEN
 Wikis:
   - https://namu.wiki/w/ENHYPEN
   - https://en.wikipedia.org/wiki/Enhypen
@@ -28,15 +31,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[BELIFT LAB]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

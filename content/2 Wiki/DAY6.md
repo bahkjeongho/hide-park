@@ -12,11 +12,15 @@ Genre:
   - "[[Pop Rock]]"
   - "[[Pop Punk]]"
   - "[[Power Pop]]"
+Labels:
+  - "[[JYP ENTERTAINMENT]]"
 IG:
   - https://www.instagram.com/day6kilogram
 Website:
   - https://day6.jype.com/
 URL:
+  - https://www.youtube.com/channel/UCp-pqXsizklX3ZHvLxXyhxw
+  - https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc
   - https://x.com/day6official
   - https://www.tiktok.com/@day6_official
 Wikis:

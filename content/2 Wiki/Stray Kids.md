@@ -12,6 +12,8 @@ Genre:
   - "[[Hip Hop]]"
   - "[[R&B]]"
   - "[[Rock]]"
+Labels:
+  - "[[JYP ENTERTAINMENT]]"
 IG:
   - https://www.instagram.com/realstraykids/
 Website:
@@ -19,8 +21,8 @@ Website:
   - https://staydepartment.com/
 URL:
   - https://www.youtube.com/channel/UC9rMiEjNaCSsebs31MRDCRA
-  - https://x.com/Stray_Kids
   - https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE
+  - https://x.com/Stray_Kids
 Wikis:
   - https://namu.wiki/w/Stray%20Kids
   - https://en.wikipedia.org/wiki/Stray_Kids
@@ -28,15 +30,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[JYP ENTERTAINMENT|JYP Ent.]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

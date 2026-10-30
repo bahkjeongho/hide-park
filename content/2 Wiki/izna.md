@@ -9,14 +9,16 @@ topic:
 Genre:
   - "[[K-Pop]]"
   - "[[Dance-Pop]]"
+Labels:
+  - "[[WAKEONE]]"
 IG:
   - https://www.instagram.com/izna_offcl/
 Website:
   - https://wake-one.com/en/artists/izna/
 URL:
   - https://www.youtube.com/channel/UCfbYNlxgLuKJXQZEhkMmaCQ
-  - https://x.com/izna_offcl
   - https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4
+  - https://x.com/izna_offcl
 Wikis:
   - https://en.wikipedia.org/wiki/Izna
   - https://namu.wiki/w/izna
@@ -25,12 +27,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

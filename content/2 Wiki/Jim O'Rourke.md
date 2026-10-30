@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Experimental]]"
   - "[[Post-Rock]]"
@@ -16,12 +17,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Musician` & `Record Producer` from [[Chicago]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

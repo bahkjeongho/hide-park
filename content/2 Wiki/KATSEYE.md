@@ -10,14 +10,16 @@ Genre:
   - "[[Pop]]"
   - "[[R&B]]"
   - "[[Hyperpop]]"
+Labels:
+  - "[[HYBE UMG]]"
 IG:
   - https://www.instagram.com/katseyeworld/
 Website:
   - https://www.katseye.world/
 URL:
   - https://www.youtube.com/channel/UCA61H4fWOMHikLcUFKyQUog
-  - https://x.com/katseyeworld
   - https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn
+  - https://x.com/katseyeworld
 Wikis:
   - https://namu.wiki/w/KATSEYE
   - https://en.wikipedia.org/wiki/Katseye
@@ -25,29 +27,20 @@ Cities:
   - "[[Los Angeles]]"
 Countries:
   - "[[USA]]"
-Related:
-  - "[[HYBE]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Los Angeles]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|
 > |결성일|2023년 11월 18일|
 > |데뷔일|2024년 8월 16일|
-> |데뷔 음반|EP 1집 SIS (Soft Is Strong)|
-> |장르|팝<br>댄스 팝<br>R&B<br>일렉트로팝<br>하이퍼팝<br>라틴 팝<br>테크노|
+> |데뷔 음반|EP 1집<br>SIS (Soft Is Strong)|
+> |장르|팝, 댄스 팝, R&B, 일렉트로팝, 하이퍼팝, 라틴 팝, 테크노|
 > |리더|소피아|
 > |소속사|HYBE UMG|
 > |레이블|HYBE LABELS<br>게펜 레코드<br>폴리도르 레코드<br>유니버설 인터내셔널|
 > |유통사|YG PLUS<br>유니버설 뮤직 그룹<br>유니버설 뮤직 UK<br>유니버설 뮤직 재팬|
 > |팬덤|EYEKONS (아이콘즈)|
 > |응원봉|EYELIGHTER|
-> |멤버|다니엘라<br>라라<br>마논<br>메간<br>소피아<br>윤채|
 
 ---
 

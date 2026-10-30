@@ -3,6 +3,7 @@ aliases:
   - MBV
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Shoegaze]]"
   - "[[Noise Pop]]"
@@ -23,12 +24,6 @@ Cities:
 Countries:
   - "[[Ireland]]"
 ---
->[!tldr] tl;dr
->`Band` from [[Dublin]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|
@@ -60,7 +55,6 @@ Countries:
 * [[Soft as Snow (My Bloody Valentine)|Soft as Snow]] [EP] (1988)
 * [[You Made Me Realise (My Bloody Valentine)|You Made Me Realise]] [EP] (1988.08.08)
 * [[Feed Me With Your Kiss (My Bloody Valentine)|Feed Me With Your Kiss]] [EP] (1988.10.31)
-* [[Glider E.P. Remixes (My Bloody Valentine)|Glider E.P. Remixes]] [EP] (1990.04)
 * [[Tremolo (My Bloody Valentine)|Tremolo]] [EP] (1991.02.04)
 
 ## Single

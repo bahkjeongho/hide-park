@@ -4,6 +4,7 @@ aliases:
   - Kim Min-ki
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Wikis:
   - https://namu.wiki/w/%EA%B9%80%EB%AF%BC%EA%B8%B0
 Cities:

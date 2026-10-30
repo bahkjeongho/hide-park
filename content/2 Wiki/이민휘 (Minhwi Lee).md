@@ -5,6 +5,7 @@ aliases:
   - Minhwi Lee
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Film Score]]"
 IG:
@@ -18,12 +19,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Singer-Songwriter` & `Film Composer` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

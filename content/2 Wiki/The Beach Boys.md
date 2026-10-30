@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Rock]]"
   - "[[Pop]]"
@@ -23,12 +24,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Band` from [[Hawthorne]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

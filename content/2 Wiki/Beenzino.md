@@ -5,6 +5,7 @@ aliases:
   - 임성빈
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Hip Hop]]"
 IG:
@@ -21,12 +22,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Rapper` for [[Beasts And Natives Alike]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

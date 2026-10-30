@@ -6,6 +6,7 @@ aliases:
   - mcDJ
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
   - "[[Screen Writer]]"
 Genre:
   - "[[Alternative Hip Hop]]"

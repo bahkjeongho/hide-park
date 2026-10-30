@@ -4,6 +4,7 @@ aliases:
   - Mathangi Arulpragasam
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Hip Hop]]"
   - "[[Dance]]"
@@ -22,12 +23,6 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
->[!tldr] tl;dr
->`Rapper` & `Singer` from [[London]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

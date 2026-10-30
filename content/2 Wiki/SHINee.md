@@ -10,14 +10,16 @@ Genre:
   - "[[J-Pop]]"
   - "[[R&B]]"
   - "[[EDM]]"
+Labels:
+  - "[[SM ENTERTAINMENT]]"
 IG:
   - https://www.instagram.com/shinee/
 Website:
   - https://shinee.jp/
 URL:
-  - https://twitter.com/SHINee
   - https://www.youtube.com/user/SHINee
   - https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR
+  - https://twitter.com/SHINee
   - https://www.tiktok.com/@shinee_official
   - https://www.smentertainment.com/artist/SHINee
   - https://www.universal-music.co.jp/shinee/
@@ -29,18 +31,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> SHINee(샤이니)는 온유, 종현, 키, 민호, 태민 5인조 그룹이다.
-> 2008년 5월 한국에서 데뷔해 음악 시상식의 최우수 신인상을 다수 수상했다.
-> 2011년 6월 22일 첫 싱글 「Replay－君は僕のeverything－」로 일본에 데뷔했고(오리콘 주간 차트 최고 2위), 이어 2번째 싱글 「JULIETTE」(최고 3위, 2011년 8월 발매), 3번째 싱글 「LUCIFER」(최고 2위, 2011년 10월 발매)를 잇달아 오리콘 TOP3에 올렸다. 해외 아티스트(솔로 포함)로서는 싱글 랭킹 발표 시작 이래 처음인 "데뷔 후 3작 연속 TOP3 진입"을 이뤘다. 독보적인 존재감과 압도적인 퍼포먼스로 순식간에 인기를 얻었고, 뛰어난 가창력과 보는 이를 압도하는 댄스 퍼포먼스, 패션 감각이 화제를 모으며 아시아뿐 아니라 유럽과 전 세계로 활동 무대를 넓히고 있다.
->
-> SHINee（シャイニー）は、オンユ、ジョンヒョン、キー、ミンホ、テミンの5人組グループ。
-> 2008年5月に韓国でデビューし、音楽賞の最優秀新人賞を多数受賞。
-> 2011年6月22日に1stシングル「Replay－君は僕のeverything－」で日本デビューを果たし（オリコンウィークリーチャート最高位2位）、 その後、2ndシングル「JULIETTE」（最高位3位・2011年8月発売）、3rdシングル「LUCIFER」（最高位2位・2011年10月 発売） を立て続けにオリコンTOP3にチャートインさせ、海外アーティスト（ソロも含む）による「デビューから3作連続TOP3入り」という、 シングルランキング発表開始以来初となる快挙を成し遂げた。唯一無二の存在感と圧倒的なパフォーマンスで瞬く間に 人気を獲得。高い歌唱力と見る者を圧倒させるダンスパフォーマンス、ファッションセンスが話題を呼び、 アジアのみならずヨーロッパや世界中に活躍の場を広げている。
-
 > [!Summary]
 > |   |   |
 > |---|---|
@@ -68,8 +58,8 @@ Countries:
 * [[THE FIRST (SHINee)|THE FIRST]] [1st Japanese Studio Album] (2011.12.07)
 * [[The Misconceptions of You (SHINee)|The Misconceptions of You]] [3rd Studio Album Chapter 1] (2013.02.19)
 * [[The Misconceptions of Me (SHINee)|The Misconceptions of Me]] [3rd Studio Album Chapter 2] (2013.04.26)
-* [[The Misconceptions of Us (SHINee)|The Misconceptions of Us]] [3rd Studio Album Repackage] (2013.08.08)
 * [[Boys Meet U (SHINee)|Boys Meet U]] [2nd Japanese Studio Album] (2013.06.26)
+* [[The Misconceptions of Us (SHINee)|The Misconceptions of Us]] [3rd Studio Album Repackage] (2013.08.08)
 * [[I'm Your Boy (SHINee)|I'm Your Boy]] [3rd Japanese Studio Album] (2014.09.24)
 * [[Odd (SHINee)|Odd]] [4th Studio Album] (2015.05.18)
 * [[Married To The Music (SHINee)|Married To The Music]] [4th Studio Album Repackage] (2015.08.03)

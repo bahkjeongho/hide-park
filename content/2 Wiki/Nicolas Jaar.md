@@ -6,6 +6,7 @@ aliases:
   - 니콜라스 자르
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Electronic]]"
   - "[[Experimental]]"

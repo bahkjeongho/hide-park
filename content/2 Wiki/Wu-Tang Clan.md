@@ -8,14 +8,19 @@ topic:
 Genre:
   - "[[East Coast Hip-Hop]]"
   - "[[Hardcore Hip-Hop]]"
+Labels:
+  - "[[Soul Temple]]"
+  - "[[Loud Records]]"
+  - "[[RCA]]"
+  - "[[Columbia Records]]"
 IG:
   - https://www.instagram.com/wutangclan/
 Website:
   - https://wutangclan.com/
 URL:
-  - https://x.com/WuTangClan
   - https://www.youtube.com/channel/UCl0q_XqiWDMA-Q9SzUO3y-Q
   - https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk
+  - https://x.com/WuTangClan
 Wikis:
   - https://en.wikipedia.org/wiki/Wu-Tang_Clan
   - https://namu.wiki/w/Wu-Tang%20Clan
@@ -24,12 +29,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Hip Hop Group` based in [[Staten Island]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -4,6 +4,7 @@ aliases:
   - FKA 트위그스
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Avant-Pop]]"
   - "[[Electronic]]"
@@ -26,12 +27,6 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
->[!tldr] tl;dr
->`Singer-Songwriter` for [[Young]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

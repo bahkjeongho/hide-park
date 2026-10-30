@@ -3,6 +3,7 @@ aliases:
   - Harley Streten
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Electronic]]"
   - "[[Future Bass]]"
@@ -23,12 +24,6 @@ Cities:
 Countries:
   - "[[Australia]]"
 ---
->[!tldr] tl;dr
->`DJ` & `Music Producer` from [[Sydney]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

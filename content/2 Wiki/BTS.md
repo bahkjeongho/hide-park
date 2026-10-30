@@ -13,6 +13,9 @@ Genre:
   - "[[Pop]]"
   - "[[Hip Hop]]"
   - "[[R&B]]"
+Labels:
+  - "[[BIGHIT MUSIC]]"
+  - "[[HYBE]]"
 IG:
   - https://www.instagram.com/bts.bighitofficial/
 Website:
@@ -20,8 +23,8 @@ Website:
   - https://bts-official.jp/
 URL:
   - https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ
-  - https://x.com/bts_bighit
   - https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX
+  - https://x.com/bts_bighit
   - https://soundcloud.com/bangtan
 Wikis:
   - https://en.wikipedia.org/wiki/BTS
@@ -31,12 +34,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

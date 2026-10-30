@@ -7,6 +7,7 @@ aliases:
   - ハチ
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 IG:
   - https://www.instagram.com/hachi_08/
 Website:

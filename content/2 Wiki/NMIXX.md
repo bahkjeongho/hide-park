@@ -8,6 +8,8 @@ topic:
 Genre:
   - "[[K-Pop]]"
   - "[[R&B]]"
+Labels:
+  - "[[JYP ENTERTAINMENT]]"
 IG:
   - https://www.instagram.com/nmixx_official/
 Website:
@@ -15,8 +17,8 @@ Website:
   - https://nmixxjapan.com/
 URL:
   - https://www.youtube.com/channel/UCnUAyD4t2LkvW68YrDh7fDg
-  - https://x.com/NMIXX_official
   - https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl
+  - https://x.com/NMIXX_official
 Wikis:
   - https://namu.wiki/w/NMIXX
   - https://en.wikipedia.org/wiki/Nmixx
@@ -24,15 +26,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[JYP ENTERTAINMENT|JYP Ent.]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

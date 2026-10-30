@@ -3,6 +3,7 @@ aliases:
   - 오메가 사피엔
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Hip Hop]]"
 IG:
@@ -16,12 +17,6 @@ Countries:
 Related:
   - "[[Balming Tiger]]"
 ---
->[!tldr] tl;dr
->`Rapper` of [[Balming Tiger]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

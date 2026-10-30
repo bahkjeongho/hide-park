@@ -4,6 +4,7 @@ aliases:
   - Nuuro
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Experimental]]"
   - "[[Deconstructed Club]]"
@@ -24,12 +25,6 @@ Cities:
 Countries:
   - "[[Venezuela]]"
 ---
->[!tldr] tl;dr
->`Musician` & `Producer` from [[Caracas]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -7,6 +7,8 @@ topic:
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
+Labels:
+  - "[[JYP ENTERTAINMENT]]"
 IG:
   - https://www.instagram.com/kickflip_jype/
 Website:
@@ -14,8 +16,8 @@ Website:
   - https://www.kick-flip.com/
 URL:
   - https://www.youtube.com/channel/UCmq9jjpHA69PwAwlA0DwOsg
-  - https://x.com/kickflip_jype
   - https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k
+  - https://x.com/kickflip_jype
 Wikis:
   - https://namu.wiki/w/KickFlip
   - https://en.wikipedia.org/wiki/KickFlip
@@ -23,15 +25,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[JYP ENTERTAINMENT]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

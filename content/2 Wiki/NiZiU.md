@@ -9,10 +9,19 @@ topic:
 Genre:
   - "[[K-Pop]]"
   - "[[J-Pop]]"
+Labels:
+  - "[[JYP ENTERTAINMENT]]"
+IG:
+  - https://www.instagram.com/niziu_info_official
 Website:
   - https://www.niziu.com/
+URL:
+  - https://www.youtube.com/@NiziUOfficial
+  - https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ
+  - https://x.com/NiziU__official
 Wikis:
   - https://en.wikipedia.org/wiki/NiziU
+  - https://namu.wiki/w/NiziU
 Cities:
   - "[[Seoul]]"
   - "[[Tokyo]]"
@@ -23,19 +32,17 @@ Countries:
 > [!Summary]
 > |   |   |
 > |---|---|
-> |**Background information**||
-> |Origin|Seoul, South Korea<br>Tokyo, Japan|
-> |Genres|K-pop<br>J-pop|
-> |Years active|2020–present|
-> |Labels|JYP<br>Sony Music|
-> |Member of|JYP Nation|
-> |Members|Mako<br>Rio<br>Maya<br>Riku<br>Ayaka<br>Mayuka<br>Rima<br>Miihi<br>Nina|
-> |Website|niziu.com|
-> |**Japanese name**||
-> |Katakana|ニジュー|
-> |**Transcriptions**||
-> |Revised Hepburn|Nijū|
-> |Kunrei-shiki|Nizyû|
+> |결성일|2020년 6월 26일|
+> |데뷔일|2020년 12월 2일<br>2023년 10월 30일|
+> |데뷔 음반|싱글 1집<br>Step and a step<br>Press Play|
+> |장르|댄스 팝, 일렉트로닉, 하우스, 발라드|
+> |리더|마코|
+> |소속사|JYP엔터테인먼트|
+> |레이블|ONE Label<br>JYP JAPAN｜EPIC JYP|
+> |유통사|드림어스컴퍼니<br>소니 뮤직 재팬|
+> |공식 색|무지개색|
+> |팬덤|WithU (위쥬)|
+> |응원봉|NiziU OFFICIAL LIGHT STICK|
 
 ---
 

@@ -4,6 +4,7 @@ aliases:
   - 김진태
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Hip Hop]]"
 IG:

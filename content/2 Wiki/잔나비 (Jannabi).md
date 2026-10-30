@@ -4,6 +4,7 @@ aliases:
   - JANNABI
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 IG:
   - https://www.instagram.com/bandjannabi
 URL:

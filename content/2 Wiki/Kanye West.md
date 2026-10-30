@@ -7,6 +7,7 @@ aliases:
 topic:
   - Artist
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Hip Hop]]"
   - "[[Pop]]"
@@ -32,12 +33,6 @@ tags:
   - Rapper
   - Hip-Hop
 ---
->[!tldr] tl;dr
->`Rapper` for [[GOOD Music]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

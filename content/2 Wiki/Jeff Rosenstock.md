@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Punk Rock]]"
   - "[[Indie Rock]]"
@@ -19,12 +20,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Singer-Songwriter` from [[Long Island]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

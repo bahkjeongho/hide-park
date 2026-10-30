@@ -10,6 +10,9 @@ Genre:
   - "[[Pop]]"
   - "[[R&B]]"
   - "[[Dance-Pop]]"
+Labels:
+  - "[[ADOR]]"
+  - "[[HYBE]]"
 IG:
   - https://www.instagram.com/newjeans_official/
 Website:
@@ -17,8 +20,8 @@ Website:
   - https://www.newjeans.jp/
 URL:
   - https://www.youtube.com/channel/UCMki_UkHb4qSc0qyEcOHHJw
-  - https://x.com/NewJeans_ADOR
   - https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d
+  - https://x.com/NewJeans_ADOR
 Wikis:
   - https://en.wikipedia.org/wiki/NewJeans
   - https://namu.wiki/w/NewJeans
@@ -26,15 +29,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[HYBE]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

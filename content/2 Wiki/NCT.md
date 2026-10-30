@@ -10,14 +10,16 @@ Genre:
   - "[[Hip Hop]]"
   - "[[R&B]]"
   - "[[EDM]]"
+Labels:
+  - "[[SM ENTERTAINMENT]]"
 IG:
   - https://www.instagram.com/nct/
 Website:
   - http://nct.smtown.com/
 URL:
   - https://www.youtube.com/@NCTsmtown
-  - https://x.com/NCTsmtown
   - https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG
+  - https://x.com/NCTsmtown
 Wikis:
   - https://namu.wiki/w/NCT
   - https://en.wikipedia.org/wiki/NCT_(group)
@@ -25,20 +27,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[SM ENTERTAINMENT|SM Ent.]]"
-  - "[[NCT U]]"
-  - "[[NCT 127]]"
-  - "[[NCT DREAM]]"
-  - "[[WayV]]"
-  - "[[NCT WISH]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -12,14 +12,16 @@ Genre:
   - "[[C-Pop]]"
   - "[[Hip Hop]]"
   - "[[R&B]]"
+Labels:
+  - "[[SM ENTERTAINMENT]]"
 IG:
   - https://www.instagram.com/wayvofficial/
 Website:
   - https://www.smentertainment.com/en/artist/wayv/
 URL:
   - https://www.youtube.com/@WayV
-  - https://x.com/WayV_official
   - https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz
+  - https://x.com/WayV_official
 Wikis:
   - https://namu.wiki/w/WayV
   - https://en.wikipedia.org/wiki/WayV
@@ -29,16 +31,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
   - "[[China]]"
-Related:
-  - "[[SM ENTERTAINMENT|SM ENT.]]"
-  - "[[NCT]]"
 ---
->[!tldr] tl;dr
->`Boy Group` unit of [[NCT]] based in [[Seoul]] and China
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

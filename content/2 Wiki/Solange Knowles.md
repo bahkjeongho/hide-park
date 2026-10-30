@@ -5,6 +5,7 @@ aliases:
   - Solange Knowles-Smith
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[R&B]]"
 IG:
@@ -25,12 +26,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Singer-Songwriter` for [[Saint Records]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

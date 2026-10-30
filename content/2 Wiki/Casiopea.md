@@ -6,6 +6,7 @@ aliases:
   - Casiopea-P4
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Jazz Fusion]]"
   - "[[Jazz Funk]]"
@@ -26,12 +27,6 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
->[!tldr] tl;dr
->`Band` from [[Tokyo]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

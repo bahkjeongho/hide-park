@@ -6,6 +6,7 @@ aliases:
   - Huremic
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Parannoul
   - https://namu.wiki/w/%ED%8C%8C%EB%9E%80%EB%85%B8%EC%9D%84

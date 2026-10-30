@@ -4,6 +4,7 @@ aliases:
   - F(x)
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[K-Pop]]"
   - "[[Electropop]]"
@@ -20,12 +21,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

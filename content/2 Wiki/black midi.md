@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Website:
   - https://bmblackmidi.com/
 Wikis:

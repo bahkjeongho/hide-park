@@ -9,8 +9,16 @@ topic:
 Genre:
   - "[[Hip Hop]]"
   - "[[K-Pop]]"
+Labels:
+  - "[[AOMG]]"
+IG:
+  - https://instagram.com/keyveatz
+Website:
+  - https://aomgofficial.com/keyveatz
 URL:
+  - https://youtube.com/@Keyveatz
   - https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF
+  - https://x.com/Keyveatz
 Wikis:
   - https://namu.wiki/w/Keyveatz
   - https://en.wikipedia.org/wiki/Keyveatz
@@ -19,12 +27,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

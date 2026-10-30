@@ -4,6 +4,7 @@ aliases:
   - 신효섭
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[R&B]]"
   - "[[Hip Hop]]"

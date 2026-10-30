@@ -9,11 +9,16 @@ Genre:
   - "[[K-Pop]]"
   - "[[J-Pop]]"
   - "[[Dance-Pop]]"
+Labels:
+  - "[[SM ENTERTAINMENT]]"
 IG:
   - https://www.instagram.com/nctwish_official/
+Website:
+  - https://www.smentertainment.com/artist/
 URL:
-  - https://x.com/nctwishofficial
+  - https://www.youtube.com/@NCTWISH
   - https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc
+  - https://x.com/nctwishofficial
 Wikis:
   - https://namu.wiki/w/NCT%20WISH
   - https://en.wikipedia.org/wiki/NCT_Wish
@@ -23,16 +28,7 @@ Cities:
 Countries:
   - "[[South Korea]]"
   - "[[Japan]]"
-Related:
-  - "[[SM ENTERTAINMENT|SM ENT.]]"
-  - "[[NCT]]"
 ---
->[!tldr] tl;dr
->`Boy Group` unit of [[NCT]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

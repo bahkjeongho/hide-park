@@ -4,6 +4,7 @@ aliases:
   - Godspeed You Black Emperor!
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Post-Rock]]"
 Website:

@@ -8,10 +8,14 @@ topic:
 Genre:
   - "[[K-Pop]]"
   - "[[Hip Hop]]"
+Labels:
+  - "[[THEBLACKABEL]]"
 IG:
   - https://www.instagram.com/allday_project/
 URL:
+  - https://www.youtube.com/@ALLDAY_PROJECT
   - https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2
+  - https://x.com/ALLDAY_PROJECT
 Wikis:
   - https://namu.wiki/w/ALLDAY%20PROJECT
   - https://en.wikipedia.org/wiki/Allday_Project
@@ -19,15 +23,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[THE BLACK LABEL]]"
 ---
->[!tldr] tl;dr
->`Co-ed Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -5,6 +5,7 @@ aliases:
   - N.E.R.D.
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Funk Rock]]"
   - "[[Alternative Rock]]"

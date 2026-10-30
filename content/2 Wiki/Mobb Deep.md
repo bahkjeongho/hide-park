@@ -3,6 +3,7 @@ aliases:
   - Poetical Prophets
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[East Coast Hip Hop]]"
   - "[[Hardcore Hip Hop]]"
@@ -21,12 +22,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Hip Hop Duo` from [[Queens]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

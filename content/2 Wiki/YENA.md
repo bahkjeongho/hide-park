@@ -4,6 +4,7 @@ aliases:
   - Choi Yena
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[K-Pop]]"
 IG:

@@ -8,6 +8,9 @@ topic:
 Genre:
   - "[[K-Pop]]"
   - "[[Dance-Pop]]"
+Labels:
+  - "[[Starship Entertainment]]"
+  - "[[Amuse]]"
 IG:
   - https://www.instagram.com/ivestarship/
 Website:
@@ -15,8 +18,8 @@ Website:
   - https://ive-official.jp
 URL:
   - https://www.youtube.com/channel/UC-Fnix71vRP64WXeo0ikd0Q
-  - https://x.com/IVE_twt
   - https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ
+  - https://x.com/IVE_twt
 Wikis:
   - https://en.wikipedia.org/wiki/Ive_(group)
   - https://namu.wiki/w/IVE
@@ -24,15 +27,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[Starship Entertainment|Starship Ent.]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|
@@ -69,15 +64,15 @@ Related:
 
 ## EP
 
+* [[WAVE (IVE)|WAVE]] [1st Japanese EP] (2023.05.31)
 * [[I'VE MINE (IVE)|I'VE MINE]] [1st EP] (2023.10.13)
 * [[IVE SWITCH (IVE)|IVE SWITCH]] [2nd EP] (2024.04.29)
-* [[IVE EMPATHY (IVE)|IVE EMPATHY]] [3rd EP] (2025.02.03)
-* [[IVE SECRET (IVE)|IVE SECRET]] [4th EP] (2025.08.25)
-* [[Looks Can Kill (IVE)|Looks Can Kill]] [5th EP] (2026.10.26)
-* [[WAVE (IVE)|WAVE]] [1st Japanese EP] (2023.05.31)
 * [[ALIVE (IVE)|ALIVE]] [2nd Japanese EP] (2024.08.28)
+* [[IVE EMPATHY (IVE)|IVE EMPATHY]] [3rd EP] (2025.02.03)
 * [[Be Alright (IVE)|Be Alright]] [3rd Japanese EP] (2025.07.30)
+* [[IVE SECRET (IVE)|IVE SECRET]] [4th EP] (2025.08.25)
 * [[LUCID DREAM (IVE)|LUCID DREAM]] [4th Japanese EP] (2026.05.27)
+* [[Looks Can Kill (IVE)|Looks Can Kill]] [5th EP] (2026.10.26)
 
 ## Single
 

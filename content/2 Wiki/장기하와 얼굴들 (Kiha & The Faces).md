@@ -5,6 +5,7 @@ aliases:
   - 장얼
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Indie Rock]]"
 IG:
@@ -18,12 +19,6 @@ Wikis:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Band` (2008–2018) from South Korea
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

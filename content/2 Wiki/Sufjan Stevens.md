@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Indie Folk]]"
   - "[[Chamber Pop]]"
@@ -20,12 +21,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Singer-Songwriter` from [[Detroit]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

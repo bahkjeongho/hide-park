@@ -4,6 +4,7 @@ aliases:
   - The Boyz
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -24,12 +25,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

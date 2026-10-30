@@ -4,6 +4,7 @@ aliases:
   - Chrystia Cabral
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Progressive Pop]]"
   - "[[Experimental Pop]]"

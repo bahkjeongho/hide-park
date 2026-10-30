@@ -5,6 +5,7 @@ aliases:
   - Lillith
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
   - "[[Producer]]"
 Genre:
   - "[[Alternative R&B]]"
@@ -24,11 +25,6 @@ Wikis:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Singer-Songwriter` for [[Warner Records]]
-
-> [!Info]
-
 > [!Summary]
 > |   |   |
 > |---|---|

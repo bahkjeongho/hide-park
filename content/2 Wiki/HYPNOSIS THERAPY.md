@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 IG:
   - https://www.instagram.com/hypnosistherapy_/
 URL:

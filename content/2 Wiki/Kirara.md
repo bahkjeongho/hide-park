@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Electronic]]"
 Website:
@@ -8,12 +9,6 @@ Website:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Electronic Artist` from South Korea
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

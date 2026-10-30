@@ -3,6 +3,7 @@ aliases:
   - Annie Clark
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Art Rock]]"
   - "[[Indie Rock]]"

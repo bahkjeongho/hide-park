@@ -11,6 +11,16 @@ Genre:
   - "[[Hyperpop]]"
   - "[[EDM]]"
   - "[[R&B]]"
+Labels:
+  - "[[Titan Content]]"
+IG:
+  - https://www.instagram.com/atheart.titan
+Website:
+  - https://www.atheart.me/
+URL:
+  - https://www.youtube.com/@AtHeart_TITAN
+  - https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB
+  - https://x.com/atheart_titan
 Wikis:
   - https://namu.wiki/w/AtHeart
   - https://en.wikipedia.org/wiki/AtHeart
@@ -19,12 +29,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

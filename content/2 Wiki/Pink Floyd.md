@@ -3,6 +3,7 @@ aliases:
   - 핑크 플로이드
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Progressive Rock]]"
   - "[[Art Rock]]"

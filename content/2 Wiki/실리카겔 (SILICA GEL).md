@@ -5,6 +5,7 @@ aliases:
   - SILICA GEL
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Psychedelic Rock]]"
   - "[[Indie Rock]]"
@@ -22,12 +23,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Band` from [[Ansan]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

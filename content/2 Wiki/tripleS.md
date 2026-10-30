@@ -10,14 +10,16 @@ Genre:
   - "[[Pop]]"
   - "[[Dance-Pop]]"
   - "[[R&B]]"
+Labels:
+  - "[[MODHAUS]]"
 IG:
   - https://www.instagram.com/triplescosmos/
 Website:
   - https://www.triplescosmos.com
 URL:
   - https://www.youtube.com/channel/UCJnL-TBcsYrF2SLs7tmiC8Q
-  - https://x.com/triplescosmos
   - https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK
+  - https://x.com/triplescosmos
 Wikis:
   - https://namu.wiki/w/tripleS
   - https://en.wikipedia.org/wiki/TripleS
@@ -25,15 +27,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[MODHAUS]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

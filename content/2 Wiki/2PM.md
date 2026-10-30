@@ -9,11 +9,18 @@ Genre:
   - "[[K-Pop]]"
   - "[[Dance-Pop]]"
   - "[[R&B]]"
+Labels:
+  - "[[JYP ENTERTAINMENT]]"
 IG:
   - https://www.instagram.com/real_2pmstagram
+Website:
+  - http://2pm.jype.com/
 URL:
   - https://www.youtube.com/@2PM
+  - https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS
+  - https://x.com/follow_2pm
 Wikis:
+  - https://en.wikipedia.org/wiki/2PM
   - https://namu.wiki/w/2PM
 Cities:
   - "[[Seoul]]"

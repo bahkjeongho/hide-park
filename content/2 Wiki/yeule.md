@@ -4,6 +4,7 @@ aliases:
   - Nat Ćmiel
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Synth-pop]]"
   - "[[Ambient Pop]]"
@@ -26,12 +27,6 @@ Countries:
   - "[[Singapore]]"
   - "[[UK]]"
 ---
->[!tldr] tl;dr
->`Electronic Artist` based in [[London]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|
@@ -59,7 +54,6 @@ Countries:
 * [[Yeule (yeule)|Yeule]] [1st EP] (2014)
 * [[Pathos (yeule)|Pathos]] [2nd EP] (2016)
 * [[Coma (yeule)|Coma]] [3rd EP] (2017)
-* [[Serotonin X Remixes (yeule)|Serotonin X Remixes]] [Remix EP] (2021.07.30)
 
 ## Single
 

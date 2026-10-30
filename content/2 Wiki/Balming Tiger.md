@@ -4,6 +4,7 @@ aliases:
   - BALMING TIGER
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Alternative K-Pop]]"
 IG:
@@ -22,12 +23,6 @@ Countries:
 Related:
   - "[[CAM WITH US]]"
 ---
->[!tldr] tl;dr
->`Creative Collective` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|
@@ -57,7 +52,6 @@ Related:
 
 * [[Once Again (Balming Tiger)|Once Again]] [Single] (2018)
 * [[I'm Sick (Balming Tiger)|I'm Sick]] [Single] (2018)
-* [[Once Again (Remix) (Balming Tiger)|Once Again (Remix)]] [Single] (2019)
 * [[Armadillo (Balming Tiger)|Armadillo]] [Single] (2019)
 * [[Kolo Kolo (Balming Tiger)|Kolo Kolo]] [Single] (2020)
 * [[JUST FUN! - LOOP (Balming Tiger)|JUST FUN! - LOOP?]] [Single] (2021)

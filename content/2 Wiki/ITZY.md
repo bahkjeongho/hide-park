@@ -8,6 +8,8 @@ topic:
 Genre:
   - "[[K-Pop]]"
   - "[[Dance-Pop]]"
+Labels:
+  - "[[JYP ENTERTAINMENT]]"
 IG:
   - https://www.instagram.com/itzy.all.in.us/
 Website:
@@ -15,8 +17,8 @@ Website:
   - https://www.itzyjapan.com/
 URL:
   - https://www.youtube.com/channel/UCDhM2k2Cua-JdobAh5moMFg
-  - https://x.com/ITZYofficial
   - https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3
+  - https://x.com/ITZYofficial
 Wikis:
   - https://en.wikipedia.org/wiki/Itzy
   - https://namu.wiki/w/ITZY
@@ -24,15 +26,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[JYP ENTERTAINMENT|JYP Ent.]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

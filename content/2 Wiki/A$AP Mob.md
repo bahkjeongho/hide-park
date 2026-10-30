@@ -2,16 +2,25 @@
 topic:
   - "[[Music]]"
   - "[[Artist]]"
+Labels:
+  - "[[ASAP Worldwide]]"
+  - "[[AWGE]]"
+  - "[[Polo Grounds Music]]"
 IG:
   - https://www.instagram.com/asapmob/
-Wikis: https://en.wikipedia.org/wiki/ASAP_Mob
+Website:
+  - http://www.asapmob.com/
+URL:
+  - https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS
+  - https://x.com/asapmob
+Wikis:
+  - https://en.wikipedia.org/wiki/ASAP_Mob
+  - https://namu.wiki/w/A%24AP%20Mob
+Cities:
+  - "[[New York]]"
+Countries:
+  - "[[USA]]"
 ---
->[!tldr] tl;dr
->
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 |---|---|
@@ -22,17 +31,35 @@ Wikis: https://en.wikipedia.org/wiki/ASAP_Mob
 
 ---
 
-## Members
+# People
 
-- [[A$AP Perg]]
 - [[A$AP Rocky]]
 - [[A$AP Twelvyy]]
 - [[A$AP Nast]]
 - [[A$AP TyY]]
 - [[A$AP Bari]]
+- [[A$AP Perg]]
 - [[Playboi Carti]]
+- [[A$AP Yams]] `Former`
+- [[Chynna]] `Former`
 
-### Past Members
+---
 
-- [[A$AP Yams]]
-- [[Chynna]]
+# Discography
+
+## Studio Album
+
+* [[Cozy Tapes Vol. 1: Friends (A$AP Mob)|Cozy Tapes Vol. 1: Friends]] [Studio Album] (2016.10.31)
+* [[Cozy Tapes Vol. 2: Too Cozy (A$AP Mob)|Cozy Tapes Vol. 2: Too Cozy]] [Studio Album] (2017.08.25)
+
+## EP
+
+- 
+
+## Single
+
+- 
+
+## Live Album & Etc.
+
+* [[Lords Never Worry (A$AP Mob)|Lords Never Worry]] [Mixtape] (2012.08.28)

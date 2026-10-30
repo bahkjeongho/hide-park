@@ -3,6 +3,7 @@ aliases:
   - BCNR
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Art Rock]]"
   - "[[Chamber Pop]]"
@@ -23,12 +24,6 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
->[!tldr] tl;dr
->`Band` from [[Cambridge]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

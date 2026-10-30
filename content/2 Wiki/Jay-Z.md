@@ -6,6 +6,7 @@ aliases:
   - Shawn Carter
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[East Coast Hip-Hop]]"
   - "[[Mafioso Rap]]"
@@ -26,12 +27,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Rapper` for [[Roc Nation]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

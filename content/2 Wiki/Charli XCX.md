@@ -9,26 +9,23 @@ Genre:
   - "[[Dance-Pop]]"
   - "[[Synth-Pop]]"
   - "[[Hyperpop]]"
+Labels:
+  - "[[Atlantic Records]]"
+  - "[[Asylum Records]]"
 IG:
   - https://www.instagram.com/charli_xcx/
 Website:
   - https://charlixcx.com/
 URL:
-  - https://x.com/charli_xcx
   - https://www.youtube.com/channel/UCOvEMf00DnwdkpOCRWdc6uA
   - https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5
+  - https://x.com/charli_xcx
 Wikis:
   - https://en.wikipedia.org/wiki/Charli_XCX
   - https://namu.wiki/w/%EC%B0%B0%EB%A6%AC%20XCX
 Countries:
   - "[[UK]]"
 ---
->[!tldr] tl;dr
->`Singer` for [[Atlantic Records]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|
@@ -36,7 +33,6 @@ Countries:
 > |Born|Charlotte Emma Aitchison <br> (1992-08-02) 2 August 1992 <br> Cambridge, England|
 > |Occupations|Singer<br>songwriter<br>actress|
 > |Years active|2008–present|
-> |Spouse|George Daniel(m. 2025)​|
 > |Origin|Start Hill, Essex, England|
 > |Genres|Electropop<br>dance-pop<br>synth-pop<br>hyperpop|
 > |Labels|Vroom Vroom<br>Atlantic<br>Warner<br>Asylum<br>Iamsound|
@@ -112,14 +108,14 @@ Countries:
 
 ## Live Album & Etc.
 
-* [[Spotify Sessions (Charli XCX)|Spotify Sessions]] [Live EP] (2015.06.05)
-* [[iTunes Festival- London 2012 (Charli XCX)|iTunes Festival: London 2012]] [Live EP] (2012.09.10)
-* [[Live from Austin (Charli XCX)|Live from Austin]] [Live Album] (2020.07.10)
 * [[Heartbreaks and Earthquakes (Charli XCX)|Heartbreaks and Earthquakes]] [Mixtape] (2012.06.12)
+* [[iTunes Festival- London 2012 (Charli XCX)|iTunes Festival: London 2012]] [Live EP] (2012.09.10)
 * [[Super Ultra (Charli XCX)|Super Ultra]] [Mixtape] (2012.11.07)
+* [[Spotify Sessions (Charli XCX)|Spotify Sessions]] [Live EP] (2015.06.05)
 * [[Number 1 Angel (Charli XCX)|Number 1 Angel]] [Mixtape] (2017.03.10)
 * [[Pop 2 (Charli XCX)|Pop 2]] [Mixtape] (2017.12.15)
 * [[Number 1 Angel-Pop 2 (Charli XCX)|Number 1 Angel / Pop 2]] [Compilation Album] (2018.04.20)
-* [[Bottoms (Original Motion Picture Score) (Charli XCX)|BOTTOMS (Original Motion Picture Score)]] [Soundtrack Album] (2023.08.25)
+* [[Live from Austin (Charli XCX)|Live from Austin]] [Live Album] (2020.07.10)
 * [[Boiler Room- Charli XCX, How I'm Feeling Now, May 2020 (DJ Mix) (Charli XCX)|Boiler Room: Charli XCX, How I'm Feeling Now, May 2020 (DJ Mix)]] [DJ Mix Album] (2020.09.25)
 * [[NYE 2022 (Charli XCX)|NYE 2022]] [DJ Mix Album] (2021.12.23)
+* [[Bottoms (Original Motion Picture Score) (Charli XCX)|BOTTOMS (Original Motion Picture Score)]] [Soundtrack Album] (2023.08.25)

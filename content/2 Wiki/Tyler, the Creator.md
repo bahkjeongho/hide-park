@@ -4,6 +4,7 @@ aliases:
   - Tyler, The Creator
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Alternative Hip Hop]]"
   - "[[Neo Soul]]"
@@ -29,12 +30,6 @@ Countries:
 Related:
   - "[[Odd Future]]"
 ---
->[!tldr] tl;dr
->`Rapper` for [[Columbia Records]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

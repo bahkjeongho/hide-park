@@ -9,6 +9,15 @@ topic:
 Genre:
   - "[[K-Pop]]"
   - "[[Dance-Pop]]"
+Labels:
+  - "[[P NATION]]"
+IG:
+  - https://www.instagram.com/babydontcry.offcl
+Website:
+  - https://pnation.com/artists/17
+URL:
+  - https://www.youtube.com/@BabyDONTCry.official
+  - https://x.com/BabyDONTCry_BDC
 Wikis:
   - https://namu.wiki/w/Baby%20DONT%20Cry
   - https://en.wikipedia.org/wiki/Baby_Dont_Cry
@@ -17,12 +26,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

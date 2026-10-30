@@ -4,6 +4,7 @@ aliases:
   - Sly Tendencies
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[West Coast Hip Hop]]"
   - "[[Alternative Hip Hop]]"
@@ -23,12 +24,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Rapper` & `Producer` from [[Chicago]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

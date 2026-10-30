@@ -5,6 +5,7 @@ aliases:
   - Broccoli, You Too?
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Indie Rock]]"
   - "[[Indie Pop]]"
@@ -21,12 +22,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Band` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

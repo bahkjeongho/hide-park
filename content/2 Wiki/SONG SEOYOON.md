@@ -9,10 +9,16 @@ Related:
   - "[[newyearasia]]"
 ---
 >[!tldr] tl;dr
->
+>뉴욕에서 패션을 공부하고 글로벌 브랜드의 크리에이티브 디렉터를 지낸 디렉터
 
 > [!Info]
+> Song Seoyoon은 세련된 미적 감각과 폭넓은 문화적 맥락을 활용해 자신만의 독특한 시각 언어를 발전시킨 디렉터다. 처음에는 뉴욕에서 패션을 공부했고, 글로벌 브랜드의 크리에이티브 디렉터로 일했으며, 전자음악에 대한 깊은 이해를 바탕으로 자기 이름의 앨범도 발표했다. 하이엔드 비주얼과 서브컬처 감수성을 오가며 폭넓은 문화 스펙트럼의 경험으로 패션 필름과 뮤직비디오 전반에서 실험적이고 강렬한 이미지를 만든다.
+>
 > Song Seoyoon is a director who has developed her own distinctive visual language employing a refined sense of aesthetics and a wide range of cultural contexts. Initially studied fashion in New York, she has worked as a creative director for global brands, but also released an album under her own name based on her deep understanding of electronic music. Traversing between high-end visuals and subcultural sensibilities with her experiences of a wide cultural spectrum, Song creates experimental and striking imagery across fashion films and music videos.
+
+> [!Summary]
+
+---
 
 # {{title}}
 

@@ -13,26 +13,24 @@ Genre:
   - "[[West Coast Hip-Hop]]"
   - "[[Gangsta Rap]]"
   - "[[G-Funk]]"
+Labels:
+  - "[[Aftermath Entertainment]]"
+  - "[[Interscope Records]]"
+  - "[[Death Row Records]]"
 IG:
   - https://www.instagram.com/drdre/
 Website:
   - https://drdre.com/
 URL:
-  - https://x.com/drdre
   - https://www.youtube.com/channel/UCx4Lxn5CzeG99X01__YsJpw
   - https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7
+  - https://x.com/drdre
 Wikis:
   - https://en.wikipedia.org/wiki/Dr._Dre
   - https://namu.wiki/w/%EB%8B%A5%ED%84%B0%20%EB%93%9C%EB%A0%88
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Record Producer` for [[Aftermath Entertainment]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|
@@ -41,8 +39,6 @@ Countries:
 > |Other names|Dre<br>Brickhard<br>The Mechanic|
 > |Occupations|Rapper<br>songwriter<br>record producer<br>entrepreneur<br>record executive<br>DJ<br>actor|
 > |Years active|1984–present|
-> |Spouse|Nicole Plotzker(m. 1996; div. 2021)​|
-> |Children|8|
 > |Relatives|Sir Jinx (cousin)<br>Warren G (step-brother)<br>Olaijah Griffin (step-nephew)|
 > |Genres|West Coast hip-hop<br>gangsta rap<br>G-funk|
 > |Instruments|Vocals<br>synthesizer<br>keyboards<br>turntables<br>drum machine<br>sampler|

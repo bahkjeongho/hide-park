@@ -6,6 +6,7 @@ aliases:
   - Kwon Hyuk
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Alternative R&B]]"
 IG:
@@ -21,12 +22,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Singer-Songwriter` & `Producer` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

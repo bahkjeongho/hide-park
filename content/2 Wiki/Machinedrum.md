@@ -7,6 +7,7 @@ aliases:
   - Aden
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[IDM]]"
   - "[[House]]"
@@ -24,12 +25,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Record Producer` from [[Eden]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

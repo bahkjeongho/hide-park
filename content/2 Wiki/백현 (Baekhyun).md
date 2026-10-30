@@ -5,6 +5,7 @@ aliases:
   - 변백현
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -26,12 +27,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Singer` of [[EXO]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

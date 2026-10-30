@@ -9,14 +9,16 @@ Genre:
   - "[[K-Pop]]"
   - "[[Dance-Pop]]"
   - "[[Hip Hop]]"
+Labels:
+  - "[[Great M Entertainment]]"
 IG:
   - https://www.instagram.com/82major_official/
 Website:
   - https://greatment.co.kr/ko/82major
 URL:
   - https://www.youtube.com/channel/UC6H_3Rv-q8Z23jtMofgPGsw
-  - https://x.com/82MAJOR_231011
   - https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663
+  - https://x.com/82MAJOR_231011
 Wikis:
   - https://namu.wiki/w/82MAJOR
   - https://en.wikipedia.org/wiki/82Major
@@ -25,12 +27,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

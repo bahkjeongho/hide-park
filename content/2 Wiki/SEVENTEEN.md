@@ -11,14 +11,17 @@ Genre:
   - "[[Hip Hop]]"
   - "[[Ballad]]"
   - "[[Dance-Pop]]"
+Labels:
+  - "[[Pledis ENTERTAINMENT]]"
+  - "[[HYBE]]"
 IG:
   - https://www.instagram.com/saythename_17/
 Website:
   - https://www.pledis.co.kr/ko/artist/detail/seventeen
 URL:
   - https://www.youtube.com/channel/UC0gpUnoyhu44aS3-NxYs7rg
-  - https://x.com/pledis_17
   - https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH
+  - https://x.com/pledis_17
   - https://soundcloud.com/pledis_seventeen
 Wikis:
   - https://en.wikipedia.org/wiki/Seventeen_(South_Korean_band)
@@ -28,12 +31,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

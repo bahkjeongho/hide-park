@@ -5,6 +5,7 @@ aliases:
   - SHIN JIHOON
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[K-Pop]]"
 IG:
@@ -19,12 +20,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Singer` for 지훈이회사
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

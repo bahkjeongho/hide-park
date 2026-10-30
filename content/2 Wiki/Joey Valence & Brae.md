@@ -3,6 +3,7 @@ aliases:
   - JVB
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Punk Rap]]"
   - "[[Rap Rock]]"

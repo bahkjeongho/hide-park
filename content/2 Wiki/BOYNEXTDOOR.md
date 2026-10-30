@@ -9,6 +9,9 @@ Genre:
   - "[[K-Pop]]"
   - "[[Dance-Pop]]"
   - "[[Hip Hop]]"
+Labels:
+  - "[[KOZ ENTERTAINMENT]]"
+  - "[[HYBE]]"
 IG:
   - https://www.instagram.com/boynextdoor_official/
 Website:
@@ -16,8 +19,8 @@ Website:
   - https://boynextdoor-official.jp/
 URL:
   - https://www.youtube.com/channel/UChhKBlh_wvspTh5n4mL0b5g
-  - https://x.com/BOYNEXTDOOR_KOZ
   - https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1
+  - https://x.com/BOYNEXTDOOR_KOZ
 Wikis:
   - https://namu.wiki/w/BOYNEXTDOOR
   - https://en.wikipedia.org/wiki/Boynextdoor
@@ -25,15 +28,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[HYBE]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -3,6 +3,7 @@ aliases:
   - フィッシュマンズ
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Dub]]"
   - "[[Neo-Psychedelia]]"
@@ -22,12 +23,6 @@ Cities:
 Countries:
   - "[[Japan]]"
 ---
->[!tldr] tl;dr
->`Band` from [[Tokyo]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

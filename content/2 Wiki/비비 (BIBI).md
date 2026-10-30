@@ -6,6 +6,7 @@ aliases:
   - Kim Hyeong-seo
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[R&B]]"
 IG:
@@ -20,12 +21,6 @@ Wikis:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Singer-Songwriter` for [[Feel Ghood Music]] & [[88rising]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

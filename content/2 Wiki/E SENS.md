@@ -5,6 +5,7 @@ aliases:
   - Esens
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Hip Hop]]"
 IG:
@@ -18,12 +19,6 @@ Wikis:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Rapper` for [[munn company]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

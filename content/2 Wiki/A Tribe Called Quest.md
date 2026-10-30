@@ -3,6 +3,7 @@ aliases:
   - ATCQ
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[East Coast Hip-Hop]]"
   - "[[Jazz Rap]]"

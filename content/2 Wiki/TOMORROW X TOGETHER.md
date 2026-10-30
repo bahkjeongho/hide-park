@@ -10,6 +10,9 @@ Genre:
   - "[[K-Pop]]"
   - "[[Dance-Pop]]"
   - "[[R&B]]"
+Labels:
+  - "[[BIGHIT MUSIC]]"
+  - "[[HYBE]]"
 IG:
   - https://www.instagram.com/txt_bighit/
 Website:
@@ -17,8 +20,8 @@ Website:
   - https://www.ibighit.com/txt/eng/
 URL:
   - https://www.youtube.com/channel/UCtiObj3CsEAdNU6ZPWDsddQ
-  - https://x.com/TXT_members
   - https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB
+  - https://x.com/TXT_members
 Wikis:
   - https://namu.wiki/w/TOMORROW%20X%20TOGETHER
   - https://en.wikipedia.org/wiki/Tomorrow_X_Together
@@ -26,15 +29,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[BIGHIT MUSIC]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -3,6 +3,7 @@ aliases:
   - Adrian Thaws
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Trip Hop]]"
   - "[[Electronic]]"

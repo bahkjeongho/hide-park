@@ -6,6 +6,7 @@ aliases:
   - Caustic Window
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Electronic]]"
   - "[[IDM]]"
@@ -29,12 +30,6 @@ Countries:
   - "[[Ireland]]"
   - "[[UK]]"
 ---
->[!tldr] tl;dr
->`Electronic Musician` & `Record Producer` for [[Warp Records]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

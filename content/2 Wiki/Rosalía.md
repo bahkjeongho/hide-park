@@ -4,6 +4,7 @@ aliases:
   - 로살리아
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Flamenco Pop]]"
   - "[[Urbano]]"

@@ -3,6 +3,7 @@ aliases:
   - Ciccone Youth
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Noise Rock]]"
   - "[[Indie Rock]]"

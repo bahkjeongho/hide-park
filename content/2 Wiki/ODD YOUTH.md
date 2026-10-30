@@ -8,9 +8,14 @@ topic:
 Genre:
   - "[[K-Pop]]"
   - "[[Dance-Pop]]"
+Labels:
+  - "[[TOP Media]]"
 IG:
   - https://www.instagram.com/oddyouth_official/
+Website:
+  - http://itopgroup.com/bbs/page.php
 URL:
+  - https://www.youtube.com/@ODD_YOUTH
   - https://x.com/oddyouth_offcl
 Wikis:
   - https://namu.wiki/w/ODD%20YOUTH
@@ -20,12 +25,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

@@ -12,14 +12,18 @@ Genre:
   - "[[Trap]]"
   - "[[Pop Rap]]"
   - "[[Psychedelic Rap]]"
+Labels:
+  - "[[Grand Hustle]]"
+  - "[[Epic Records]]"
+  - "[[Cactus Jack Records]]"
 IG:
   - https://www.instagram.com/travisscott/
 Website:
   - https://www.travisscott.com/
 URL:
   - https://www.youtube.com/channel/UCtxdfwb9wfkoGocVUAJ-Bmg
-  - https://x.com/trvisXX
   - https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY
+  - https://x.com/trvisXX
   - https://soundcloud.com/travisscott-2
 Wikis:
   - https://en.wikipedia.org/wiki/Travis_Scott
@@ -29,12 +33,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Rapper` for [[Cactus Jack Records]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

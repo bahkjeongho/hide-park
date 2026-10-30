@@ -4,6 +4,7 @@ aliases:
   - Jambinai
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 IG:
   - https://www.instagram.com/jambinai
 Wikis:

@@ -4,6 +4,7 @@ aliases:
   - Lightspeed Champion
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Alternative R&B]]"
   - "[[Progressive R&B]]"

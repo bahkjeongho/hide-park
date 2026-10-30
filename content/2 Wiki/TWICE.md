@@ -4,6 +4,7 @@ aliases:
   - Twice
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -27,12 +28,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Girl Group` for [[JYP Entertainment]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

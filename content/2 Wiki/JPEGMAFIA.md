@@ -4,6 +4,7 @@ aliases:
   - Peggy
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Experimental Hip Hop]]"
   - "[[Alternative Hip Hop]]"
@@ -24,12 +25,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Rapper` & `Producer` from [[Baltimore]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

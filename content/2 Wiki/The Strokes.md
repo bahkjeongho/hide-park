@@ -3,6 +3,7 @@ aliases:
   - 스트록스
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Indie Rock]]"
   - "[[Garage Rock Revival]]"

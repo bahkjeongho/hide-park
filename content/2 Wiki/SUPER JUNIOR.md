@@ -5,6 +5,7 @@ aliases:
   - Super Junior
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
@@ -24,12 +25,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Boy Group` for [[SM Entertainment]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

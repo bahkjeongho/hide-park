@@ -6,6 +6,7 @@ aliases:
   - Pluto
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Trap]]"
   - "[[Southern Hip Hop]]"
@@ -26,12 +27,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Rapper` from [[Atlanta]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

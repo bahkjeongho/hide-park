@@ -5,6 +5,7 @@ aliases:
   - Skateboard P
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Hip Hop]]"
   - "[[R&B]]"
@@ -30,12 +31,6 @@ Related:
   - "[[N.E.R.D.]]"
   - "[[the Neptunes]]"
 ---
->[!tldr] tl;dr
->`Producer` of [[The Neptunes]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

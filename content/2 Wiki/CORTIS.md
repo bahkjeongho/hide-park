@@ -7,6 +7,9 @@ topic:
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
+Labels:
+  - "[[BIGHIT MUSIC]]"
+  - "[[HYBE]]"
 IG:
   - https://www.instagram.com/cortis/
 Website:
@@ -21,17 +24,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[BIGHIT MUSIC]]"
-  - "[[HYBE]]"
-  - "[[BIGHIT MUSIC]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

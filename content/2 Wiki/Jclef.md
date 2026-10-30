@@ -4,6 +4,7 @@ aliases:
   - 허영진
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Hip Hop]]"
   - "[[R&B]]"

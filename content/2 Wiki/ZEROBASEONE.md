@@ -11,14 +11,16 @@ Genre:
   - "[[J-Pop]]"
   - "[[Dance-Pop]]"
   - "[[R&B]]"
+Labels:
+  - "[[WAKEONE]]"
 IG:
   - https://www.instagram.com/zb1official/
 Website:
   - https://wake-one.com/artists/zerobaseone
 URL:
   - https://www.youtube.com/channel/UCSAp0Yl9S0Zq5uDqE6im_XQ
-  - https://x.com/ZB1_official
   - https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n
+  - https://x.com/ZB1_official
 Wikis:
   - https://namu.wiki/w/ZEROBASEONE
   - https://en.wikipedia.org/wiki/Zerobaseone
@@ -26,15 +28,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[WAKE ONE]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

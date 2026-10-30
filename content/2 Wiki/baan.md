@@ -21,30 +21,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Rock Band` based in [[Busan]]
-
-> [!Info]
-> 지루하지 않은 둠
->
-> 울지 않는 스크리모
->
-> 마초적이지 않은 하드코어
->
-> 형편없지 않은 슈게이즈
->
-> 연락은 인스타그램으로
->
-> Doom but not boring
->
-> Screamo but not crying
->
-> Hardcore but not macho
->
-> Shoegaze but not sucks
->
-> Contact via insta
-
 > [!Summary]
 > |   |   |
 > |---|---|

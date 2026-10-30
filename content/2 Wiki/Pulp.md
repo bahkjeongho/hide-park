@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Britpop]]"
   - "[[Art Rock]]"
@@ -21,12 +22,6 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
->[!tldr] tl;dr
->`Band` from [[Sheffield]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

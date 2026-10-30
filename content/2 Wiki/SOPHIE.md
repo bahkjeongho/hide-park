@@ -3,6 +3,7 @@ aliases:
   - Sophie Xeon
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Electronic]]"
   - "[[Hyperpop]]"

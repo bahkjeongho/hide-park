@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[French House]]"
   - "[[Electronic]]"
@@ -21,12 +22,6 @@ Cities:
 Countries:
   - "[[France]]"
 ---
->[!tldr] tl;dr
->`Duo` from [[Paris]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

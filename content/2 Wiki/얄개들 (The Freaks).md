@@ -4,6 +4,7 @@ aliases:
   - The Freaks
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Wikis:
   - https://namu.wiki/w/%EC%96%84%EA%B0%9C%EB%93%A4
 Countries:

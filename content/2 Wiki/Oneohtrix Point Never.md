@@ -5,6 +5,7 @@ aliases:
   - Daniel Lopatin
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Electronic]]"
   - "[[Experimental]]"
@@ -25,12 +26,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Electronic Musician` from [[Boston]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

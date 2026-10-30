@@ -4,6 +4,7 @@ aliases:
   - Bulssazo
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Shoegaze]]"
   - "[[Dream Pop]]"
@@ -17,12 +18,6 @@ Wikis:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Shoegaze Band` for [[Pastel Music]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

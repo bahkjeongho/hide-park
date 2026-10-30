@@ -5,6 +5,7 @@ aliases:
   - olivia offseason
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Hyperpop]]"
   - "[[Electropop]]"
@@ -25,12 +26,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Singer-Songwriter` & `Producer` from [[San Francisco]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

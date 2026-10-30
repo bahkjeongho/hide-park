@@ -9,6 +9,8 @@ Genre:
   - "[[K-Pop]]"
   - "[[Dance-Pop]]"
   - "[[R&B]]"
+Labels:
+  - "[[SM ENTERTAINMENT]]"
 IG:
   - https://www.instagram.com/redvelvet.smtown/
 Website:
@@ -16,8 +18,8 @@ Website:
   - https://redvelvet-jp.net/
 URL:
   - https://www.youtube.com/@redvelvet
-  - https://x.com/RVsmtown
   - https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM
+  - https://x.com/RVsmtown
 Wikis:
   - https://namu.wiki/w/Red%20Velvet
   - https://en.wikipedia.org/wiki/Red_Velvet_(group)
@@ -25,15 +27,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[SM ENTERTAINMENT|SM ENT.]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

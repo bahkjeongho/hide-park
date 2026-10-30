@@ -3,6 +3,7 @@ aliases:
   - 팎
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Post-Hardcore]]"
   - "[[Post-Rock]]"
@@ -17,12 +18,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Post-Hardcore Band` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

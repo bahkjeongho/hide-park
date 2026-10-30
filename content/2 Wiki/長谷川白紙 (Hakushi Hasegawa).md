@@ -4,6 +4,7 @@ aliases:
   - 하세가와 하쿠시
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 IG:
   - https://www.instagram.com/hsgwhks/
 Website:

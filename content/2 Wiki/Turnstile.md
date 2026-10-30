@@ -3,6 +3,7 @@ aliases:
   - The Everything-You-Knows
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Hardcore Punk]]"
   - "[[Melodic Hardcore]]"

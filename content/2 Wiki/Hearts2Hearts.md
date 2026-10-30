@@ -8,14 +8,16 @@ topic:
 Genre:
   - "[[K-Pop]]"
   - "[[Dance-Pop]]"
+Labels:
+  - "[[SM ENTERTAINMENT]]"
 IG:
   - https://www.instagram.com/hearts2hearts/
 Website:
   - https://hearts2heartsofficial.jp/
 URL:
   - https://www.youtube.com/@hearts2hearts.official
-  - https://x.com/Hearts2Hearts
   - https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ
+  - https://x.com/Hearts2Hearts
 Wikis:
   - https://namu.wiki/w/Hearts2Hearts
   - https://en.wikipedia.org/wiki/Hearts2Hearts
@@ -24,12 +26,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

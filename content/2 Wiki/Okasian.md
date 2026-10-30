@@ -6,6 +6,7 @@ aliases:
   - KZN
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Hip Hop]]"
 IG:
@@ -20,12 +21,6 @@ Countries:
   - "[[South Korea]]"
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Rapper` for [[THEBLACKLABEL]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

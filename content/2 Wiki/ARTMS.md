@@ -8,11 +8,14 @@ topic:
 Genre:
   - "[[K-Pop]]"
   - "[[Dance-Pop]]"
+Labels:
+  - "[[MODHAUS]]"
 IG:
   - https://www.instagram.com/official_artms/
 Website:
   - https://artms-strategy.com
 URL:
+  - https://www.youtube.com/@official_artms
   - https://x.com/official_artms
 Wikis:
   - https://namu.wiki/w/ARTMS
@@ -21,16 +24,7 @@ Cities:
   - "[[Seoul]]"
 Countries:
   - "[[South Korea]]"
-Related:
-  - "[[MODHAUS]]"
-  - "[[MODHAUS]]"
 ---
->[!tldr] tl;dr
->`Girl Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

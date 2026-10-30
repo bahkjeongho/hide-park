@@ -5,6 +5,7 @@ aliases:
   - Fred
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
   - "[[Producer]]"
   - "[[DJ]]"
 Genre:
@@ -29,11 +30,6 @@ Cities:
 Countries:
   - "[[UK]]"
 ---
->[!tldr] tl;dr
->`Producer & DJ` for [[Atlantic Records UK]]
-
-> [!Info]
-
 > [!Summary]
 > |   |   |
 > |---|---|

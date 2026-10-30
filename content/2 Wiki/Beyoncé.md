@@ -5,6 +5,7 @@ aliases:
   - Queen Bey
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[R&B]]"
   - "[[Pop]]"
@@ -26,12 +27,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Singer-Songwriter` for [[Parkwood Entertainment]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

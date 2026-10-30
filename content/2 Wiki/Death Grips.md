@@ -8,14 +8,18 @@ Genre:
   - "[[Industrial Hip-Hop]]"
   - "[[Punk Rap]]"
   - "[[Electropunk]]"
+Labels:
+  - "[[Third Worlds]]"
+  - "[[Harvest Records]]"
+  - "[[Epic Records]]"
 IG:
   - https://www.instagram.com/bbpoltergiest/
 Website:
   - http://thirdworlds.net/
 URL:
-  - https://x.com/deathgrippin
   - https://www.youtube.com/channel/UCuq1H-HXWoW4JL-hX5bWxzw
   - https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH
+  - https://x.com/deathgrippin
 Wikis:
   - https://en.wikipedia.org/wiki/Death_Grips
   - https://namu.wiki/w/Death%20Grips
@@ -24,12 +28,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Band` based in [[Sacramento]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

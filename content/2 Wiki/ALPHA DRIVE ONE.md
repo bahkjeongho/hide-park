@@ -11,8 +11,15 @@ Genre:
   - "[[Dance-Pop]]"
   - "[[Hip Hop]]"
   - "[[R&B]]"
+Labels:
+  - "[[WAKEONE]]"
 IG:
   - https://www.instagram.com/ald1.official/
+Website:
+  - https://wake-one.com/artists/alpha-drive-one/
+URL:
+  - https://www.youtube.com/channel/UCC4wzWbk_zdQNZstCwcfFLA
+  - https://x.com/ALD1_official
 Wikis:
   - https://namu.wiki/w/ALPHA%20DRIVE%20ONE
   - https://en.wikipedia.org/wiki/Alpha_Drive_One
@@ -21,12 +28,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

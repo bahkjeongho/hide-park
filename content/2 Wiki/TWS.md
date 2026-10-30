@@ -7,14 +7,17 @@ topic:
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"
+Labels:
+  - "[[Pledis ENTERTAINMENT]]"
+  - "[[HYBE]]"
 IG:
   - https://www.instagram.com/tws_pledis/
 Website:
   - https://www.pledis.co.kr/artist/detail/TWS/
 URL:
   - https://www.youtube.com/channel/UC8C6QOPDVYwmuaSBZksefdg
-  - https://x.com/tws_pledis
   - https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz
+  - https://x.com/tws_pledis
 Wikis:
   - https://namu.wiki/w/TWS
   - https://en.wikipedia.org/wiki/TWS_(group)
@@ -23,12 +26,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Boy Group` based in [[Seoul]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

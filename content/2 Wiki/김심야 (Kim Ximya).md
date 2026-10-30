@@ -5,6 +5,7 @@ aliases:
   - 김동현
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Hip Hop]]"
 IG:
@@ -19,12 +20,6 @@ Cities:
 Countries:
   - "[[South Korea]]"
 ---
->[!tldr] tl;dr
->`Rapper` & `Producer` for [[Beasts And Natives Alike]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|

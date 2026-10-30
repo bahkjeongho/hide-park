@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Music]]"
+  - "[[Artist]]"
 Genre:
   - "[[Hyperpop]]"
   - "[[Experimental Pop]]"
@@ -18,12 +19,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
->[!tldr] tl;dr
->`Duo` from [[St. Louis]]
-
-> [!Info]
-> 
-
 > [!Summary]
 > |   |   |
 > |---|---|
