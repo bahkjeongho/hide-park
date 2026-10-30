@@ -13,8 +13,6 @@ Countries:
 ---
 <iframe src="https://naranjoetxeberria.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://naranjoetxeberria.com/wp-content/uploads/2024/01/FAVICON_V03.png" alt="NARANJO-ETXEBERRIA logo" width="96">
-
 >[!tldr] tl;dr
 >2014년 마드리드에서 시작한 그래픽 디자인 중심의 크리에이티브 프로젝트
 

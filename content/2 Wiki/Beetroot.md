@@ -11,8 +11,6 @@ URL:
 ---
 <iframe src="https://beetroot.gr/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://beetroot.gr/beetroot-site/assets/images/icons/icon2.png" alt="Beetroot logo" width="96">
-
 >[!tldr] tl;dr
 >색, 형태, 소리, 아이디어를 섞어 브랜드를 만드는 스튜디오
 

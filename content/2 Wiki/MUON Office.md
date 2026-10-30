@@ -5,8 +5,6 @@ IG:
   - https://www.instagram.com/muon_office
 Website: http://muon-office.com/
 ---
-<img src="https://muon-office.com/img/logo-v2.png" alt="MUON Office logo" width="160">
-
 >[!tldr] tl;dr
 >브랜드·아티스트 아이덴티티와 앨범 디자인을 다루는 디자인 스튜디오
 

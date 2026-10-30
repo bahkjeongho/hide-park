@@ -16,8 +16,6 @@ Countries:
 ---
 <iframe src="https://huskyfox.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://huskyfox.com/img/hf_social.jpg" alt="HuskyFox logo" width="140">
-
 >[!tldr] tl;dr
 >서울 강남의 브랜드 아이덴티티 디자인 컨설턴시
 

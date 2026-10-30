@@ -13,8 +13,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<img src="https://works.studio/_next/image?url=%2Fimages%2Flogo-black.png&w=3000&q=96" alt="WØRKS logo" width="200">
-
 >[!tldr] tl;dr
 >뉴욕의 문화 중심 전략·비주얼 아이덴티티·크리에이티브 디렉션 스튜디오
 
@@ -29,15 +27,15 @@ Countries:
 
 # Portfolio
 
-<video src="https://videos.works.studio/U7oShXhEQLaCOh-Uz_Q90w-works_virginmusic_hero_av1.mp4" loop autoplay muted style="border: 0; border-radius: 18px;"> </video>
+<video src="https://videos.works.studio/U7oShXhEQLaCOh-Uz_Q90w-works_virginmusic_hero_av1.mp4" loop autoplay muted style="border: 0; border-radius: 18px;" playsinline> </video>
 
 - [[Virgin Music]] [Link](https://works.studio/work/virgin-music-brand-identity)
 
-<video src="https://videos.works.studio/KnoA_5WiSqyU3YHLoqMPoQ-works_nikeskims_positioning-identity_40_vp9.webm" autoplay loop muted style="border: 0; border-radius: 18px;"> </video>
+<video src="https://videos.works.studio/KnoA_5WiSqyU3YHLoqMPoQ-works_nikeskims_positioning-identity_40_vp9.webm" autoplay loop muted style="border: 0; border-radius: 18px;" playsinline> </video>
 
 - [[NIKE]] [[SKIMS]] [Link](https://works.studio/work/nikeskims-positioning-identity)
 
-<video src="https://videos.works.studio/GqA3KlJNQZCsU1ZBssFzdg-works_erthos_brandidentity_01_av1.mp4" loop autoplay muted style="border: 0; border-radius: 18px;"> </video>
+<video src="https://videos.works.studio/GqA3KlJNQZCsU1ZBssFzdg-works_erthos_brandidentity_01_av1.mp4" loop autoplay muted playsinline style="border: 0; border-radius: 18px;"> </video>
 
 - erthos [Link](https://works.studio/work/erthos-brand-identity)
 

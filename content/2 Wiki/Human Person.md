@@ -10,8 +10,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<img src="https://humanperson.com/apple-icon-57x57.png" alt="Human Person logo" width="96">
-
 >[!tldr] tl;dr
 >`Creative Show Direction` for [[Justin Bieber]], [[BTS]], [[Fred again..]], etc.
 

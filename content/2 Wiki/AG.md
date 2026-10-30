@@ -14,8 +14,6 @@ Countries:
 ---
 <iframe src="https://ag.co.kr/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="http://ag.co.kr/media/site/e32c2c5f32-1776757984/favicon-192x.png" alt="AG logo" width="96">
-
 >[!tldr] tl;dr
 >1985년 안상수가 설립한 서울의 종합 디자인 그룹
 

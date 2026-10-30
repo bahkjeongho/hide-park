@@ -20,8 +20,6 @@ Countries:
 Related:
   - "[[Eidra]]"
 ---
-<img src="https://cdn.sanity.io/images/0y14le4e/production/821a6d2cf56e4d6dc8b1c664d3b5cc7bfc7277ab-1200x630.png?fit=max&auto=format" alt="Kurppa Hosk logo" width="140">
-
 >[!tldr] tl;dr
 >스톡홀름·오슬로·뉴욕·시카고·런던에 오피스를 둔 브랜드 에이전시(Eidra 소속)
 
@@ -47,7 +45,7 @@ Tech-driven and human-led, Kurppa Hosk is built for brands in the decisive momen
 
 # Portfolio
 
-<video src="https://stream.mux.com/7NbUxfKLKi5FXCWZAJ02qxgiGkIfzB009TuVmrVlnP02NY.m3u8?min_resolution=720p&rendition_order=desc&redundant_streams=true" autoplay loop></video>
+<video src="https://stream.mux.com/7NbUxfKLKi5FXCWZAJ02qxgiGkIfzB009TuVmrVlnP02NY.m3u8?min_resolution=720p&rendition_order=desc&redundant_streams=true" autoplay loop playsinline muted></video>
 
 - Boundary Layer Technologies [Link](https://www.kurppahosk.com/work/boundary-layer-technologies)
 

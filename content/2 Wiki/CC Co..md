@@ -13,8 +13,6 @@ Related:
 ---
 <iframe src="https://cc-co.org/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://cc-co.org/wp-content/themes/ccco/images/logo_ccco.svg" alt="CC Co. logo" width="200">
-
 >[!tldr] tl;dr
 >Crack Magazine이 만든 런던의 풀서비스 크리에이티브 컴퍼니
 

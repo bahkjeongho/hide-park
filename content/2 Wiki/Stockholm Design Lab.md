@@ -14,8 +14,6 @@ Countries:
 ---
 <iframe src="https://www.stockholmdesignlab.se/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://www.stockholmdesignlab.se/apple-touch-icon.png" alt="Stockholm Design Lab logo" width="96">
-
 >[!tldr] tl;dr
 >1998년에 시작한 스톡홀름의 독립 브랜딩·디자인 에이전시
 
@@ -35,11 +33,11 @@ With a diverse portfolio ranging from airplanes, electric cars, pharmacies, spo
 ![](https://cdn.sanity.io/images/6uvtz1ot/production/86bb17b4fd33e53f1c8771f2c6b2eb5c3e736075-3840x2160.png?w=3840&fm=webp&q=75&auto=format) 
 - SIGMA [Link](https://www.stockholmdesignlab.se/work/sigma)
 
-<video src="https://stream.mux.com/n9nd88YrqO98p20201BrmkH9USj01b4yILpeS7HB00I8MXA/high.mp4" autoplay loop></video>
+<video src="https://stream.mux.com/n9nd88YrqO98p20201BrmkH9USj01b4yILpeS7HB00I8MXA/high.mp4" autoplay loop playsinline muted></video>
 
 - [[Polestar]] [Link](https://www.stockholmdesignlab.se/work/polestar)
 
-<video src="https://stream.mux.com/kmZhl8L00102yX4wr5OKyD3k5xobYS9XEogW6lHh45Zi4/high.mp4" autoplay loop> </video>
+<video src="https://stream.mux.com/kmZhl8L00102yX4wr5OKyD3k5xobYS9XEogW6lHh45Zi4/high.mp4" autoplay loop playsinline muted> </video>
 
 - Hanglöfs [Link](https://www.stockholmdesignlab.se/work/hagloefs)
 

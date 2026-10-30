@@ -16,8 +16,6 @@ Countries:
   - "[[USA]]"
   - "[[Denmark]]"
 ---
-<img src="https://www.hellomonday.com/favicon-32x32_0.png" alt="HELLO MONDAY logo" width="48">
-
 >[!tldr] tl;dr
 >뉴욕·코펜하겐·오르후스에 거점을 둔 디지털 크리에이티브 스튜디오(DEPT 소속)
 

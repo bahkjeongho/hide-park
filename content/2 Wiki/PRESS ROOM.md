@@ -11,8 +11,6 @@ Countries:
 ---
 <iframe src="https://www.press-room.kr/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://www.press-room.kr/wp-content/uploads/2023/08/cropped-별파비콘-192x192.png" alt="PRESS ROOM logo" width="96">
-
 >[!tldr] tl;dr
 >양지은이 이끄는 서울의 그래픽 디자인 스튜디오이자 출판사
 

@@ -10,8 +10,6 @@ Countries:
 ---
 <iframe src="https://www.maybe-paris.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://www.maybe-paris.com/media/site/18cfc05c5f-1600348112/favicon-128x128.png" alt="MAYBE PARIS logo" width="96">
-
 >[!tldr] tl;dr
 >2019년 파리에서 시작한 패션·뷰티·럭셔리 전문 크리에이티브 에이전시
 

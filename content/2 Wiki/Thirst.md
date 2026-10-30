@@ -10,8 +10,6 @@ URL:
 ---
 <iframe src="https://thirstcraft.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://thirstcraft.com/wp-content/themes/thirst/src/favicon/apple-touch-icon.png" alt="Thirst logo" width="96">
-
 >[!tldr] tl;dr
 >세계 최고 수준의 음료 브랜드를 위한 크리에이티브 파트너
 

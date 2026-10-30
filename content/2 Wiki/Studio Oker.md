@@ -26,7 +26,7 @@ Countries:
 
 # Portfolio
 
-<video src="https://player.vimeo.com/progressive_redirect/playback/1216093146/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&oauth2_token_id=1634860859&signature=1c0a4eb71a8cb570324b11948ae5caed7b0f3f65c991de4296e149d2a48f0c69" autoplay loop></video>
+<video src="https://player.vimeo.com/progressive_redirect/playback/1216093146/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&oauth2_token_id=1634860859&signature=1c0a4eb71a8cb570324b11948ae5caed7b0f3f65c991de4296e149d2a48f0c69" autoplay loop playsinline muted></video>
 
 - NORSmaterials [Link](https://oker.com/projects/norsmaterials/)
 

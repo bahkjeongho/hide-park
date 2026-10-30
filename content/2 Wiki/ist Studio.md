@@ -12,8 +12,6 @@ Countries:
 ---
 <iframe src="https://www.iststudio.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://cdn.imweb.me/thumbnail/20240411/9d2f2f28745e3.png" alt="ist Studio logo" width="96">
-
 >[!tldr] tl;dr
 >2014년부터 서울 성수동에서 활동하는 브랜딩·그래픽 디자인 스튜디오
 

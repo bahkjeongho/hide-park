@@ -10,8 +10,6 @@ Countries:
 ---
 <iframe src="https://www.veryes.co/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://www.veryes.co/apple-icon.png?apple-icon.2gsbfp7q59363.png" alt="veryes logo" width="96">
-
 >[!tldr] tl;dr
 >2024년 결성된 베를린의 크리에이티브 스튜디오
 

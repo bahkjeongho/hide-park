@@ -10,8 +10,6 @@ Countries:
 ---
 <iframe src="https://lab.ag.co.kr/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://lab.ag.co.kr/media/site/e32c2c5f32-1789357897/favicon-192x.png" alt="AG랩 logo" width="96">
-
 >[!tldr] tl;dr
 >안그라픽스가 2022년 설립한 웹 중심의 콘텐츠 실험 랩
 

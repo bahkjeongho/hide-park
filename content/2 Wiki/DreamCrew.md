@@ -16,8 +16,6 @@ Related:
 ---
 <iframe src="https://dreamcrew.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://dreamcrew.com/favicons/favicon.png" alt="DreamCrew logo" width="96">
-
 >[!tldr] tl;dr
 >미국 기반의 다학제 크리에이티브 스튜디오
 

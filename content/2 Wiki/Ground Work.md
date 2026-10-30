@@ -12,8 +12,6 @@ Countries:
 ---
 <iframe src="https://ground-work.co/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://ground-work.co/wp-content/uploads/2023/04/cropped-GW-IG-Logo-Square_-1-192x192.png" alt="Ground Work logo" width="96">
-
 >[!tldr] tl;dr
 >영국과 미국에 거점을 둔 어워드 수상 크리에이티브 프로덕션
 

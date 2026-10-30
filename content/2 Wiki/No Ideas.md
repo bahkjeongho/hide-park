@@ -9,8 +9,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<img src="https://cdn.sanity.io/images/mx8iiffl/production/b08c664db45b3dc25122da214971387475790ca7-180x180.png?w=96&h=96" alt="No Ideas logo" width="96">
-
 >[!tldr] tl;dr
 >뉴욕 브루클린의 그래픽 디자인 스튜디오
 

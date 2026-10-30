@@ -12,8 +12,6 @@ Countries:
 ---
 <iframe src="https://gabrielmelcher.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://freight.cargo.site/t/original/i/f8b2fb645c1faa4586d810ac655ab54a3afa32892d19e70b6e66b6b8520f6828/favicon1.ico" alt="Gabriel Melcher Studio logo" width="96">
-
 >[!tldr] tl;dr
 >시카고를 중심으로 활동하는 그래픽 디자이너 Gabriel Melcher의 스튜디오
 

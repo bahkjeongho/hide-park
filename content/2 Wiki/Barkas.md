@@ -14,8 +14,6 @@ Countries:
 ---
 <iframe src="https://barkas.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://barkas.com/wp-content/themes/barkas/images/icons/favicon-32.png" alt="Barkas logo" width="48">
-
 >[!tldr] tl;dr
 >2014년 코펜하겐에서 시작한 독립 크리에이티브 컴퍼니
 

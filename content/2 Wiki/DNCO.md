@@ -12,8 +12,6 @@ Cities:
 ---
 <iframe src="https://dnco.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://dnco.com/icon.svg" alt="DNCO logo" width="96">
-
 >[!tldr] tl;dr
 >런던과 뉴욕에 거점을 둔 플레이스 브랜딩·웨이파인딩 전문 컨설턴시
 

@@ -10,8 +10,6 @@ Countries:
 ---
 <iframe src="https://hongxkim.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://hongxkim.com/wp-content/themes/keruluke/favicon/apple-icon-60x60.png" alt="Eunjoo Hong and Hyungjae Kim logo" width="96">
-
 >[!tldr] tl;dr
 >서울에서 함께 작업하는 그래픽 디자이너 듀오
 

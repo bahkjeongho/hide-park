@@ -10,8 +10,6 @@ Countries:
 ---
 <iframe src="https://ba-ton.kr/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://ba-ton.kr/favicon/favicon-32x32.png" alt="Design Studio BATON logo" width="96">
-
 >[!tldr] tl;dr
 >2013년 서울에서 시작한 웹사이트·브랜딩 디자인 스튜디오
 

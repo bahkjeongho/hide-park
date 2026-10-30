@@ -12,8 +12,6 @@ Countries:
 ---
 <iframe src="https://studio-d-d.com/kr" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://studio-d-d.com/assets/meta.jpg" alt="Double D Studio logo" width="140">
-
 >[!tldr] tl;dr
 >2012년 설립된 서울의 브랜드 디자인 그룹(Double D, Nupip)
 
@@ -26,11 +24,11 @@ Countries:
 
 # Portfolio
 
-<video src="https://studio-d-d.com/media/pages/projects/kumho-tire/f2355c0f12-1722410869/web_kumho_thumbnail_jh_fin.mp4" autoplay loop></video>
+<video src="https://studio-d-d.com/media/pages/projects/kumho-tire/f2355c0f12-1722410869/web_kumho_thumbnail_jh_fin.mp4" autoplay loop playsinline muted></video>
 
 - 금호타이어 [Link](https://studio-d-d.com/kr/projects/kumho-tire)
 
-<video src="https://studio-d-d.com/media/pages/projects/works-torriden/8cc10e8f23-1705324170/comp-1.mp4" autoplay loop></video>
+<video src="https://studio-d-d.com/media/pages/projects/works-torriden/8cc10e8f23-1705324170/comp-1.mp4" autoplay loop playsinline muted></video>
 
 - Torriden [Link](https://studio-d-d.com/kr/projects/works-torriden)
 

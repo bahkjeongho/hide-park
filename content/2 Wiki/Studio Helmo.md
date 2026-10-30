@@ -14,8 +14,6 @@ Countries:
 ---
 <iframe src="https://helmo.fr/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://helmo.fr/wp-content/uploads/fbrfg/apple-touch-icon-180x180.png" alt="Studio Helmo logo" width="96">
-
 >[!tldr] tl;dr
 >프랑스 몽트뢰유의 그래픽디자인 스튜디오, Thomas Couderc와 Clément Vauchez가 운영
 

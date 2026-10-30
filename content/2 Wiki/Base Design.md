@@ -19,8 +19,6 @@ Countries:
   - "[[Australia]]"
   - "[[Vietnam]]"
 ---
-<img src="https://www.basedesign.com/favicon/favicon.svg" alt="Base Design logo" width="160">
-
 >[!tldr] tl;dr
 >뉴욕·브뤼셀·제네바·멜버른에 스튜디오를 둔 브랜딩 디자인 네트워크
 

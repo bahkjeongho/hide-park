@@ -6,8 +6,6 @@ IG:
 Website:
   - https://www.astrae.studio/
 ---
-<img src="https://c-p.rmcdn.net/54bd61314e589d610ce94de2/upload-ac7c6bfd-b2b4-4533-a039-1d5a048927d3_144.png" alt="Astrae Studio logo" width="96">
-
 >[!tldr] tl;dr
 >코펜하겐에 기반한 리서치·탐구·크래프트 중심의 디자인 스튜디오
 

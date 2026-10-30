@@ -12,8 +12,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<img src="https://forthandback.la/img/containers/images/forth-back_logos.jpg/a2dbcb617fd82aa1a894a544dbff6ca3.jpg" alt="Forth + Back logo" width="96">
-
 >[!tldr] tl;dr
 >로스앤젤레스의 브랜딩·크리에이티브 디렉션 디자인 스튜디오
 

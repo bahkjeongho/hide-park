@@ -13,8 +13,6 @@ Cities:
 Countries:
   - "[[USA]]"
 ---
-<img src="https://www.xxix.co/icon.png" alt="XXIX logo" width="96">
-
 >[!tldr] tl;dr
 >뉴욕의 포지셔닝·제품·이커머스 전문 디자인·테크놀로지 스튜디오
 

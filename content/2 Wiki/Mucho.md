@@ -36,11 +36,11 @@ Mucho. We mean more.
 
 # Portfolio
 
-<video src="https://dthpinvq4u09v.cloudfront.net/images/Macba/02_Macba_logoEvolution.mp4" loop autoplay muted> </video>
+<video src="https://dthpinvq4u09v.cloudfront.net/images/Macba/02_Macba_logoEvolution.mp4" loop autoplay muted playsinline> </video>
 
 - [[MACBA]] [Link](https://wearemucho.com/work/macba)
 
-<video src="https://dthpinvq4u09v.cloudfront.net/images/Design-Bay-Area/DesignBayArea_Lockup_with-image.mp4" autoplay loop> </video>
+<video src="https://dthpinvq4u09v.cloudfront.net/images/Design-Bay-Area/DesignBayArea_Lockup_with-image.mp4" autoplay loop playsinline muted> </video>
 
 - Design Bay Area [Link](https://wearemucho.com/work/design-bay-area)
 

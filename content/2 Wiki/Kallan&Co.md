@@ -11,8 +11,6 @@ URL:
 ---
 <iframe src="https://www.kallan.co/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://framerusercontent.com/images/hMkw6QrVebZkGvuxtQ9irL3jwo0.png" alt="Kallan&Co logo" width="96">
-
 >[!tldr] tl;dr
 >사람의 창의성과 AI를 결합해 브랜드와 디지털 제품을 만드는 글로벌 디자인·혁신 스튜디오
 

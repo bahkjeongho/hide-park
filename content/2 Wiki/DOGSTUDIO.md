@@ -20,8 +20,6 @@ Countries:
 ---
 <iframe src="https://dogstudio.co/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://dogstudio.co/app/themes/portfolio-2018/static/assets/images/favicon.png" alt="DOGSTUDIO logo" width="96">
-
 >[!tldr] tl;dr
 >시카고·암스테르담·파리에 거점을 둔 아트·디자인·기술 융합 크리에이티브 스튜디오
 

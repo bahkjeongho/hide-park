@@ -15,8 +15,6 @@ Countries:
 ---
 <iframe src="https://www.humanastudio.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://www.humanastudio.com/favicon.ico" alt="Humana Studio logo" width="96">
-
 >[!tldr] tl;dr
 >리스본에서 독립 브랜드를 디자인하는 스튜디오
 
@@ -29,15 +27,15 @@ Countries:
 
 # Portfolio
 
-<video src="https://humana.fra1.cdn.digitaloceanspaces.com/nomade_records/Humana%20Studio%20-%20Nomade%20Records%20Branding%20-%20Logos.mp4#t=0.01" loop autoplay muted></video>
+<video src="https://humana.fra1.cdn.digitaloceanspaces.com/nomade_records/Humana%20Studio%20-%20Nomade%20Records%20Branding%20-%20Logos.mp4#t=0.01" loop autoplay muted playsinline></video>
 
 - NOMADE RECORDS [Link](https://www.humanastudio.com/work/nomade-records)
 
-<video src="https://humana.fra1.cdn.digitaloceanspaces.com/92_group/humana-studio-the-92-group-logo-video.mp4#t=0.01" autoplay loop muted> </video>
+<video src="https://humana.fra1.cdn.digitaloceanspaces.com/92_group/humana-studio-the-92-group-logo-video.mp4#t=0.01" autoplay loop muted playsinline> </video>
 
 - The 92 Group [Link](https://www.humanastudio.com/work/the-92-group)
 
-<video src="https://humana.fra1.cdn.digitaloceanspaces.com/gbuilder/Humana%20Studio%20-%20GBuilder%20-%20Logo%20Animation.mp4#t=0.01" loop autoplay muted> </video>
+<video src="https://humana.fra1.cdn.digitaloceanspaces.com/gbuilder/Humana%20Studio%20-%20GBuilder%20-%20Logo%20Animation.mp4#t=0.01" loop autoplay muted playsinline> </video>
 
 - GBuilder [Link](https://www.humanastudio.com/work/gbuilder)
 

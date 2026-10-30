@@ -17,8 +17,6 @@ Countries:
 ---
 <iframe src="https://www.folchstudio.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://cdn.sanity.io/images/8gkua9b4/production/2777499680df27c9fb13e714df555c32b9927842-2134x2134.png?w=180&h=180" alt="Folch Studio logo" width="96">
-
 >[!tldr] tl;dr
 >바르셀로나의 다학제 커뮤니케이션 에이전시, 브랜드의 아이디어를 구체화
 

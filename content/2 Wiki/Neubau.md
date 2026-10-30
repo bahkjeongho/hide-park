@@ -11,8 +11,6 @@ Countries:
 ---
 <iframe src="https://neubauberlin.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://neubauberlin.com/apple-touch-icon-60x60.png" alt="Neubau logo" width="96">
-
 >[!tldr] tl;dr
 >베를린 기반의 디자인 스튜디오, 인쇄·스크린·공간을 위한 디자인과 타이포그래피
 

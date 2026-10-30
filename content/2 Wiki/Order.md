@@ -8,8 +8,6 @@ Website:
 URL:
   - https://www.linkedin.com/company/order.
 ---
-<img src="https://order.design/assets/favicon/apple-icon-60x60.png" alt="Order logo" width="96">
-
 >[!tldr] tl;dr
 >Jesse Reed와 Hamish Smyth가 설립한 브랜드 아이덴티티 전문 디자인 오피스
 

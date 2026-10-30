@@ -16,8 +16,6 @@ Countries:
 ---
 <iframe src="https://www.motherdesign.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://cdn.sanity.io/images/a7img0jk/production/1776b4d7386e5682075ee2b4eba58a80cdcb5278-200x200.png" alt="Mother Design logo" width="96">
-
 >[!tldr] tl;dr
 >런던·뉴욕·로스앤젤레스에 거점을 둔 독립 브랜드·디자인 컴퍼니
 

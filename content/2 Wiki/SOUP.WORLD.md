@@ -19,8 +19,6 @@ Related:
 ---
 <iframe src="https://soup.world/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://soup.world/src/assets/logo-large.svg" alt="SOUP.WORLD logo" width="200">
-
 >[!tldr] tl;dr
 >NTS의 사이드 프로젝트로 시작한 런던의 크리에이티브 스튜디오
 

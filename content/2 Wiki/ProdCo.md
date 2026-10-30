@@ -14,8 +14,6 @@ Countries:
 ---
 <iframe src="https://prodco.xyz/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://prodco.xyz/wp-content/uploads/2023/10/favicon-prodco.png" alt="ProdCo logo" width="96">
-
 >[!tldr] tl;dr
 >런던과 로스앤젤레스에 사무실을 둔 영상 제작사
 

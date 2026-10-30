@@ -9,8 +9,6 @@ Website:
 ---
 <iframe src="https://www.hay-tin.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://www.hay-tin.com/_assets/v11/e06c782dc314bb0622eaded38ad02ee86a81945e.png" alt="HAY TIN logo" width="96">
-
 >[!tldr] tl;dr
 >Haydonna가 설립한 아티스트 주도의 크리에이티브 스튜디오이자 레이블
 

@@ -37,11 +37,11 @@ Other Means is led by Gary Fogelson, Phil Lubliner, and Ryan Waller. Current sta
 
 - [[Brooklyn Museum]] [Link](https://othermeans.us/projects/brooklyn-museum)
 
-<video src="https://player.vimeo.com/progressive_redirect/playback/1232119791/rendition/2160p/file.mp4%20%282160p%29.mp4?loc=external&log_user=0&signature=f5c36a9e9fe37cfbad20b210884ae8988a61172a9b06568e8e0c7af9a0a1064f" autoplay loop muted> </video>
+<video src="https://player.vimeo.com/progressive_redirect/playback/1232119791/rendition/2160p/file.mp4%20%282160p%29.mp4?loc=external&log_user=0&signature=f5c36a9e9fe37cfbad20b210884ae8988a61172a9b06568e8e0c7af9a0a1064f" autoplay loop muted playsinline> </video>
 
 - [[e-flux]] [Link](https://othermeans.us/projects/e-flux)
 
-<video src="https://player.vimeo.com/progressive_redirect/playback/1231721445/rendition/2160p/file.mp4%20%282160p%29.mp4?loc=external&log_user=0&signature=193d45f3260c6d8c650bdfcac0ad033ae94c1a320dfdefe3e09ce26939ddec15" loop autoplay muted> </video>
+<video src="https://player.vimeo.com/progressive_redirect/playback/1231721445/rendition/2160p/file.mp4%20%282160p%29.mp4?loc=external&log_user=0&signature=193d45f3260c6d8c650bdfcac0ad033ae94c1a320dfdefe3e09ce26939ddec15" loop autoplay muted playsinline> </video>
 
 - [[Yale School of Art]] [Link](https://othermeans.us/projects/yale-school-of-art)
 

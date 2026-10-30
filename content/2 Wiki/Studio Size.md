@@ -16,8 +16,6 @@ Countries:
 ---
 <iframe src="https://studio-size.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://studio-size.com/wp-content/themes/studio-size/favicon/apple-touch-icon.png" alt="Studio Size logo" width="96">
-
 >[!tldr] tl;dr
 >2013년 자그레브에서 시작된 브랜딩·모션 디자인 스튜디오
 
@@ -32,15 +30,15 @@ and inspire future generations.  Its about staying a student, exploring the dep
 
 # Portfolio
 
-<video src="https://player.vimeo.com/progressive_redirect/playback/1004499366/rendition/1080p/file.mp4?loc=external&log_user=0&signature=fd6b10a51497624fa5d4e6a7a7e51945e86a42396666bf55359511fad478f012" autoplay loop> </video>
+<video src="https://player.vimeo.com/progressive_redirect/playback/1004499366/rendition/1080p/file.mp4?loc=external&log_user=0&signature=fd6b10a51497624fa5d4e6a7a7e51945e86a42396666bf55359511fad478f012" autoplay loop playsinline muted> </video>
 
 - [[Mother (Studio)]] [Link](https://studio-size.com/work/mother/)
 
-<video src="https://player.vimeo.com/progressive_redirect/playback/1134558946/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&log_user=0&signature=40a03e8a90848f9dd79c44a7037207c21f01500051c152e5ebe4ba27f0eeb739" autoplay loop> </video>
+<video src="https://player.vimeo.com/progressive_redirect/playback/1134558946/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&log_user=0&signature=40a03e8a90848f9dd79c44a7037207c21f01500051c152e5ebe4ba27f0eeb739" autoplay loop playsinline muted> </video>
 
 - CroAI [Link](https://studio-size.com/work/croai/)
 
-<video src="https://player.vimeo.com/progressive_redirect/playback/996568446/rendition/1080p/file.mp4?loc=external&log_user=0&signature=ec40dea929fc447150f84b419167391a0b9eb784dc4ec542a2c64edf8d6a3f2c" autoplay loop> </video>
+<video src="https://player.vimeo.com/progressive_redirect/playback/996568446/rendition/1080p/file.mp4?loc=external&log_user=0&signature=ec40dea929fc447150f84b419167391a0b9eb784dc4ec542a2c64edf8d6a3f2c" autoplay loop playsinline muted> </video>
 
 - Taste [Link](https://studio-size.com/work/taste/)
 

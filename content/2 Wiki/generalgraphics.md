@@ -8,8 +8,6 @@ Countries:
 ---
 <iframe src="https://g-g-s.kr/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://g-g-s.kr/wp-content/uploads/2023/08/cropped-favicon-192x192.png" alt="generalgraphics logo" width="96">
-
 >[!tldr] tl;dr
 >시대와 호흡하는 디자인을 추구하는 한국의 디자인 스튜디오
 

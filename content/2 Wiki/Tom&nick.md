@@ -8,8 +8,6 @@ Website:
 ---
 <iframe src="https://www.tomandnick.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://contents.sixshop.com/uploadedFiles/158797/default/image_1718177900873.png" alt="Tom&nick logo" width="96">
-
 >[!tldr] tl;dr
 >이상을 합리적이고 현실적인 사고로 구현하는 브랜딩 에이전시
 

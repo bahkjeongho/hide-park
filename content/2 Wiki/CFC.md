@@ -11,8 +11,6 @@ Countries:
 ---
 <iframe src="https://contentformcontext.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://cdn.myportfolio.com/76581287-86db-44ce-b522-e5db83ade7fb/e5849e94-dc85-4bf6-91b7-a9a1af2ffbcf_carw_1x1x32.jpg?h=483df214ff1d9e394ccc0aa12b7ccf04" alt="CFC logo" width="48">
-
 >[!tldr] tl;dr
 >2013년 서울에서 시작한 브랜드 경험 디자인 스튜디오
 

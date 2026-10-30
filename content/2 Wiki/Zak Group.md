@@ -13,8 +13,6 @@ Countries:
 ---
 <iframe src="https://www.zak.group/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://www.zak.group/public/logo-48.png" alt="Zak Group logo" width="48">
-
 >[!tldr] tl;dr
 >2005년 런던에서 시작한 아이덴티티·크리에이티브 디렉션 디자인 오피스
 

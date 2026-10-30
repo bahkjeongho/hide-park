@@ -11,8 +11,6 @@ URL:
 ---
 <iframe src="https://www.wearecollins.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://wearecollins.com/icons/apple-touch-icon.png" alt="COLLINS logo" width="96">
-
 >[!tldr] tl;dr
 >브랜드의 프리미엄 가치를 끌어올리는 브랜딩 에이전시
 

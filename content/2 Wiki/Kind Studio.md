@@ -13,8 +13,6 @@ Countries:
 ---
 <iframe src="https://kindstudio.co.uk/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://cdn.prod.website-files.com/5cd15c1d6f4a423535818ed9/5d5ea686aeeaa5e15ecaa03b_webclip.jpg" alt="Kind Studio logo" width="96">
-
 >[!tldr] tl;dr
 >런던의 독립 브랜딩·시각 커뮤니케이션 스튜디오
 

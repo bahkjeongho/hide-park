@@ -64,8 +64,6 @@ Countries:
 ---
 <iframe src="https://landor.com/en/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://landor.com/apple-touch-icon.png" alt="Landor logo" width="96">
-
 >[!tldr] tl;dr
 >30여 개 거점을 둔 글로벌 브랜드 컨설팅·디자인 에이전시
 

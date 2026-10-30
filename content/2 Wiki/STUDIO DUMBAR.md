@@ -15,8 +15,6 @@ Countries:
 ---
 <iframe src="https://studiodumbar.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://studiodumbar.com/assets/favicon/safari-pinned-tab.svg" alt="STUDIO DUMBAR logo" width="96">
-
 >[!tldr] tl;dr
 >네덜란드 로테르담의 비주얼·모션 아이덴티티 스튜디오(DEPT 소속)
 
@@ -29,15 +27,15 @@ Countries:
 
 # Portfolio
 
-<video src="https://player.vimeo.com/progressive_redirect/playback/1127961610/rendition/1080p/file.mp4?loc=external&log_user=0&signature=a195c003786b2ae3ef07d2db0b7b72e4e5ee783ae8930c0fb6712a9c6d7c98ac" autoplay loop> </video>
+<video src="https://player.vimeo.com/progressive_redirect/playback/1127961610/rendition/1080p/file.mp4?loc=external&log_user=0&signature=a195c003786b2ae3ef07d2db0b7b72e4e5ee783ae8930c0fb6712a9c6d7c98ac" autoplay loop playsinline muted> </video>
 
 - [[Meta]] Connect [Link](https://studiodumbar.com/work/meta-connect)
 
-<video src="https://player.vimeo.com/progressive_redirect/playback/1197612380/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&log_user=0&signature=b55f81c0be9cb278eab1ef5126bd102fafbad2f81daca8e43bd9ac5856131a46" autoplay loop></video>
+<video src="https://player.vimeo.com/progressive_redirect/playback/1197612380/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&log_user=0&signature=b55f81c0be9cb278eab1ef5126bd102fafbad2f81daca8e43bd9ac5856131a46" autoplay loop playsinline muted></video>
 
 - [[Apple]] Football [Link](https://studiodumbar.com/work/apple)
 
-<video src="https://player.vimeo.com/progressive_redirect/playback/1157149379/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&log_user=0&signature=3fbe4168b2c8b7fa7e482e03e4308390c085a0ccb86ab1d88660369e3243b8be" autoplay loop></video>
+<video src="https://player.vimeo.com/progressive_redirect/playback/1157149379/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&log_user=0&signature=3fbe4168b2c8b7fa7e482e03e4308390c085a0ccb86ab1d88660369e3243b8be" autoplay loop playsinline muted></video>
 
 - [[OpenAI]] DevDay25 [Link](https://studiodumbar.com/work/openai-devday-2025)
 

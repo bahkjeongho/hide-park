@@ -9,8 +9,6 @@ URL:
 ---
 <iframe src="https://ordinarypeople.info/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://images.squarespace-cdn.com/content/v1/5fdcd66b0383b32fb0f59e0e/1608579117906-I2ZU6WSJQ39E66ZGR8Z1/favicon.ico?format=100w" alt="Ordinary People logo" width="64">
-
 >[!tldr] tl;dr
 >2006년 설립한 브랜드 전략·아트디렉션 전문 디자인 스튜디오
 

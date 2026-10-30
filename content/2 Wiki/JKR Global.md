@@ -15,8 +15,6 @@ Countries:
 ---
 <iframe src="https://jkrglobal.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://www.jkrglobal.com/favicon-light.png" alt="JKR Global logo" width="48">
-
 >[!tldr] tl;dr
 >1990년에 시작한 런던·뉴욕 기반의 글로벌 브랜딩 에이전시
 
@@ -29,16 +27,16 @@ Countries:
 
 # Portfolio
 
-<video src="https://stream.mux.com/YxxoLqN01TV007i3XL936H5WgLsw3L61U4AZNiGUwtZ02Q.m3u8?max_resolution=1080p&min_resolution=720p&redundant_streams=true" autoplay loop></video>
+<video src="https://stream.mux.com/YxxoLqN01TV007i3XL936H5WgLsw3L61U4AZNiGUwtZ02Q.m3u8?max_resolution=1080p&min_resolution=720p&redundant_streams=true" autoplay loop playsinline muted></video>
 
 - [[Yahoo]] [Link](https://www.jkrglobal.com/work/yahoo)
 
 
-<video src="https://stream.mux.com/2DDyZMEbklo8RK516hBzH9qVr01mjxV01BBvS9ijg2e2U.m3u8?max_resolution=1080p&min_resolution=720p&redundant_streams=true" loop autoplay></video>
+<video src="https://stream.mux.com/2DDyZMEbklo8RK516hBzH9qVr01mjxV01BBvS9ijg2e2U.m3u8?max_resolution=1080p&min_resolution=720p&redundant_streams=true" loop autoplay playsinline muted></video>
 
 - [[Mozilla]] [Link](https://www.jkrglobal.com/work/mozilla)
 
-<video src="https://stream.mux.com/S3PRbEdiOYQFYuyhmcm2S288F4EyQJlj51FKm91lCPo.m3u8?max_resolution=1080p&min_resolution=720p&redundant_streams=true" loop autoplay></video>
+<video src="https://stream.mux.com/S3PRbEdiOYQFYuyhmcm2S288F4EyQJlj51FKm91lCPo.m3u8?max_resolution=1080p&min_resolution=720p&redundant_streams=true" loop autoplay playsinline muted></video>
 
 - Uber [Link](https://www.jkrglobal.com/work/uber)
 

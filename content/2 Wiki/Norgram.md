@@ -12,8 +12,6 @@ Countries:
 ---
 <iframe src="https://www.norgram.co/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://www.norgram.co/favicon.png" alt="Norgram logo" width="96">
-
 >[!tldr] tl;dr
 >덴마크 기반으로 국제적으로 활동하는 브랜드·디지털 경험 디자인 스튜디오
 

@@ -11,8 +11,6 @@ Countries:
 ---
 <iframe src="https://studiofnt.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://freight.cargo.site/t/original/i/e4e6c7026c81f6fbbc811703d9c5f7bd7fb9c54c8e21c30f00c4dda3bf713dd6/logo_square.ico" alt="Studio fnt logo" width="96">
-
 >[!tldr] tl;dr
 >2006년 서울에서 시작한 그래픽 디자인 스튜디오
 

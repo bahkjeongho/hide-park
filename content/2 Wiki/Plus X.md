@@ -21,7 +21,7 @@ Website: https://www.plus-ex.com/
 
 # Portfolio
 
-<video src="https://download-video-ak.vimeocdn.com/v3-1/playback/e03e4fcb-99d8-4e7e-a7ba-2be569f107a9/00a328fa-657043d4?__token__=st=1792853657~exp=1792857257~acl=%2Fv3-1%2Fplayback%2Fe03e4fcb-99d8-4e7e-a7ba-2be569f107a9%2F00a328fa-657043d4%2A~hmac=bd0062f74f422287e97f8bacdd9fa15335151c4c099340b02d520d67e7a07d8a&r=dXMtd2VzdDE%3D" autoplay loop></video>
+<video src="https://download-video-ak.vimeocdn.com/v3-1/playback/e03e4fcb-99d8-4e7e-a7ba-2be569f107a9/00a328fa-657043d4?__token__=st=1792853657~exp=1792857257~acl=%2Fv3-1%2Fplayback%2Fe03e4fcb-99d8-4e7e-a7ba-2be569f107a9%2F00a328fa-657043d4%2A~hmac=bd0062f74f422287e97f8bacdd9fa15335151c4c099340b02d520d67e7a07d8a&r=dXMtd2VzdDE%3D" autoplay loop playsinline muted></video>
 
 - [[Pledis ENTERTAINMENT]] [Link](https://www.plus-ex.com/experience#pledis)
 

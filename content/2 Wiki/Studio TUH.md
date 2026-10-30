@@ -11,8 +11,6 @@ Countries:
 ---
 <iframe src="https://studiotuh.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
-<img src="https://freight.cargo.site/t/original/i/S2074213073401749856015769410471/Artboard-1-copy-210x.ico" alt="Studio TUH logo" width="96">
-
 >[!tldr] tl;dr
 >서울의 크리에이티브 스튜디오
 
