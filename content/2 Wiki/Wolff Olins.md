@@ -20,7 +20,7 @@ URL: https://www.linkedin.com/company/wolff-olins
 
 # Portfolio
 
-<video src="https://videos.ctfassets.net/4rnblstkg79m/1NLrEDiKE9KkvlgBnmOAbY/422a5b601062c5312b8af15a920c48e8/DKT_CS_01_Header_Footage_3000x2000_1.mp4" loop autoplay muted> </video>
+<video src="https://videos.ctfassets.net/4rnblstkg79m/1NLrEDiKE9KkvlgBnmOAbY/422a5b601062c5312b8af15a920c48e8/DKT_CS_01_Header_Footage_3000x2000_1.mp4" loop autoplay muted style="border: 0; border-radius: 18px;"> </video>
 
 - [[DECATHLON]] [Link](https://www.wolffolins.com/work/decathlon)
 

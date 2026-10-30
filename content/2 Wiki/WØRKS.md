@@ -1,4 +1,6 @@
 ---
+aliases:
+  - WORKS
 topic:
   - "[[Creative Studio]]"
 IG: https://www.instagram.com/works.studio/
@@ -27,15 +29,15 @@ Countries:
 
 # Portfolio
 
-<video src="https://videos.works.studio/U7oShXhEQLaCOh-Uz_Q90w-works_virginmusic_hero_av1.mp4" loop autoplay muted> </video>
+<video src="https://videos.works.studio/U7oShXhEQLaCOh-Uz_Q90w-works_virginmusic_hero_av1.mp4" loop autoplay muted style="border: 0; border-radius: 18px;"> </video>
 
 - [[Virgin Music]] [Link](https://works.studio/work/virgin-music-brand-identity)
 
-<video src="https://videos.works.studio/KnoA_5WiSqyU3YHLoqMPoQ-works_nikeskims_positioning-identity_40_vp9.webm" autoplay loop muted> </video>
+<video src="https://videos.works.studio/KnoA_5WiSqyU3YHLoqMPoQ-works_nikeskims_positioning-identity_40_vp9.webm" autoplay loop muted style="border: 0; border-radius: 18px;"> </video>
 
 - [[NIKE]] [[SKIMS]] [Link](https://works.studio/work/nikeskims-positioning-identity)
 
-<video src="https://videos.works.studio/GqA3KlJNQZCsU1ZBssFzdg-works_erthos_brandidentity_01_av1.mp4" loop autoplay muted> </video>
+<video src="https://videos.works.studio/GqA3KlJNQZCsU1ZBssFzdg-works_erthos_brandidentity_01_av1.mp4" loop autoplay muted style="border: 0; border-radius: 18px;"> </video>
 
 - erthos [Link](https://works.studio/work/erthos-brand-identity)
 

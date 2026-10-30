@@ -52,7 +52,7 @@ Countries:
 
 # Portfolio
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1010261723?h=894e6bc8be" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/1010261723?h=894e6bc8be" width="1080px" height="720px" style="border: 0; border-radius:18px;" autoplay></iframe>
 
 - [[PayPal]] [Link](https://www.pentagram.com/work/paypal)
 

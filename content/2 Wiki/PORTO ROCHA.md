@@ -30,16 +30,16 @@ Countries:
 
 # Portfolio
 
-<video src="https://video.gumlet.io/691c9f27d854cacb98e883ba/6abbe81ea5cc0051908a7aef/main.mp4" autoplay loop muted> </video>
+<video src="https://video.gumlet.io/691c9f27d854cacb98e883ba/6abbe81ea5cc0051908a7aef/main.mp4" autoplay loop muted style="border: 0; border-radius: 18px;"> </video>
 
 - Tinder [Link](https://www.portorocha.com/tinder)
 
-<video src="https://video.gumlet.io/691c9f27d854cacb98e883ba/696689b3b25141dfa4b57566/download.mp4" loop autoplay muted></video>
+<video src="https://video.gumlet.io/691c9f27d854cacb98e883ba/696689b3b25141dfa4b57566/download.mp4" loop autoplay muted style="border: 0; border-radius: 18px;"></video>
 
 - [[Sundance Film Festival]] [Link](https://www.portorocha.com/sundance)
 
 
-<video src="https://video.gumlet.io/691c9f27d854cacb98e883ba/6966847ab25141dfa4b4be53/download.mp4" autoplay loop muted> </video>
+<video src="https://video.gumlet.io/691c9f27d854cacb98e883ba/6966847ab25141dfa4b4be53/download.mp4" autoplay loop muted style="border: 0; border-radius: 18px;"> </video>
 
 - [[PAC NYC]] [Link](https://www.portorocha.com/pacnyc)
 
