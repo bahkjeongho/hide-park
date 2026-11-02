@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Design]]"
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
 IG:
   - https://www.instagram.com/r___o___t/

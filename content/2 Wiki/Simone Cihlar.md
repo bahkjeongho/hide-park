@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Graphic Designer]]"
 IG:
   - https://www.instagram.com/simone_cihlar/

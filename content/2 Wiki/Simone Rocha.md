@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Designer]]"
+IG:
+  - https://www.instagram.com/simonerocha_/
 Website:
   - https://www.simonerocha.com
 Wikis:

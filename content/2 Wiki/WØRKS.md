@@ -2,7 +2,10 @@
 aliases:
   - WORKS
 topic:
+  - "[[Design]]"
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
+  - "[[Brand Design]]"
 IG: https://www.instagram.com/works.studio/
 Website: https://works.studio/
 URL:

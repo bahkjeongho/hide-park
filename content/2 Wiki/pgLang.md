@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Creative Company]]"
+  - "[[Entertainment Company]]"
 IG:
   - https://www.instagram.com/pglang/
 Website: https://pg-lang.com/

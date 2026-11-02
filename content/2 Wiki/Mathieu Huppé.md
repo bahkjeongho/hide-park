@@ -1,6 +1,8 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Art Director]]"
+  - "[[Graphic Designer]]"
 IG:
   - https://www.instagram.com/mathieuhuppe/
 Website:

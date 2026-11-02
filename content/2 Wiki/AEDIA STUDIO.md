@@ -1,7 +1,9 @@
 ---
 topic:
+  - "[[Video]]"
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
-  - "[[Production House]]"
+  - "[[Production Studio]]"
 IG: https://www.instagram.com/aediastudio/
 Related:
   - "[[Jan Lee]]"

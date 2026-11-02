@@ -1,6 +1,10 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Designer]]"
+IG:
+  - https://www.instagram.com/kimjonesstudio/
+  - https://www.instagram.com/mrkimjones/
 Wikis:
   - https://en.wikipedia.org/wiki/Kim_Jones_(designer)
   - https://namu.wiki/w/%ED%82%B4%20%EC%A1%B4%EC%8A%A4

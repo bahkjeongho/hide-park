@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Video]]"
+  - "[[Photography]]"
   - "[[Photographer]]"
+  - "[[Video Director]]"
 IG:
   - https://www.instagram.com/gabrielomoses/
 ---

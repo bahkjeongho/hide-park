@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Design]]"
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
   - "[[Brand Design]]"
 Website:

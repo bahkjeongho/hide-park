@@ -2,6 +2,7 @@
 aliases:
   - 藤原ヒロシ
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Designer]]"
 IG:
   - https://www.instagram.com/fujiwarahiroshi/

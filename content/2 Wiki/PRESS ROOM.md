@@ -1,7 +1,10 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Design Studio]]"
   - "[[Graphic Design]]"
+IG:
+  - https://www.instagram.com/pressroom.studio/
 Website:
   - https://www.press-room.kr/
 Cities:

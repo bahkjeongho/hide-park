@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Brand]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Ralph_Lauren_Corporation

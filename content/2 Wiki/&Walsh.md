@@ -2,6 +2,8 @@
 aliases:
   - 앤월시
 topic:
+  - "[[Design]]"
+  - "[[Creative Direction]]"
   - "[[Creative Agency]]"
   - "[[Branding Agency]]"
 IG:
@@ -15,10 +17,18 @@ Countries:
   - "[[USA]]"
 ---
 >[!tldr] tl;dr
->
+>뉴욕의 브랜딩·광고 크리에이티브 에이전시
 
 > [!Info]
 > We are a creative agency in NYC specializing in branding & advertising. We work with clients starting from the initial brand strategy phase to the design, art direction and final production of a project. We believe in creating beautiful, emotion-driven work that functions for our client’s goals and resonates with their audiences.
 
 > [!Summary]
 
+---
+
+# Portfolio
+
+
+---
+
+# People

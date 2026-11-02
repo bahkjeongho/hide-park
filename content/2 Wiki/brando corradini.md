@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Graphic Designer]]"
 Website:
   - https://brandocorradini.com/
@@ -17,3 +18,10 @@ Website:
 > [!Summary]
 
 ---
+
+# Portfolio
+
+
+---
+
+# People

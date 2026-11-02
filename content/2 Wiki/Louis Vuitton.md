@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Brand]]"
+IG:
+  - https://www.instagram.com/louisvuitton/
 Website:
   - https://www.louisvuitton.com
 Wikis:

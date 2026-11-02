@@ -1,8 +1,12 @@
 ---
 topic:
+  - "[[Fashion]]"
+  - "[[Creative Direction]]"
   - "[[Fashion Designer]]"
   - "[[Creative Director]]"
   - "[[DJ]]"
+IG:
+  - https://www.instagram.com/virgilabloharchive/
 Wikis:
   - https://en.wikipedia.org/wiki/Virgil_Abloh
   - https://namu.wiki/w/%EB%B2%84%EC%A7%88%20%EC%95%84%EB%B8%94%EB%A1%9C

@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Video]]"
+  - "[[Photography]]"
   - "[[Photographer]]"
   - "[[Video Director]]"
 IG:

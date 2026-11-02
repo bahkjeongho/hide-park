@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Brand]]"
 IG:
   - https://www.instagram.com/miumiu/

@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Graphic Designer]]"
+IG:
+  - https://www.instagram.com/ap.pli.ca/
 Website: https://applica.team/
 ---
 <iframe src="https://applica.team/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>

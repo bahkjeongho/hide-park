@@ -2,6 +2,7 @@
 aliases:
   - 김영
 topic:
+  - "[[Video]]"
   - "[[Video Director]]"
 IG:
   - https://www.instagram.com/yvngwing94/

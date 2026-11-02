@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Unstated Intelligence
 Website:
   - https://www.unstated.co/
 ---

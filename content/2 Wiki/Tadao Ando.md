@@ -2,6 +2,7 @@
 aliases:
   - 安藤忠雄
 topic:
+  - "[[Architecture]]"
   - "[[Architect]]"
 Website:
   - https://www.tadao-ando.com/

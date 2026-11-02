@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Creative Direction]]"
   - "[[Creative Director]]"
 IG:
   - https://www.instagram.com/amakadsi/

@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Media]]"
+  - "[[Magazine]]"
   - "[[Design Magazine]]"
 Website:
   - https://www.admagazine.fr/

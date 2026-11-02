@@ -2,6 +2,7 @@
 aliases:
   - Ma Yan Song
 topic:
+  - "[[Architecture]]"
   - "[[Architect]]"
 IG: "\thttps://www.instagram.com/mayansong_mad/"
 Related:

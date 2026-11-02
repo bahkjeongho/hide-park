@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Design Studio]]"
+IG:
+  - https://www.instagram.com/mhtl.official/
 Website:
   - https://mhtl.world/
 Cities:

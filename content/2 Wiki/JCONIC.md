@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Music]]"
+  - "[[K-Pop]]"
   - "[[Entertainment Company]]"
 Wikis:
   - https://namu.wiki/w/JCONIC

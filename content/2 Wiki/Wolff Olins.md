@@ -1,20 +1,45 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Brand Consultancy]]"
 IG: https://www.instagram.com/wolffolins/
 Website: https://www.wolffolins.com/
 URL: https://www.linkedin.com/company/wolff-olins
+Wikis:
+  - https://en.wikipedia.org/wiki/Wolff_Olins
+Cities:
+  - "[[London]]"
+  - "[[New York]]"
+  - "[[San Francisco]]"
+  - "[[Los Angeles]]"
+Countries:
+  - "[[UK]]"
+  - "[[USA]]"
 ---
 <iframe src="https://www.wolffolins.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
->
+>1965년 런던에서 설립된 글로벌 브랜드 컨설턴시
 
 > [!Info]
+> Wolff Olins는 일에 대한 야망과 세상에 대한 낙관을 가진 글로벌 브랜드 컨설턴시입니다. 고객이 관습에 맞서고, 기대를 새로 정의하고, 긍정적인 변화에 불을 붙이도록 돕습니다.
+> 브랜드, 문화, 경험을 하나로 묶어 조직 안팎에 영향을 만듭니다.
+>
 > Wolff Olins is a global brand consultancy that’s ambitious for the work and optimistic for the world. We’re here to help our clients defy convention, redefine expectations and ignite positive change.
 > We unite brand, culture and experience to drive impact inside and outside an organisation. 
 
 > [!Summary]
+> |   |   |
+> |---|---|
+> |Type|Subsidiary|
+> |Industry|Brand design consulting|
+> |Founded|1965 in London, United Kingdom|
+> |Founders|James Main<br>Michael Wolff<br>Wally Olins|
+> |Headquarters|London, New York City, San Francisco|
+> |Key people|Sairah Ashman (global chief executive)<br>Michael Khoury (president, North America)|
+> |Number of employees|150|
+> |Parent|Omnicom Group|
+> |Website|wolffolins.com|
 
 ---
 

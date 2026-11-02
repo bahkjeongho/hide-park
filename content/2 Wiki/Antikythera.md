@@ -1,6 +1,8 @@
 ---
 topic:
   - "[[Journal]]"
+IG:
+  - https://www.instagram.com/antikythera_xyz/
 URL:
   - https://www.linkedin.com/company/antikythera-program/
 ---

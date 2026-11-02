@@ -2,6 +2,7 @@
 aliases:
   - 노네임프레스
 topic:
+  - "[[Design]]"
   - "[[Graphic Design]]"
   - "[[Design Studio]]"
 IG:

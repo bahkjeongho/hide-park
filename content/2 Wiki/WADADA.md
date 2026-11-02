@@ -2,6 +2,7 @@
 aliases:
   - 이다경
 topic:
+  - "[[Design]]"
   - "[[Design Studio]]"
   - "[[Graphic Designer]]"
 IG:

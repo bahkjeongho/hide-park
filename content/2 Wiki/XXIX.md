@@ -2,6 +2,7 @@
 aliases:
   - Twenty Nine
 topic:
+  - "[[Design]]"
   - "[[Design Studio]]"
   - "[[Brand Design]]"
 IG:
@@ -27,25 +28,7 @@ Countries:
 >
 > Our work spans brand strategy and identity, messaging, websites, digital products, commerce, campaigns, and experiences. We don’t treat these as separate disciplines. A brand shapes how a product behaves. A website can change how an organization sees and presents itself. Technology opens up new ways to tell stories, invite participation, and be of service.
 >
-> ## We like hard problems.
->
-> Our studio is built to do two difficult things well at once: create experiences that are beautiful, emotional, and clear, and build them to be technically solid and fast.
->
-> ## Your product is your brand
->
-> The experience you create for your users is a reflection of the promise you make to them as a brand. We build brands from the product out, treating every screen as a flagship experience. That means more than pasting a brand book onto a website template. It's a chance to bring the brand to life in a medium people love to use.
->
-> ## Things of quality have no fear of time
->
-> Strategic foresight isn't predicting the future. It's building things strong enough to thrive in several versions of it. Trust is earned by brands that live up to their promise, and by products that keep working, year after year.
->
-> ## ★★★★★ Hospitality
->
-> Hospitality is at the center of our practice. We lead with empathy and curiosity, and we listen closely to understand each challenge and ambition. Our process is collaborative, creative, and above all enjoyable, because the best work happens when a partnership feels human.
->
-> ## Our Story
->
-> We believe design should do more than make change visible. It should help define what that change means, bring the people responsible for it together, and build the structures that let it last. We work closely with our clients from the first questions through to launch, bringing clarity and momentum to complex decisions without pretending they're simple. In 2019, we made our long-running collaboration with Sanctuary Computer official, around a shared belief that design and technology are strongest when they're built together. Today, XXIX is part of garden3d, a worker-owned creative collective that also includes Sanctuary Computer, Index, and USB Club. Together, our practice spans technology, culture, physical space, community, and research. How a studio operates shows in the quality of its work. We hold ourselves responsible to our clients, our collaborators, our team, our communities, and the consequences of what we put into the world. We partner with ambitious organizations to make lasting change.
+
 
 > [!Summary]
 
@@ -53,7 +36,20 @@ Countries:
 
 # Portfolio
 
+![](https://xxix-sanity.b-cdn.net/images/yb96fmyv/production/6a873c8fdd79cd65eb8aea899534c3af03ad80b3-3840x2160.png?w=3840&q=80&auto=format&fit=max)
+- [[Brooklyn Museum]] [Link](https://www.xxix.co/work/brooklyn-museum) [Website Design]
 
+<video src="https://xxix-sanity.b-cdn.net/files/yb96fmyv/production/f4554a7e49e3cbdf6fb3f66f2b0d5bfce1a54821.mp4" loop autoplay muted playsinline style="border: 0; border-radius: 18px;"> </video>
+
+- [[Mac Miller]] [Link](https://www.xxix.co/work/mac-miller) [Web Design, Art Direction, Editorial Design]
+
+<video src="https://xxix-sanity.b-cdn.net/files/yb96fmyv/production/4c47f9aa0310500c5fd008f7bf5745938537fb96.mp4" loop autoplay muted playsinline style="border: 0; border-radius: 18px;"> </video>
+
+- [[Pratt Institute]] School of Architecture [Link](https://www.xxix.co/work/pratt-soa) [Web Design, Brand Design, Engineering]
+
+<video src="https://xxix-sanity.b-cdn.net/files/yb96fmyv/production/d5084c78255678865ee11ff5bf30336509bb7ead.mp4" loop autoplay muted playsinline style="border: 0; border-radius: 18px;"> </video>
+**
+- [[Light Three]] [Link](https://www.xxix.co/work/light-three) [Full Stack Apps, Embedded Software, Product Deisgn, Engineering]
 ---
 
 # People

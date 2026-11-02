@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Music]]"
+  - "[[K-Pop]]"
   - "[[Entertainment Company]]"
 URL:
   - https://www.youtube.com/user/pledisartist

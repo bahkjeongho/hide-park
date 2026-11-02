@@ -1,7 +1,9 @@
 ---
 topic:
-  - Photographer
-  - Video Director
+  - "[[Video]]"
+  - "[[Photography]]"
+  - "[[Video Director]]"
+  - "[[Photographer]]"
 IG:
   - https://www.instagram.com/frankleboner/
 Website: https://www.franklebon.co.uk/

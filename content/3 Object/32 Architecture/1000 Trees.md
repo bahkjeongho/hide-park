@@ -1,18 +1,21 @@
 ---
-title: 1000 Trees
 architect:
   - "[[Heatherwick Studio]]"
-Cities: Shanghai
-program:
-  - Retail
-  - District
-year: 2021
+Program:
+  - "[[Retail Architecture]]"
+  - "[[District Architecture]]"
+Cities:
+  - "[[Shanghai]]"
+Countries:
+  - "[[China]]"
+Year: 2021
 URL:
   - https://heatherwick.com/projects/buildings/1000trees/
-  - 
 ---
 ---
 
 >[!Summary]
 
-![](https://heatherwick.com/wp-content/uploads/1.jpeg)
+<iframe src="https://heatherwick.com/projects/buildings/1000trees/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
+
+

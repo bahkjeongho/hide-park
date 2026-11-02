@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Design]]"
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
 IG: https://www.instagram.com/veryes.berlin/
 Website: https://www.veryes.co/

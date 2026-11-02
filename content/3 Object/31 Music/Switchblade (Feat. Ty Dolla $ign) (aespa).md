@@ -12,16 +12,16 @@
 ---
 ### Music Videos
 ---
-
+![](https://youtu.be/xcFbyuzd9S8?si=7MvgIOza-_xKjBbe)
 ---
 ### Credit
 ---
 ⠀  
-CHIEF DIRECTOR | WOOCHEOL JO  
+CHIEF DIRECTOR | [[조우철|WOOCHEOL JO]]
   
 MUSIC VIDEO DIRECTION & ARRANGEMENT | SUNYOU KIM, MINSOO CHA  
   
-Directed by TAEJONG SONG [@songtaejong](https://www.instagram.com/songtaejong/), KO UN MIN [@gounxgoun](https://www.instagram.com/gounxgoun/)  
+Directed by [[송태종|TAEJONG SONG]] [@songtaejong](https://www.instagram.com/songtaejong/), [[고운민|KO UN MIN]] [@gounxgoun](https://www.instagram.com/gounxgoun/)  
   
 Assistant Director l YOONSEO NA [@vc._.3v](https://www.instagram.com/vc._.3v/)  
 Assistant Director l SUNGOK JOO [@okayiamok](https://www.instagram.com/okayiamok/)  
@@ -38,7 +38,7 @@ Line Producer l JUNSEO KIM
 Production Assistants I RUNNER  
 JONGHOON SHIM / JIHOON JEON / BYUNGJIN LEE / CHANGWOOK PARK / JIWOONG HWANG / HYUNGTAE KIM / YONG KIM / YOUNGHUN JIN / JINWOO JEONG / HYODONG LEE / SEULGI HONG / MINJIN HAN  
   
-Director of Photography l ANDY IERE KIM [@illuminatek](https://www.instagram.com/illuminatek/)  
+Director of Photography l [[ANDY IERE KIM]] [@illuminatek](https://www.instagram.com/illuminatek/)  
 First Assistant Camera l JUYOUNG AN  
 Second Assistant Camera l YOUNGSEO KANG  
 DIT l KYUNGSEO KANG  
@@ -49,7 +49,7 @@ YU JAE-JUN / WOO-JIN SUNG / JAE-WOONG YOON / SUNG-HOON PARK /
 UN-JAE HEO / JUN-KI HONG / MIN-GEUN CHO / MIN-SE KIM / DO-GEUN JEONG  
 Generator | JEONG-HEE SON / JIN-SEON YU  
   
-Art Dept | ROH HAUS  
+Art Dept | [[ROH HAUS]]
 Art Director | HOSEUNG SHIN [@summerskythunderstorm](https://www.instagram.com/summerskythunderstorm/)  
 Art Styling Team | YENA HAN / CHOHYE KIM / HAGYUNG SEO /  
 HYUNSEOK KIM / HANSEO PARK  

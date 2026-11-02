@@ -3,6 +3,8 @@ aliases:
   - WT
 topic:
   - "[[Art School]]"
+IG:
+  - https://www.instagram.com/werkplaatstypografie/
 Website:
   - https://www.artez.nl/en/programmes/master/werkplaats-typografie-arnhem
   - https://www.werkplaatstypografie.org/

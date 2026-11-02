@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Creative Direction]]"
   - "[[Fashion Director]]"
   - "[[Creative Director]]"
 IG:

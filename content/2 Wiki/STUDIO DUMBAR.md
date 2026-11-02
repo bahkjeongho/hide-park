@@ -1,6 +1,8 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Design Agency]]"
+  - "[[Motion Design]]"
 IG:
   - https://www.instagram.com/studiodumbar/
 Website: https://studiodumbar.com/

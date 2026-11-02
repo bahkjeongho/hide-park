@@ -2,7 +2,11 @@
 aliases:
   - 콜리그
 topic:
+  - "[[Media]]"
+  - "[[Magazine]]"
   - "[[Culture Magazine]]"
+IG:
+  - https://www.instagram.com/colleague321/
 Website:
   - https://colleague.co.kr/
 Countries:

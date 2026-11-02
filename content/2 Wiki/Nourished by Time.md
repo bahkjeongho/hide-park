@@ -9,6 +9,8 @@ Genre:
   - "[[Alternative R&B]]"
   - "[[Synth-Pop]]"
   - "[[Indie Electronic]]"
+IG:
+  - https://www.instagram.com/nourishedbytime_/
 Wikis:
   - https://en.wikipedia.org/wiki/Nourished_by_Time
 Cities:

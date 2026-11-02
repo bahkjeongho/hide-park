@@ -2,6 +2,7 @@
 aliases:
   - Jaime Garmendia
 topic:
+  - "[[Design]]"
   - "[[Graphic Designer]]"
   - "[[Brand Design]]"
 IG:

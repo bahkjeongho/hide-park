@@ -1,0 +1,36 @@
+---
+aliases:
+  - WSJ
+topic:
+  - "[[Media]]"
+  - "[[Newspaper]]"
+IG:
+  - https://www.instagram.com/wsj/
+Website:
+  - https://www.wsj.com/
+URL:
+Wikis:
+  - https://en.wikipedia.org/wiki/The_Wall_Street_Journal
+Cities:
+  - "[[New York]]"
+Countries:
+  - "[[USA]]"
+tags:
+Related:
+---
+>[!tldr] tl;dr
+>New York-based business and finance daily newspaper published by Dow Jones
+
+> [!Info]
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# People
+

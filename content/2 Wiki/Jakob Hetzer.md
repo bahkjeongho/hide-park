@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
 IG: https://www.instagram.com/jakobhetzer/
 Website: https://jakob-hetzer.com/

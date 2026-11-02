@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Graphic Designer]]"
   - "[[Type Designer]]"
 Website:

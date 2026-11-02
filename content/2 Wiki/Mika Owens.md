@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Creative Direction]]"
   - "[[Design Director]]"
   - "[[Creative Director]]"
 Cities:

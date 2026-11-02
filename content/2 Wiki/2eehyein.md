@@ -2,6 +2,8 @@
 aliases:
   - 이혜인
 topic:
+  - "[[Video]]"
+  - "[[Photography]]"
   - "[[Video Director]]"
   - "[[Photographer]]"
 IG:
@@ -34,12 +36,26 @@ Related:
 
 # Portfolio
 
+![](https://youtu.be/pHciG9_2xXM?si=mZpA4QAQD_-6SWuF)
+
 - [[GRLS (TUIDE)|GRLS]] by [[TUIDE]] [M/V]
+
+![](https://youtu.be/V1Lr-_AxeR8?si=KC1ZsX6k2aIZL_Vn)
 - [[BOOMPALA (LE SSERAFIM)|BOOMPALA]] by [[LE SSERAFIM]] [M/V]
+
+![](https://youtu.be/BjFX1eugZ-Y?si=LZUPg72HeNVUkwmN)
 - [[Blingy (NCT 127) (Track)|Blingy]] by [[NCT 127]] [M/V]
+
+![](https://youtu.be/B1ShLiq3EVc?si=gg9ASm6rdNt4SQ0d)
 - [[XOXZ (IVE)|XOXZ]] by [[IVE]]
+
+![](https://youtu.be/vmL-XgxwQZU?si=9I1xSCNK6gRg0a0q)
 - [[Bag Bad Back (RIIZE)|Bag Bad Back]] by [[RIIZE]] [M/V]
+
+![](https://youtu.be/yjxLMzeV76Q?si=HqrhhTO25L3IYMdG)
 - [[Brought The Heat Back (ENHYPEN)|Brought The Heat Back]] by [[ENHYPEN]] [M/V]
+
+![](https://youtu.be/a2Zqdo9RbNs?si=P0ezTG59UltP8tmC)
 - [[Bad Desire (With or Without You) (ENHYPEN)|Bad Desire]] by [[ENHYPEN]]
 
 ---

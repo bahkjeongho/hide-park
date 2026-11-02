@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Branding Agency]]"
 IG:
   - https://www.instagram.com/skinn.agency/
@@ -40,9 +41,9 @@ Countries:
 
 ---
 
-# {{title}}
+# Portfolio
 
-## Key Concepts
 
-## Related Topics
-- [[]]
+---
+
+# People

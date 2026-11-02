@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Branding Agency]]"
   - "[[Design Agency]]"
 IG:
@@ -17,7 +18,7 @@ Countries:
 <iframe src="https://wearemucho.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
->
+>브랜드 전략과 디자인을 만드는 글로벌 디자인·브랜딩 에이전시
 
 > [!Info]
 > At Mucho, we bring a unique perspective to every project.

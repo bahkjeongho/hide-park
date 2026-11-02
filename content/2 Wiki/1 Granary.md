@@ -1,5 +1,8 @@
 ---
 topic:
+  - "[[Fashion]]"
+  - "[[Media]]"
+  - "[[Magazine]]"
   - "[[Fashion Magazine]]"
   - "[[Fashion Platform]]"
 IG:

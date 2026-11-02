@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Media]]"
+  - "[[Magazine]]"
   - "[[Music Magazine]]"
   - "[[Culture Magazine]]"
 IG:

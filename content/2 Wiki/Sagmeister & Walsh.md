@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Design Studio]]"
 IG:
   - https://x.com/sagmeisterwalsh/

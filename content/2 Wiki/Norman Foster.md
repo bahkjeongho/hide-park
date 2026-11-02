@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Architecture]]"
   - "[[Architect]]"
 Website:
   - http://www.normanfosterfoundation.org/

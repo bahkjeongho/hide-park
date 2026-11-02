@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Graphic Designer]]"
 Website:
   - https://www.pentagram.com/about/paula-scher

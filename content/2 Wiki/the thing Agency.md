@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Creative Direction]]"
   - "[[Creative Agency]]"
 Website:
   - https://thethingagency.com/

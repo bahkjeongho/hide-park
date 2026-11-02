@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Media]]"
+  - "[[Magazine]]"
   - "[[Art Platform]]"
   - "[[Art Magazine]]"
 IG:

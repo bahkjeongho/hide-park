@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Brand]]"
 Website:
   - https://www.celine.com

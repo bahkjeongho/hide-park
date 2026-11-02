@@ -2,6 +2,7 @@
 aliases:
   - 김희선
 topic:
+  - "[[Creative Direction]]"
   - "[[Creative Director]]"
 Cities:
   - "[[Seoul]]"

@@ -3,6 +3,7 @@ aliases:
   - 고윤서
   - Yunseo Go
 topic:
+  - "[[Design]]"
   - "[[Design Studio]]"
   - "[[Digital Design]]"
 IG:

@@ -2,6 +2,8 @@
 aliases:
   - After Hours
 topic:
+  - "[[Design]]"
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
   - "[[Design Studio]]"
 IG:

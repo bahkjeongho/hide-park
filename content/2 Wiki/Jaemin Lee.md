@@ -2,6 +2,7 @@
 aliases:
   - 이재민
 topic:
+  - "[[Design]]"
   - "[[Art Director]]"
   - "[[Graphic Designer]]"
 Website:

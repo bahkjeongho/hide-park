@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Brand]]"
+IG:
+  - https://www.instagram.com/givenchy/
 Website:
   - https://www.givenchy.com
 Wikis:

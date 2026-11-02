@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Music]]"
+  - "[[K-Pop]]"
   - "[[Entertainment Company]]"
 IG:
   - https://www.instagram.com/a2o.world

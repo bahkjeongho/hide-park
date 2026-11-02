@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Photography]]"
   - "[[Photographer]]"
 IG:
   - https://www.instagram.com/petrafcollins/

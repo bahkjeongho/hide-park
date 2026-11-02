@@ -16,18 +16,18 @@
 ![](https://youtu.be/V2V9-9VhYJo?si=mUnXLpHi1R8O-UIp)
 
 ### Credit
-Director | YVNG WING (IDIOTS)  
+Director | [[YVNG WING]] (IDIOTS)  
 1st Assistant Director | NOHP (IDIOTS), Wonjung Jeong  
 2nd Assistant Director | Chaeyoung Woo  
   
-Production | KEEPUSWEIRD  
+Production | [[KEEPUSWEIRD]]  
 Executive Producer | Seungwhan Lee  
 Producer | Soomin Hong, Yuchang Lee  
 Line Producer | Edam Lee, Gyeongnyeon Kim  
   
 Production Assistant | Chanhyuk Park, Hanwool Jung, Hyeonho Seo, Jiho Kim, Junsu Kim, Mingyu Park, Siyun Jeong, Wooseong Yang, Yongbae Kim, Yonghyun Kim  
   
-DP | Yechan Shin  
+DP | [[신예찬|Yechan Shin]]
 1st AC | Hyuntae Kim  
 2nd AC | Gwonwoo Shin  
 3rd AC | Jinhyeok Kim  

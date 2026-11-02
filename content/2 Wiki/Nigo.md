@@ -3,6 +3,7 @@ aliases:
   - Nigö
   - 長尾智明
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Designer]]"
 IG:
   - https://www.instagram.com/nigo/

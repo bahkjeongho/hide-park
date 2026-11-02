@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
 Website:
   - https://www.maybe-paris.com/

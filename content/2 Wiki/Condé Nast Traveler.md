@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Media]]"
   - "[[Magazine]]"
 URL:
   - https://twitter.com/CNTraveler

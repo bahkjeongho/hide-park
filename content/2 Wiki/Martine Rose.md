@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Designer]]"
+IG:
+  - https://www.instagram.com/martine_rose/
 Wikis:
   - https://en.wikipedia.org/wiki/Martine_Rose
 ---

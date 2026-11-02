@@ -1,6 +1,8 @@
 ---
 topic:
   - "[[Creative Production]]"
+IG:
+  - https://www.instagram.com/ground___work/
 Website: https://ground-work.co/
 Cities:
   - "[[Bristol]]"

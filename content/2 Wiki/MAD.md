@@ -2,6 +2,7 @@
 aliases:
   - MAD Architecture
 topic:
+  - "[[Architecture]]"
   - "[[Architecture Studio]]"
 IG:
   - https://www.instagram.com/madarchitects/

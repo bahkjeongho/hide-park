@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Brand]]"
+IG:
+  - https://www.instagram.com/commedesgarcons/
 Website:
   - https://www.comme-des-garcons.com
 Wikis:

@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Design]]"
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
+  - "[[Brand Design]]"
 IG:
   - https://www.instagram.com/wvdesign/
 Website:

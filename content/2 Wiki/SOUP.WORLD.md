@@ -2,6 +2,7 @@
 aliases:
   - SOUP WORLD
 topic:
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
 IG:
   - https://www.instagram.com/soup__world

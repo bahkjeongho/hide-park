@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Video]]"
   - "[[Creative Production]]"
 IG:
   - https://www.instagram.com/church_edit/

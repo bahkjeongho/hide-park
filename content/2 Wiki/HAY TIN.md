@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Creative Label]]"
   - "[[Design Studio]]"
 IG:

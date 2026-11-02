@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Video]]"
   - "[[Video Director]]"
 IG:
   - https://www.instagram.com/oui_kim/
@@ -32,12 +33,25 @@ Related:
 
 # Portfolio
 
+![](https://youtu.be/46h0LvDHgIs?si=lnCFVBbS4fvfBVE2)
 - [[SUN KISS (TUIDE)|SUNKISS]] by [[TUIDE]] [M/V]
+
+![](https://youtu.be/7QGRDC7ngpE?si=-WfnvqM6LTLZf2iQ)
 - [[TOP 5 (ZEROBASEONE)|TOP 5]] by [[ZEROBASEONE]] [M/V]
+
+![](https://youtu.be/WxGWMI2B7r8?si=dX9EUa5RhpunnyWQ)
 - [[똑똑똑 (BOYNEXTDOOR)|똑똑똑]] by [[BOYNEXTDOOR]] [M/V]
+
+![](https://youtu.be/M2WTUoy4y6E?si=Ox7SfKxWhVR1swsd)
 - [[Dirty Work (aespa) (Track)|Dirty Work]] by [[aespa]] [M/V]
+
+![](https://youtu.be/vLUtHODdLzk?si=mZQFSQHLK2z-e-4A)
 - [[Fly Up (RIIZE)|Fly Up]] by [[RIIZE]] [M/V]
+
+![](https://youtu.be/g36q0ZLvygQ?si=N9rx7GUNu1dljj8m)
 - [[REBEL HEART (IVE)|REBEL HEART]] by [[IVE]] [M/V]
+
+![](https://youtu.be/ECMc1SB60E0?si=zxwa2yegYqb6tMIJ)
 - [[와리가리 (혁오)|와리가리]] by [[혁오 (Hyukoh)]] [M/V]
 
 ---

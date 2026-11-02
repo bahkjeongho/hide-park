@@ -1,18 +1,20 @@
 ---
-title: Lucas Museum of Narrative Art
 architect:
   - "[[MAD]]"
-Cities: Los Angeles
-program:
-  - Cultural
-  - Museum
-year: 2026
+Program:
+  - "[[Cultural Architecture]]"
+  - "[[Museum Architecture]]"
+Cities:
+  - "[[Los Angeles]]"
+Countries:
+  - "[[USA]]"
+Year: 2026
 URL:
   - https://www.i-mad.com/projects/lucas-museum-of-narrative-art?status=Completed
-  - 
 ---
 ---
 
 >[!Summary]
 
-![](https://www.i-mad.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F2d8zs6ec%2Fproduction%2F5906b99f55a518c69891f178006576980e12f1f5-2928x2816.png%3Fw%3D2000&w=1920&q=75)
+<iframe src="https://www.i-mad.com/projects/lucas-museum-of-narrative-art?status=Completed" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
+

@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Architecture]]"
   - "[[Architect]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Richard_Rogers

@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Branding Agency]]"
 IG:
   - https://www.instagram.com/area_17_/

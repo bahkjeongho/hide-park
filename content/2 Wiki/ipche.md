@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Furniture Design]]"
   - "[[Design Studio]]"
 IG:

@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Brand Design]]"
 IG:
   - https://www.instagram.com/gaa.designstudio/

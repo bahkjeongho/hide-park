@@ -2,6 +2,8 @@
 aliases:
   - 크랙 매거진
 topic:
+  - "[[Media]]"
+  - "[[Magazine]]"
   - "[[Music Magazine]]"
   - "[[Culture Magazine]]"
 IG:

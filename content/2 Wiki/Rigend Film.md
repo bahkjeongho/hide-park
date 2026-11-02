@@ -4,6 +4,7 @@ aliases:
   - 리전드
   - Rigend
 topic:
+  - "[[Video]]"
   - "[[Creative Production]]"
 IG: https://www.instagram.com/rigend.film/
 Website: https://www.rigend.com/

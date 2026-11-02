@@ -2,6 +2,8 @@
 aliases:
   - United Design Lab
 topic:
+  - "[[Design]]"
+  - "[[Creative Direction]]"
   - "[[Design Studio]]"
   - "[[Creative Studio]]"
 IG:

@@ -1,6 +1,8 @@
 ---
 topic:
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
+  - "[[Production Studio]]"
 IG:
   - https://www.instagram.com/fabrica.work/
 Website:

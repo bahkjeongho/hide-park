@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Architecture]]"
   - "[[Architecture Studio]]"
 IG:
   - https://www.instagram.com/6a__architects/

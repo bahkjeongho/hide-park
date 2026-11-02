@@ -5,6 +5,8 @@ Genre:
   - "[[EDM]]"
   - "[[Electro House]]"
   - "[[Hyperpop]]"
+IG:
+  - https://www.instagram.com/ninajirachi/
 Website:
   - https://www.ninajirachi.com/
 Wikis:

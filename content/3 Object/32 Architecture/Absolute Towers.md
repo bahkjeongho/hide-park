@@ -1,11 +1,13 @@
 ---
-title: Absolute Towers
 architect:
   - "[[MAD]]"
-Cities: Toronto
-program:
-  - Residential
-year: 2012
+Program:
+  - "[[Residential Architecture]]"
+Cities:
+  - "[[Toronto]]"
+Countries:
+  - "[[Canada]]"
+Year: 2012
 URL:
   - https://www.i-mad.com/projects/absolute-towers
 ---
@@ -13,4 +15,5 @@ URL:
 
 >[!Summary]
 
-![](https://www.i-mad.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F2d8zs6ec%2Fproduction%2F61b0fe8db50a26cc432e4f23b695fac6a544c049-5888x3925.jpg%3Fw%3D2000&w=1920&q=75)
+<iframe src="https://www.i-mad.com/projects/absolute-towers" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
+

@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Media]]"
+  - "[[Magazine]]"
   - "[[Design Magazine]]"
 IG:
   - https://www.instagram.com/houseandgardenuk/

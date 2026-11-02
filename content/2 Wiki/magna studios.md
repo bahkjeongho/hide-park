@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/magna.studios/
@@ -20,9 +21,9 @@ Website:
 
 ---
 
-# {{title}}
+# Portfolio
 
-## Key Concepts
 
-## Related Topics
-- [[]]
+---
+
+# People

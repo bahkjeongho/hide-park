@@ -16,10 +16,10 @@
 ### Credit
 
 Artist | CORTIS  
-Executive Producer | SEONJEONG SHIN, SEOYOUNG KIM    
-Chief Producer | “hitman” bang  
+Executive Producer | [[SEONJEONG SHIN]], SEOYOUNG KIM    
+Chief Producer | [[방시혁|“hitman” bang]]
 
-Head of Creative | SEOYOUNG KIM  
+Head of Creative | SEOYOUNG KIM
 VISUAL BRANDING | JAE, WONSEON, SEO BIN, Dahye Jeong, Daebong Jung, Minah Jee  
 A&R | Jiyoon June Kwon, Sohee Lily Min  
 Project Management | Injoong Yong  

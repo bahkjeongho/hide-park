@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Design]]"
+  - "[[Creative Direction]]"
   - "[[Creative Agency]]"
 IG: https://www.instagram.com/rgabydesign/
 Website: https://www.rga.com/

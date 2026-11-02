@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Media]]"
+  - "[[Magazine]]"
   - "[[Design Magazine]]"
 IG:
   - https://www.instagram.com/thebrandidentity/
@@ -22,24 +24,14 @@ Countries:
 >
 > The Greatest™
 > 2015년부터 우리는 그래픽·브랜드 디자인에서 기억될 것이 무엇인지를 정의해 왔다.
->
 > 우리가 큐레이션한 콘텐츠는 디자인을 호흡하며 사는 전 세계 독자에게 월 2,000만 번 노출되고 공유된다. 그들은 모든 접점 뒤의 디테일, 장인정신, 사고를 알아본다. 그들은 디자인 때문에 브랜드에 투자하는 사람들이다.
->
 > 그들은 맛만큼 컵을 보고 커피를 고른다. 성능만큼 그것을 빚은 비전을 보고 자동차를 고른다. 그들은 형태와 기능을 동등하게 보며, 좋아하는 브랜드와 디자이너에게도 같은 것을 요구한다.
 >
 > The Brand Identity is a highly curated archive of the Greatest™ creative work and the companies behind it. We create case studies and interviews on the projects, process and people shaping brands. From [emerging names](https://www.instagram.com/p/DPmXxhJALws/?img_index=1) to [global icons](https://the-brandidentity.com/project/los-york-builds-a-tarot-universe-for-netflixs-biggest-global-campaign).
 >
 > The Greatest™
->
 > Since 2015, we’ve defined what’s remembered in graphic and brand design.
->
-> Our cu[]()rated content is seen and shared 20 million times per month by a global audience who live and breathe design. They notice the details, the craft and the thinking behind every touchpoint. They are the ones who buy into brands for their design.
->
-> They choose coffee for the cup as much as the taste.
->
-> A car for the vision that shaped it as much as the performance that defines it.
->
-> They see form and function as equals – and demand the same from the brands and designers they love.
+> Our curated content is seen and shared 20 million times per month by a global audience who live and breathe design. They notice the details, the craft and the thinking behind every touchpoint. They are the ones who buy into brands for their design. They choose coffee for the cup as much as the taste. A car for the vision that shaped it as much as the performance that defines it. They see form and function as equals – and demand the same from the brands and designers they love.
 
 > [!Summary]
 

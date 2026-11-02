@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Media]]"
+  - "[[Magazine]]"
   - "[[Tech Magazine]]"
 IG:
   - https://www.instagram.com/arstechnica/

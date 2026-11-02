@@ -2,6 +2,7 @@
 aliases:
   - 山本理顕
 topic:
+  - "[[Architecture]]"
   - "[[Architect]]"
 Website:
   - https://riken-yamamoto.co.jp/

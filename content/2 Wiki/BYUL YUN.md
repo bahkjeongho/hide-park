@@ -1,5 +1,8 @@
 ---
+aliases:
+  - 윤별
 topic:
+  - "[[Video]]"
   - "[[Video Director]]"
 IG:
   - https://www.instagram.com/byul.yun/
@@ -27,9 +30,13 @@ Related:
 
 # Portfolio
 
-
+![](https://youtu.be/UsbRoaH6y-Q?si=rz68B782nA459p9E)
 - [[Pop Off Pop Off (KiiiKiii)|Pop Off Pop Off]] by [[KiiiKiii]] [M/V]
+
+![](https://youtu.be/zhHB4dZTChw?si=XDRlPdiLaTzybHwK)
 - [[404 (New Era) (KiiiKiii)|404 (New Era)]] by [[KiiiKiii]] [M/V]
+
+![](https://youtu.be/IcwHopeT5gY?si=05hikSWqH-lUtPnS)
 - [[Beautiful Strangers (TOMORROW X TOGETHER)|Beautiful Strangers]] by [[TOMORROW X TOGETHER]] [M/V]
 
 ---

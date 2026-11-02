@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Creative Direction]]"
   - "[[Creative Director]]"
+IG:
+  - https://www.instagram.com/feliperocha/
 Cities:
   - "[[New York]]"
 Countries:

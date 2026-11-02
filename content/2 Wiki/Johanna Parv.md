@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Designer]]"
 Cities:
   - "[[London]]"

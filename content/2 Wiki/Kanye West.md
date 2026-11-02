@@ -5,7 +5,6 @@ aliases:
   - 카녜이 웨스트
   - 예
 topic:
-  - Artist
   - "[[Music Artist]]"
 Genre:
   - "[[Hip Hop]]"

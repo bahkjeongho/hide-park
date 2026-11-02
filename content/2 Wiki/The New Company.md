@@ -2,6 +2,7 @@
 aliases:
   - NewCo
 topic:
+  - "[[Design]]"
   - "[[Design Agency]]"
 IG:
   - https://www.instagram.com/thenewcompany/

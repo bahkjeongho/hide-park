@@ -2,6 +2,8 @@
 aliases:
   - Plinth Media
 topic:
+  - "[[Design]]"
+  - "[[Creative Direction]]"
   - "[[Design Studio]]"
   - "[[Creative Studio]]"
 IG:

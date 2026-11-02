@@ -1,6 +1,7 @@
 ---
 topic:
-  - D.O.P.
+  - "[[Video]]"
+  - "[[D.O.P.]]"
 IG:
   - https://www.instagram.com/illuminatek/
 Website: https://new-year.asia/artist/andy-iere-kim/

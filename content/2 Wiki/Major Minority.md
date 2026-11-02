@@ -2,6 +2,7 @@
 aliases:
   - 메이저마이너리티
 topic:
+  - "[[Design]]"
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/majorminority_/

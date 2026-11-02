@@ -2,6 +2,7 @@
 aliases:
   - 데이즈드 스튜디오
 topic:
+  - "[[Creative Direction]]"
   - "[[Creative Agency]]"
   - "[[Creative Studio]]"
 IG:

@@ -4,6 +4,8 @@ topic:
   - "[[Design Award]]"
 Kind:
   - "[[Award]]"
+IG:
+  - https://www.instagram.com/ifdesign/
 Website:
   - https://ifdesign.com/en/
 Countries:

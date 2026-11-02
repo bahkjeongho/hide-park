@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Designer]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Guccio_Gucci

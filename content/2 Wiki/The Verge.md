@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Media]]"
+  - "[[Magazine]]"
   - "[[Tech Magazine]]"
 IG:
   - "\thttps://www.instagram.com/verge/"

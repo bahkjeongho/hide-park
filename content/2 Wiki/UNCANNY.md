@@ -1,5 +1,9 @@
 ---
 topic:
+  - "[[Design]]"
+  - "[[Video]]"
+  - "[[Photography]]"
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
 IG:
   - https://www.instagram.com/uunnccaannyy/

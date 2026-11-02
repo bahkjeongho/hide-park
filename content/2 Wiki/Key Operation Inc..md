@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Architecture]]"
   - "[[Architecture Office]]"
 IG:
   - https://www.instagram.com/keyoperation_architects/

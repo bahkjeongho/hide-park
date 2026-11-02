@@ -2,12 +2,15 @@
 aliases:
   - Chermayeff & Geismar & Haviv
 topic:
+  - "[[Design]]"
   - "[[Design Studio]]"
   - "[[Consulting Agency]]"
   - "[[Branding Agency]]"
 IG:
   - https://www.instagram.com/chermayeff_geismar_haviv/
 Website: https://www.cghnyc.com/
+URL:
+  - https://twitter.com/cghnyc
 Cities:
   - "[[New York]]"
 Countries:
@@ -16,7 +19,7 @@ Countries:
 <iframe src="https://www.cghnyc.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
->
+>뉴욕 기반의 독립 그래픽 디자인 펌
 
 > [!Info]
 > To ensure the highest level of design, we keep our studio independent and focused, working collaboratively from our New York office for our clients around the world. At Chermayeff & Geismar & Haviv, every project is met with the creative vision and strategic thinking of all the firm’s principals — as well as the diverse abilities, talents, and backgrounds of our entire team.

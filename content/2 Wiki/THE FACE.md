@@ -2,6 +2,7 @@
 aliases:
   - THE FACE MAGAZINE
 topic:
+  - "[[Fashion]]"
   - "[[Media]]"
   - "[[Magazine]]"
   - "[[Fashion Magazine]]"

@@ -3,6 +3,7 @@ aliases:
   - 江宥儀
   - Chiang Yu-yi
 topic:
+  - "[[Photography]]"
   - "[[Photographer]]"
 IG:
   - https://www.instagram.com/johnyuyi/

@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Creative Direction]]"
   - "[[Creative Director]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Georgianna_Stout

@@ -2,6 +2,7 @@
 aliases:
   - A New Type of Interference
 topic:
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
 IG:
   - https://www.instagram.com/anti_inc/

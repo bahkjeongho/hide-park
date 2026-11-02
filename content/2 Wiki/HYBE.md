@@ -3,6 +3,8 @@ aliases:
   - 하이브
   - HYBE Co., Ltd.
 topic:
+  - "[[Music]]"
+  - "[[K-Pop]]"
   - "[[Entertainment Company]]"
 Website: https://hybecorp.com/
 Wikis:

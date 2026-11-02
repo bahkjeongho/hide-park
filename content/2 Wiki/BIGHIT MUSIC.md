@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Music]]"
+  - "[[K-Pop]]"
   - "[[Entertainment Company]]"
 URL:
   - https://x.com/BIGHIT_MUSIC

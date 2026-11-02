@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Media]]"
+  - "[[Magazine]]"
   - "[[Design Magazine]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Architectural_Digest

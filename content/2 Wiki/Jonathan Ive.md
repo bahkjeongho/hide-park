@@ -1,14 +1,22 @@
 ---
+aliases:
+  - Jony Ive
 topic:
   - "[[Product Designer]]"
+Website:
+  - https://sirjonyive.com/
 Wikis:
   - https://namu.wiki/w/%EC%A1%B0%EB%84%88%EC%84%A0%20%EC%95%84%EC%9D%B4%EB%B8%8C
+Related:
+  - "[[LoveFrom]]"
 ---
 >[!tldr] tl;dr
 >
 
 > [!Info]
-> 
+> Jony Ive is a designer. Born in London,he moved to California in 1992 to join [[Apple]].
+> As Chief Design Officer,he was responsible for the design of hardware, user interface, packaging and major architectural projects. [[Steve Jobs]] described Jony as his spiritual partner saying,“The difference that Jony has made not only at Apple but in the world is huge.” Their unique partnership defined a profound and enduring cultural legacy.
+> Jony led the design of iconic and category-defining products including the iMac, iPod, iPhone, iPad and Apple Watch.
 
 > [!Summary]
 

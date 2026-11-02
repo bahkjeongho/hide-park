@@ -1,7 +1,9 @@
 ---
 topic:
-  - Photographer
-  - Video Director
+  - "[[Photography]]"
+  - "[[Video]]"
+  - "[[Photographer]]"
+  - "[[Video Director]]"
 IG:
   - https://www.instagram.com/gmuncey/
 Website: https://www.georgemuncey.com/

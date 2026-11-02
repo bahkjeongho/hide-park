@@ -8,6 +8,8 @@ Genre:
   - "[[Rap Rock]]"
   - "[[Nerdcore]]"
   - "[[Experimental Hip-Hop]]"
+IG:
+  - https://www.instagram.com/jvbsucks/
 Website:
   - https://www.jvbsucks.com/
 Wikis:

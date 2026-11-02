@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Brand]]"
+IG:
+  - https://www.instagram.com/burberry/
 Website:
   - https://www.burberry.com
 Wikis:

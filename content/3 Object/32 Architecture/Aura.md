@@ -1,12 +1,13 @@
 ---
-title: Aura
 architect:
   - "[[MAD]]"
-Cities: Miami
-program:
-  - Residential
-year: 2023
-year_note: Non
+Program:
+  - "[[Residential Architecture]]"
+Cities:
+  - "[[Miami]]"
+Countries:
+  - "[[USA]]"
+Year: 2023
 URL:
   - https://www.i-mad.com/projects/aura?page=2
 ---
@@ -14,4 +15,5 @@ URL:
 
 >[!Summary]
 
-![](https://davidchipperfield.com/media/Projects/923-Amorepacific-Headquarters/923-dca-amorepacific-noshe-14.jpg)
+<iframe src="https://www.i-mad.com/projects/aura?page=2" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
+

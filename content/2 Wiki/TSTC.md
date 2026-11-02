@@ -2,6 +2,7 @@
 aliases:
   - TIST COLLECTIVE
 topic:
+  - "[[Design]]"
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/tistcollective/

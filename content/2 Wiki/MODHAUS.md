@@ -2,6 +2,8 @@
 aliases:
   - 모드하우스
 topic:
+  - "[[Music]]"
+  - "[[K-Pop]]"
   - "[[Entertainment Company]]"
 IG:
   - https://www.instagram.com/modhaus_audition

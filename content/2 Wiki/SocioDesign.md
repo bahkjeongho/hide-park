@@ -2,7 +2,10 @@
 aliases:
   - SOCIO
 topic:
+  - "[[Design]]"
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
+  - "[[Brand Design]]"
 IG:
   - https://www.instagram.com/sociodesign/
 Website: https://sociodesign.co.uk/

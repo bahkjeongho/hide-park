@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Design Studio]]"
   - "[[Graphic Design]]"
   - "[[Art Direction]]"

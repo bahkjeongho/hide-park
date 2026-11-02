@@ -1,7 +1,9 @@
 ---
+aliases:
+  - MAH
 topic:
-  - "[[Editor]]"
-  - "[[Film Editor]]"
+  - "[[Video]]"
+  - "[[Video Editor]]"
 IG:
   - https://www.instagram.com/mahferraz/
 Website:

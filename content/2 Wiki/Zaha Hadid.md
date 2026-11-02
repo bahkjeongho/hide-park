@@ -2,6 +2,7 @@
 aliases:
   - زها حديد
 topic:
+  - "[[Architecture]]"
   - "[[Architect]]"
 Website:
   - http://www.zaha-hadid.com

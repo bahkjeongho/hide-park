@@ -1,6 +1,11 @@
 ---
 topic:
+  - "[[Fashion]]"
+  - "[[Media]]"
+  - "[[Magazine]]"
   - "[[Fashion Magazine]]"
+IG:
+  - https://www.instagram.com/voguechina/
 Website:
   - https://www.vogue.com.cn/
 Wikis:

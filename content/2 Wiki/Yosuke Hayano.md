@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Architecture]]"
   - "[[Architect]]"
 ---
 >[!tldr] tl;dr

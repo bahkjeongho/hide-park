@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Designer]]"
+IG:
+  - https://www.instagram.com/kikokostadinov/
 Wikis:
   - https://en.wikipedia.org/wiki/Kiko_Kostadinov
 Cities:

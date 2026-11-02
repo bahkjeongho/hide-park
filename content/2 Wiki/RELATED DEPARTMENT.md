@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Design Studio]]"
   - "[[Graphic Design]]"
 Website: https://www.related.design/

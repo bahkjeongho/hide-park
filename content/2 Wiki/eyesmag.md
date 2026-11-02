@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Media]]"
   - "[[Magazine]]"
+IG:
+  - https://www.instagram.com/eyesmag/
 URL:
   - https://www.facebook.com/infoeyesmag
   - https://www.youtube.com/channel/UCBiSffyBdhIRjYG5q46Td_w

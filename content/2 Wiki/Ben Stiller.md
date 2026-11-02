@@ -1,6 +1,7 @@
 ---
 topic:
-  - "[[Filmmaker]]"
+  - "[[Film Director]]"
+  - "[[Actor]]"
 IG: https://www.instagram.com/benstiller/
 URL:
   - https://x.com/BenStiller

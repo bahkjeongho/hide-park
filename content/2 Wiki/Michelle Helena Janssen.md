@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Photography]]"
   - "[[Photographer]]"
   - "[[Art Director]]"
 IG:

@@ -1,6 +1,10 @@
 ---
 topic:
+  - "[[Media]]"
+  - "[[Video]]"
   - "[[Video Channel]]"
+IG:
+  - https://www.instagram.com/nowness/
 Website:
   - https://www.nowness.com/
 ---

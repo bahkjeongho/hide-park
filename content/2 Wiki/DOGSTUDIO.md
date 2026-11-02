@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
 IG:
   - https://www.instagram.com/dogstudio.co/

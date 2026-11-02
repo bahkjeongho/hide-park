@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Architecture]]"
   - "[[Architecture Firm]]"
 IG:
   - https://www.instagram.com/big_builds/
@@ -52,9 +53,9 @@ Countries:
 
 ---
 
-# {{title}}
+# Portfolio
 
-## Key Concepts
 
-## Related Topics
-- [[]]
+---
+
+# People

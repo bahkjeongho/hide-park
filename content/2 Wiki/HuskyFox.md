@@ -2,6 +2,7 @@
 aliases:
   - 허스키폭스
 topic:
+  - "[[Design]]"
   - "[[Brand Consultancy]]"
 IG:
   - https://www.instagram.com/huskyfox.den/

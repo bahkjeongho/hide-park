@@ -1,6 +1,8 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Design Company]]"
+  - "[[Brand Design]]"
 IG:
   - https://www.instagram.com/motherdesign/
 Website: https://www.motherdesign.com/

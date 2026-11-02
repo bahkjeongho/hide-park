@@ -1,19 +1,21 @@
 ---
-title: Azabudai Hills
 architect:
   - "[[Heatherwick Studio]]"
-Cities: Tokyo
-program:
-  - District
-  - Residential
-  - Retail
-year: 2023
+Program:
+  - "[[District Architecture]]"
+  - "[[Residential Architecture]]"
+  - "[[Retail Architecture]]"
+Cities:
+  - "[[Tokyo]]"
+Countries:
+  - "[[Japan]]"
+Year: 2023
 URL:
   - https://heatherwick.com/projects/buildings/azabudai-hills/
-  - 
 ---
 ---
 
 >[!Summary]
 
-![](https://heatherwick.com/wp-content/uploads/0363_tora_asa_azabudai_hills_N1050_large-scaled.jpg)
+<iframe src="https://heatherwick.com/projects/buildings/azabudai-hills/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
+

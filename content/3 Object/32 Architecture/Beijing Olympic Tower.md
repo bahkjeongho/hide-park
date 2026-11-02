@@ -1,11 +1,13 @@
 ---
-title: Beijing Olympic Tower
 architect:
   - "[[CCTC]]"
-Cities: Beijing
-program:
-  - Tower
-year: 2015
+Program:
+  - "[[Tower Architecture]]"
+Cities:
+  - "[[Beijing]]"
+Countries:
+  - "[[China]]"
+Year: 2015
 URL:
   - https://cadg.com.cn/cn/works/668/
 ---
@@ -13,4 +15,5 @@ URL:
 
 >[!Summary]
 
-![](https://r.visitbeijing.com.cn/attraction/814)
+<iframe src="https://cadg.com.cn/cn/works/668/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
+

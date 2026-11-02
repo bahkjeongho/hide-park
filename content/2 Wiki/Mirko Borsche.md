@@ -2,8 +2,10 @@
 aliases:
   - 미르코 보르셰
 topic:
+  - "[[Design]]"
+  - "[[Art Direction]]"
   - "[[Art Director]]"
-  - "[[Designer]]"
+  - "[[Brand Design]]"
 IG:
   - https://www.instagram.com/mirkoborsche/
 Cities:

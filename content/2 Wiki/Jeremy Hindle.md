@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Production Designer]]"
 IG: https://www.instagram.com/jeremyhindle/
 ---

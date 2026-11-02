@@ -24,7 +24,7 @@ Date: 2022.04.05.
 
 # Track list
 
-- ## 1. LOVE DIVE
+- ## 1. [[LOVE DIVE (IVE) (Track)|LOVE DIVE]]
 	작사: 서지음
 	작곡: Sophia Brennan, Elle Campbell, Nick Hahn
 	편곡: Nick Hahn

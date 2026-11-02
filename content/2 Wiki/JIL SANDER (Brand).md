@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Brand]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Jil_Sander_(company)

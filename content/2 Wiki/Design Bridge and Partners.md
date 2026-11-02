@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Branding Agency]]"
 IG:
   - https://www.instagram.com/design_bridge/
@@ -34,9 +35,9 @@ Related:
 
 ---
 
-# {{title}}
+# Portfolio
 
-## Key Concepts
 
-## Related Topics
-- [[]]
+---
+
+# People

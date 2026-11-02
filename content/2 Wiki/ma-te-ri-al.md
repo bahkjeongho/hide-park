@@ -2,6 +2,8 @@
 aliases:
   - 마테리알
 topic:
+  - "[[Media]]"
+  - "[[Magazine]]"
   - "[[Moving Image Critic]]"
   - "[[Film Magazine]]"
 IG:

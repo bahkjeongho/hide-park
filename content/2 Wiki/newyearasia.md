@@ -2,6 +2,9 @@
 aliases:
   - NEWYEAR*
 topic:
+  - "[[Video]]"
+  - "[[Photography]]"
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
   - "[[Production House]]"
 IG:
@@ -13,7 +16,7 @@ Related:
   - "[[BYUL YUN]]"
   - "[[DASOM HAN]]"
   - "[[OUI KIM]]"
-  - "[[ROH SANGYOON]]"
+  - "[[노상윤]]"
   - "[[SONG SEOYOON]]"
   - "[[TAKANOHVSKAYA]]"
 ---
@@ -36,7 +39,7 @@ Related:
 - [[BYUL YUN]]
 - [[DASOM HAN]]
 - [[OUI KIM]]
-- [[ROH SANGYOON]]
+- [[노상윤]]
 - [[SONG SEOYOON]]
 - [[TAKANOHVSKAYA]]
 

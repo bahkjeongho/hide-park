@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Video]]"
+  - "[[Creative Direction]]"
   - "[[Creative Director]]"
   - "[[Video Director]]"
 IG: https://www.instagram.com/la.uzza/

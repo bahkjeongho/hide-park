@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Design]]"
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
+  - "[[Brand Design]]"
 Website:
   - https://heystudio.es/
 Cities:
@@ -24,9 +27,9 @@ Countries:
 
 ---
 
-# {{title}}
+# Portfolio
 
-## Key Concepts
 
-## Related Topics
-- [[]]
+---
+
+# People

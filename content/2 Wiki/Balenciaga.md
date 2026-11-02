@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Brand]]"
+IG:
+  - https://www.instagram.com/balenciaga/
 Website:
   - https://www.balenciaga.com
 Wikis:

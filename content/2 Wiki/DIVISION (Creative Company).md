@@ -1,10 +1,13 @@
 ---
+aliases:
+  - DIVISION
 topic:
   - "[[Creative Company]]"
 IG:
   - https://www.instagram.com/division.global/
 Website:
   - https://us.division.global/
+  - https://apac.division.global/
 URL:
   - https://www.linkedin.com/company/divisionglobal/
   - https://vimeo.com/divisionglobal

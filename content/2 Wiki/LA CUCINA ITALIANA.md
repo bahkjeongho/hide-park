@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Media]]"
   - "[[Magazine]]"
 IG:
   - https://www.instagram.com/lacucinaitaliana/

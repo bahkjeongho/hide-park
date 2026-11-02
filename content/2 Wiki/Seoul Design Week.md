@@ -4,6 +4,7 @@ aliases:
 topic:
   - Multidisciplinary
   - "[[Design Week]]"
+  - "[[Design Award]]"
 Kind:
   - "[[Design Week]]"
 Subject:

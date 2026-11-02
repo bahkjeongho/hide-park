@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Video]]"
   - "[[Video Production]]"
 IG:
   - https://www.instagram.com/avenues.studio/

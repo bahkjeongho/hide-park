@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Media]]"
+  - "[[Magazine]]"
   - "[[Culture Magazine]]"
 IG:
   - https://www.instagram.com/vanityfair/

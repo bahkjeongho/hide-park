@@ -1,5 +1,8 @@
 ---
 topic:
+  - "[[Media]]"
+  - "[[Magazine]]"
+  - "[[Design]]"
   - "[[Design Magazine]]"
   - "[[Design Studio]]"
 IG:

@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Design]]"
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
   - "[[Design Studio]]"
   - "[[Typography]]"
@@ -16,7 +18,7 @@ Countries:
 <iframe src="https://apracticeforeverydaylife.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
->
+>Kirsty Carter와 Emma Thomas가 2003년 설립한 크리에이티브 디렉션·디자인·서체 스튜디오
 
 > [!Info]
 > A Practice for Everyday Life is a studio for creative direction, design and type since 2003. Through research and consultancy, we create meaningful, original design across brand identities, campaigns, digital, editorial design and custom type. Our process is grounded in curiosity, clarity of purpose, and a shared commitment to excellence.

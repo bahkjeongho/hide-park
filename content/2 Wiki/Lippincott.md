@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Branding Agency]]"
   - "[[Consulting Agency]]"
 Website: https://www.lippincott.com/

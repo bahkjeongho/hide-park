@@ -1,12 +1,19 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Design Studio]]"
+IG:
+  - https://www.instagram.com/kontaakt/
 Website: https://www.kontaakt.org/
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
 ---
 <iframe src="https://www.kontaakt.org/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 
 >[!tldr] tl;dr
->
+>2020년 설립된 서울의 그래픽 아이덴티티 디자인 스튜디오
 
 > [!Info]
 > kontaakt는 2020년에 설립된 디자인 스튜디오입니다.  

@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Designer]]"
+IG:
+  - https://www.instagram.com/jeanpaulgaultier/
 Website:
   - https://www.jeanpaulgaultier.com
 Wikis:

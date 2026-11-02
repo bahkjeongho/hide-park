@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Design Studio]]"
   - "[[Graphic Design]]"
 IG: https://www.instagram.com/aabb.inc/

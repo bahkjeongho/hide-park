@@ -1,14 +1,16 @@
 ---
-title: Janu Dubai
 architect:
-  - "[[Herzog & DeMeuron]]"
-Cities: Dubai
-program:
-  - Complex
-  - Retail
-  - Office
-  - Residential
-year: 2023
+  - "[[Herzog & de Meuron]]"
+Program:
+  - "[[Complex Architecture]]"
+  - "[[Retail Architecture]]"
+  - "[[Office Architecture]]"
+  - "[[Residential Architecture]]"
+Cities:
+  - "[[Dubai]]"
+Countries:
+  - "[[UAE]]"
+Year: 2023
 URL:
   - https://www.herzogdemeuron.com/projects/618-janu/
 ---
@@ -16,4 +18,5 @@ URL:
 
 >[!Summary]
 
-![](https://picturepark.cdn.herzogdemeuron.com/v/Fc6vOT53/)
+<iframe src="https://www.herzogdemeuron.com/projects/618-janu/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
+

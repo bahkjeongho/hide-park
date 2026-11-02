@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Creative Direction]]"
   - "[[Creative Studio]]"
+  - "[[Film Production]]"
+  - "[[Entertainment Company]]"
 IG:
   - https://www.instagram.com/dreamcrew/
 Website:

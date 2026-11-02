@@ -2,9 +2,14 @@
 aliases:
   - Further
 topic:
+  - "[[Design]]"
   - "[[Branding Agency]]"
+  - "[[Marketing Agency]]"
+IG:
+  - https://www.instagram.com/further_agency/
 Website:
   - https://www.design.studio/
+  - https://www.further.group/
 ---
 <iframe src="https://www.design.studio/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
 

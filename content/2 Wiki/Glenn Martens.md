@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Designer]]"
+IG:
+  - https://www.instagram.com/glennmartens/
 Wikis:
   - https://en.wikipedia.org/wiki/Glenn_Martens
 Cities:

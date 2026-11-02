@@ -3,17 +3,29 @@ Artist:
   - "[[A2O LITE]]"
 ---
 ---
+---
 
 >[!Summary]
 
 ---
 
-## Video
+# Track list
 
-### Music Video
+---
 
-Director | MELTMIRROR [@meltmirror](https://www.instagram.com/meltmirror/)  
-Creative Director | Ha Yezin [@sodazine](https://www.instagram.com/sodazine/) [@yzcworld](https://www.instagram.com/yzcworld/)  
+# Content
+
+---
+## Videos
+---
+### Music Videos
+---
+![](https://www.youtube.com/watch?v=D968qfUZMUE)
+---
+### Credit
+---
+Director | [[MELTMIRROR]] [@meltmirror](https://www.instagram.com/meltmirror/)  
+Creative Director | [[하예진|Ha Yezin]] [@sodazine](https://www.instagram.com/sodazine/) [@yzcworld](https://www.instagram.com/yzcworld/)  
 Executive Producer | Yeom Jaemo [@ourpigman](https://www.instagram.com/ourpigman/) (680HOUSE [@680house](https://www.instagram.com/680house/))  
   
 Production | 680HOUSE & UNDERMOOD FILM ([@680house](https://www.instagram.com/680house/) & [@undermoodfilm](https://www.instagram.com/undermoodfilm/))  
@@ -29,7 +41,7 @@ Visual 2Team | Kim Blue Gayoung [@younggakim](https://www.instagram.com/younggak
 Perfomance Director | JUNHEE PARK [@daniella_jjune](https://www.instagram.com/daniella_jjune/)  
 A2O Perfomance Team | HYEMI PARK [@bakemiyaa](https://www.instagram.com/bakemiyaa/) , YE JI KIM [@__g_r_o_o_t](https://www.instagram.com/__g_r_o_o_t/)  
   
-Styling | Jang Heejun [@jangheejunn](https://www.instagram.com/jangheejunn/)  
+Styling | [[장희준|Jang Heejun]] [@jangheejunn](https://www.instagram.com/jangheejunn/)  
   
 DOP | Jung Inseok [@dontgoyet](https://www.instagram.com/dontgoyet/)  
 1st AC | Park Yunhwan [@oeenqm](https://www.instagram.com/oeenqm/)  
@@ -39,3 +51,9 @@ DIT | Han Jisung [@lmjshhh](https://www.instagram.com/lmjshhh/)
   
 Gaffer | Oh Junseok [@junxeok](https://www.instagram.com/junxeok/)  
 Lighting Crew | Hong Jiwoo [@kee.wooooo](https://www.instagram.com/kee.wooooo/), Kim Minwoo [@kee.mminwoo](https://www.instagram.com/kee.mminwoo/) , Hwang Gyuhwan [@kee.uhwan](https://www.instagram.com/kee.uhwan/), Lee Gyunghwan [@kee.yunghwan](https://www.instagram.com/kee.yunghwan/) , Woo Jaewon [@kee.woojae](https://www.instagram.com/kee.woojae/) , Kang Goohyun [@gxxg](https://www.instagram.com/gxxg/)..9u, Kim Hyungdo [@m_mcing](https://www.instagram.com/m_mcing/) , Moon Myungchul [@gimdoo](https://www.instagram.com/gimdoo/) , Kim Hyun
+
+---
+## Photos
+---
+
+---

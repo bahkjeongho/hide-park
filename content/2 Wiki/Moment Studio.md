@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/thisismoment_sf/
@@ -30,9 +31,10 @@ Countries:
 
 ---
 
-# {{title}}
 
-## Key Concepts
+# Portfolio
 
-## Related Topics
-- [[]]
+
+---
+
+# People

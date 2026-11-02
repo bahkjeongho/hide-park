@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Design Studio]]"
+IG:
+  - https://www.instagram.com/manual_graphics/
 Website: http://www.manuale.co.kr/
 ---
 <iframe src="http://www.manuale.co.kr/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>

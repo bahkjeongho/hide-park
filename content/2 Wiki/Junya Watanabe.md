@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Designer]]"
+IG:
+  - https://www.instagram.com/junyawatanabe/
 Wikis:
   - https://en.wikipedia.org/wiki/Junya_Watanabe
 Cities:

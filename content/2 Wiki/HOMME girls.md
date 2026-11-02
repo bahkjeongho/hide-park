@@ -1,7 +1,9 @@
 ---
 topic:
-  - "[[Fashion Magazine]]"
+  - "[[Fashion]]"
+  - "[[Media]]"
   - "[[Magazine]]"
+  - "[[Fashion Magazine]]"
 IG:
   - https://www.instagram.com/hommegirls/
 Website:

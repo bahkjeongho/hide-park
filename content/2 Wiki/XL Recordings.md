@@ -1,6 +1,8 @@
 ---
 topic:
   - "[[Record Label]]"
+IG:
+  - https://www.instagram.com/xlrecordings/
 Website:
   - https://www.xlrecordings.com/
 Wikis: https://en.wikipedia.org/wiki/XL_Recordings

@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Creative Direction]]"
   - "[[Creative Director]]"
+IG:
+  - https://www.instagram.com/leoportooo/
 Cities:
   - "[[New York]]"
 Countries:

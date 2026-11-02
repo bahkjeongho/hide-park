@@ -159,7 +159,7 @@ Extra Hair (Dancers) : Hye-in Lee, Ye-rim Kim
 Extra Make-Up (Dancers) : Ye-jin Son, Yuna Sun
 
 ---
-## Photos]
+## Photos
 
 
 ### Credit

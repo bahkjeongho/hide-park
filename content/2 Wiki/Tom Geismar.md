@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Graphic Designer]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Tom_Geismar

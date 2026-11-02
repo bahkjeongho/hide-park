@@ -1,6 +1,10 @@
 ---
 topic:
-  - "[[Creative Director]]"
+  - "[[Photography]]"
+  - "[[Video]]"
+  - "[[Creative Direction]]"
+  - "[[Photographer]]"
+  - "[[Video Director]]"
 IG:
   - https://www.instagram.com/dasomhahn/
 Website:
@@ -24,9 +28,9 @@ Related:
 
 ---
 
-# {{title}}
+# Portfolio
 
-## Key Concepts
 
-## Related Topics
-- [[]]
+---
+
+# People

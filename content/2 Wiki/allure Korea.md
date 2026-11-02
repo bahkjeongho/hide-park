@@ -1,5 +1,8 @@
 ---
 topic:
+  - "[[Fashion]]"
+  - "[[Media]]"
+  - "[[Magazine]]"
   - "[[Fashion Magazine]]"
 IG:
   - https://www.instagram.com/allurekorea/

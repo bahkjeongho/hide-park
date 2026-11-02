@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Designer]]"
+IG:
+  - https://www.instagram.com/jonathan.anderson/
 Wikis:
   - https://en.wikipedia.org/wiki/Jonathan_Anderson_(fashion_designer)
   - https://namu.wiki/w/%EC%A1%B0%EB%82%98%EB%8B%A8%20%EC%95%A4%EB%8D%94%EC%8A%A8
