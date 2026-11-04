@@ -1,7 +1,10 @@
 ---
 topic:
-  - "[[Editor-in-Chief]]"
   - "[[Editor]]"
+  - "[[Critic]]"
+  - "[[Music]]"
+  - "[[Editing]]"
+  - "[[Editor-in-Chief]]"
   - "[[Music Critic]]"
 IG:
   - https://x.com/manosundaresan

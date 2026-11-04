@@ -2,6 +2,7 @@
 aliases:
   - School of Visual Arts
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/SVANYC/

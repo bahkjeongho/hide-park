@@ -2,6 +2,8 @@
 aliases:
   - 길우경
 topic:
+  - "[[Director]]"
+  - "[[Art Direction]]"
   - "[[Art Director]]"
 Cities:
   - "[[Seoul]]"

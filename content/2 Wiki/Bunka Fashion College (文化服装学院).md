@@ -5,6 +5,7 @@ aliases:
   - 文化服装学院
   - 문화복장학원
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/bunka_fc/

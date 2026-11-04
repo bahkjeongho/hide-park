@@ -1,7 +1,11 @@
 ---
 topic:
+  - "[[Agency]]"
   - "[[Design]]"
+  - "[[Brand Design]]"
   - "[[Branding Agency]]"
+IG:
+  - https://www.instagram.com/plusx_creative/
 Website: https://www.plus-ex.com/
 ---
 <iframe src="https://www.plus-ex.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>

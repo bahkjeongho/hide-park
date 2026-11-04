@@ -1,8 +1,8 @@
 ---
 topic:
-  - Architecture
-  - "[[Award]]"
-  - "[[Architecture Award]]"
+  - [[Award]]
+  - [[Architecture]]
+  - [[Architecture Award]]
 Kind:
   - "[[Award]]"
 Subject:

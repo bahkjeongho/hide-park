@@ -3,6 +3,7 @@ aliases:
   - 토트넘 홋스퍼
   - Tottenham Hotspur Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

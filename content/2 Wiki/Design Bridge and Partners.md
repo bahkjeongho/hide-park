@@ -1,6 +1,8 @@
 ---
 topic:
+  - "[[Agency]]"
   - "[[Design]]"
+  - "[[Brand Design]]"
   - "[[Branding Agency]]"
 IG:
   - https://www.instagram.com/design_bridge/

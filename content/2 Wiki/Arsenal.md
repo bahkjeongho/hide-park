@@ -3,6 +3,7 @@ aliases:
   - 아스널
   - The Arsenal Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

@@ -2,6 +2,7 @@
 aliases:
   - 피닉스 선즈
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

@@ -3,8 +3,10 @@ aliases:
   - TDC
   - Type Directors Club Awards
 topic:
+  - [[Award]]
+  - [[Design]]
   - Typography
-  - "[[Design Award]]"
+  - [[Design Award]]
 Kind:
   - "[[Award]]"
 Subject:

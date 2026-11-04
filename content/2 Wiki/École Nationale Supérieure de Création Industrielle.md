@@ -3,6 +3,7 @@ aliases:
   - ENSCI
   - ENSCI–Les Ateliers
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/ensci_les_ateliers_paris

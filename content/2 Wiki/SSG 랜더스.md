@@ -3,6 +3,7 @@ aliases:
   - SSG Landers
   - SK 와이번스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

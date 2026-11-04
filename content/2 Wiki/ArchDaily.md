@@ -3,7 +3,10 @@ aliases:
   - archdaily
 topic:
   - "[[Media]]"
+  - "[[Magazine]]"
+  - "[[Architecture]]"
   - "[[Media Platform]]"
+  - "[[Architecture Magazine]]"
 IG:
   - https://www.instagram.com/archdaily/
 Website:

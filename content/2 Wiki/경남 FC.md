@@ -2,6 +2,7 @@
 aliases:
   - Gyeongnam Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

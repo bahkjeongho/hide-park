@@ -3,6 +3,7 @@ aliases:
   - Chungbuk Cheongju Football Club
   - 충북청주
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

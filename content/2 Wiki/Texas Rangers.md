@@ -2,6 +2,7 @@
 aliases:
   - 텍사스 레인저스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

@@ -3,6 +3,7 @@ aliases:
   - 선덜랜드
   - Sunderland Association Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

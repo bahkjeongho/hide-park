@@ -3,6 +3,7 @@ aliases:
   - Rietveld
   - Rietveld Academie
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/rietveldacademie

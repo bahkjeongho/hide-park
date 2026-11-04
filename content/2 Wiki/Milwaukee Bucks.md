@@ -2,6 +2,7 @@
 aliases:
   - 밀워키 벅스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

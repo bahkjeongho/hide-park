@@ -2,6 +2,7 @@
 aliases:
   - 캔자스시티 치프스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

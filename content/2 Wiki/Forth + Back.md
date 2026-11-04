@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Studio]]"
+  - "[[Creative]]"
   - "[[Design]]"
   - "[[Creative Direction]]"
   - "[[Design Studio]]"

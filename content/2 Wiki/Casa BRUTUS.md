@@ -4,7 +4,10 @@ aliases:
 topic:
   - "[[Media]]"
   - "[[Magazine]]"
+  - "[[Design]]"
+  - "[[Architecture]]"
   - "[[Design Magazine]]"
+  - "[[Architecture Magazine]]"
 IG:
   - https://www.instagram.com/casabrutus/
 Website:

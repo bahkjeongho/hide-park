@@ -3,6 +3,7 @@ aliases:
   - 리버풀
   - Liverpool Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

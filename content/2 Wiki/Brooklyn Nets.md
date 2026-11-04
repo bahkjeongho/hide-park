@@ -2,6 +2,7 @@
 aliases:
   - 브루클린 네츠
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

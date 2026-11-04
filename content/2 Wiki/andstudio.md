@@ -2,8 +2,10 @@
 aliases:
   - byandstudio
 topic:
+  - "[[Studio]]"
   - "[[Design]]"
   - "[[Design Studio]]"
+  - "[[Brand Design]]"
 IG:
   - https://www.instagram.com/byandstudio/
 Website:

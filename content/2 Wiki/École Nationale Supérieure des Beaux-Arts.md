@@ -4,6 +4,7 @@ aliases:
   - ENSBA
   - 파리 보자르
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/beauxartsparis/

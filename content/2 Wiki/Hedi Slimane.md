@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Fashion]]"
+  - "[[Design]]"
   - "[[Fashion Designer]]"
 Website:
   - https://hedislimane.com

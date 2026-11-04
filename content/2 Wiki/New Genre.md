@@ -2,8 +2,10 @@
 aliases:
   - newgenre.studio
 topic:
+  - "[[Studio]]"
   - "[[Design]]"
   - "[[Design Studio]]"
+  - "[[Brand Design]]"
 IG:
   - https://www.instagram.com/newgenre.studio/
 Website:

@@ -4,6 +4,7 @@ aliases:
   - UdK Berlin
   - Berlin University of the Arts
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/udkberlin

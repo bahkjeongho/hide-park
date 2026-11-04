@@ -2,6 +2,7 @@
 aliases:
   - 샌안토니오 스퍼스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

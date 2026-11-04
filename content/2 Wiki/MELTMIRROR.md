@@ -2,6 +2,8 @@
 aliases:
   - 멜트미러
 topic:
+  - [[Director]]
+  - [[Video]]
   - Video Director
 IG:
   - https://www.instagram.com/meltmirror/

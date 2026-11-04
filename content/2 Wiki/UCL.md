@@ -3,6 +3,7 @@ aliases:
   - University College London
   - 유니버시티 칼리지 런던
 topic:
+  - "[[School]]"
   - "[[University]]"
 IG:
   - https://www.instagram.com/ucl/

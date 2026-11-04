@@ -1,6 +1,8 @@
 ---
 topic:
+  - "[[Consultancy]]"
   - "[[Design]]"
+  - "[[Brand Design]]"
   - "[[Brand Consultancy]]"
 IG: https://www.instagram.com/wolffolins/
 Website: https://www.wolffolins.com/

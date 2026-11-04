@@ -4,6 +4,7 @@ aliases:
   - 무사시노미술대학
   - Musabi
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/musabi_koho

@@ -2,6 +2,8 @@
 aliases:
   - ADC Festival 2026
 topic:
+  - "[[Festival]]"
+  - "[[Design]]"
   - "[[Design Festival]]"
 Kind:
   - "[[Design Festival]]"

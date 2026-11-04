@@ -2,6 +2,7 @@
 aliases:
   - TIST COLLECTIVE
 topic:
+  - "[[Studio]]"
   - "[[Design]]"
   - "[[Design Studio]]"
 IG:

@@ -2,6 +2,7 @@
 aliases:
   - 그린베이 패커스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

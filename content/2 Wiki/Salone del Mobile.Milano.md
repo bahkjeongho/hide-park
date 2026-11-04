@@ -4,8 +4,11 @@ aliases:
   - Salone Internazionale del Mobile
   - isaloniofficial
 topic:
+  - "[[Festival]]"
   - "[[Design]]"
+  - "[[Furniture]]"
   - "[[Design Festival]]"
+  - "[[Furniture Design]]"
 IG:
   - https://www.instagram.com/isaloniofficial/
 Website:

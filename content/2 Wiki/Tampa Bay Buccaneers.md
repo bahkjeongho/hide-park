@@ -2,6 +2,7 @@
 aliases:
   - 탬파베이 버커니어스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

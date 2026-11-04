@@ -4,6 +4,7 @@ aliases:
   - Goldsmiths, University of London
   - 골드스미스 대학교
 topic:
+  - "[[School]]"
   - "[[University]]"
 IG:
   - https://www.instagram.com/goldsmithsuol/

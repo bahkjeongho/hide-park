@@ -3,6 +3,7 @@ aliases:
   - LAFS
   - The Los Angeles Film School
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/lafilmschool/

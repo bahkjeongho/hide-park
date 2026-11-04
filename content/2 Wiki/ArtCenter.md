@@ -3,6 +3,7 @@ aliases:
   - ArtCenter College of Design
   - ACCD
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/artcenteredu/

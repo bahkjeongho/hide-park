@@ -4,6 +4,8 @@ aliases:
   - 잠재문학실험실
   - Ouvroir de littérature potentielle
 topic:
+  - "[[Collective]]"
+  - "[[Art]]"
   - "[[Art Collective]]"
 Website: https://oulipo.net/
 Wikis:

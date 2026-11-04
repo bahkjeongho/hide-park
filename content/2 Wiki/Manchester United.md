@@ -3,6 +3,7 @@ aliases:
   - 맨체스터 유나이티드
   - Manchester United Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

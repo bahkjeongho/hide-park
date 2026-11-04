@@ -1,8 +1,8 @@
 ---
-topic:
-  - https://nataliepatane.com/
 IG:
   - https://www.instagram.com/natnatnatnaat/
+Website:
+  - https://nataliepatane.com/
 URL:
   - https://www.linkedin.com/in/nataliepatane
 ---

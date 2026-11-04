@@ -2,6 +2,7 @@
 aliases:
   - 애틀랜타 브레이브스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

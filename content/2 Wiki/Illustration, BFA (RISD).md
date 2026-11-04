@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[School]]"
   - "[[Academic Program]]"
   - "[[Illustration Program]]"
 Website:

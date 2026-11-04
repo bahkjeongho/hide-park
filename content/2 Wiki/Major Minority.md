@@ -2,6 +2,7 @@
 aliases:
   - 메이저마이너리티
 topic:
+  - "[[Studio]]"
   - "[[Design]]"
   - "[[Design Studio]]"
 IG:

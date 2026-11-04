@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Director]]"
   - "[[Video]]"
   - "[[Video Director]]"
 IG: https://www.instagram.com/janleeinfo/

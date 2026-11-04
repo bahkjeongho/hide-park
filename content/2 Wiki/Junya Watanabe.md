@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Fashion]]"
+  - "[[Design]]"
   - "[[Fashion Designer]]"
 IG:
   - https://www.instagram.com/junyawatanabe/

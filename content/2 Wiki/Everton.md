@@ -3,6 +3,7 @@ aliases:
   - 에버턴
   - Everton Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

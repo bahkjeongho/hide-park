@@ -2,6 +2,7 @@
 aliases:
   - 탬파베이 레이스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

@@ -2,6 +2,7 @@
 aliases:
   - Fémis
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 Website:
   - https://www.femis.fr/

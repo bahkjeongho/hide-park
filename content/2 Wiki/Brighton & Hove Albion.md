@@ -3,6 +3,7 @@ aliases:
   - 브라이턴 앤드 호브 앨비언
   - Brighton & Hove Albion Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

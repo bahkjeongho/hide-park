@@ -2,6 +2,7 @@
 topic:
   - "[[Media]]"
   - "[[Magazine]]"
+  - "[[Studio]]"
   - "[[Design]]"
   - "[[Design Magazine]]"
   - "[[Design Studio]]"

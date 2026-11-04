@@ -4,6 +4,7 @@ aliases:
   - USC SCA
   - School of Cinematic Arts
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 Website:
   - https://cinema.usc.edu/

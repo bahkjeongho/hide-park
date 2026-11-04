@@ -2,6 +2,7 @@
 aliases:
   - 피츠버그 파이리츠
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

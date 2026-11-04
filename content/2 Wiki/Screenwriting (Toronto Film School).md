@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[School]]"
   - "[[Academic Program]]"
   - "[[Screenwriting Program]]"
 IG:

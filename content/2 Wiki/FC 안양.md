@@ -2,6 +2,7 @@
 aliases:
   - Football Club Anyang
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

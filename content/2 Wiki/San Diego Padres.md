@@ -2,6 +2,7 @@
 aliases:
   - 샌디에이고 파드리스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

@@ -2,6 +2,7 @@
 aliases:
   - 덴버 브롱코스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

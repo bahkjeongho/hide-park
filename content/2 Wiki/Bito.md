@@ -3,6 +3,7 @@ aliases:
   - Bito Studio
   - bito.tv
 topic:
+  - "[[Studio]]"
   - "[[Design]]"
   - "[[Design Studio]]"
   - "[[Motion Design]]"

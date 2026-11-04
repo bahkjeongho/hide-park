@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Agency]]"
+  - "[[Creative]]"
   - "[[Creative Direction]]"
   - "[[Creative Agency]]"
 IG:

@@ -2,6 +2,7 @@
 aliases:
   - 필라델피아 세븐티식서스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

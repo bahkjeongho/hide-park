@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Creative]]"
   - "[[Music Artist]]"
   - "[[Creative Collective]]"
 IG:

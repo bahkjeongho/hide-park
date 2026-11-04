@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Director]]"
+  - "[[Art Direction]]"
   - "[[Art Director]]"
 IG:
   - https://www.instagram.com/p/DUAq4yFDJEp/?img_index=1

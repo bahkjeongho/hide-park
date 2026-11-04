@@ -2,6 +2,7 @@
 aliases:
   - 뉴올리언스 펠리컨스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

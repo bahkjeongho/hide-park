@@ -2,6 +2,7 @@
 aliases:
   - Royal College of Art
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/royalcollegeofart/

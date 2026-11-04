@@ -2,6 +2,7 @@
 aliases:
   - 휴스턴 애스트로스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

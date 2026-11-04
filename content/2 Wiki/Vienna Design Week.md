@@ -2,8 +2,10 @@
 aliases:
   - VIENNA DESIGN WEEK
 topic:
+  - [[Event]]
+  - [[Design]]
   - Multidisciplinary
-  - "[[Design Week]]"
+  - [[Design Week]]
 Kind:
   - "[[Design Week]]"
 Subject:

@@ -3,6 +3,7 @@ aliases:
   - Hwaseong Football Club
   - Hwaseong FC
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

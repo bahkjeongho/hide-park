@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Fashion]]"
   - "[[Fashion Retail]]"
 Wikis: https://en.wikipedia.org/wiki/Dover_Street_Market
 Related:

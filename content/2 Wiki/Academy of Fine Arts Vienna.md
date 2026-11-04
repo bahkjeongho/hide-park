@@ -4,6 +4,7 @@ aliases:
   - Akbild
   - 빈 미술 아카데미
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/akbild/

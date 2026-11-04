@@ -3,6 +3,7 @@ aliases:
   - Chungnam Asan Football Club
   - 충남아산
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

@@ -2,6 +2,7 @@
 aliases:
   - 휴스턴 로키츠
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

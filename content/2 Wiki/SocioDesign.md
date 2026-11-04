@@ -2,6 +2,8 @@
 aliases:
   - SOCIO
 topic:
+  - "[[Studio]]"
+  - "[[Creative]]"
   - "[[Design]]"
   - "[[Creative Direction]]"
   - "[[Creative Studio]]"

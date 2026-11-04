@@ -3,7 +3,9 @@ aliases:
   - Studio Seungbin Yang
 topic:
   - "[[Design]]"
+  - "[[Furniture]]"
   - "[[Designer]]"
+  - "[[Furniture Design]]"
 IG:
   - https://www.instagram.com/studio_seungbinyang/
 Website:

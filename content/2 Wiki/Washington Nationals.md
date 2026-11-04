@@ -2,6 +2,7 @@
 aliases:
   - 워싱턴 내셔널스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

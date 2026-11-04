@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Editing]]"
   - "[[Editor]]"
   - "[[Editorial Director]]"
 IG:

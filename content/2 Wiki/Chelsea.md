@@ -3,6 +3,7 @@ aliases:
   - 첼시
   - Chelsea Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

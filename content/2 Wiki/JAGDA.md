@@ -3,8 +3,10 @@ aliases:
   - Japan Graphic Designers Association
   - 日本グラフィックデザイン協会
 topic:
+  - [[Award]]
+  - [[Design]]
   - Graphic Design
-  - "[[Design Award]]"
+  - [[Design Award]]
 Kind:
   - "[[Award]]"
 Subject:

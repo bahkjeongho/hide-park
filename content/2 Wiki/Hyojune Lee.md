@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Design]]"
+  - "[[Graphic Design]]"
   - "[[Graphic Designer]]"
 IG: https://www.instagram.com/p/DOOFnZTCQpq/?img_index=1
 Website: https://www.hyojunelee.com/

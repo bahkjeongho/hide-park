@@ -4,6 +4,7 @@ aliases:
   - 기아 타이거즈
   - 해태 타이거즈
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

@@ -2,6 +2,7 @@
 aliases:
   - 시카고 컵스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

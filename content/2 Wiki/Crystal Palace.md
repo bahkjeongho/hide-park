@@ -3,6 +3,7 @@ aliases:
   - 크리스털 팰리스
   - Crystal Palace Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

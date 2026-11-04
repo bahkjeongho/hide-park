@@ -1,5 +1,9 @@
 ---
 topic:
+  - "[[Editor]]"
+  - "[[Director]]"
+  - "[[Creative]]"
+  - "[[Editing]]"
   - "[[Creative Direction]]"
   - "[[Editor-in-Chief]]"
   - "[[Creative Director]]"

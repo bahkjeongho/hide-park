@@ -2,6 +2,7 @@
 aliases:
   - 세인트루이스 카디널스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

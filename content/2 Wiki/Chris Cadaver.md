@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Director]]"
+  - "[[Visual Direction]]"
   - "[[Visual Director]]"
 IG:
   - https://www.instagram.com/chriscadaver/

@@ -2,6 +2,7 @@
 aliases:
   - 디트로이트 라이언스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

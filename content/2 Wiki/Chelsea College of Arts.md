@@ -3,6 +3,7 @@ aliases:
   - Chelsea
   - 첼시 예술대학
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/chelseaual/

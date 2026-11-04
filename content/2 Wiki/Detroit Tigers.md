@@ -2,6 +2,7 @@
 aliases:
   - 디트로이트 타이거스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

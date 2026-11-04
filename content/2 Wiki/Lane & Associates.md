@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Studio]]"
+  - "[[Creative]]"
   - "[[Creative Direction]]"
   - "[[Creative Studio]]"
 IG:

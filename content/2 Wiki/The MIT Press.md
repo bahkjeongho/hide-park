@@ -2,6 +2,7 @@
 aliases:
   - MIT Press
 topic:
+  - "[[Publishing]]"
   - "[[Media]]"
   - "[[Publisher]]"
 IG:

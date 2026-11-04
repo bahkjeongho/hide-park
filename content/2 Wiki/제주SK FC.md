@@ -5,6 +5,7 @@ aliases:
   - 제주 유나이티드
   - 부천 SK
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

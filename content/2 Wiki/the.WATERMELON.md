@@ -1,6 +1,8 @@
 ---
 topic:
+  - "[[Agency]]"
   - "[[Design]]"
+  - "[[Brand Design]]"
   - "[[Branding Agency]]"
 IG:
   - https://www.instagram.com/the.watermelon_seoul/

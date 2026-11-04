@@ -3,6 +3,7 @@ aliases:
   - Guggenheim New York
   - Guggenheim
 topic:
+  - "[[Art]]"
   - "[[Museum]]"
 IG:
   - https://www.instagram.com/guggenheim/

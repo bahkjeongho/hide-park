@@ -3,8 +3,10 @@ aliases:
   - DESIGNART
   - デザイナート
 topic:
+  - [[Festival]]
+  - [[Design]]
   - Multidisciplinary
-  - "[[Design Festival]]"
+  - [[Design Festival]]
 Kind:
   - "[[Design Festival]]"
 Subject:

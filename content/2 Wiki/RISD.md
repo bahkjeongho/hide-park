@@ -2,6 +2,7 @@
 aliases:
   - Rhode Island School of Design
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 Website:
   - https://www.risd.edu/

@@ -3,6 +3,7 @@ aliases:
   - 브렌트퍼드
   - Brentford Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

@@ -2,6 +2,7 @@
 aliases:
   - 볼티모어 레이븐스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

@@ -2,6 +2,7 @@
 aliases:
   - Normal
 topic:
+  - "[[Studio]]"
   - "[[Design]]"
   - "[[Design Studio]]"
 IG:

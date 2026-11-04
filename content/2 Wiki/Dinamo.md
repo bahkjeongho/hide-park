@@ -2,7 +2,9 @@
 aliases:
   - Dinamo Typefaces
 topic:
+  - "[[Studio]]"
   - "[[Design]]"
+  - "[[Typography]]"
   - "[[Design Studio]]"
   - "[[Type Foundry]]"
 IG:

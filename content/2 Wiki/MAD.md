@@ -2,6 +2,7 @@
 aliases:
   - MAD Architecture
 topic:
+  - "[[Studio]]"
   - "[[Architecture]]"
   - "[[Architecture Studio]]"
 IG:

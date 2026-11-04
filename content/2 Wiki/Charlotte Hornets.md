@@ -2,6 +2,7 @@
 aliases:
   - 샬럿 호니츠
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

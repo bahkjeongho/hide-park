@@ -3,6 +3,7 @@ aliases:
   - ArtEZ
   - ArtEZ hogeschool voor de kunsten
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/artezuniversityofthearts

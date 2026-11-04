@@ -2,6 +2,7 @@
 topic:
   - "[[Media]]"
   - "[[Magazine]]"
+  - "[[Culture]]"
   - "[[Culture Magazine]]"
 Website:
   - https://www.vanityfair.com/

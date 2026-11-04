@@ -1,5 +1,7 @@
 ---
 topic:
+  - [[Studio]]
+  - [[Design]]
   - Design Studio
 IG:
   - https://www.instagram.com/astrae.studio/

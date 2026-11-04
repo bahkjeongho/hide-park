@@ -2,6 +2,7 @@
 aliases:
   - 디트로이트 피스톤스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

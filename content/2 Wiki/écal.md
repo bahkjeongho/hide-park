@@ -4,6 +4,7 @@ aliases:
   - École cantonale d'art de Lausanne
   - University of Art and Design Lausanne
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/ecal_ch

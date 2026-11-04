@@ -4,6 +4,7 @@ aliases:
   - Politecnico
   - 밀라노 폴리테크니코
 topic:
+  - "[[School]]"
   - "[[University]]"
 IG:
   - https://www.instagram.com/polimi/

@@ -2,6 +2,7 @@
 aliases:
   - 뉴올리언스 세인츠
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

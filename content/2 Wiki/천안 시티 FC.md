@@ -3,6 +3,7 @@ aliases:
   - Cheonan City Football Club
   - Cheonan City
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

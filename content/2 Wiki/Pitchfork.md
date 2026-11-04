@@ -2,6 +2,7 @@
 topic:
   - "[[Media]]"
   - "[[Magazine]]"
+  - "[[Music]]"
   - "[[Music Magazine]]"
 IG:
   - https://www.instagram.com/pitchfork/

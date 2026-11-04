@@ -4,6 +4,7 @@ aliases:
   - Eidgenössische Technische Hochschule Zürich
   - 취리히 연방 공과대학교
 topic:
+  - "[[School]]"
   - "[[University]]"
 IG:
   - https://www.instagram.com/ethzurich/

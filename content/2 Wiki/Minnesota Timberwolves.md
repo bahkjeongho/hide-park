@@ -2,6 +2,7 @@
 aliases:
   - 미네소타 팀버울브스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

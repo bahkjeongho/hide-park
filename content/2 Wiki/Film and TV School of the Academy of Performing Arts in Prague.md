@@ -2,6 +2,7 @@
 aliases:
   - FAMU
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/famu_prague_official/

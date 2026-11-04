@@ -1,6 +1,8 @@
 ---
 topic:
+  - "[[Brand]]"
   - "[[Fashion]]"
+  - "[[Design]]"
   - "[[Fashion Designer]]"
   - "[[Fashion Brand]]"
 IG:

@@ -2,6 +2,7 @@
 aliases:
   - WT
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/werkplaatstypografie/

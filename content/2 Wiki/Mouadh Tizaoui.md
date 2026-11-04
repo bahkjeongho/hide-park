@@ -3,6 +3,7 @@ aliases:
   - Diggy
 topic:
   - "[[Design]]"
+  - "[[Graphic Design]]"
   - "[[Brand Design]]"
   - "[[Graphic Designer]]"
 IG:

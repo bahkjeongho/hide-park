@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Editing]]"
   - "[[Editor]]"
 Wikis:
   - https://en.wikipedia.org/wiki/David_Remnick

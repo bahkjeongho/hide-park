@@ -1,8 +1,8 @@
 ---
 topic:
-  - "[[Fashion]]"
   - "[[Media]]"
   - "[[Magazine]]"
+  - "[[Fashion]]"
   - "[[Fashion Magazine]]"
 Website:
   - https://www.voguehk.com/zh/

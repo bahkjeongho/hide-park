@@ -38,3 +38,13 @@ def artist(fn,al,ig,web="",urls=(),wikis=(),cities=(),countries=()):
 def exists(fn):
     import json,unicodedata
     return unicodedata.normalize("NFC",fn).lower() in set(json.load(open(D+"vault_names.json")))
+
+def chk(u,why,url,access=1):
+    """needs_check: 문서로 대상은 식별되나 아이디 연결 증거 없음 -> progress, manual-todo, manual-check.csv"""
+    rec(u,"needs_check",ev=url,access=access,reason=why)
+    r=by[u]
+    new=not os.path.exists(D+"manual-check.csv")
+    with open(D+"manual-check.csv","a",encoding="utf-8-sig",newline="") as f:
+        w=csv.writer(f)
+        if new: w.writerow(["username","인스타 주소","display_name","대상 식별 내용과 막힌 이유","확인할 문서"])
+        w.writerow([u,r["url"],r["display_name"],why,url])

@@ -4,6 +4,8 @@ aliases:
   - 폼앤펑션
   - 캐스트
 topic:
+  - "[[Agency]]"
+  - "[[Consulting]]"
   - "[[Design]]"
   - "[[Consulting Agency]]"
 Website: https://form-function.kr/

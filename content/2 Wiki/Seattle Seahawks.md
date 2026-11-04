@@ -2,6 +2,7 @@
 aliases:
   - 시애틀 시호크스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

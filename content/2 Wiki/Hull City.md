@@ -3,6 +3,7 @@ aliases:
   - 헐 시티
   - Hull City Association Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

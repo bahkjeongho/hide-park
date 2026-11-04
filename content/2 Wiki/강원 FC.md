@@ -2,6 +2,7 @@
 aliases:
   - Gangwon Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

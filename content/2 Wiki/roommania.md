@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Director]]"
   - "[[Design]]"
+  - "[[Graphic Design]]"
+  - "[[Art Direction]]"
   - "[[Graphic Designer]]"
   - "[[Art Director]]"
 IG: https://www.instagram.com/roommania.studio/

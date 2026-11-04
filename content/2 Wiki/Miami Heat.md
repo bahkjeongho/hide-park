@@ -2,6 +2,7 @@
 aliases:
   - 마이애미 히트
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

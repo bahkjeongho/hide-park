@@ -2,6 +2,7 @@
 topic:
   - "[[Media]]"
   - "[[Magazine]]"
+  - "[[Design]]"
   - "[[Design Magazine]]"
 Website:
   - https://offbrandkoto.substack.com/

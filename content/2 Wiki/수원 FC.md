@@ -3,6 +3,7 @@ aliases:
   - Suwon Football Club
   - Suwon FC
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

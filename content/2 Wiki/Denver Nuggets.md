@@ -2,6 +2,7 @@
 aliases:
   - 덴버 너기츠
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

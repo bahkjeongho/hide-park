@@ -4,6 +4,7 @@ aliases:
 topic:
   - "[[Media]]"
   - "[[Magazine]]"
+  - "[[Art]]"
   - "[[Art Magazine]]"
 IG:
   - https://www.instagram.com/footnote_mag/

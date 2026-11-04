@@ -2,7 +2,11 @@
 aliases:
   - Chermayeff & Geismar & Haviv
 topic:
+  - "[[Studio]]"
+  - "[[Agency]]"
   - "[[Design]]"
+  - "[[Consulting]]"
+  - "[[Brand Design]]"
   - "[[Design Studio]]"
   - "[[Consulting Agency]]"
   - "[[Branding Agency]]"

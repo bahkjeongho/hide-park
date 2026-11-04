@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Agency]]"
+  - "[[Creative]]"
   - "[[Marketing]]"
   - "[[Advertising]]"
   - "[[Creative Agency]]"

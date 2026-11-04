@@ -2,6 +2,7 @@
 aliases:
   - 휴스턴 텍산스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

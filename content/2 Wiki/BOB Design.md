@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Studio]]"
+  - "[[Design]]"
   - "[[Design Studio]]"
   - "[[Graphic Design]]"
 Website: https://bobdesign.co.uk/

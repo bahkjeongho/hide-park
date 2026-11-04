@@ -2,6 +2,7 @@
 aliases:
   - NFTS
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - http://www.instagram.com/nftsfilmtv

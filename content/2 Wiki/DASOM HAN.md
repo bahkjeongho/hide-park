@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Director]]"
+  - "[[Creative]]"
   - "[[Photography]]"
   - "[[Video]]"
   - "[[Creative Direction]]"

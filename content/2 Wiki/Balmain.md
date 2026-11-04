@@ -3,6 +3,7 @@ aliases:
   - Balmain Paris
   - Maison Balmain
 topic:
+  - "[[Brand]]"
   - "[[Fashion]]"
   - "[[Fashion Brand]]"
 IG:

@@ -2,6 +2,7 @@
 aliases:
   - 애리조나 카디널스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

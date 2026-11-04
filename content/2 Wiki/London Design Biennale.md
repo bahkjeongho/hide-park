@@ -1,7 +1,7 @@
 ---
 kind: Biennale
 topic:
-  - "Multidisciplinary"
+  - "[[Multidisciplinary]]"
 URL:
   - https://londondesignbiennale.com/
 rating: 3

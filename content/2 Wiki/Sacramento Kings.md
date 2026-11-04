@@ -2,6 +2,7 @@
 aliases:
   - 새크라멘토 킹스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

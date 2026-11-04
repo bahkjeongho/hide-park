@@ -2,6 +2,7 @@
 aliases:
   - 뉴욕 양키스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

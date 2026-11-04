@@ -2,6 +2,7 @@
 aliases:
   - 라스베이거스 레이더스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

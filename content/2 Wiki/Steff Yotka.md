@@ -1,7 +1,8 @@
 ---
 topic:
-  - "[[Editor-in-Chief]]"
   - "[[Editor]]"
+  - "[[Editing]]"
+  - "[[Editor-in-Chief]]"
 IG:
   - https://www.instagram.com/steffyotka/
 Website:

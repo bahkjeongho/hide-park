@@ -2,6 +2,7 @@
 aliases:
   - 샌프란시스코 49ers
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

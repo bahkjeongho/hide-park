@@ -2,6 +2,7 @@
 aliases:
   - 볼티모어 오리올스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

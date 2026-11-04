@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Director]]"
+  - "[[Film]]"
   - "[[Film Director]]"
   - "[[Actor]]"
 IG: https://www.instagram.com/benstiller/

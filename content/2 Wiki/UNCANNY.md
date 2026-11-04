@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Studio]]"
+  - "[[Creative]]"
   - "[[Design]]"
   - "[[Video]]"
   - "[[Photography]]"

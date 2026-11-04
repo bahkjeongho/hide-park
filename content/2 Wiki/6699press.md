@@ -1,9 +1,12 @@
 ---
 topic:
+  - "[[Studio]]"
+  - "[[Company]]"
   - "[[Design]]"
+  - "[[Publishing]]"
   - "[[Design Studio]]"
   - "[[Graphic Design]]"
-  - "[[Publishing Compnay]]"
+  - "[[Publishing Company]]"
 IG:
   - https://www.instagram.com/6699press/
 Website: https://6699press.kr/

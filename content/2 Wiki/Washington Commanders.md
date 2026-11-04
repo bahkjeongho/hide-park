@@ -2,6 +2,7 @@
 aliases:
   - 워싱턴 커맨더스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

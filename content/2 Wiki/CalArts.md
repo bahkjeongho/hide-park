@@ -2,6 +2,7 @@
 aliases:
   - California Institute of the Arts
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/calarts

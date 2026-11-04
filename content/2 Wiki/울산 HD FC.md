@@ -4,6 +4,7 @@ aliases:
   - 울산 현대
   - 울산 현대 호랑이
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

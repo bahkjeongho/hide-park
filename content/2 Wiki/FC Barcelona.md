@@ -3,6 +3,7 @@ aliases:
   - Futbol Club Barcelona
   - Barça
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

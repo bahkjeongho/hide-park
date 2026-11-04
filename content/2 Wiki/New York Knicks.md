@@ -2,6 +2,7 @@
 aliases:
   - 뉴욕 닉스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

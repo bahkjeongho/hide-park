@@ -3,6 +3,7 @@ aliases:
   - LCF
   - 런던 패션 대학
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/lcflondon_/

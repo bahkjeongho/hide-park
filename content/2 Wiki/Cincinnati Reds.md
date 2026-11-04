@@ -2,6 +2,7 @@
 aliases:
   - 신시내티 레즈
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

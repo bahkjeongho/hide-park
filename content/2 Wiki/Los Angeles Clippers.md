@@ -2,6 +2,7 @@
 aliases:
   - LA 클리퍼스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

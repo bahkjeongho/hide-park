@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Collective]]"
+  - "[[Art]]"
   - "[[Design]]"
   - "[[Art Collective]]"
 IG:

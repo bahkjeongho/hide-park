@@ -2,6 +2,7 @@
 aliases:
   - 캐롤라이나 팬서스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

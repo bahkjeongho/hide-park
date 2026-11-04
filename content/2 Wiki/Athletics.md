@@ -2,6 +2,7 @@
 aliases:
   - 애슬레틱스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

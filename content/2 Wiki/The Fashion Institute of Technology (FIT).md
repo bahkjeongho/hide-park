@@ -4,6 +4,7 @@ aliases:
   - Fashion Institute of Technology
   - F.I.T.
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/fitnyc

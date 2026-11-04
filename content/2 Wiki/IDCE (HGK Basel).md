@@ -3,6 +3,7 @@ aliases:
   - Institute Digital Communication Environments
   - hgkbasel_idce
 topic:
+  - "[[School]]"
   - "[[Academic Program]]"
 IG:
   - https://www.instagram.com/hgkbasel_idce/

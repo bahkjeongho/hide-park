@@ -2,6 +2,7 @@
 aliases:
   - 필라델피아 필리스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

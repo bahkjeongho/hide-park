@@ -3,6 +3,7 @@ aliases:
   - 이현
 topic:
   - "[[Design]]"
+  - "[[Graphic Design]]"
   - "[[Graphic Designer]]"
 IG: https://www.instagram.com/lee_h.yun/
 Website: https://iamhyun.com/

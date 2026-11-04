@@ -2,6 +2,7 @@
 aliases:
   - MIT Arts
 topic:
+  - "[[School]]"
   - "[[Academic Program]]"
 IG:
   - https://www.instagram.com/artsatmit/

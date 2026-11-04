@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Creative]]"
   - "[[Social Network]]"
   - "[[Creative Research]]"
 IG:

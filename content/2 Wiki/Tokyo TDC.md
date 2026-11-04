@@ -3,8 +3,10 @@ aliases:
   - 東京TDC賞
   - Tokyo Type Directors Club
 topic:
+  - [[Award]]
+  - [[Design]]
   - Typography
-  - "[[Design Award]]"
+  - [[Design Award]]
 Kind:
   - "[[Award]]"
 Subject:

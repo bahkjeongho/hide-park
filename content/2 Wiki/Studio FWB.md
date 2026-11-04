@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Studio]]"
   - "[[Design]]"
   - "[[Design Studio]]"
 IG: "\thttps://www.instagram.com/studiofwb/"

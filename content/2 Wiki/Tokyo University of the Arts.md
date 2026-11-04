@@ -4,6 +4,7 @@ aliases:
   - 도쿄예술대학
   - Geidai
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/tokyo_geidai/

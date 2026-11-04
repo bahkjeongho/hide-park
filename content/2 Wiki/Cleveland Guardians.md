@@ -2,6 +2,7 @@
 aliases:
   - 클리블랜드 가디언스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

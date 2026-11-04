@@ -2,6 +2,9 @@
 
 "RULES.md를 읽고 이어서 해줘"라고 하면 이 문서대로 진행한다. 사용자가 "계속"이라고 하면 다음 100개를 처리한다.
 
+## 0. 최우선 기준: Wiki System (4단계 분류)
+- topic 정리는 볼트의 `00. Template/Wiki System.md`가 최우선이다. 최상위(산업) → 상위(역할) → 중간(분야) → 하위(세부) 순으로 쌓고 원래 값은 뒤에 둔다. 아래 규칙과 충돌하면 이 기준을 따른다.
+
 ## 1. 경로
 - 입력: `docs/instagram-following-remaining-names.csv` (열: no, username, url, display_name, name_status, archived, note), 총 2,210개
 - 대기열: `docs/ig-run/queue.json` = 위 CSV에서 (a) 볼트에 이미 IG 값이 있는 계정, (b) 파일럿 30개(`docs/ig-pilot2/report.csv`)를 뺀 1,893개. CSV 순서 그대로
@@ -37,7 +40,8 @@
 - **found**: 근거가 있고 topic을 볼트의 기존 topic(`topics.md`) 중에서 정할 수 있음 → 노트 생성. 새 topic은 만들지 않는다
 - **needs_topic**: 식별됐지만 기존 topic에 맞는 것이 없음 → 노트 만들지 않음, 후보 topic을 기록
 - **conflict**: 같은 이름의 노트가 볼트에 이미 있음 → 만들지 않음. IG만 채우는 후보로 기록
-- **no_evidence**: 근거를 찾지 못함
+- **needs_check (확인 필요)**: 위키피디아·공식 사이트·기사 등 문서로 대상은 식별되지만(또는 유력 후보지만) 그 인스타 아이디와 연결하는 증거가 없음, 또는 공식 사이트가 다른 아이디를 링크함. 노트는 만들지 않고 `manual-check.csv`(열: username, 인스타 주소, display_name, 대상 식별 내용과 막힌 이유, 확인할 문서)에 모은다. 사용자가 직접 확인하기 위한 목록
+- **no_evidence**: 대상 자체를 식별하지 못했거나 이름만 같은 경우 등 근거가 전혀 없음
 - **private_or_unsure**: 개인 계정으로 보이거나 위키 대상(창작자·브랜드·기관·공인) 여부가 불확실함
 
 ## 6. 노트 형식 (found만)
@@ -62,8 +66,11 @@
 - 사용량 한도나 오류로 중단되면 `progress.csv`를 갱신한 뒤 멈춘다
 
 ## 9. 현재 상태 (2026-11-03 기준)
-- 처리한 신규 계정: **237개** + 파일럿 30개 = progress.csv 267행
-- 분류(신규 237개): no_evidence 169, found 35, private_or_unsure 23, conflict 9, needs_topic 1
-- 생성 노트: `docs/ig-run/notes/` (파일럿 포함), 볼트 `2. Wiki/`에 적용 완료
-- **다음 시작 위치: 대기열 228번째 (인덱스 227), 첫 계정 = `yinyang.fig` (원본 CSV no 289)**. 대기열 총 1893개 중 남은 것은 1666개
-- 3회차는 웹 검색 한도 소진으로 중간에 멈춤. 한도 안내: 세션당 WebSearch 200회(약 시간당 100회 회복, `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`으로 조정). 한도에 걸리면 우회하지 말고 기록 후 멈춘다. 새 세션에서는 batch 처리 전에 `batch4.json`이 아닌 `queue.json`과 `progress.csv`로 다음 대상을 다시 계산한다
+- 처리한 신규 계정: **1893개(대기열 전부)** + 파일럿 30개 = progress.csv 1923행. **19회차까지 완료, 대기열 소진**
+- 분류: progress.csv로 다시 센다 (19회차 시점 needs_check 약 516)
+- 생성 노트: `docs/ig-run/notes/`. **볼트에 아직 적용하지 않은 노트: MoMA, HYPEBEAST Korea, 서울시립미술관, 국립현대미술관, 데이즈드 코리아, NASA Webb Telescope (19회차)**. 그 외 노트는 모두 적용 완료. 같은 이름 파일이 있으면 건너뜀
+- 사용자 직접 확인용 목록: `manual-check.csv`(needs_check 496행). 나머지 미처리는 `manual-todo.csv`
+- 대기열 1893개를 모두 처리했다. 남은 일: 위 6개 적용, needs_check 후보 확인(사용자가 직접 확인한 414개는 `park-done.csv` 기준으로 노트화 완료), 볼트의 기존 노트 7개 IG 채우기(summary.md 마지막 절)
+- 한도 안내: 세션당 WebSearch 한도는 `~/.claude/settings.json`의 `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`(현재 1000)이다. 문서의 숫자를 믿지 말고 설정을 확인한다. 한도에 걸리면 우회하지 말고 기록 후 멈춘다
+- 새 계정 목록이 생기면 대기열에서 progress에 없는 계정을 뽑아 `batch21.json`로 저장해 이어한다
+- 검색 도구가 검색을 거부하는 경우(개인 이름+아이디 조합 등)는 재시도·우회하지 않고 private_or_unsure로 기록한다

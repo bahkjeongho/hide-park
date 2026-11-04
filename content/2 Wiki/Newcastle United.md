@@ -3,6 +3,7 @@ aliases:
   - 뉴캐슬 유나이티드
   - Newcastle United Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

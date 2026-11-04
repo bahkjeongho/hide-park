@@ -2,6 +2,9 @@
 aliases:
   - Copenhagen Design Week
 topic:
+  - "[[Festival]]"
+  - "[[Event]]"
+  - "[[Design]]"
   - "[[Design Festival]]"
   - "[[Design Week]]"
 Kind:

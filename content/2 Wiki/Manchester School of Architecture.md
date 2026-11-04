@@ -2,6 +2,7 @@
 aliases:
   - MSA
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 Website:
   - https://www.msa.ac.uk/

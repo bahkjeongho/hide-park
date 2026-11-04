@@ -4,6 +4,7 @@ aliases:
   - 長尾智明
 topic:
   - "[[Fashion]]"
+  - "[[Design]]"
   - "[[Fashion Designer]]"
 IG:
   - https://www.instagram.com/nigo/

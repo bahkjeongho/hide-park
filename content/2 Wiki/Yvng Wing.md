@@ -2,6 +2,7 @@
 aliases:
   - 김영
 topic:
+  - "[[Director]]"
   - "[[Video]]"
   - "[[Video Director]]"
 IG:

@@ -3,9 +3,10 @@ aliases:
   - Naranjo Etxeberria
   - N-e
 topic:
+  - "[[Studio]]"
   - "[[Design]]"
-  - "[[Design Studio]]"
   - "[[Graphic Design]]"
+  - "[[Design Studio]]"
   - "[[Graphic Designer]]"
 IG:
   - https://www.instagram.com/naranjoetxeberria/

@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Editor]]"
+  - "[[Editing]]"
   - "[[Editor-in-Chief]]"
 ---
 >[!tldr] tl;dr

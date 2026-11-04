@@ -3,6 +3,7 @@ aliases:
   - Camberwell
   - 캠버웰 예술대학
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/camberwellual/

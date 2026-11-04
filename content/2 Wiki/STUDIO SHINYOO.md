@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Design]]"
+  - "[[Furniture]]"
   - "[[Furniture Design]]"
 IG:
   - https://www.instagram.com/studio_shinyoo/

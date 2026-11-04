@@ -2,6 +2,7 @@
 aliases:
   - 미네소타 바이킹스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

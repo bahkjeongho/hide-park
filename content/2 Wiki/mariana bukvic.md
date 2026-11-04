@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Design]]"
   - "[[Designer]]"
   - "[[Product Designer]]"
 Website: https://marianabukvic.co/

@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Consultancy]]"
+  - "[[Creative]]"
   - "[[Design]]"
   - "[[Creative Consultancy]]"
   - "[[Brand Design]]"

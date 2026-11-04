@@ -2,8 +2,10 @@
 aliases:
   - The Most Beautiful Swiss Books
 topic:
+  - [[Award]]
+  - [[Design]]
   - Book & Editorial Design
-  - "[[Design Award]]"
+  - [[Design Award]]
 Kind:
   - "[[Award]]"
 Subject:

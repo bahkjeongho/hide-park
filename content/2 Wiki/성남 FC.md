@@ -3,6 +3,7 @@ aliases:
   - Seongnam Football Club
   - 성남 일화 천마
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

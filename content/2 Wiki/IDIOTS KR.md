@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Creative]]"
+  - "[[Production]]"
   - "[[Creative Production]]"
 IG:
   - https://www.instagram.com/idiots.kr/

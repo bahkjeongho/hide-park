@@ -2,6 +2,7 @@
 aliases:
   - 댈러스 매버릭스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

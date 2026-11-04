@@ -3,6 +3,7 @@ aliases:
   - New School
   - 뉴스쿨
 topic:
+  - "[[School]]"
   - "[[University]]"
 Website:
   - https://www.newschool.edu/

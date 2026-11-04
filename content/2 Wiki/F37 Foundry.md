@@ -4,6 +4,7 @@ aliases:
   - f37foundry
 topic:
   - "[[Design]]"
+  - "[[Typography]]"
   - "[[Type Foundry]]"
 IG:
   - https://www.instagram.com/f37foundry/

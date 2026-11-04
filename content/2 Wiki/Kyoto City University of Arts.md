@@ -5,6 +5,7 @@ aliases:
   - 교토시립예술대학
   - Kyōtogeidai
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/kyoto_geidai

@@ -3,6 +3,7 @@ aliases:
   - 입스위치 타운
   - Ipswich Town Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

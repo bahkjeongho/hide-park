@@ -2,6 +2,7 @@
 aliases:
   - 클리블랜드 브라운스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

@@ -2,6 +2,7 @@
 aliases:
   - 마이애미 말린스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

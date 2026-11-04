@@ -3,6 +3,7 @@ aliases:
   - KT 위즈
   - kt wiz baseball club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

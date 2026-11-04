@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Fashion]]"
+  - "[[Design]]"
   - "[[Fashion Designer]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Yves_Saint_Laurent_(designer)

@@ -2,7 +2,9 @@
 aliases:
   - Further
 topic:
+  - "[[Agency]]"
   - "[[Design]]"
+  - "[[Brand Design]]"
   - "[[Branding Agency]]"
   - "[[Marketing Agency]]"
 IG:

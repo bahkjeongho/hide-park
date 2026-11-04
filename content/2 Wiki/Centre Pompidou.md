@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Art]]"
   - "[[Museum]]"
 IG:
   - https://www.instagram.com/centrepompidou/

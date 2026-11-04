@@ -2,6 +2,7 @@
 aliases:
   - 신시내티 벵골스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

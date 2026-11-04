@@ -3,9 +3,9 @@ aliases:
   - Dazed & Confused
   - 데이즈드
 topic:
-  - "[[Fashion]]"
   - "[[Media]]"
   - "[[Magazine]]"
+  - "[[Fashion]]"
   - "[[Fashion Magazine]]"
 IG:
   - https://www.instagram.com/dazed/

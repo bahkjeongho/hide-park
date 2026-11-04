@@ -1,7 +1,9 @@
 ---
 topic:
+  - [[Award]]
+  - [[Design]]
   - Multidisciplinary
-  - "[[Design Award]]"
+  - [[Design Award]]
 Kind:
   - "[[Award]]"
 IG:

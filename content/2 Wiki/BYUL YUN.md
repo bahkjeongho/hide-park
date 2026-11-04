@@ -2,6 +2,7 @@
 aliases:
   - 윤별
 topic:
+  - "[[Director]]"
   - "[[Video]]"
   - "[[Video Director]]"
 IG:

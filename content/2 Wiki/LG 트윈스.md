@@ -3,6 +3,7 @@ aliases:
   - LG Twins
   - MBC 청룡
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

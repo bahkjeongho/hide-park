@@ -3,6 +3,7 @@ aliases:
   - KABK
   - Koninklijke Academie van Beeldende Kunsten
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/royalacademyofart.thehague

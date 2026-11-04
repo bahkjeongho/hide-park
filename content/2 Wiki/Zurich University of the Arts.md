@@ -3,6 +3,7 @@ aliases:
   - ZHdK
   - Zürcher Hochschule der Künste
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/zhdkcampus

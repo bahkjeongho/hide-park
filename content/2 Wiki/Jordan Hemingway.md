@@ -1,7 +1,9 @@
 ---
 topic:
+  - "[[Director]]"
+  - "[[Photography]]"
   - "[[Video]]"
-  - Photographer
+  - "Photographer"
   - "[[Video Director]]"
 IG:
   - https://www.instagram.com/jordan_hemingway/

@@ -2,6 +2,7 @@
 aliases:
   - 멤피스 그리즐리스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

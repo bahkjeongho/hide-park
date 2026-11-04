@@ -2,8 +2,10 @@
 aliases:
   - principal.studio
 topic:
+  - "[[Studio]]"
   - "[[Design]]"
   - "[[Design Studio]]"
+  - "[[Brand Design]]"
 IG:
   - https://www.instagram.com/principal.studio/
 Website:

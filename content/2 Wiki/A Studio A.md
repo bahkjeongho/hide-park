@@ -4,6 +4,7 @@ aliases:
   - 에이 스튜디오 에이
   - 이재환
 topic:
+  - "[[Studio]]"
   - "[[Design]]"
   - "[[Design Studio]]"
   - "[[Graphic Design]]"

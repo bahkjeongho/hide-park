@@ -1,5 +1,9 @@
 ---
 topic:
+  - "[[Director]]"
+  - "[[Fashion]]"
+  - "[[Styling]]"
+  - "[[Visual Direction]]"
   - "[[Stylist]]"
   - "[[Visual Director]]"
 Website:

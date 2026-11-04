@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Fashion]]"
+  - "[[Design]]"
   - "[[Fashion Designer]]"
 Website:
   - https://www.armani.com/index.html

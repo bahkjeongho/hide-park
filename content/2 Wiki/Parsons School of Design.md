@@ -3,6 +3,7 @@ aliases:
   - Parsons
   - 파슨스 디자인 스쿨
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/parsonsschoolofdesign/

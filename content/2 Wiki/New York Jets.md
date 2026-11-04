@@ -2,6 +2,7 @@
 aliases:
   - 뉴욕 제츠
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

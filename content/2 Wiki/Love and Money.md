@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Agency]]"
+  - "[[Consulting]]"
   - "[[Consulting Agency]]"
 IG:
   - https://www.instagram.com/loveandmoney.agency/

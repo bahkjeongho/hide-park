@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Company]]"
+  - "[[Creative]]"
   - "[[Creative Company]]"
   - "[[Entertainment Company]]"
 IG:

@@ -2,8 +2,10 @@
 aliases:
   - ADC Awards
 topic:
+  - [[Award]]
+  - [[Design]]
   - Art Direction
-  - "[[Design Award]]"
+  - [[Design Award]]
 Kind:
   - "[[Award]]"
 Subject:

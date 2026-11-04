@@ -2,6 +2,7 @@
 aliases:
   - 잭슨빌 재규어스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

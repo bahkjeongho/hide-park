@@ -3,6 +3,7 @@ aliases:
   - Wimbledon
   - 윔블던 예술대학
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/wimbledonual/

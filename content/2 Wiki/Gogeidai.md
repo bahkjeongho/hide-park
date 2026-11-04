@@ -3,6 +3,7 @@ aliases:
   - 고게이다이
   - 국공립오예대
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 ---
 >[!tldr] tl;dr

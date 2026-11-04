@@ -4,6 +4,7 @@ aliases:
   - London School of Film Technique
   - London International Film School
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/thelondonfilmschool

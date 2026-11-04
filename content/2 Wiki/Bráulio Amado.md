@@ -2,8 +2,10 @@
 aliases:
   - B.A.D. Studio
 topic:
-  - "[[Design]]"
+  - "[[Director]]"
+  - "[[Creative]]"
   - "[[Creative Direction]]"
+  - "[[Design]]"
   - "[[Creative Director]]"
 IG:
   - https://www.instagram.com/braulioamado/

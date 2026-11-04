@@ -3,6 +3,7 @@ aliases:
   - Paju Frontier Football Club
   - 파주시민축구단
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

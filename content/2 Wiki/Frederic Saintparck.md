@@ -1,5 +1,9 @@
 ---
 topic:
+  - "[[Director]]"
+  - "[[Fashion]]"
+  - "[[Art Direction]]"
+  - "[[Styling]]"
   - "[[Art Director]]"
   - "[[Stylist]]"
 IG:

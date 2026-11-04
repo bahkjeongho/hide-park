@@ -3,6 +3,7 @@ aliases:
   - AA
   - Architectural Association
 topic:
+  - "[[School]]"
   - "[[Art School]]"
   - "[[Architecture School]]"
 IG:

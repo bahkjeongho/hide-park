@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Editor]]"
+  - "[[Editing]]"
   - "[[Editor-in-Chief]]"
 IG:
   - https://www.instagram.com/ted_stansfield/

@@ -2,6 +2,7 @@
 aliases:
   - 밀워키 브루어스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

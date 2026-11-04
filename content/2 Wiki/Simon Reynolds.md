@@ -2,6 +2,8 @@
 aliases:
   - 사이먼 레이놀즈
 topic:
+  - "[[Critic]]"
+  - "[[Music]]"
   - "[[Music Critic]]"
 IG:
   - https://www.instagram.com/simonreynoldswriter/

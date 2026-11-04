@@ -2,6 +2,8 @@
 aliases:
   - A New Type of Interference
 topic:
+  - "[[Studio]]"
+  - "[[Creative]]"
   - "[[Creative Direction]]"
   - "[[Creative Studio]]"
 IG:

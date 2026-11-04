@@ -3,6 +3,7 @@ aliases:
   - Harvard
   - 하버드 대학교
 topic:
+  - "[[School]]"
   - "[[University]]"
 IG:
   - https://www.instagram.com/harvard/

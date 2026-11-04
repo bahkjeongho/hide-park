@@ -3,6 +3,8 @@ aliases:
   - 하마구치 류스케
   - 濱口 竜介
 topic:
+  - "[[Director]]"
+  - "[[Film]]"
   - "[[Filmmaker]]"
   - "[[Film Director]]"
 Wikis:

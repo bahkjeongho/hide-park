@@ -2,6 +2,7 @@
 topic:
   - "[[Media]]"
   - "[[Magazine]]"
+  - "[[Tech]]"
   - "[[Tech Magazine]]"
 Website:
   - https://www.wired.com/

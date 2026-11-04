@@ -2,6 +2,7 @@
 aliases:
   - 샌프란시스코 자이언츠
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

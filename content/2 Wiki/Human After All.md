@@ -2,8 +2,10 @@
 aliases:
   - humanafterallstudio
 topic:
+  - "[[Agency]]"
   - "[[Design]]"
   - "[[Design Agency]]"
+  - "[[Brand Design]]"
 IG:
   - https://www.instagram.com/humanafterallstudio/
 Website:

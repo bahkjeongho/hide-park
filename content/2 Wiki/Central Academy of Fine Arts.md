@@ -4,6 +4,7 @@ aliases:
   - 中央美术学院
   - 중앙미술학원
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 Website:
   - https://www.cafa.edu.cn/

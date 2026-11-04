@@ -2,6 +2,7 @@
 aliases:
   - 테네시 타이탄스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

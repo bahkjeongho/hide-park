@@ -2,6 +2,7 @@
 aliases:
   - 보스턴 레드삭스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

@@ -2,6 +2,7 @@
 aliases:
   - 버팔로 빌스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

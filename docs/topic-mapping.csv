@@ -1,0 +1,270 @@
+Topic(현재 값),노트 수,Category,Sub-Category,Field,Sub-Field,Type,Sub-Type,Topic (최종 값),최종 속성 종류
+Music Artist,650,The Arts,Music,Popular Music,,People,Artist,Music Artist,Topic
+Design,545,Design,,,,,,Design,Category
+K-Pop Idol,458,The Arts,Music,Popular Music,K-Pop,People,Idol,K-Pop Idol,Topic
+Fashion,366,Design,Fashion,,,,,Fashion,Sub-Category
+School,257,,,,,Institution,School,School,Sub-Type
+Creative,223,Design,Visual Communication,Creative Direction,,,,Creative Direction,Field
+Studio,217,,,,,Organization,Studio,Studio,Sub-Type
+Media,194,Media,,,,,,Media,Category
+Director,171,,,,,People,Director,Director,Sub-Type
+Academic Program,170,,,,,Program,,Academic Program,Type
+Magazine,167,Media,,,,Publication,Magazine,Magazine,Topic
+Design Studio,161,Design,,,,Organization,Studio,Design Studio,Topic
+Sports,153,Entertainment,Sports,,,,,Sports,Sub-Category
+Sports Team,152,Entertainment,Sports,Team Sports,,Organization,Team,Sports Team,Topic
+Brand,144,,,,,Organization,Brand,Brand,Sub-Type
+Fashion Brand,144,Design,Fashion,,,Organization,Brand,Fashion Brand,Topic
+Creative Direction,143,Design,Visual Communication,Creative Direction,,,,Creative Direction,Field
+Graphic Design,129,Design,Graphic Design,,,,,Graphic Design,Sub-Category
+Graphic Designer,100,Design,Graphic Design,,,People,Designer,Graphic Designer,Topic
+Photography,95,The Arts,Photography,,,,,Photography,Sub-Category
+Brand Design,92,Design,Graphic Design,Brand Design,,,,Brand Design,Field
+Agency,90,,,,,Organization,Agency,Agency,Sub-Type
+Creative Director,89,Design,Visual Communication,Creative Direction,,People,Director,Creative Director,Topic
+Photographer,89,The Arts,Photography,,,People,Photographer,Photographer,Topic
+Fashion Designer,87,Design,Fashion,Fashion Design,,People,Designer,Fashion Designer,Topic
+Fashion Magazine,78,Design,Fashion,,,Publication,Magazine,Fashion Magazine,Topic
+Art School,73,The Arts,,,,Institution,School,Art School,Topic
+Journal,63,Media,,,,Publication,Journal,Journal,Topic
+Video,62,The Arts,Video,,,,,Video,Sub-Category
+Architecture,56,Design,Architecture,,,,,Architecture,Sub-Category
+Creative Studio,56,Design,Visual Communication,Creative Direction,,Organization,Studio,Creative Studio,Topic
+Art,55,The Arts,Visual Art,,,,,Visual Art,Sub-Category
+Video Director,51,The Arts,Video,,,People,Director,Video Director,Topic
+Branding Agency,49,Business,Branding,,,Organization,Agency,Branding Agency,Topic
+Music,49,The Arts,Music,,,,,Music,Sub-Category
+Editing,46,Media,Editing,,,,,Editing,Sub-Category
+Editor,46,Media,Editing,,,People,Editor,Editor,Topic
+Award,38,,,,,Event,Award,Award,Sub-Type
+Styling,37,Design,Fashion,Styling,,,,Styling,Field
+Stylist,37,Design,Fashion,Styling,,People,Stylist,Stylist,Topic
+Art Direction,35,Design,Visual Communication,Art Direction,,,,Art Direction,Field
+Entertainment Company,33,Entertainment,,,,Organization,Company,Entertainment Company,Topic
+Company,32,,,,,Organization,Company,Company,Sub-Type
+Design Magazine,31,Design,,,,Publication,Magazine,Design Magazine,Topic
+Creative Agency,30,Design,Visual Communication,Creative Direction,,Organization,Agency,Creative Agency,Topic
+Art Director,28,Design,Visual Communication,Art Direction,,People,Director,Art Director,Topic
+Graphic Design Program,28,Design,Graphic Design,,,Program,,Graphic Design Program,Topic
+Fine Art Program,24,The Arts,Visual Art,Fine Art,,Program,,Fine Art Program,Topic
+K-Pop,23,The Arts,Music,Popular Music,K-Pop,,,K-Pop,Sub-Field
+Multidisciplinary,21,,,Multidisciplinary,,,,Multidisciplinary,Field
+Editor-in-Chief,20,Media,Editing,,,People,Editor-in-Chief,Editor-in-Chief,Topic
+Entrepreneur,20,Business,,,,People,Entrepreneur,Entrepreneur,Topic
+Publishing,20,Media,Publishing,,,,,Publishing,Sub-Category
+Architect,18,Design,Architecture,,,People,Architect,Architect,Topic
+Typography,18,Design,Graphic Design,Typography,,,,Typography,Field
+Designer,17,Design,,,,People,Designer,Designer,Topic
+Museum,17,The Arts,Visual Art,,,Place,Museum,Museum,Topic
+Producer,17,The Arts,Music,Popular Music,,People,Producer,Producer,Topic
+Art Platform,16,The Arts,Visual Art,,,Organization,Platform,Art Platform,Topic
+Consultancy,16,Business,Consulting,,,Organization,Consultancy,Consultancy,Topic
+Architecture Firm,15,Design,Architecture,,,Organization,Firm,Architecture Firm,Topic
+Culture,15,Culture,,,,,,Culture,Category
+Culture Magazine,15,Culture,,,,Publication,Magazine,Culture Magazine,Topic
+Film Program,15,The Arts,Film,,,Program,,Film Program,Topic
+Record Label,15,The Arts,Music,Popular Music,,Organization,Label,Record Label,Topic
+Design Agency,14,Design,,,,Organization,Agency,Design Agency,Topic
+Photography Program,14,The Arts,Photography,,,Program,,Photography Program,Topic
+Publishing Company,14,Media,Publishing,,,Organization,Company,Publishing Company,Topic
+University,14,,,,,Institution,University,University,Sub-Type
+Creative Company,13,Design,Visual Communication,Creative Direction,,Organization,Company,Creative Company,Topic
+Creative Production,13,Design,Visual Communication,Creative Direction,,Organization,Production,Creative Production,Topic
+Design Program,13,Design,,,,Program,,Design Program,Topic
+Fashion Design Program,13,Design,Fashion,Fashion Design,,Program,,Fashion Design Program,Topic
+Film,13,The Arts,Film,,,,,Film,Sub-Category
+Production,13,The Arts,Video,,,Organization,Production,Video Production,Topic
+CEO,12,Business,,,,People,CEO,CEO,Topic
+Rapper,12,The Arts,Music,Popular Music,Hip-Hop,People,Rapper,Rapper,Topic
+Festival,11,,,,,Event,Festival,Festival,Sub-Type
+Industrial Design Program,11,Design,Product Design,Industrial Design,,Program,,Industrial Design Program,Topic
+Type Foundry,11,Design,Graphic Design,Typography,,Organization,Foundry,Type Foundry,Topic
+Advertising,10,Business,Advertising,,,,,Advertising,Sub-Category
+Art Gallery,10,The Arts,Visual Art,,,Place,Gallery,Art Gallery,Topic
+Design Award,10,Design,,,,Event,Award,Design Award,Topic
+Design Festival,10,Design,,,,Event,Festival,Design Festival,Topic
+Engineer,10,Technology,Engineering,,,People,Engineer,Engineer,Topic
+Fashion Retail,10,Design,Fashion,Retail,,Organization,Company,Fashion Retail,Topic
+Brand Consultancy,9,Business,Branding,,,Organization,Consultancy,Brand Consultancy,Topic
+Furniture,9,Design,Product Design,Furniture Design,,,,Furniture Design,Field
+Furniture Design,9,Design,Product Design,Furniture Design,,,,Furniture Design,Field
+Book,8,Media,Publishing,,,Publication,Book,Book,Topic
+Book Store,8,Media,Publishing,,,Place,Book Store,Book Store,Topic
+Critic,8,,,,,People,Critic,Critic,Sub-Type
+Marketing,8,Business,Marketing,,,,,Marketing,Sub-Category
+Promoter,8,The Arts,Performing Arts,,,People,Promoter,Promoter,Topic
+Sports League,8,Entertainment,Sports,,,Organization,League,Sports League,Topic
+Animation Program,7,The Arts,Video,Animation,,Program,,Animation Program,Topic
+Architecture Award,7,Design,Architecture,,,Event,Award,Architecture Award,Topic
+Architecture Studio,7,Design,Architecture,,,Organization,Studio,Architecture Studio,Topic
+Art Collective,7,The Arts,Visual Art,,,Organization,Collective,Art Collective,Topic
+Collective,7,,,,,Organization,Collective,Collective,Sub-Type
+Creative Consultancy,7,Design,Visual Communication,Creative Direction,,Organization,Consultancy,Creative Consultancy,Topic
+DJ,7,The Arts,Music,Popular Music,,People,DJ,DJ,Topic
+Design Week,7,Design,,,,Event,Weekly Festival,Design Week,Topic
+Event,7,,,,,Event,,Event,Type
+Writer,7,,,,,People,Writer,Writer,Sub-Type
+Art Magazine,6,The Arts,Visual Art,,,Publication,Magazine,Art Magazine,Topic
+Association,6,,,,,Organization,Association,Association,Sub-Type
+Band,6,The Arts,Music,Popular Music,Rock,People,Band,Band,Topic
+Consulting,6,Business,Consulting,,,,,Consulting,Sub-Category
+Consulting Agency,6,Business,Consulting,,,Organization,Agency,Consulting Agency,Topic
+Design Association,6,Design,,,,Organization,Association,Design Association,Topic
+Film Director,6,The Arts,Film,,,People,Director,Film Director,Topic
+Illustration Program,6,Design,Graphic Design,Illustration,,Program,,Illustration Program,Topic
+Music Magazine,6,The Arts,Music,Popular Music,,Publication,Magazine,Music Magazine,Topic
+Philosopher,6,Humanities,Philosophy,,,People,Theorist,Philosopher,Topic
+Programmer,6,Technology,Software,Programming,,People,Engineer,Programmer,Topic
+Publisher,6,Media,Publishing,,,People,Publisher,Publisher,Topic
+Tech,6,Technology,,,,,,Tech,Category
+Tech Magazine,6,Technology,,,,Publication,Magazine,Tech Magazine,Topic
+Visual Direction,6,Design,Visual Communication,Visual Direction,,,,Visual Direction,Field
+Visual Director,6,Design,Visual Communication,Visual Direction,,People,Director,Visual Director,Topic
+AI Company,5,Technology,Software,AI,,Organization,Company,AI Company,Topic
+Architecture Program,5,Design,Architecture,,,Program,,Architecture Program,Topic
+Film Critic,5,The Arts,Film,,,People,Critic,Film Critic,Topic
+Interior & Furniture Design Program,5,Design,Product Design,Furniture Design,,Program,,Interior & Furniture Design Program,Topic
+Media Company,5,Media,,,,Organization,Company,Media Company,Topic
+Music Critic,5,The Arts,Music,Popular Music,,People,Critic,Music Critic,Topic
+Music Festival,5,The Arts,Music,Popular Music,,Event,Festival,Music Festival,Topic
+Newspaper,5,Media,News,,,Publication,Newspaper,Newspaper,Topic
+Textile Design Program,5,Design,Fashion,Textile Design,,Program,,Textile Design Program,Topic
+Video Production,5,The Arts,Video,,,Organization,Production,Video Production,Topic
+3D Artist,4,Design,Digital Design,3D Design,,People,Artist,3D Artist,Topic
+Architecture Office,4,Design,Architecture,,,Organization,Office,Architecture Office,Topic
+Culture Critic,4,Culture,,,,People,Critic,Culture Critic,Topic
+Culture Festival,4,Culture,,,,Event,Festival,Culture Festival,Topic
+Digital Design,4,Design,Digital Design,,,,,Digital Design,Sub-Category
+Editorial Director,4,Media,Editing,,,People,Director,Editorial Director,Topic
+Fashion Platform,4,Design,Fashion,,,Organization,Platform,Fashion Platform,Topic
+Film Production,4,The Arts,Film,,,Organization,Production,Film Production,Topic
+Filmmaker,4,The Arts,Film,,,People,Director,Filmmaker,Topic
+Media Design Program,4,Design,Digital Design,,,Program,,Media Design Program,Topic
+Media Platform,4,Media,,,,Organization,Platform,Media Platform,Topic
+Music Platform,4,The Arts,Music,,,Organization,Platform,Music Platform,Topic
+Production Company,4,The Arts,Video,Production,,Organization,Company,Production Company,Topic
+Rock Band,4,The Arts,Music,Popular Music,Rock,People,Band,Rock Band,Topic
+Tech Product Company,4,Technology,Tech Product,,,Organization,Company,Tech Product Company,Topic
+Type Designer,4,Design,Graphic Design,Typography,,People,Designer,Type Designer,Topic
+Blogger,3,Media,Blog,,,People,Creator,Blogger,Topic
+Creative Collective,3,Design,Visual Communication,Creative Direction,,Organization,Collective,Creative Collective,Topic
+Creative Group,3,Design,Visual Communication,Creative Direction,,Organization,Group,Creative Group,Topic
+Curator,3,The Arts,Visual Art,Curating,,People,Curator,Curator,Topic
+Fashion Critique,3,Design,Fashion,,,People,Critic,Fashion Critic,Topic
+Fashion Director,3,Design,Fashion,,,People,Director,Fashion Director,Topic
+Fashion Journalism,3,Design,Fashion,Fashion Journalism,,,,Fashion Journalism,Field
+Furniture Designer,3,Design,Product Design,Furniture Design,,People,Designer,Furniture Designer,Topic
+Management Agency,3,Entertainment,Management,,,Organization,Agency,Management Agency,Topic
+Marketing Agency,3,Business,Marketing,,,Organization,Agency,Marketing Agency,Topic
+Product Designer,3,Design,Product Design,,,People,Designer,Product Designer,Topic
+Tech Company,3,Technology,,,,Organization,Company,Tech Company,Topic
+Acting Program,2,The Arts,Performing Arts,Acting,,Program,,Acting Program,Topic
+Architecture Magazine,2,Design,Architecture,,,Publication,Magazine,Architecture Magazine,Topic
+Architecture Prize,2,Design,Architecture,,,Event,Prize,Architecture Prize,Topic
+Art Festival,2,The Arts,Visual Art,,,Event,Festival,Art Festival,Topic
+Audio-visual Production,2,The Arts,Video,Audio-Visual,,Organization,Production,Audio-Visual Production,Topic
+Book & Editorial Design,2,Design,Graphic Design,Editorial Design,,,,Editorial Design,Field
+Brand Strategist,2,Business,Branding,Brand Strategy,,People,Strategist,Brand Strategist,Topic
+Craft Program,2,The Arts,Visual Art,Craft,,Program,,Craft Program,Topic
+Creative Producer,2,Design,Visual Communication,Creative Direction,Creative Producing,People,Producer,Creative Producer,Topic
+Creative Research,2,Design,Visual Communication,Creative Direction,Creative Research,,,Creative Research,Sub-Field
+Creative Team,2,Design,Visual Communication,Creative Direction,,Organization,Team,Creative Team,Topic
+Design Company,2,Design,,,,Organization,Company,Design Company,Topic
+Design Director,2,Design,,,,People,Director,Design Director,Topic
+Design Group,2,Design,,,,Organization,Group,Design Group,Topic
+Film Magazine,2,The Arts,Film,,,Publication,Magazine,Film Magazine,Topic
+Instruments Company,2,The Arts,Music,Music Instruments,,Organization,Company,Instruments Company,Topic
+Investor,2,Business,Investing,Investment,,People,Investor,Investor,Topic
+Literary Critic,2,The Arts,Literature,,,People,Critic,Literary Critic,Topic
+Motion Design,2,Design,Graphic Design,Motion Design,,,,Motion Design,Field
+Moving Image Critic,2,The Arts,Film,Moving Image,,People,Critic,Moving Image Critic,Topic
+Music Journalism,2,The Arts,Music,Popular Music,,People,Journalist,Music Journalism,Topic
+Production Designer,2,Design,Production Design,,,People,Designer,Production Designer,Topic
+Production House,2,The Arts,Video,Production,,Organization,House,Production House,Topic
+Production Studio,2,The Arts,Video,Production,,Organization,Studio,Production Studio,Topic
+Radio,2,Media,,,,Publication,Radio,Radio,Topic
+Sculptor,2,The Arts,Visual Art,Sculpture,,People,Sculptor,Sculptor,Topic
+Singer-Songwriter,2,The Arts,Music,Popular Music,,People,Singer-Songwriter,Singer-Songwriter,Topic
+Type Design Program,2,Design,Graphic Design,Typography,,Program,,Type Design Program,Topic
+Video Channel,2,The Arts,Video,,,Publication,Channel,Video Channel,Topic
+Video Editor,2,The Arts,Video,,,People,Editor,Video Editor,Topic
+Web & UI/UX,2,Design,Digital Design,Web & UI/UX,,,,Web & UI/UX,Field
+3D Designer,1,Design,Digital Design,3D Design,,People,Designer,3D Designer,Topic
+A&R,1,The Arts,Music,Popular Music,,People,A&R,A&R,Topic
+AI Engineer,1,Technology,Software,AI,,People,Engineer,AI Engineer,Topic
+Actor,1,The Arts,Performing Arts,Acting,,People,Actor,Actor,Topic
+Animation Studio,1,The Arts,Video,Animation,,Organization,Studio,Animation Studio,Topic
+Animator,1,The Arts,Video,Animation,,People,Animator,Animator,Topic
+Architectural Design,1,Design,Architecture,Architectural Design,,,,Architectural Design,Field
+Architecture School,1,Design,Architecture,,,Institution,School,Architecture School,Topic
+Art Critic,1,The Arts,Visual Art,,,People,Critic,Art Critic,Topic
+Art Fair,1,The Arts,Visual Art,,,Event,Fair,Art Fair,Topic
+Art Week,1,The Arts,Visual Art,,,Event,Weekly Festival,Art Week,Topic
+Audio Production Program,1,The Arts,Music,Audio,Production,Program,,Audio Production Program,Topic
+Audio-visual Maker,1,The Arts,Video,Audio-Visual,,People,Creator,Audio-Visual Maker,Topic
+Automobile Company,1,Technology,Engineering,Automotive,,Organization,Company,Automobile Company,Topic
+Book Editor,1,Media,Publishing,,,People,Editor,Book Editor,Topic
+Branding Program,1,Business,Branding,,,Program,,Branding Program,Topic
+CTO,1,Technology,,,,People,CTO,CTO,Topic
+Comics Program,1,The Arts,Comics,,,Program,,Comics Program,Topic
+Commnications Group,1,Business,Marketing,Communication,,Organization,Group,Communications Group,Topic
+Communication,1,Business,Marketing,Communication,,,,Communication,Field
+Comptetition,1,,,,,Event,Competition,Competition,Sub-Type
+Computer Scientist,1,Technology,Computer Science,,,People,Engineer,Computer Scientist,Topic
+Consultancy Collective,1,Business,Consulting,,,Organization,Collective,Consultancy Collective,Topic
+Costume Design Program,1,Design,Performing Arts,Costume Design,,Program,,Costume Design Program,Topic
+Creative Label,1,Design,Visual Communication,Creative Direction,,Organization,Label,Creative Label,Topic
+Creative Office,1,Design,Visual Communication,Creative Direction,,Organization,Office,Creative Office,Topic
+Critique,1,The Arts,Critique,,,,,Critique,Sub-Category
+Critique Magazine,1,The Arts,Critique,,,Publication,Magazine,Critique Magazine,Topic
+Cultural Theorist,1,Humanities,Cultural Studies,Cultural Theory,,People,Theorist,Cultural Theorist,Topic
+D.O.P.,1,The Arts,Video,Cinematography,,People,Director,D.O.P.,Topic
+EP,1,The Arts,Video,,,People,Executive Producer,Executive Producer,Topic
+Editorial Design,1,Design,Graphic Design,Editorial Design,,,,Editorial Design,Field
+Fashion Critic,1,Design,Fashion,,,People,Critic,Fashion Critic,Topic
+Fashion Week,1,Design,Fashion,,,Event,Weekly Festival,Fashion Week,Topic
+Film Researcher,1,The Arts,Film,,,People,Researcher,Film Researcher,Topic
+Font Marketplace,1,Design,Graphic Design,Typography,,Organization,Platform,Font Marketplace,Topic
+Game Design Program,1,Design,Digital Design,,,Program,,Game Design Program,Topic
+Growth Invention Company,1,Business,Investing,,,Organization,Company,Growth Invention Company,Topic
+Hair Designer,1,Design,Fashion,Hair Design,,People,Designer,Hair Designer,Topic
+Hotel Company,1,Business,,,,Organization,Company,Hotel Company,Topic
+Human Network,1,,,,,Organization,Network,Human Network,Sub-Type
+Industrial,1,Design,Product Design,Industrial Design,,,,Industrial Design,Field
+Industrial Designer,1,Design,Product Design,Industrial Design,,People,Designer,Industrial Designer,Topic
+Interior Architecture Company,1,Design,Architecture,Interior Architecture,,Organization,Company,Interior Architecture Company,Topic
+Journalist,1,Media,Journalism,,,People,Journalist,Journalist,Topic
+Lighting Design Program,1,Design,Architecture,Space Design,,Program,,Lighting Design Program,Topic
+Luxury Goods Company,1,Design,Fashion,Luxury Goods,,Organization,Company,Luxury Goods Company,Topic
+Managing Label,1,Entertainment,Management,,,Organization,Label,Managing Label,Topic
+Marketing Company,1,Business,Marketing,,,Organization,Company,Marketing Company,Topic
+Media Art,1,The Arts,Visual Art,Media Art,,,,Media Art,Field
+Music Award,1,The Arts,Music,,,Event,Award,Music Award,Topic
+Music Critique,1,The Arts,Music,Popular Music,,People,Critic,Music Critic,Topic
+Music Genre,1,The Arts,Music,Popular Music,,,,Music Genre,Field
+Music Producer,1,The Arts,Music,Popular Music,,People,Producer,Music Producer,Topic
+Music Production Program,1,The Arts,Music,Popular Music,Production,Program,,Music Production Program,Topic
+PR Agency,1,Business,Marketing,PR,,Organization,Agency,PR Agency,Topic
+Playwriting Program,1,The Arts,Performing Arts,Playwriting,,Program,,Playwriting Program,Topic
+Podcast,1,Media,,,,Publication,Podcast,Podcast,Topic
+Political Theorist,1,Humanities,Politics,Political Theory,,People,Theorist,Political Theorist,Topic
+Product Design,1,Design,Product Design,,,,,Product Design,Sub-Category
+Production Design Program,1,The Arts,Video,Production Design,,Program,,Production Design Program,Topic
+Scenography Program,1,The Arts,Performing Arts,Scenography,,Program,,Scenography Program,Topic
+Screen Writer,1,The Arts,Film,Screenwriting,,People,Writer,Screen Writer,Topic
+Screenwriting Program,1,The Arts,Film,Screenwriting,,Program,,Screenwriting Program,Topic
+Set Designer,1,Design,Product Design,,,People,Designer,Set Designer,Topic
+Social Network,1,Technology,Service,Social Network,,,,Social Network,Field
+Sociologist,1,Humanities,Social Theory,Sociology,,People,Theorist,Sociologist,Topic
+Software Company,1,Technology,Software,,,Organization,Company,Software Company,Topic
+Software Engineer,1,Technology,Software,,,People,Engineer,Software Engineer,Topic
+Sound Director,1,The Arts,Film,Sound Design,,People,Director,Sound Director,Topic
+Space,1,Technology,Engineering,Space,,,,Space,Field
+Space Design,1,Design,Architecture,Space Design,,,,Space Design,Field
+Spacecraft Company,1,Technology,Engineering,Space,,Organization,Company,Spacecraft Company,Topic
+Sports Magazine,1,Entertainment,Sports,,,Publication,Magazine,Sports Magazine,Topic
+Stage Management Program,1,The Arts,Performing Arts,Stage Management,,Program,,Stage Management Program,Topic
+Tattooist,1,,,Tattoo,,People,Artist,Tattooist,Topic
+Venue,1,The Arts,Performing Arts,,,Place,Venue,Venue,Topic
+Venue Operator,1,The Arts,Performing Arts,,,People,Operator,Venue Operator,Topic
+Youtuber,1,Media,Online Media,Youtube,,People,Creator,Youtuber,Topic

@@ -4,6 +4,7 @@ aliases:
   - 서울E
   - Seoul E-Land
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

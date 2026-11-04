@@ -1,7 +1,10 @@
 ---
 topic:
   - "[[Fashion]]"
+  - "[[Design]]"
   - "[[Fashion Designer]]"
+IG:
+  - https://www.instagram.com/rickowensonline/
 Website:
   - https://www.rickowens.eu
 Wikis:

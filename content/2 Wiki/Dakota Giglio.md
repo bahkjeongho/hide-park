@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Editing]]"
   - "[[Editor]]"
 IG:
   - https://www.instagram.com/dakota_giglio/

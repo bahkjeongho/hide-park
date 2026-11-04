@@ -3,6 +3,7 @@ aliases:
   - Gimcheon Sangmu Football Club
   - 김천 상무
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

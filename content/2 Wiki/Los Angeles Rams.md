@@ -2,6 +2,7 @@
 aliases:
   - LA 램스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

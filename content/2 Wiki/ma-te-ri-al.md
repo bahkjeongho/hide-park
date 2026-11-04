@@ -4,6 +4,7 @@ aliases:
 topic:
   - "[[Media]]"
   - "[[Magazine]]"
+  - "[[Film]]"
   - "[[Moving Image Critic]]"
   - "[[Film Magazine]]"
 IG:

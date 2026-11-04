@@ -4,6 +4,7 @@ aliases:
   - Koninklijke Academie voor Schone Kunsten Antwerpen
   - 안트베르펜 왕립예술학교
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/royalacademyantwerp/

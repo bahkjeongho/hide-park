@@ -2,8 +2,9 @@
 aliases:
   - RIBA Awards
 topic:
-  - Architecture
-  - "[[Architecture Award]]"
+  - [[Award]]
+  - [[Architecture]]
+  - [[Architecture Award]]
 Kind:
   - "[[Award]]"
 Subject:

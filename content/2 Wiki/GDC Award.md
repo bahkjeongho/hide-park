@@ -3,8 +3,9 @@ aliases:
   - GDC
   - Graphic Design in China
 topic:
+  - [[Design]]
   - Graphic Design
-  - "[[Award]]"
+  - [[Award]]
 Kind:
   - "[[Award]]"
 Subject:

@@ -2,6 +2,7 @@
 aliases:
   - 피츠버그 스틸러스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

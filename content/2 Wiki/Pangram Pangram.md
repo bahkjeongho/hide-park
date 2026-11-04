@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Design]]"
+  - "[[Typography]]"
   - "[[Type Foundry]]"
 IG:
   - https://www.instagram.com/pangram.pangram/

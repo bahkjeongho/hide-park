@@ -2,6 +2,7 @@
 aliases:
   - KSA
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 Website:
   - https://www.kingston.ac.uk/faculties/kingston-school-of-art/

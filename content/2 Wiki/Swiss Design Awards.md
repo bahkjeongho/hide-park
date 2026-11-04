@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Award]]"
+  - "[[Design]]"
   - "[[Design Award]]"
 Kind:
   - "[[Award]]"

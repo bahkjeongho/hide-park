@@ -2,6 +2,7 @@
 aliases:
   - Maison Martin Margiela
 topic:
+  - "[[Brand]]"
   - "[[Fashion]]"
   - "[[Fashion Brand]]"
 IG:

@@ -3,6 +3,7 @@ aliases:
   - Juilliard
   - 줄리아드 스쿨
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 Website:
   - https://www.juilliard.edu/

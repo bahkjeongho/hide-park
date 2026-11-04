@@ -2,6 +2,7 @@
 aliases:
   - 토론토 블루제이스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

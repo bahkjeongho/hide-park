@@ -2,6 +2,7 @@
 aliases:
   - saatchi_gallery
 topic:
+  - "[[Art]]"
   - "[[Art Gallery]]"
 IG:
   - https://www.instagram.com/saatchi_gallery/

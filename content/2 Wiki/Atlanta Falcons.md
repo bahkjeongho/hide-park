@@ -2,6 +2,7 @@
 aliases:
   - 애틀랜타 팰컨스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

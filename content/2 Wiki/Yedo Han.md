@@ -3,6 +3,7 @@ aliases:
   - 한예도
 topic:
   - "[[Design]]"
+  - "[[Graphic Design]]"
   - "[[Graphic Designer]]"
 IG:
   - https://www.instagram.com/yedo.studio/

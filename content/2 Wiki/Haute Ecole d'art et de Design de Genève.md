@@ -4,6 +4,7 @@ aliases:
   - HEAD Genève
   - Geneva University of Art and Design
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/headgeneve

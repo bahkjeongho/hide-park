@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Fashion]]"
+  - "[[Design]]"
   - "[[Fashion Designer]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Nicolas_Ghesqui%C3%A8re

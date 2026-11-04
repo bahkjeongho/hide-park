@@ -3,6 +3,7 @@ aliases:
   - California College of the Arts
   - CCA
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/cacollegeofarts

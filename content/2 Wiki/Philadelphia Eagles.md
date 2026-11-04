@@ -2,6 +2,7 @@
 aliases:
   - 필라델피아 이글스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

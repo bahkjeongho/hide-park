@@ -3,6 +3,7 @@ aliases:
   - USC
   - 서던 캘리포니아 대학교
 topic:
+  - "[[School]]"
   - "[[University]]"
 IG:
   - https://www.instagram.com/uscedu/

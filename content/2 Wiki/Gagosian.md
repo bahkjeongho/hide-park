@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Art]]"
   - "[[Art Gallery]]"
 IG:
   - https://www.instagram.com/gagosian/

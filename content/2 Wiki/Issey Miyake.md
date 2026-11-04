@@ -3,6 +3,7 @@ aliases:
   - 三宅一生
 topic:
   - "[[Fashion]]"
+  - "[[Design]]"
   - "[[Fashion Designer]]"
 Website:
   - https://www.isseymiyake.com/

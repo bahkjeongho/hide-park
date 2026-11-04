@@ -3,6 +3,7 @@ aliases:
   - Royal Academy of Dramatic Art
   - 왕립연극학교
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/royalacademyofdramaticart/

@@ -3,6 +3,7 @@ aliases:
   - Kingston
   - 킹스턴 대학교
 topic:
+  - "[[School]]"
   - "[[University]]"
 Website:
   - https://www.kingston.ac.uk/

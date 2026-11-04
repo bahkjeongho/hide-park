@@ -4,6 +4,7 @@ aliases:
   - FC Seoul
   - 안양 LG 치타스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

@@ -2,6 +2,7 @@
 aliases:
   - Daegu Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

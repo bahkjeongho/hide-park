@@ -2,6 +2,8 @@
 aliases:
   - 마크 피셔
 topic:
+  - "[[Critic]]"
+  - "[[Music]]"
   - "[[Music Critic]]"
   - "[[Political Theorist]]"
   - "[[Cultural Theorist]]"

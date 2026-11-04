@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Design]]"
+  - "[[Graphic Design]]"
   - "[[Graphic Designer]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Sagi_Haviv

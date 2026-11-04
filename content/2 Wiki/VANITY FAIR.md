@@ -2,6 +2,7 @@
 topic:
   - "[[Media]]"
   - "[[Magazine]]"
+  - "[[Culture]]"
   - "[[Culture Magazine]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Vanity_Fair_(magazine)

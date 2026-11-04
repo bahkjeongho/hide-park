@@ -3,6 +3,7 @@ aliases:
   - 코번트리 시티
   - Coventry City Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

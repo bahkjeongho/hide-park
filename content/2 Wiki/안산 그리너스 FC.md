@@ -3,6 +3,7 @@ aliases:
   - Ansan Greeners Football Club
   - 안산 그리너스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

@@ -2,6 +2,8 @@
 aliases:
   - Rocket Company
 topic:
+  - "[[Creative]]"
+  - "[[Production]]"
   - "[[Creative Production]]"
 IG: https://www.instagram.com/rckt_rocketcompany/
 Website: https://www.rckt.co.jp/

@@ -2,6 +2,7 @@
 aliases:
   - 클리블랜드 캐벌리어스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

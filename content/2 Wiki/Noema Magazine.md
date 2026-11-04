@@ -4,6 +4,8 @@ aliases:
 topic:
   - "[[Media]]"
   - "[[Magazine]]"
+  - "[[Critique]]"
+  - "[[Critique Magazine]]"
 IG:
   - https://www.instagram.com/noemamag/
 Website:

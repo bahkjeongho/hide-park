@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Director]]"
   - "[[Design]]"
+  - "[[Art Direction]]"
+  - "[[Graphic Design]]"
   - "[[Art Director]]"
   - "[[Graphic Designer]]"
 IG:

@@ -3,6 +3,7 @@ aliases:
   - 정사록
 topic:
   - "[[Design]]"
+  - "[[Graphic Design]]"
   - "[[Graphic Designer]]"
 IG:
   - https://www.instagram.com/sa.rok.sarok/

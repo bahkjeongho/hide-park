@@ -3,6 +3,7 @@ aliases:
   - Kanbar Institute
   - Tisch Film & TV
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/nyutischfilmtv/

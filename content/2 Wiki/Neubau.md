@@ -1,8 +1,11 @@
 ---
 topic:
+  - "[[Studio]]"
   - "[[Design]]"
   - "[[Design Studio]]"
   - "[[Typography]]"
+IG:
+  - https://www.instagram.com/neubauberlin/
 Website:
   - https://neubauberlin.com/
 Cities:

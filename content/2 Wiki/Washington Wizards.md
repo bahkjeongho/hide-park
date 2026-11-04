@@ -2,6 +2,7 @@
 aliases:
   - 워싱턴 위저즈
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

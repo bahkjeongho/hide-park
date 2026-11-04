@@ -2,6 +2,7 @@
 aliases:
   - 뉴잉글랜드 패트리어츠
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

@@ -2,6 +2,8 @@
 topic:
   - "[[Media]]"
   - "[[Magazine]]"
+  - "[[Culture]]"
+  - "[[Sports]]"
   - "[[Sports Magazine]]"
   - "[[Culture Magazine]]"
 IG:

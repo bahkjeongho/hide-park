@@ -3,7 +3,9 @@ aliases:
   - BBC
 topic:
   - "[[Media]]"
+  - "[[Company]]"
   - "[[Media Company]]"
+  - "[[Newspaper]]"
 IG:
   - https://www.instagram.com/bbc/
 Website:

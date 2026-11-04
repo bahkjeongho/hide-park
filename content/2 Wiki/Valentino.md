@@ -3,6 +3,7 @@ aliases:
   - Maison Valentino
   - Valentino S.p.A.
 topic:
+  - "[[Brand]]"
   - "[[Fashion]]"
   - "[[Fashion Brand]]"
 IG:

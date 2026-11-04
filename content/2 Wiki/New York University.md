@@ -3,6 +3,7 @@ aliases:
   - NYU
   - 뉴욕 대학교
 topic:
+  - "[[School]]"
   - "[[University]]"
 Website:
   - https://www.nyu.edu/

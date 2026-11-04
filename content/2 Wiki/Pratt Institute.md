@@ -3,6 +3,7 @@ aliases:
   - Pratt
   - 프랫 인스티튜트
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/prattinstitute/

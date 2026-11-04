@@ -3,6 +3,7 @@ aliases:
   - RAM
   - 왕립음악원
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/royalacademyofmusic/

@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Company]]"
+  - "[[Creative]]"
   - "[[Video]]"
   - "[[Creative Company]]"
   - "[[Production Company]]"

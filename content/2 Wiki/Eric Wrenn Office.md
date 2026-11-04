@@ -1,5 +1,9 @@
 ---
 topic:
+  - "[[Director]]"
+  - "[[Consultancy]]"
+  - "[[Creative]]"
+  - "[[Art Direction]]"
   - "[[Art Director]]"
   - "[[Creative Consultancy]]"
 IG:

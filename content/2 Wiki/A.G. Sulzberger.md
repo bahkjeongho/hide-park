@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Publishing]]"
   - "[[Journalist]]"
   - "[[Publisher]]"
 ---

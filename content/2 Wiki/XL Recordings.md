@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Music]]"
   - "[[Record Label]]"
 IG:
   - https://www.instagram.com/xlrecordings/

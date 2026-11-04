@@ -2,6 +2,7 @@
 aliases:
   - 인디애나 페이서스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

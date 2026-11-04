@@ -2,6 +2,7 @@
 aliases:
   - 댈러스 카우보이스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

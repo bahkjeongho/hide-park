@@ -1,7 +1,9 @@
 ---
 topic:
+  - [[Festival]]
+  - [[Design]]
   - Graphic Design
-  - "[[Design Festival]]"
+  - [[Design Festival]]
 Kind:
   - "[[Design Festival]]"
 Website:

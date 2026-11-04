@@ -2,6 +2,7 @@
 aliases:
   - Helmo
 topic:
+  - "[[Studio]]"
   - "[[Design]]"
   - "[[Graphic Design]]"
   - "[[Design Studio]]"

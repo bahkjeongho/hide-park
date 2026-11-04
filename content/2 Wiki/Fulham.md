@@ -3,6 +3,7 @@ aliases:
   - 풀럼
   - Fulham Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

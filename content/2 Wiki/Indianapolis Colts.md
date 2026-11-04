@@ -2,6 +2,7 @@
 aliases:
   - 인디애나폴리스 콜츠
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Award]]"
+  - "[[Design]]"
   - "[[Design Award]]"
 Website:
   - https://www.aiga.org/competitions-initiatives/365-aiga-year-in-design

@@ -4,6 +4,7 @@ aliases:
 topic:
   - "[[Media]]"
   - "[[Magazine]]"
+  - "[[Culture]]"
   - "[[Culture Magazine]]"
 IG:
   - https://www.instagram.com/thenovembermag/

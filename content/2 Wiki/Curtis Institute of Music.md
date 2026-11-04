@@ -3,6 +3,7 @@ aliases:
   - Curtis
   - 커티스 음악원
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/curtisinstitute/

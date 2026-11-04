@@ -1,0 +1,32 @@
+---
+aliases:
+topic:
+  - "[[Fashion Brand]]"
+IG:
+  - https://www.instagram.com/lcbx_tailormade_garments/
+Website:
+  - http://www.lcbx.co.kr/
+URL:
+Wikis:
+Cities:
+Countries:
+  - "[[South Korea]]"
+tags:
+Related:
+---
+>[!tldr] tl;dr
+>테일러 메이드 가먼츠 브랜드
+
+> [!Info]
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# People
+

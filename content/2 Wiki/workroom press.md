@@ -1,6 +1,8 @@
 ---
 topic:
-  - "[[Publishing Compnay]]"
+  - "[[Company]]"
+  - "[[Publishing]]"
+  - "[[Publishing Company]]"
 IG: https://www.instagram.com/workroompress/
 Website: https://workroompress.kr/
 Related:

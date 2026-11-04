@@ -1,8 +1,8 @@
 ---
 topic:
-  - "[[Fashion]]"
   - "[[Media]]"
   - "[[Magazine]]"
+  - "[[Fashion]]"
   - "[[Fashion Magazine]]"
 IG:
   - https://www.instagram.com/teenvogue/

@@ -1,8 +1,13 @@
 ---
 topic:
+  - "[[Agency]]"
   - "[[Design]]"
+  - "[[Consulting]]"
+  - "[[Brand Design]]"
   - "[[Branding Agency]]"
   - "[[Consulting Agency]]"
+IG:
+  - https://www.instagram.com/lippincottbrand/
 Website: https://www.lippincott.com/
 Cities:
   - "[[New York]]"

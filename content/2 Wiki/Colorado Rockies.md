@@ -2,6 +2,7 @@
 aliases:
   - 콜로라도 로키스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

@@ -2,6 +2,7 @@
 aliases:
   - TFS
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/torontofilmschool/

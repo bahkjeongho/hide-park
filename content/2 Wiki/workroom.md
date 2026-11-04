@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Studio]]"
   - "[[Design]]"
   - "[[Design Studio]]"
 IG: https://www.instagram.com/workroompress/

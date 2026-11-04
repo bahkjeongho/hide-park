@@ -2,6 +2,7 @@
 aliases:
   - CLUSTER
 topic:
+  - "[[Creative]]"
   - "[[Creative Collective]]"
 ---
 >[!tldr] tl;dr

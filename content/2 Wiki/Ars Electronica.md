@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Art]]"
   - "[[Art Platform]]"
 IG:
   - https://www.instagram.com/arselectronica/

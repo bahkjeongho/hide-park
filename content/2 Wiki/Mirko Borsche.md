@@ -2,8 +2,9 @@
 aliases:
   - 미르코 보르셰
 topic:
-  - "[[Design]]"
+  - "[[Director]]"
   - "[[Art Direction]]"
+  - "[[Design]]"
   - "[[Art Director]]"
   - "[[Brand Design]]"
 IG:

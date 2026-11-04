@@ -2,6 +2,7 @@
 aliases:
   - bmd
 topic:
+  - "[[Studio]]"
   - "[[Design]]"
   - "[[Design Studio]]"
 IG:

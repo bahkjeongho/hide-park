@@ -3,6 +3,7 @@ aliases:
   - 노팅엄 포리스트
   - Nottingham Forest Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

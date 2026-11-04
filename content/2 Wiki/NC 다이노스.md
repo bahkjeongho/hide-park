@@ -3,6 +3,7 @@ aliases:
   - NC Dinos
   - 엔씨 다이노스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

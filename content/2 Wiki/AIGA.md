@@ -2,6 +2,8 @@
 aliases:
   - American Institute of Graphic Arts
 topic:
+  - "[[Association]]"
+  - "[[Design]]"
   - "[[Design Association]]"
 IG:
   - https://www.instagram.com/AIGAdesign/

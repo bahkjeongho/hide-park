@@ -2,6 +2,7 @@
 aliases:
   - NewCo
 topic:
+  - "[[Agency]]"
   - "[[Design]]"
   - "[[Design Agency]]"
 IG:

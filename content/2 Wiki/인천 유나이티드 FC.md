@@ -3,6 +3,7 @@ aliases:
   - Incheon United Football Club
   - Incheon United
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

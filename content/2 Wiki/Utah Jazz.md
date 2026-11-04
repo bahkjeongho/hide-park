@@ -2,6 +2,7 @@
 aliases:
   - 유타 재즈
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

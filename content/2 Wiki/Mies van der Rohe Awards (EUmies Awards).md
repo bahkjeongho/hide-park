@@ -3,8 +3,9 @@ aliases:
   - EUmies Awards
   - European Union Prize for Contemporary Architecture
 topic:
-  - Architecture
-  - "[[Architecture Award]]"
+  - [[Award]]
+  - [[Architecture]]
+  - [[Architecture Award]]
 Kind:
   - "[[Award]]"
 Subject:

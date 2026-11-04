@@ -3,6 +3,7 @@ aliases:
   - 애스턴 빌라
   - Aston Villa Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

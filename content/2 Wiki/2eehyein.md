@@ -2,6 +2,7 @@
 aliases:
   - 이혜인
 topic:
+  - "[[Director]]"
   - "[[Video]]"
   - "[[Photography]]"
   - "[[Video Director]]"

@@ -2,6 +2,7 @@
 aliases:
   - 애틀랜타 호크스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

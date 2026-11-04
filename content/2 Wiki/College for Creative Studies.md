@@ -2,6 +2,7 @@
 aliases:
   - CCS
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/ccs_detroit

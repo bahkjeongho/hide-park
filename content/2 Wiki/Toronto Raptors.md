@@ -2,6 +2,7 @@
 aliases:
   - 토론토 랩터스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

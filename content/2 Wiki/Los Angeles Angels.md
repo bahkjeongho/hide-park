@@ -2,6 +2,7 @@
 aliases:
   - LA 에인절스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

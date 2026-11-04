@@ -4,6 +4,7 @@ aliases:
   - Ontario College of Art and Design University
   - OCAD 대학교
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/ocaduniversity

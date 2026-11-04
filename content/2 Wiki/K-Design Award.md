@@ -3,10 +3,12 @@ aliases:
   - K-DESIGN AWARD
   - K-디자인 어워드
 topic:
+  - [[Award]]
+  - [[Design]]
   - Space
   - Industrial
   - Communication
-  - "[[Design Award]]"
+  - [[Design Award]]
 Kind:
   - "[[Award]]"
 Subject:

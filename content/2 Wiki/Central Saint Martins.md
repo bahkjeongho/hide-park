@@ -3,6 +3,7 @@ aliases:
   - CSM
   - 센트럴 세인트 마틴
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/csm_news/

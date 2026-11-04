@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Director]]"
   - "[[Photography]]"
   - "[[Video]]"
   - "[[Photographer]]"

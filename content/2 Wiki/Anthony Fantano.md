@@ -3,6 +3,7 @@ aliases:
   - theneedledrop
 topic:
   - "[[Critic]]"
+  - "[[Music]]"
   - "[[Music Journalism]]"
   - "[[Music Critic]]"
 IG:

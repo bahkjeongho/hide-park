@@ -1,8 +1,11 @@
 ---
 topic:
+  - "[[Studio]]"
   - "[[Design]]"
   - "[[Design Studio]]"
   - "[[Graphic Design]]"
+IG:
+  - https://www.instagram.com/odotoo_com/
 Website:
   - https://odotoo.com/
 ---

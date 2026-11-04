@@ -3,6 +3,7 @@ aliases:
   - RCM
   - 왕립음악대학
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/rcmlondon/

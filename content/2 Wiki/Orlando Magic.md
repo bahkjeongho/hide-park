@@ -2,6 +2,7 @@
 aliases:
   - 올랜도 매직
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

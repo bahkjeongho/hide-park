@@ -1,5 +1,8 @@
 ---
 topic:
+  - "[[Agency]]"
+  - "[[Creative]]"
+  - "[[Consulting]]"
   - "[[Design]]"
   - "[[Creative Team]]"
   - "[[Consulting Agency]]"

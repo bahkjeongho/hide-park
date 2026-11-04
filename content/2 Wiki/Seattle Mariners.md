@@ -2,6 +2,7 @@
 aliases:
   - 시애틀 매리너스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

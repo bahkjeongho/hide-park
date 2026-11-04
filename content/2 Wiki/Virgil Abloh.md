@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Director]]"
+  - "[[Creative]]"
   - "[[Fashion]]"
+  - "[[Design]]"
   - "[[Creative Direction]]"
   - "[[Fashion Designer]]"
   - "[[Creative Director]]"

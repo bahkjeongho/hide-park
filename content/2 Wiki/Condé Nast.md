@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Media]]"
+  - "[[Company]]"
   - "[[Media Company]]"
 IG:
   - https://www.instagram.com/condenast/

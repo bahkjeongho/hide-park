@@ -3,6 +3,7 @@ aliases:
   - 리즈 유나이티드
   - Leeds United Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

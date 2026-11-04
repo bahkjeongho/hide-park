@@ -2,6 +2,7 @@
 aliases:
   - 캔자스시티 로열스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

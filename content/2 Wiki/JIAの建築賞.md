@@ -3,8 +3,9 @@ aliases:
   - JIA建築賞
   - JIA Awards
 topic:
-  - Architecture
-  - "[[Architecture Award]]"
+  - [[Award]]
+  - [[Architecture]]
+  - [[Architecture Award]]
 Kind:
   - "[[Award]]"
 Subject:

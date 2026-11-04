@@ -2,6 +2,8 @@
 aliases:
   - SOUP WORLD
 topic:
+  - "[[Studio]]"
+  - "[[Creative]]"
   - "[[Creative Direction]]"
   - "[[Creative Studio]]"
 IG:

@@ -3,6 +3,7 @@ aliases:
   - TFT
   - UCLA TFT
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/ucla_tft/

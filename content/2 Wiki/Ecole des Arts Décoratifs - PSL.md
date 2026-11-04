@@ -4,6 +4,7 @@ aliases:
   - École nationale supérieure des arts décoratifs
   - Arts Déco
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/EcoleArtsDecoParis

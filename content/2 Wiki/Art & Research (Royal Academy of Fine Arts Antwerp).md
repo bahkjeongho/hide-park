@@ -2,6 +2,7 @@
 aliases:
   - research_royalacademyantwerp
 topic:
+  - "[[School]]"
   - "[[Academic Program]]"
 IG:
   - https://www.instagram.com/research_royalacademyantwerp/

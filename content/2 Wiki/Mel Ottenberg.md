@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Editor]]"
+  - "[[Editing]]"
   - "[[Editor-in-Chief]]"
 IG:
   - https://www.instagram.com/melzy917/

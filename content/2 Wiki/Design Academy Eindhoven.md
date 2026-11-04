@@ -2,6 +2,7 @@
 aliases:
   - DAE
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/designacademyeindhoven

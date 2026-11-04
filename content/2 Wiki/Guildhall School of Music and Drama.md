@@ -4,6 +4,7 @@ aliases:
   - Guildhall
   - 길드홀 음악연극학교
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/guildhallschool/

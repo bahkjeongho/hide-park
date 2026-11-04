@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Company]]"
+  - "[[Creative]]"
   - "[[Creative Company]]"
 IG:
   - https://www.instagram.com/studiokoto/

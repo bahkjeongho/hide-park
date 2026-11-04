@@ -3,6 +3,7 @@ aliases:
   - NYFA
   - New York Film Academy – School of Film and Acting
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/newyorkfilmacademy

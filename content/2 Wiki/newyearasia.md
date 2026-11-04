@@ -2,6 +2,8 @@
 aliases:
   - NEWYEAR*
 topic:
+  - "[[Studio]]"
+  - "[[Creative]]"
   - "[[Video]]"
   - "[[Photography]]"
   - "[[Creative Direction]]"

@@ -2,6 +2,8 @@
 aliases:
   - 더 나이브 사이드
 topic:
+  - "[[Design]]"
+  - "[[Furniture]]"
   - "[[Furniture Design]]"
 IG:
   - https://www.instagram.com/the_naive_side/

@@ -2,6 +2,7 @@
 aliases:
   - AFC 본머스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

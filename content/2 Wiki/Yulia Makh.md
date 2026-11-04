@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Director]]"
+  - "[[Art Direction]]"
   - "[[Art Director]]"
 IG: https://www.instagram.com/yuliamakh/
 ---

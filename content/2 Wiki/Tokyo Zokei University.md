@@ -4,6 +4,7 @@ aliases:
   - 東京造形大学
   - 도쿄조형대학
 topic:
+  - "[[School]]"
   - "[[Art School]]"
 Website:
   - https://www.zokei.ac.jp/

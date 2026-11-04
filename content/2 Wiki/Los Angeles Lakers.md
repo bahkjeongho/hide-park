@@ -2,6 +2,7 @@
 aliases:
   - LA 레이커스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

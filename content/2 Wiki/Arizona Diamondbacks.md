@@ -2,6 +2,7 @@
 aliases:
   - 애리조나 다이아몬드백스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

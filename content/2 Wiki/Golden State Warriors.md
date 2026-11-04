@@ -2,6 +2,7 @@
 aliases:
   - 골든스테이트 워리어스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

@@ -1,5 +1,6 @@
 ---
 topic:
+  - "[[Brand]]"
   - "[[Fashion]]"
   - "[[Fashion Brand]]"
 Wikis:

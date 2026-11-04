@@ -1,5 +1,7 @@
 ---
 topic:
+  - "[[Company]]"
+  - "[[Creative]]"
   - "[[Design]]"
   - "[[Creative Company]]"
 Website: https://center.design/

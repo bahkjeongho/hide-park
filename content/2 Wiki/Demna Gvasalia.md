@@ -1,7 +1,10 @@
 ---
 topic:
   - "[[Fashion]]"
+  - "[[Design]]"
   - "[[Fashion Designer]]"
+IG:
+  - https://www.instagram.com/demna/
 Wikis:
   - https://en.wikipedia.org/wiki/Demna_(designer)
 ---

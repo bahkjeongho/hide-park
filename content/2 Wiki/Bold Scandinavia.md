@@ -1,6 +1,8 @@
 ---
 topic:
+  - "[[Consultancy]]"
   - "[[Design]]"
+  - "[[Brand Design]]"
   - "[[Brand Consultancy]]"
 Website: https://boldscandinavia.com/
 ---

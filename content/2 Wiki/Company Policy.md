@@ -1,6 +1,9 @@
 ---
 topic:
+  - "[[Agency]]"
+  - "[[Studio]]"
   - "[[Design]]"
+  - "[[Brand Design]]"
   - "[[Branding Agency]]"
   - "[[Design Studio]]"
 IG:

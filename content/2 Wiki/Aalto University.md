@@ -4,6 +4,7 @@ aliases:
   - Aalto-yliopisto
   - 알토 대학교
 topic:
+  - "[[School]]"
   - "[[University]]"
 IG:
   - https://www.instagram.com/aaltouniversity/

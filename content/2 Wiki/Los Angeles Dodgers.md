@@ -2,6 +2,7 @@
 aliases:
   - LA 다저스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

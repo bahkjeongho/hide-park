@@ -3,6 +3,7 @@ aliases:
   - 맨체스터 시티
   - Manchester City Football Club
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

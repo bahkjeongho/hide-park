@@ -2,6 +2,9 @@
 aliases:
   - 데이즈드 스튜디오
 topic:
+  - "[[Agency]]"
+  - "[[Studio]]"
+  - "[[Creative]]"
   - "[[Creative Direction]]"
   - "[[Creative Agency]]"
   - "[[Creative Studio]]"

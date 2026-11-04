@@ -2,6 +2,7 @@
 aliases:
   - 마이애미 돌핀스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

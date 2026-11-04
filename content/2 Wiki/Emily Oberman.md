@@ -1,6 +1,7 @@
 ---
 topic:
   - "[[Design]]"
+  - "[[Graphic Design]]"
   - "[[Graphic Designer]]"
 Website:
   - https://www.pentagram.com/about/emily-oberman

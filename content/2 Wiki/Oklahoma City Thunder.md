@@ -2,6 +2,7 @@
 aliases:
   - 오클라호마시티 썬더
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"

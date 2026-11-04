@@ -3,6 +3,7 @@ aliases:
   - Choi Seulgi
 topic:
   - "[[Design]]"
+  - "[[Graphic Design]]"
   - "[[Graphic Designer]]"
 Website:
   - http://www.chsg.kr/

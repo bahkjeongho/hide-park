@@ -2,6 +2,7 @@
 aliases:
   - TBA21
 topic:
+  - "[[Art]]"
   - "[[Art Platform]]"
 IG:
   - https://www.instagram.com/tba_21/

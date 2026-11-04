@@ -2,6 +2,7 @@
 aliases:
   - LOEWE
 topic:
+  - "[[Brand]]"
   - "[[Fashion]]"
   - "[[Fashion Brand]]"
 IG:

@@ -2,6 +2,7 @@
 aliases:
   - 포틀랜드 트레일 블레이저스
 topic:
+  - "[[Sports]]"
   - "[[Sports Team]]"
 Sport:
   - "[[Basketball]]"
