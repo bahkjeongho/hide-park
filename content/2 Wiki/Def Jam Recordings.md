@@ -1,6 +1,15 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Label]]"
+Topic:
   - "[[Record Label]]"
 Wikis: https://en.wikipedia.org/wiki/Def_Jam_Recordings
 ---

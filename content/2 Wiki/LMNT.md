@@ -1,9 +1,16 @@
 ---
-topic:
-  - "[[Agency]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
-  - "[[Branding Agency]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
+  - "[[Brand Design Agency]]"
 Website:
   - https://www.lmntcompany.com/
 Cities:

@@ -2,13 +2,16 @@
 aliases:
   - K-DESIGN AWARD
   - K-디자인 어워드
-topic:
-  - [[Award]]
-  - [[Design]]
-  - Space
-  - Industrial
-  - Communication
-  - [[Design Award]]
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Engineering]]"
+Field:
+  - "[[Space]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Award]]"
 Kind:
   - "[[Award]]"
 Subject:

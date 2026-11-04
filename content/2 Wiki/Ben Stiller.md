@@ -1,9 +1,14 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Performing Arts]]"
+Field:
+  - "[[Acting]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Director]]"
-  - "[[Film]]"
-  - "[[Film Director]]"
-  - "[[Actor]]"
 IG: https://www.instagram.com/benstiller/
 URL:
   - https://x.com/BenStiller

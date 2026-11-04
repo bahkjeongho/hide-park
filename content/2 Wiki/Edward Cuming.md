@@ -1,9 +1,17 @@
 ---
 aliases:
   - EDWARD CUMING
-topic:
-  - "[[Fashion]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Fashion]]"
+Field:
+  - "[[Fashion Design]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Designer]]"
+Topic:
   - "[[Fashion Designer]]"
 IG:
   - https://www.instagram.com/edward.cuming/

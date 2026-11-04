@@ -1,8 +1,11 @@
 ---
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Design Magazine]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Architectural_Digest

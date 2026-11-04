@@ -1,12 +1,18 @@
 ---
 aliases:
   - FUMITO GANRYU
-topic:
-  - "[[Brand]]"
-  - "[[Fashion]]"
+Category:
   - "[[Design]]"
-  - "[[Fashion Designer]]"
-  - "[[Fashion Brand]]"
+Sub-Category:
+  - "[[Fashion]]"
+Field:
+  - "[[Fashion Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Brand]]"
+Topic:
+  - "[[Fashion Design Brand]]"
 IG:
   - https://www.instagram.com/fumitoganryu/
 Website:

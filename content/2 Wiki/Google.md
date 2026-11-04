@@ -1,6 +1,15 @@
 ---
-topic:
-  - "[[Tech Company]]"
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Software]]"
+Field:
+  - "[[AI]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[AI Company]]"
 Website:
   - https://about.google/intl/ko_ALL/

@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Digital Design]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Game Design Program]]"
+Topic:
+  - "[[Digital Design School]]"
 Website:
   - https://www.pratt.edu/art/digital-arts-and-animation/game-arts-bfa/
 Cities:

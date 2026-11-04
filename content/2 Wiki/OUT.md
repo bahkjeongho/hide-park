@@ -1,9 +1,11 @@
 ---
 aliases:
   - Objekte unserer Tage
-topic:
+Category:
   - "[[Design]]"
-  - "[[Furniture]]"
+Sub-Category:
+  - "[[Product Design]]"
+Field:
   - "[[Furniture Design]]"
 IG:
   - https://www.instagram.com/objekteunserertage/

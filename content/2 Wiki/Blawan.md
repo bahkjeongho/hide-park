@@ -3,7 +3,17 @@ aliases:
   - Jamie Roberts
   - Bored Young Adults
   - Kilner
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Artist]]"
+Topic:
   - "[[Music Artist]]"
 Genre:
   - "[[Techno]]"

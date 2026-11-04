@@ -1,7 +1,9 @@
 ---
 aliases:
   - 오토매틱 포 더 피플
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
 IG:
   - https://www.instagram.com/automatic_for_the_people/

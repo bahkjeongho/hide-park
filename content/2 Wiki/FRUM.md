@@ -1,8 +1,15 @@
 ---
-topic:
-  - "[[Consultancy]]"
-  - "[[Creative]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Consultancy]]"
+Topic:
   - "[[Creative Consultancy]]"
 Website: https://www.frum.co.kr/ko
 ---

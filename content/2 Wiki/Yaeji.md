@@ -1,10 +1,18 @@
 ---
 aliases:
   - 예지
-topic:
-  - "[[Music Artist]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[DJ]]"
-  - "[[Producer]]"
+Topic:
+  - "[[DJ]]"
 IG:
   - https://www.instagram.com/kraejiyaeji/
 Wikis:

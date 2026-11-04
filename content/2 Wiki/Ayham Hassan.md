@@ -1,9 +1,17 @@
 ---
 aliases:
   - Ayham Hassan Musleh
-topic:
-  - "[[Fashion]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Fashion]]"
+Field:
+  - "[[Fashion Design]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Designer]]"
+Topic:
   - "[[Fashion Designer]]"
 IG:
   - https://www.instagram.com/ayham_hassan_99/

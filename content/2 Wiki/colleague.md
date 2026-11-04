@@ -1,11 +1,14 @@
 ---
 aliases:
   - 콜리그
-topic:
+Category:
   - "[[Media]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
   - "[[Magazine]]"
-  - "[[Culture]]"
-  - "[[Culture Magazine]]"
+Topic:
+  - "[[Magazine]]"
 IG:
   - https://www.instagram.com/colleague321/
 Website:

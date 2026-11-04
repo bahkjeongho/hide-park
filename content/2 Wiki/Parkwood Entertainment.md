@@ -1,5 +1,11 @@
 ---
-topic:
+Category:
+  - "[[Entertainment]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[Entertainment Company]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Parkwood_Entertainment

@@ -1,7 +1,9 @@
 ---
 aliases:
   - Space MUE
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
 IG:
   - https://www.instagram.com/spacemue_seoul/

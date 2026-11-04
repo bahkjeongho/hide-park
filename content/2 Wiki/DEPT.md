@@ -1,5 +1,13 @@
 ---
-topic:
+Category:
+  - "[[Business]]"
+Sub-Category:
+  - "[[Investing]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[Growth Invention Company]]"
 IG:
   - https://www.instagram.com/dept_global

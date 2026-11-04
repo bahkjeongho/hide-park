@@ -1,13 +1,18 @@
 ---
 aliases:
   - FLUKS STUDIO
-topic:
-  - "[[Studio]]"
-  - "[[Creative]]"
-  - "[[Creative Studio]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
-  - "[[Audio-visual Production]]"
-  - "[[Brand Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
+  - "[[Creative Studio]]"
 IG:
   - https://www.instagram.com/fluks__/
 Website:

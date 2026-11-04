@@ -1,5 +1,5 @@
 ---
-topic:
+Category:
   - "[[Media]]"
 IG:
   - https://www.instagram.com/itsnicethat/

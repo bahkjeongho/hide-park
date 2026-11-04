@@ -1,13 +1,18 @@
 ---
 aliases:
   - After Hours
-topic:
-  - "[[Studio]]"
-  - "[[Creative]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Creative Studio]]"
-  - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/weare.afterhours/
 Website:

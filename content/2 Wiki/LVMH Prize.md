@@ -1,7 +1,9 @@
 ---
 aliases:
   - LVMH PRIZE
-topic:
+Type:
+  - "[[Event]]"
+Sub-Type:
   - "[[Award]]"
 IG:
   - https://www.instagram.com/lvmhprize/

@@ -1,7 +1,15 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Company]]"
-  - "[[Creative]]"
+Topic:
   - "[[Creative Company]]"
 IG:
   - https://www.instagram.com/barkas/

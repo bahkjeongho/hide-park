@@ -2,8 +2,13 @@
 aliases:
   - GSA
   - Glasgow School of Art
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/glasgowschoolart/

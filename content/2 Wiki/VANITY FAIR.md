@@ -1,9 +1,12 @@
 ---
-topic:
+Category:
   - "[[Media]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
   - "[[Magazine]]"
-  - "[[Culture]]"
-  - "[[Culture Magazine]]"
+Topic:
+  - "[[Magazine]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Vanity_Fair_(magazine)
 Cities:

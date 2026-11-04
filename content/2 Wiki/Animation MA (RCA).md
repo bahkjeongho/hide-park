@@ -1,8 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Video]]"
+Field:
+  - "[[Animation]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Animation Program]]"
+Topic:
+  - "[[Animation School]]"
 Website:
   - https://www.rca.ac.uk/study/programme-finder/animation-ma/
 Cities:

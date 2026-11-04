@@ -2,8 +2,17 @@
 aliases:
   - AG Cook
   - agcook404
-topic:
-  - "[[Music Artist]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Producer]]"
+Topic:
   - "[[Producer]]"
 IG:
   - https://www.instagram.com/agcook404/

@@ -1,7 +1,7 @@
 ---
 aliases:
   - ilovecreatives.com
-topic:
+Category:
   - "[[Media]]"
 IG:
   - https://www.instagram.com/ilovecreatives/

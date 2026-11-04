@@ -1,12 +1,15 @@
 ---
 aliases:
   - カーサ ブルータス
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
+Category:
   - "[[Design]]"
+Sub-Category:
   - "[[Architecture]]"
-  - "[[Design Magazine]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Architecture Magazine]]"
 IG:
   - https://www.instagram.com/casabrutus/

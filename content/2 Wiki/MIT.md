@@ -2,9 +2,10 @@
 aliases:
   - Massachusetts Institute of Technology
   - 매사추세츠 공과대학교
-topic:
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[University]]"
 IG:
   - https://www.instagram.com/mit/
 Website:

@@ -1,7 +1,9 @@
 ---
 aliases:
   - Paola Laf
-topic:
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Writer]]"
 IG:
   - https://www.instagram.com/paolalaf/

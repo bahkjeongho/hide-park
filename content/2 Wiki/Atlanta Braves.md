@@ -1,8 +1,17 @@
 ---
 aliases:
   - 애틀랜타 브레이브스
-topic:
+Category:
+  - "[[Entertainment]]"
+Sub-Category:
   - "[[Sports]]"
+Field:
+  - "[[Team Sports]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Team]]"
+Topic:
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

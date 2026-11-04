@@ -1,10 +1,20 @@
 ---
 aliases:
   - 모드하우스
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Sub-Field:
   - "[[K-Pop]]"
-  - "[[Entertainment Company]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
+  - "[[K-Pop Company]]"
 IG:
   - https://www.instagram.com/modhaus_audition
 URL:

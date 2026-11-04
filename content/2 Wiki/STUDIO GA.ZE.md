@@ -2,7 +2,15 @@
 aliases:
   - GA•ZE
   - 스튜디오 가제
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Video]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Production]]"
+Topic:
   - "[[Video Production]]"
 IG:
   - https://www.instagram.com/studioga.ze/

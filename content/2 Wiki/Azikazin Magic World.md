@@ -1,7 +1,15 @@
 ---
-topic:
-  - "[[Creative]]"
-  - "[[Music Artist]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Collective]]"
+Topic:
   - "[[Creative Collective]]"
 IG:
   - https://www.instagram.com/azikazinmagicworld/

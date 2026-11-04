@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Photography]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Photography Program]]"
+Topic:
+  - "[[Photography School]]"
 Website:
   - https://www.artcenter.edu/academics/undergraduate-degrees/photography-and-imaging/overview.html
 Cities:

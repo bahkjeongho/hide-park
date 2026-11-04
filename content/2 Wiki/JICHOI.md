@@ -2,9 +2,15 @@
 aliases:
   - 지초이
   - JICHOI.NET
-topic:
-  - "[[Brand]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Brand]]"
+Topic:
   - "[[Fashion Brand]]"
 IG:
   - https://www.instagram.com/jichoinet/

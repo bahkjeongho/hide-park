@@ -1,10 +1,16 @@
 ---
-topic:
-  - "[[Studio]]"
-  - "[[Creative]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Creative Studio]]"
-  - "[[Production Studio]]"
 IG:
   - https://www.instagram.com/fabrica.work/
 Website:

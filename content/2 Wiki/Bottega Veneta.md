@@ -1,7 +1,13 @@
 ---
-topic:
-  - "[[Brand]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Brand]]"
+Topic:
   - "[[Fashion Brand]]"
 Website:
   - https://www.bottegaveneta.com

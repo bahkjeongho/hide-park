@@ -2,8 +2,13 @@
 aliases:
   - Curtis
   - 커티스 음악원
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/curtisinstitute/

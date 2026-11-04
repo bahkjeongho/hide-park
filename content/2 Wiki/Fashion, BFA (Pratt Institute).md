@@ -1,8 +1,16 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Fashion]]"
+Field:
+  - "[[Fashion Design]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Fashion Design Program]]"
+Topic:
+  - "[[Fashion Design School]]"
 Website:
   - https://www.pratt.edu/design/fashion-design/fashion-design-bfa/
 Cities:

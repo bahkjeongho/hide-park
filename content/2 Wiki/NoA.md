@@ -1,11 +1,14 @@
 ---
-topic:
-  - "[[Agency]]"
-  - "[[Creative]]"
-  - "[[Consulting]]"
+Category:
   - "[[Design]]"
-  - "[[Creative Team]]"
-  - "[[Consulting Agency]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
 Website: https://www.thenorthalliance.com/
 URL:
   - https://www.linkedin.com/company/noa-the-north-alliance/

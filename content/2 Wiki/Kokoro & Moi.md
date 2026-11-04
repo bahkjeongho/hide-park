@@ -1,12 +1,16 @@
 ---
-topic:
-  - "[[Agency]]"
-  - "[[Creative]]"
+Category:
   - "[[Design]]"
-  - "[[Brand Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
   - "[[Creative Agency]]"
-  - "[[Branding Agency]]"
 IG:
   - https://www.instagram.com/kokoromoi/
 Website: https://www.kokoromoi.com/

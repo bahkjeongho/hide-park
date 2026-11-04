@@ -1,6 +1,15 @@
 ---
-topic:
-  - "[[Music Artist]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Singer-Songwriter]]"
+Topic:
   - "[[Singer-Songwriter]]"
 IG:
   - https://www.instagram.com/you.ra/

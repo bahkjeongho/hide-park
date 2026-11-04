@@ -2,8 +2,17 @@
 aliases:
   - 아스널
   - The Arsenal Football Club
-topic:
+Category:
+  - "[[Entertainment]]"
+Sub-Category:
   - "[[Sports]]"
+Field:
+  - "[[Team Sports]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Team]]"
+Topic:
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

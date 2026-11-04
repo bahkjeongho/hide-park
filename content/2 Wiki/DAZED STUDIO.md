@@ -1,13 +1,18 @@
 ---
 aliases:
   - 데이즈드 스튜디오
-topic:
-  - "[[Agency]]"
-  - "[[Studio]]"
-  - "[[Creative]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
   - "[[Creative Agency]]"
-  - "[[Creative Studio]]"
 IG:
   - https://www.instagram.com/dazedstudio
 Website:

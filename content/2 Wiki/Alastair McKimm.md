@@ -1,13 +1,17 @@
 ---
 aliases:
   - alastair mckimm
-topic:
-  - "[[Director]]"
-  - "[[Fashion]]"
-  - "[[Creative]]"
-  - "[[Styling]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
-  - "[[Stylist]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Creative Director]]"
 IG:
   - https://www.instagram.com/alastairmckimm/

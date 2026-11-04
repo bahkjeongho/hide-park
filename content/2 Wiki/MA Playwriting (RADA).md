@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Performing Arts]]"
+Field:
+  - "[[Playwriting]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Playwriting Program]]"
 IG:
   - https://www.instagram.com/royalacademyofdramaticart/
 Website:

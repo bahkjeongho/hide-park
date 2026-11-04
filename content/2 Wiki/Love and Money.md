@@ -1,7 +1,13 @@
 ---
-topic:
-  - "[[Agency]]"
+Category:
+  - "[[Business]]"
+Sub-Category:
   - "[[Consulting]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
   - "[[Consulting Agency]]"
 IG:
   - https://www.instagram.com/loveandmoney.agency/

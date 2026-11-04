@@ -1,7 +1,15 @@
 ---
 aliases:
   - National Basketball Association
-topic:
+Category:
+  - "[[Entertainment]]"
+Sub-Category:
+  - "[[Sports]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[League]]"
+Topic:
   - "[[Sports League]]"
 Sport:
   - "[[Basketball]]"

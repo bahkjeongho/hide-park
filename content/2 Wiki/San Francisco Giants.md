@@ -1,8 +1,17 @@
 ---
 aliases:
   - 샌프란시스코 자이언츠
-topic:
+Category:
+  - "[[Entertainment]]"
+Sub-Category:
   - "[[Sports]]"
+Field:
+  - "[[Team Sports]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Team]]"
+Topic:
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

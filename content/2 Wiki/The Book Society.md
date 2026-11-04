@@ -1,9 +1,16 @@
 ---
 aliases:
   - 더 북 소사이어티
-topic:
+Category:
+  - "[[Media]]"
+Sub-Category:
+  - "[[Publishing]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
   - "[[Book]]"
-  - "[[Book Store]]"
+Topic:
+  - "[[Book]]"
 IG: https://www.instagram.com/tbs_book_society
 Website: https://thebooksociety.org/blog
 Related:

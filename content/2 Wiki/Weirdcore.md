@@ -1,9 +1,17 @@
 ---
 aliases:
   - w3iRdc0r3
-topic:
-  - "[[Director]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Visual Direction]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Visual Director]]"
 IG:
   - https://www.instagram.com/weirdcoretv/

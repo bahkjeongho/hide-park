@@ -1,9 +1,15 @@
 ---
-topic:
-  - "[[Director]]"
-  - "[[Creative]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
-  - "[[Design Director]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Creative Director]]"
 Cities:
   - "[[New York]]"

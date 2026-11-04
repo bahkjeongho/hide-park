@@ -1,7 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Visual Art]]"
+Field:
+  - "[[Sculpture]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Sculptor]]"
-  - "[[Set Designer]]"
+Topic:
+  - "[[Sculptor]]"
 IG:
   - https://www.instagram.com/xrrusty/
 Website:

@@ -1,10 +1,16 @@
 ---
-topic:
-  - "[[Agency]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
-  - "[[Branding Agency]]"
-  - "[[Digital Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
+  - "[[Brand Design Agency]]"
 IG:
   - https://www.instagram.com/basicagency/
 Website:

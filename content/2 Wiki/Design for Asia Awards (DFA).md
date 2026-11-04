@@ -2,8 +2,9 @@
 aliases:
   - DFA Awards
   - DFA Design for Asia Awards
-topic:
-  - Multidisciplinary
+Type:
+  - "[[Event]]"
+Sub-Type:
   - "[[Award]]"
 Kind:
   - "[[Award]]"

@@ -1,6 +1,13 @@
 ---
-topic:
-  - "[[Tech Company]]"
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Software]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[Software Company]]"
 Website:
   - https://www.apple.com/

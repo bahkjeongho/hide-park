@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Video]]"
+Field:
+  - "[[Production Design]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Production Design Program]]"
 IG:
   - https://www.instagram.com/americanfilminstitute
 Website:

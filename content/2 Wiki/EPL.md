@@ -2,7 +2,15 @@
 aliases:
   - Premier League
   - English Premier League
-topic:
+Category:
+  - "[[Entertainment]]"
+Sub-Category:
+  - "[[Sports]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[League]]"
+Topic:
   - "[[Sports League]]"
 Sport:
   - "[[Football]]"

@@ -1,6 +1,13 @@
 ---
-topic:
+Category:
+  - "[[Media]]"
+Sub-Category:
   - "[[Editing]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Editor]]"
+Topic:
   - "[[Editor]]"
 Wikis:
   - https://en.wikipedia.org/wiki/David_Remnick

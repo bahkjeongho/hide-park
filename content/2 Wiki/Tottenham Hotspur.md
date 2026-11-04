@@ -2,8 +2,17 @@
 aliases:
   - 토트넘 홋스퍼
   - Tottenham Hotspur Football Club
-topic:
+Category:
+  - "[[Entertainment]]"
+Sub-Category:
   - "[[Sports]]"
+Field:
+  - "[[Team Sports]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Team]]"
+Topic:
   - "[[Sports Team]]"
 Sport:
   - "[[Football]]"

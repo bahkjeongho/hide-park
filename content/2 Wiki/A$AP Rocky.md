@@ -6,8 +6,19 @@ aliases:
   - Flacko
   - Pretty Flacko Jodye II
   - Lord Pretty Flacko Jodye
-topic:
-  - "[[Music Artist]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Sub-Field:
+  - "[[Hip-Hop]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Rapper]]"
+Topic:
   - "[[Rapper]]"
 Genre:
   - "[[East Coast Hip-Hop]]"

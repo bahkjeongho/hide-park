@@ -1,10 +1,14 @@
 ---
-topic:
-  - "[[Director]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Video]]"
-  - "[[Photography]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Video Director]]"
-  - "[[Photographer]]"
 IG:
   - https://www.instagram.com/luke___casey/
 Website:

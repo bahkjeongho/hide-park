@@ -1,6 +1,7 @@
 ---
-topic:
-  - Multidisciplinary
+Type:
+  - "[[Event]]"
+Sub-Type:
   - "[[Award]]"
 Kind:
   - "[[Design Week]]"

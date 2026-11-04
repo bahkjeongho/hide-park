@@ -1,10 +1,16 @@
 ---
-topic:
-  - "[[Agency]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
-  - "[[Branding Agency]]"
-  - "[[Design Group]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
+  - "[[Brand Design Agency]]"
 IG:
   - https://www.instagram.com/studio.d.d
 Website: https://studio-d-d.com/kr

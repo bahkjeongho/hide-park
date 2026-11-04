@@ -1,11 +1,18 @@
 ---
 aliases:
   - Lusion™
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Studio]]"
-  - "[[Creative]]"
+Topic:
   - "[[Creative Studio]]"
-  - "[[Digital Design]]"
 IG:
   - https://www.instagram.com/lusionltd/
 Website:

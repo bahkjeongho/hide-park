@@ -1,8 +1,14 @@
 ---
-topic:
-  - "[[Publishing]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Visual Art]]"
+Field:
+  - "[[Curating]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Publisher]]"
-  - "[[Curator]]"
 IG:
   - https://www.instagram.com/paulolivennes/
 Website:

@@ -1,8 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Video]]"
+Field:
+  - "[[Animation]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Animation Program]]"
+Topic:
+  - "[[Animation School]]"
 IG:
   - https://www.instagram.com/famu_prague_official/
 Website:

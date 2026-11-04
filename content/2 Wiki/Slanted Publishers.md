@@ -1,9 +1,15 @@
 ---
 aliases:
   - Slanted
-topic:
-  - "[[Company]]"
+Category:
+  - "[[Media]]"
+Sub-Category:
   - "[[Publishing]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[Publishing Company]]"
 IG:
   - https://www.instagram.com/slanted_publishers/

@@ -2,9 +2,17 @@
 aliases:
   - 덱스
   - DEGS Studio
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Consultancy]]"
-  - "[[Creative]]"
+Topic:
   - "[[Creative Consultancy]]"
 IG:
   - https://www.instagram.com/degs_studio/

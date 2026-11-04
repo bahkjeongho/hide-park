@@ -1,8 +1,11 @@
 ---
-topic:
-  - "[[Agency]]"
+Category:
   - "[[Design]]"
-  - "[[Design Group]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
   - "[[Design Agency]]"
 IG:
   - https://www.instagram.com/ag.co.kr/

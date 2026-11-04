@@ -1,13 +1,18 @@
 ---
 aliases:
   - 마크 피셔
-topic:
-  - "[[Critic]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Critic]]"
+Topic:
   - "[[Music Critic]]"
-  - "[[Political Theorist]]"
-  - "[[Cultural Theorist]]"
-  - "[[Philosopher]]"
 Website:
   - http://k-punk.abstractdynamics.org/
 Wikis:

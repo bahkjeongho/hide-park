@@ -1,8 +1,13 @@
 ---
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Fashion Magazine]]"
 IG:
   - https://www.instagram.com/letiquette_magazine

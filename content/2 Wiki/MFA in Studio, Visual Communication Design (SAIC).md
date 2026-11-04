@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Graphic Design Program]]"
+Topic:
+  - "[[Graphic Design School]]"
 Website:
   - https://www.saic.edu/visual-communication-design/graduate/overview
 Cities:

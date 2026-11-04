@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[Media]]"
+Sub-Category:
   - "[[Editing]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Editor]]"
-  - "[[Editorial Director]]"
+Topic:
+  - "[[Editor]]"
 IG:
   - https://www.instagram.com/dominiquesisley/
 URL:

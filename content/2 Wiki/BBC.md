@@ -1,11 +1,14 @@
 ---
 aliases:
   - BBC
-topic:
+Category:
   - "[[Media]]"
+Sub-Category:
+  - "[[News]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Company]]"
-  - "[[Media Company]]"
-  - "[[Newspaper]]"
 IG:
   - https://www.instagram.com/bbc/
 Website:

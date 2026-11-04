@@ -1,7 +1,12 @@
 ---
-topic:
+Category:
+  - "[[Business]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Entrepreneur]]"
-  - "[[CTO]]"
+Topic:
+  - "[[Entrepreneur]]"
 Website:
   - https://www.oracle.com/corporate/executives/larry-ellison/
 URL:

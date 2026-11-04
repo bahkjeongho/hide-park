@@ -3,8 +3,13 @@ aliases:
   - KADK
   - Royal Danish Academy
   - Det Kongelige Danske Kunstakademi
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/kglakademi

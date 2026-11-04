@@ -1,11 +1,16 @@
 ---
-topic:
-  - "[[Director]]"
-  - "[[Fashion]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Art Direction]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Art Director]]"
-  - "[[Fashion Designer]]"
 IG:
   - https://www.instagram.com/gareth_wrighton/
 Website:

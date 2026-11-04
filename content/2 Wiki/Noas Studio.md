@@ -1,9 +1,13 @@
 ---
 aliases:
   - noas
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/noas_____studio/

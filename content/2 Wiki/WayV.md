@@ -3,8 +3,19 @@ aliases:
   - 웨이션브이
   - 威神V
   - WeiShenV
-topic:
-  - "[[Music Artist]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Sub-Field:
+  - "[[K-Pop]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Idol]]"
+Topic:
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"

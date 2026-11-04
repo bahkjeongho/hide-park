@@ -1,7 +1,11 @@
 ---
 aliases:
   - JULIA HOBBS
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Fashion]]"
+Field:
   - "[[Fashion Journalism]]"
 IG:
   - https://www.instagram.com/juliahobbs_/

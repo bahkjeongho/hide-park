@@ -2,7 +2,7 @@
 aliases:
   - NASA Webb
   - James Webb Space Telescope
-topic:
+Category:
   - "[[Media]]"
 IG:
   - https://www.instagram.com/nasawebb/

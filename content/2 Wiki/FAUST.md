@@ -1,7 +1,15 @@
 ---
 aliases:
   - Faust Seoul
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Performing Arts]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Promoter]]"
+Topic:
   - "[[Promoter]]"
 IG:
   - https://www.instagram.com/faustseoul/

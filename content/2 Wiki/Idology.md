@@ -1,11 +1,14 @@
 ---
 aliases:
   - 아이돌로지
-topic:
+Category:
   - "[[Media]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
   - "[[Magazine]]"
-  - "[[Culture]]"
-  - "[[Culture Magazine]]"
+Topic:
+  - "[[Magazine]]"
 IG:
   - https://www.instagram.com/idologykr/
 Countries:

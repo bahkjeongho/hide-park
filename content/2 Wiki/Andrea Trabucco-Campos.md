@@ -1,5 +1,15 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
+  - "[[Typography]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Designer]]"
+Topic:
   - "[[Type Designer]]"
 Website:
   - https://www.pentagram.com/about/andrea-trabucco-campos-2

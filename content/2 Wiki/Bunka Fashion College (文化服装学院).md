@@ -4,8 +4,13 @@ aliases:
   - BFC
   - 文化服装学院
   - 문화복장학원
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/bunka_fc/

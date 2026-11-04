@@ -1,10 +1,16 @@
 ---
-topic:
-  - "[[Consultancy]]"
-  - "[[Creative]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Consultancy]]"
+Topic:
   - "[[Creative Consultancy]]"
-  - "[[Brand Design]]"
 IG:
   - https://www.instagram.com/thechasecreative/
 Website: https://www.thechase.co.uk/

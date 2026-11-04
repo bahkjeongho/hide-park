@@ -1,7 +1,14 @@
 ---
-topic:
+Category:
+  - "[[Media]]"
+Sub-Category:
+  - "[[Publishing]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
   - "[[Book]]"
-  - "[[Book Store]]"
+Topic:
+  - "[[Book]]"
 IG:
   - https://www.instagram.com/mastbooks/
 Website:

@@ -1,7 +1,13 @@
 ---
-topic:
-  - "[[Studio]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Architecture]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Architecture Studio]]"
 Website:
   - https://heatherwick.com/

@@ -1,8 +1,11 @@
 ---
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Design Magazine]]"
 Website:
   - https://www.admagazine.fr/

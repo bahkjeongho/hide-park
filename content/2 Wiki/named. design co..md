@@ -2,7 +2,11 @@
 aliases:
   - 네임드 디자인 컴퍼니
   - named
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
 IG:
   - https://www.instagram.com/named.design/

@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Performing Arts]]"
+Field:
+  - "[[Costume Design]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Costume Design Program]]"
 IG:
   - https://www.instagram.com/royalacademyofdramaticart/
 Website:

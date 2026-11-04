@@ -1,10 +1,16 @@
 ---
 aliases:
   - CCA Communication Design
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Graphic Design Program]]"
+Topic:
+  - "[[Graphic Design School]]"
 IG:
   - https://www.instagram.com/cca_comdesign/
 Cities:

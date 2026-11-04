@@ -1,8 +1,19 @@
 ---
 aliases:
   - 보이넥스트도어
-topic:
-  - "[[Music Artist]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Sub-Field:
+  - "[[K-Pop]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Idol]]"
+Topic:
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"

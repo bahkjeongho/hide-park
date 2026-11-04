@@ -3,8 +3,13 @@ aliases:
   - SCA
   - USC SCA
   - School of Cinematic Arts
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 Website:
   - https://cinema.usc.edu/

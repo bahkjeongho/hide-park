@@ -1,13 +1,14 @@
 ---
 aliases:
   - M/M Paris
-topic:
-  - "[[Collective]]"
+Category:
   - "[[Design]]"
-  - "[[Art]]"
+Sub-Category:
   - "[[Graphic Design]]"
-  - "[[Graphic Designer]]"
-  - "[[Art Collective]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Collective]]"
 IG:
   - https://www.instagram.com/mmparisdotcom/
 Wikis:

@@ -4,7 +4,17 @@ aliases:
   - A.A.L.
   - Nico
   - 니콜라스 자르
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Artist]]"
+Topic:
   - "[[Music Artist]]"
 Genre:
   - "[[Electronic]]"

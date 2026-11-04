@@ -1,9 +1,12 @@
 ---
-topic:
-  - [[Event]]
-  - [[Design]]
-  - Multidisciplinary
-  - [[Design Week]]
+Category:
+  - "[[Design]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Weekly Festival]]"
+Topic:
+  - "[[Design Week]]"
 Kind:
   - "[[Design Week]]"
 Website:

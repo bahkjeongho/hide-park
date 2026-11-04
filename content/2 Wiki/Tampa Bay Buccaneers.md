@@ -1,8 +1,17 @@
 ---
 aliases:
   - 탬파베이 버커니어스
-topic:
+Category:
+  - "[[Entertainment]]"
+Sub-Category:
   - "[[Sports]]"
+Field:
+  - "[[Team Sports]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Team]]"
+Topic:
   - "[[Sports Team]]"
 Sport:
   - "[[American Football]]"

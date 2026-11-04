@@ -37,23 +37,23 @@ function readProp(text, key) {
 
 const rel = (f) => path.relative(root, f).split(path.sep).join("/");
 
-// 1) 노트별 세부 라벨(topic 첫 값): 홈 목록용 (random-labels.json)
+// 1) 노트별 세부 라벨(Topic 첫 값): 홈 목록용 (random-labels.json)
 const files = fs.existsSync(wiki) ? walk(wiki) : [];
 const labels = {};
 for (const f of files) {
-  const label = readProp(fs.readFileSync(f, "utf8"), "topic")[0];
+  const label = readProp(fs.readFileSync(f, "utf8"), "Topic")[0];
   if (label) labels[rel(f)] = label;
 }
 fs.writeFileSync(path.join(root, "random-labels.json"), JSON.stringify(labels));
 console.log(`라벨 생성: ${Object.keys(labels).length}개 / Wiki 노트 ${files.length}개`);
 
 // 2) 폴더 목록 페이지의 필터용 (wiki-meta.json)
-//    Wiki: topics(topic 전체), regions(Countries + Cities)
+//    Wiki: topics(Topic 전체), regions(Countries + Cities)
 //    Thoughts: date(Date), type(Type)
 const meta = {};
 for (const f of files) {
   const text = fs.readFileSync(f, "utf8");
-  const topics = readProp(text, "topic");
+  const topics = readProp(text, "Topic");
   const regions = [...new Set([...readProp(text, "Countries"), ...readProp(text, "Cities")])];
   if (topics.length || regions.length) {
     const entry = {};
@@ -73,7 +73,7 @@ fs.writeFileSync(path.join(root, "wiki-meta.json"), JSON.stringify(meta));
 console.log(`메타 생성: ${Object.keys(meta).length}개 (Wiki + Thoughts)`);
 
 // 3) 속성에 값이 하나라도 있는 노트 (note-props.json): 링크 색에서 "완전히 빈 페이지"를 가를 때 쓴다.
-//    본문이 비어도 아래 속성에 값이 있으면 빈 페이지로 보지 않는다. (aliases, topic, tags 는 값으로 세지 않는다.)
+//    본문이 비어도 아래 속성에 값이 있으면 빈 페이지로 보지 않는다. (aliases, Topic, Category 등 분류 속성, tags 는 값으로 세지 않는다.)
 const DATA_KEYS = ["IG", "Website", "URL", "Wikis", "Cities", "Countries", "Related", "Genre", "Labels", "Member of"];
 const withProps = [];
 for (const dir of [wiki, path.join(root, "3 Object"), thoughts]) {

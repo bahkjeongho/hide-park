@@ -1,7 +1,11 @@
 ---
-topic:
-  - "[[Creative]]"
-  - "[[Social Network]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Sub-Field:
   - "[[Creative Research]]"
 IG:
   - https://www.instagram.com/aredotna/

@@ -1,6 +1,17 @@
 ---
-topic:
-  - "[[Music Artist]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Sub-Field:
+  - "[[Rock]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Band]]"
+Topic:
   - "[[Band]]"
 Genre:
   - "[[Experimental Hip-Hop]]"

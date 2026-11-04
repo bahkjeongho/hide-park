@@ -2,9 +2,10 @@
 aliases:
   - Kingston
   - 킹스턴 대학교
-topic:
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[University]]"
 Website:
   - https://www.kingston.ac.uk/
 Wikis:

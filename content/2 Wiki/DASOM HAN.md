@@ -1,12 +1,14 @@
 ---
-topic:
-  - "[[Director]]"
-  - "[[Creative]]"
-  - "[[Photography]]"
-  - "[[Video]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
-  - "[[Photographer]]"
-  - "[[Video Director]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
 IG:
   - https://www.instagram.com/dasomhahn/
 Website:

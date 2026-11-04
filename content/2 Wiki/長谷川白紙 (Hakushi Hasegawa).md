@@ -2,7 +2,17 @@
 aliases:
   - 長谷川白紙
   - 하세가와 하쿠시
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Artist]]"
+Topic:
   - "[[Music Artist]]"
 IG:
   - https://www.instagram.com/hsgwhks/

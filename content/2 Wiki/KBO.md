@@ -3,7 +3,15 @@ aliases:
   - KBO 리그
   - KBO League
   - 한국야구위원회
-topic:
+Category:
+  - "[[Entertainment]]"
+Sub-Category:
+  - "[[Sports]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[League]]"
+Topic:
   - "[[Sports League]]"
 Sport:
   - "[[Baseball]]"

@@ -2,8 +2,15 @@
 aliases:
   - NY  Times
   - 뉴욕 타임즈
-topic:
+Category:
   - "[[Media]]"
+Sub-Category:
+  - "[[News]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Newspaper]]"
+Topic:
   - "[[Newspaper]]"
 IG:
   - https://www.instagram.com/nytimes/

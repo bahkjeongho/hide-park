@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Performing Arts]]"
+Field:
+  - "[[Acting]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Acting Program]]"
 IG:
   - https://www.instagram.com/torontofilmschool/
 Website:

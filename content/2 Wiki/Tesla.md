@@ -1,7 +1,16 @@
 ---
-topic:
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Engineering]]"
+Field:
+  - "[[Automotive]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[Automobile Company]]"
-  - "[[AI Company]]"
 Website:
   - https://www.tesla.com/
 Wikis:

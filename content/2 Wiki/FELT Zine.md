@@ -1,9 +1,10 @@
 ---
-topic:
-  - "[[Collective]]"
-  - "[[Art]]"
-  - "[[Art Collective]]"
+Category:
   - "[[Media]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Collective]]"
 IG:
   - https://www.instagram.com/feltzine/
 Website:

@@ -1,6 +1,10 @@
 ---
-topic:
-  - "[[Music Genre]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
 ---
 >[!tldr] tl;dr
 >

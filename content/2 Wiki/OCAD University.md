@@ -3,8 +3,13 @@ aliases:
   - OCAD U
   - Ontario College of Art and Design University
   - OCAD 대학교
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/ocaduniversity

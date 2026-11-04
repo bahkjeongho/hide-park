@@ -1,6 +1,11 @@
 ---
-topic:
+Category:
   - "[[Media]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Magazine]]"
 URL:
   - https://twitter.com/CNTraveler

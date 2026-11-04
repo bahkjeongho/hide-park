@@ -1,9 +1,15 @@
 ---
-topic:
-  - "[[Creative]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Production]]"
-  - "[[Video]]"
-  - "[[Production Company]]"
+Topic:
   - "[[Creative Production]]"
 Website: https://www.canadacanada.com/
 ---

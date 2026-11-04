@@ -1,8 +1,15 @@
 ---
 aliases:
   - WSJ
-topic:
+Category:
   - "[[Media]]"
+Sub-Category:
+  - "[[News]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Newspaper]]"
+Topic:
   - "[[Newspaper]]"
 IG:
   - https://www.instagram.com/wsj/

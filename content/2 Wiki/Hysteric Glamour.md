@@ -2,9 +2,15 @@
 aliases:
   - HYSTERIC GLAMOUR
   - ヒステリックグラマー
-topic:
-  - "[[Brand]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Brand]]"
+Topic:
   - "[[Fashion Brand]]"
 IG:
   - https://www.instagram.com/hystericglamour_tokyo/

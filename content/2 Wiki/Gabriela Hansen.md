@@ -1,13 +1,16 @@
 ---
-topic:
-  - "[[Director]]"
-  - "[[Creative]]"
-  - "[[Video]]"
-  - "[[Photography]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Creative Director]]"
-  - "[[Video Director]]"
-  - "[[Photographer]]"
 IG:
   - https://www.instagram.com/gabrielahansenxo/
 Website:

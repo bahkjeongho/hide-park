@@ -1,9 +1,15 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Agency]]"
-  - "[[Creative]]"
-  - "[[Marketing]]"
-  - "[[Advertising]]"
+Topic:
   - "[[Creative Agency]]"
 Website:
   - https://www.rethinkideas.com/

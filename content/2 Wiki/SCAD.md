@@ -1,8 +1,13 @@
 ---
 aliases:
   - Savannah College of Art and Design
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/scaddotedu/

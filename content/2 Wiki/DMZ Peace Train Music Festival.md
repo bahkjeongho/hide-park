@@ -1,7 +1,17 @@
 ---
 aliases:
   - DMZ Peace Train
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Festival]]"
+Topic:
   - "[[Music Festival]]"
 IG:
   - https://www.instagram.com/dmzpeacetrain/

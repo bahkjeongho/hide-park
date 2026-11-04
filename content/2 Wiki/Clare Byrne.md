@@ -1,9 +1,14 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
+Field:
   - "[[Styling]]"
-  - "[[Fashion Director]]"
-  - "[[Stylist]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
 IG:
   - https://www.instagram.com/clare_byrne/
 Website:

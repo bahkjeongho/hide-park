@@ -1,7 +1,7 @@
 ---
 aliases:
   - EYECANDY
-topic:
+Category:
   - "[[Media]]"
 IG:
   - https://www.instagram.com/eyecannndy/

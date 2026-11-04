@@ -1,9 +1,16 @@
 ---
-topic:
-  - "[[Creative]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Group]]"
+Topic:
   - "[[Creative Group]]"
-  - "[[Brand Design]]"
 IG:
   - https://www.instagram.com/brenden.design/
 Website: https://brenden.kr/

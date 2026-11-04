@@ -1,10 +1,14 @@
 ---
-topic:
-  - "[[Studio]]"
-  - "[[Creative]]"
+Category:
   - "[[Design]]"
-  - "[[Creative Group]]"
-  - "[[Design Studio]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
 IG:
   - https://www.instagram.com/naaahaaanaaa
 Website: https://na1.group/

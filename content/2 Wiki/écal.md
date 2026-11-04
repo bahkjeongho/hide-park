@@ -3,8 +3,13 @@ aliases:
   - ECAL
   - École cantonale d'art de Lausanne
   - University of Art and Design Lausanne
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/ecal_ch

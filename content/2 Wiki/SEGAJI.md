@@ -2,9 +2,15 @@
 aliases:
   - 새가지
   - Segaji Video
-topic:
-  - "[[Director]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Video]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Video Director]]"
 IG:
   - https://www.instagram.com/segajivideo/

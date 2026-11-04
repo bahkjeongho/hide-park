@@ -1,8 +1,15 @@
 ---
 aliases:
   - Derek C. Blasberg
-topic:
+Category:
+  - "[[Media]]"
+Sub-Category:
   - "[[Editing]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Editor]]"
+Topic:
   - "[[Editor]]"
 IG:
   - https://www.instagram.com/derekblasberg/

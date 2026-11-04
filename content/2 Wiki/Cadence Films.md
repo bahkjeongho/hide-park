@@ -1,10 +1,16 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Company]]"
-  - "[[Creative]]"
-  - "[[Video]]"
+Topic:
   - "[[Creative Company]]"
-  - "[[Production Company]]"
 IG:
   - https://www.instagram.com/cadencefilms/
 Website: https://cadence-films.com/

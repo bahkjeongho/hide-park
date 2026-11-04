@@ -1,6 +1,13 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Architecture]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Architect]]"
+Topic:
   - "[[Architect]]"
 IG:
   - https://www.instagram.com/gustavopennaarq/

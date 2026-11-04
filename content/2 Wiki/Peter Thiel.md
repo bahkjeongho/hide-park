@@ -1,7 +1,14 @@
 ---
-topic:
+Category:
+  - "[[Business]]"
+Sub-Category:
+  - "[[Investing]]"
+Field:
+  - "[[Investment]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Entrepreneur]]"
-  - "[[Investor]]"
 Wikis:
   - https://namu.wiki/w/%ED%94%BC%ED%84%B0%20%ED%8B%B8
 ---

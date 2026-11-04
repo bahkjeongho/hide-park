@@ -1,11 +1,14 @@
 ---
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
-  - "[[Culture]]"
+Category:
+  - "[[Entertainment]]"
+Sub-Category:
   - "[[Sports]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Sports Magazine]]"
-  - "[[Culture Magazine]]"
 IG:
   - https://www.instagram.com/ringer/
 Website: https://www.theringer.com/

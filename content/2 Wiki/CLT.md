@@ -1,8 +1,17 @@
 ---
 aliases:
   - CLUSTER
-topic:
-  - "[[Creative]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Collective]]"
+Topic:
   - "[[Creative Collective]]"
 ---
 >[!tldr] tl;dr

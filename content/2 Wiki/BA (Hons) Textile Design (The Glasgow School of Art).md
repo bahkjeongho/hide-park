@@ -1,8 +1,16 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Fashion]]"
+Field:
+  - "[[Textile Design]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Textile Design Program]]"
+Topic:
+  - "[[Textile Design School]]"
 Website:
   - https://www.gsa.ac.uk/undergraduate-degrees/textile-design
 Cities:

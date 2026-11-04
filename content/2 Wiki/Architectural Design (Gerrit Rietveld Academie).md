@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Architecture]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Architecture Program]]"
+Topic:
+  - "[[Architecture School]]"
 IG:
   - https://www.instagram.com/rietveldacademie
 Website:

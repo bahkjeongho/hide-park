@@ -1,9 +1,13 @@
 ---
 aliases:
   - DESIGN KOREA
-topic:
-  - "[[Festival]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Festival]]"
+Topic:
   - "[[Design Festival]]"
 IG:
   - https://www.instagram.com/designkorea.official/

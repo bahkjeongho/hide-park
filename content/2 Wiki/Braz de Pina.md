@@ -1,10 +1,15 @@
 ---
-topic:
-  - "[[Director]]"
-  - "[[Creative]]"
-  - "[[Creative Direction]]"
+Category:
   - "[[Design]]"
-  - "[[3D Designer]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Creative Director]]"
 IG:
   - https://www.instagram.com/brazdepina.exp/

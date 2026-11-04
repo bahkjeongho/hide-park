@@ -3,7 +3,17 @@ aliases:
   - 비욘세
   - Beyoncé Knowles
   - Queen Bey
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Artist]]"
+Topic:
   - "[[Music Artist]]"
 Genre:
   - "[[R&B]]"

@@ -3,9 +3,10 @@ aliases:
   - Goldsmiths
   - Goldsmiths, University of London
   - 골드스미스 대학교
-topic:
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[University]]"
 IG:
   - https://www.instagram.com/goldsmithsuol/
 Website:

@@ -2,9 +2,10 @@
 aliases:
   - Harvard
   - 하버드 대학교
-topic:
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[University]]"
 IG:
   - https://www.instagram.com/harvard/
 Website:

@@ -1,10 +1,14 @@
 ---
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
-  - "[[Furniture]]"
+Sub-Category:
+  - "[[Product Design]]"
+Field:
   - "[[Furniture Design]]"
-  - "[[Design Studio]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
 IG:
   - https://www.instagram.com/ip_che/
 Website:

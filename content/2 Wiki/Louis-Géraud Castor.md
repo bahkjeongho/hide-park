@@ -1,7 +1,13 @@
 ---
 aliases:
   - Castor Fleuriste
-topic:
+Category:
+  - "[[Business]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Entrepreneur]]"
+Topic:
   - "[[Entrepreneur]]"
 IG:
   - https://www.instagram.com/castorfleuriste/

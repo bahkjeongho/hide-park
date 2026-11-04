@@ -1,7 +1,13 @@
 ---
-topic:
+Category:
   - "[[Design]]"
+Sub-Category:
   - "[[Graphic Design]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Designer]]"
+Topic:
   - "[[Graphic Designer]]"
 IG: "\thttps://www.instagram.com/ohezin/"
 Website: https://ohezin.kr/

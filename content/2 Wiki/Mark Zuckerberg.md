@@ -1,8 +1,12 @@
 ---
-topic:
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Engineering]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[CEO]]"
-  - "[[Engineer]]"
-  - "[[Entrepreneur]]"
 IG:
   - https://www.instagram.com/zuck/
 URL:

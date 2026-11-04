@@ -1,7 +1,11 @@
 ---
 aliases:
   - ARCHIVE PDF
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Fashion]]"
+Field:
   - "[[Fashion Journalism]]"
 IG:
   - https://www.instagram.com/archivepdf/

@@ -1,7 +1,14 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
-  - "[[Fashion Critique]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Critic]]"
+Topic:
+  - "[[Fashion Critic]]"
 IG:
   - https://www.instagram.com/suzymenkes/
 Website:

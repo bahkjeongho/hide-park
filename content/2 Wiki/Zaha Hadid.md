@@ -1,8 +1,15 @@
 ---
 aliases:
   - زها حديد
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Architecture]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Architect]]"
+Topic:
   - "[[Architect]]"
 Website:
   - http://www.zaha-hadid.com

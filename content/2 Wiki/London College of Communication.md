@@ -2,8 +2,13 @@
 aliases:
   - LCC
   - 런던 커뮤니케이션 대학
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/lcclondon/

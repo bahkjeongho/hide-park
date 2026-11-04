@@ -1,7 +1,15 @@
 ---
-topic:
-  - "[[Fashion]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Fashion]]"
+Field:
+  - "[[Fashion Design]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Designer]]"
+Topic:
   - "[[Fashion Designer]]"
 Website:
   - https://www.armani.com/index.html

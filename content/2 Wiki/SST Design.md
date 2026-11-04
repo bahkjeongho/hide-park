@@ -2,9 +2,13 @@
 aliases:
   - SST
   - 이진일
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/beige.sst_design/

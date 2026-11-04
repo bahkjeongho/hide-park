@@ -3,8 +3,13 @@ aliases:
   - Beaux-Arts de Paris
   - ENSBA
   - 파리 보자르
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/beauxartsparis/

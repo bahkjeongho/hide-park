@@ -1,5 +1,5 @@
 ---
-topic:
+Category:
   - "[[Design]]"
 IG:
   - https://www.instagram.com/imprimeriedumarais/

@@ -1,8 +1,15 @@
 ---
 aliases:
   - saatchi_gallery
-topic:
-  - "[[Art]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Visual Art]]"
+Type:
+  - "[[Place]]"
+Sub-Type:
+  - "[[Gallery]]"
+Topic:
   - "[[Art Gallery]]"
 IG:
   - https://www.instagram.com/saatchi_gallery/

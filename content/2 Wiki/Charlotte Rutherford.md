@@ -1,10 +1,14 @@
 ---
-topic:
-  - "[[Director]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Photography]]"
-  - "[[Video]]"
-  - "[[Photographer]]"
-  - "[[Video Director]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
+  - "[[Photography Director]]"
 IG:
   - https://www.instagram.com/charlie__chops/
 Website:

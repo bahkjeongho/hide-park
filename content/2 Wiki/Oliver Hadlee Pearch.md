@@ -1,10 +1,14 @@
 ---
-topic:
-  - "[[Director]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Photography]]"
-  - "[[Film]]"
-  - "[[Photographer]]"
-  - "[[Film Director]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
+  - "[[Photography Director]]"
 IG:
   - https://www.instagram.com/oliverhadleepearch/
 Cities:

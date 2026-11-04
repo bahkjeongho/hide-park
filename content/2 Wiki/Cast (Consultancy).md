@@ -3,10 +3,15 @@ aliases:
   - Form & Function
   - 폼앤펑션
   - 캐스트
-topic:
-  - "[[Agency]]"
+Category:
+  - "[[Business]]"
+Sub-Category:
   - "[[Consulting]]"
-  - "[[Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
   - "[[Consulting Agency]]"
 Website: https://form-function.kr/
 URL:

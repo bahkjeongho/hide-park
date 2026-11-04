@@ -1,9 +1,17 @@
 ---
 aliases:
   - 三宅一生
-topic:
-  - "[[Fashion]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Fashion]]"
+Field:
+  - "[[Fashion Design]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Designer]]"
+Topic:
   - "[[Fashion Designer]]"
 Website:
   - https://www.isseymiyake.com/

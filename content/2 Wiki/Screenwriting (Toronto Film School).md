@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Film]]"
+Field:
+  - "[[Screenwriting]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Screenwriting Program]]"
 IG:
   - https://www.instagram.com/torontofilmschool/
 Website:

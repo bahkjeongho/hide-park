@@ -3,12 +3,16 @@ aliases:
   - Salone del Mobile
   - Salone Internazionale del Mobile
   - isaloniofficial
-topic:
-  - "[[Festival]]"
+Category:
   - "[[Design]]"
-  - "[[Furniture]]"
-  - "[[Design Festival]]"
+Sub-Category:
+  - "[[Product Design]]"
+Field:
   - "[[Furniture Design]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Festival]]"
 IG:
   - https://www.instagram.com/isaloniofficial/
 Website:

@@ -1,14 +1,17 @@
 ---
 aliases:
   - BOYHEART
-topic:
-  - "[[Director]]"
-  - "[[Photography]]"
-  - "[[Video]]"
-  - "[[Creative]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
-  - "[[Photographer]]"
-  - "[[Video Director]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Creative Director]]"
 IG:
   - https://www.instagram.com/_boyheart_/

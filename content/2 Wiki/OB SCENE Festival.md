@@ -1,9 +1,15 @@
 ---
 aliases:
   - OB/SCENE festival
-topic:
-  - "[[Art]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Visual Art]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
   - "[[Festival]]"
+Topic:
   - "[[Art Festival]]"
 IG:
   - https://www.instagram.com/ob.scenefestival/

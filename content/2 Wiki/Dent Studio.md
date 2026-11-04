@@ -1,9 +1,17 @@
 ---
 aliases:
   - DENT studio
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Agency]]"
-  - "[[Creative]]"
+Topic:
   - "[[Creative Agency]]"
 IG:
   - https://www.instagram.com/dent.studio/

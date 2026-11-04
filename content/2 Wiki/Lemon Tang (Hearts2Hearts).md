@@ -1,6 +1,14 @@
 ---
-topic:
-  - "[[EP]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Video]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Executive Producer]]"
+Topic:
+  - "[[Executive Producer]]"
 Artist:
   - "[[Hearts2Hearts]]"
 ---

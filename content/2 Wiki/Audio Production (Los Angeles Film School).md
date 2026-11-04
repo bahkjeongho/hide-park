@@ -1,8 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Audio]]"
+Sub-Field:
+  - "[[Production]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Audio Production Program]]"
 IG:
   - https://www.instagram.com/lafilmschool/
 Website:

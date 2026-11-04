@@ -1,8 +1,15 @@
 ---
 aliases:
   - The Best Dutch Book Designs
-topic:
-  - Book & Editorial Design
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
+  - "[[Editorial Design]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
   - "[[Award]]"
 Kind:
   - "[[Award]]"

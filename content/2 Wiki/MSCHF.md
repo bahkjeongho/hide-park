@@ -1,7 +1,13 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Visual Art]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Collective]]"
-  - "[[Art]]"
+Topic:
   - "[[Art Collective]]"
 IG:
   - https://www.instagram.com/mschf/

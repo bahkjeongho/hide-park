@@ -1,5 +1,15 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Journalist]]"
+Topic:
   - "[[Music Journalism]]"
 IG:
   - https://www.instagram.com/hearingthingsco/

@@ -1,11 +1,14 @@
 ---
 aliases:
   - NYCxDESIGN
-topic:
-  - [[Festival]]
-  - [[Design]]
-  - Multidisciplinary
-  - [[Design Festival]]
+Category:
+  - "[[Design]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Festival]]"
+Topic:
+  - "[[Design Festival]]"
 Kind:
   - "[[Design Festival]]"
 Subject:

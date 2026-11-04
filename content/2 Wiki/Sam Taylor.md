@@ -1,5 +1,15 @@
 ---
-topic:
+Category:
+  - "[[Business]]"
+Sub-Category:
+  - "[[Branding]]"
+Field:
+  - "[[Brand Strategy]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Strategist]]"
+Topic:
   - "[[Brand Strategist]]"
 Related:
   - "[[XXIX]]"

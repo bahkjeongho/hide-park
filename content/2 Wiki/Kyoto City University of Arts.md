@@ -4,8 +4,13 @@ aliases:
   - 京都市立芸術大学
   - 교토시립예술대학
   - Kyōtogeidai
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/kyoto_geidai

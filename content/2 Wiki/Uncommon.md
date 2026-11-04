@@ -1,9 +1,15 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Studio]]"
-  - "[[Creative]]"
-  - "[[Marketing]]"
-  - "[[Advertising]]"
+Topic:
   - "[[Creative Studio]]"
 IG:
   - https://www.uncommon.studio/

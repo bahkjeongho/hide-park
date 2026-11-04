@@ -2,8 +2,13 @@
 aliases:
   - Pratt
   - 프랫 인스티튜트
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/prattinstitute/

@@ -1,5 +1,13 @@
 ---
-topic:
+Category:
+  - "[[Business]]"
+Sub-Category:
+  - "[[Consulting]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Collective]]"
+Topic:
   - "[[Consultancy Collective]]"
 Website:
   - https://www.eidra.com/

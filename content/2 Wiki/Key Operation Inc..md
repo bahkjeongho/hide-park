@@ -1,6 +1,13 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Architecture]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Office]]"
+Topic:
   - "[[Architecture Office]]"
 IG:
   - https://www.instagram.com/keyoperation_architects/

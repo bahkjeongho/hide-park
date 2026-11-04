@@ -1,7 +1,17 @@
 ---
 aliases:
   - 오메가 사피엔
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Artist]]"
+Topic:
   - "[[Music Artist]]"
 Genre:
   - "[[Hip Hop]]"

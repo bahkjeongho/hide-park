@@ -2,7 +2,15 @@
 aliases:
   - HABO Korea
   - 하보
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Platform]]"
+Topic:
   - "[[Music Platform]]"
 IG:
   - https://www.instagram.com/habokorea/

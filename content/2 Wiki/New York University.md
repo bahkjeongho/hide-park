@@ -2,9 +2,10 @@
 aliases:
   - NYU
   - 뉴욕 대학교
-topic:
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[University]]"
 Website:
   - https://www.nyu.edu/
 Wikis:

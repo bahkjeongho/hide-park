@@ -2,7 +2,13 @@
 aliases:
   - NOTA
   - NOT A HOTEL Inc.
-topic:
+Category:
+  - "[[Business]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[Hotel Company]]"
 IG:
   - https://www.instagram.com/notahotel_official/

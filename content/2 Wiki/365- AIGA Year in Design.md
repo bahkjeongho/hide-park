@@ -1,7 +1,11 @@
 ---
-topic:
-  - "[[Award]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Award]]"
+Topic:
   - "[[Design Award]]"
 Website:
   - https://www.aiga.org/competitions-initiatives/365-aiga-year-in-design

@@ -3,11 +3,16 @@ aliases:
   - a-studio-a
   - 에이 스튜디오 에이
   - 이재환
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
-  - "[[Design Studio]]"
+Sub-Category:
   - "[[Graphic Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
+  - "[[Graphic Design Studio]]"
 IG:
   - https://www.instagram.com/goodboileelee/
   - https://www.instagram.com/a_studio_a_studio_a/

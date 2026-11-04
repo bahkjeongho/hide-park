@@ -2,8 +2,13 @@
 aliases:
   - Susie Bubble
   - Susanna Lau
-topic:
-  - "[[Blogger]]"
+Category:
+  - "[[Media]]"
+Sub-Category:
+  - "[[Blog]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Writer]]"
 IG:
   - https://www.instagram.com/susiebubble/

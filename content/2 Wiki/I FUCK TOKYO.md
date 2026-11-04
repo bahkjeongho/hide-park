@@ -2,7 +2,9 @@
 aliases:
   - IFUCKTOKYO
   - I FUCK TOKYO!
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Photography]]"
 IG:
   - https://www.instagram.com/ifucktokyo/

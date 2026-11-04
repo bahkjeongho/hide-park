@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Photography]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Photography Program]]"
+Topic:
+  - "[[Photography School]]"
 Website:
   - https://calarts.edu/academics/programs-and-degrees/mfa-photography-and-media
 Cities:

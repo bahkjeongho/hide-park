@@ -1,7 +1,13 @@
 ---
-topic:
-  - "[[Media]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Video]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Channel]]"
+Topic:
   - "[[Video Channel]]"
 IG:
   - https://www.instagram.com/nowness/

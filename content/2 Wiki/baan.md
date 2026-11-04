@@ -1,10 +1,20 @@
 ---
 aliases:
   - 반
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Sub-Field:
+  - "[[Rock]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Band]]"
-  - "[[Music Artist]]"
-  - "[[Rock Band]]"
+Topic:
+  - "[[Band]]"
 Genre:
   - "[[Post-Hardcore]]"
   - "[[Noise Rock]]"

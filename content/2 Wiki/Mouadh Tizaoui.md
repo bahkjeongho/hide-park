@@ -1,11 +1,18 @@
 ---
 aliases:
   - Diggy
-topic:
+Category:
   - "[[Design]]"
+Sub-Category:
   - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
-  - "[[Graphic Designer]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Designer]]"
+Topic:
+  - "[[Brand Designer]]"
 IG:
   - https://www.instagram.com/diggy.mt/
 Website:

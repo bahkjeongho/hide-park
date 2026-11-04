@@ -2,7 +2,17 @@
 aliases:
   - 金敏基
   - Kim Min-ki
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Artist]]"
+Topic:
   - "[[Music Artist]]"
 Wikis:
   - https://namu.wiki/w/%EA%B9%80%EB%AF%BC%EA%B8%B0

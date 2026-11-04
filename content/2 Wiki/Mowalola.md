@@ -1,12 +1,18 @@
 ---
 aliases:
   - Mowalola Ogunlesi
-topic:
-  - "[[Brand]]"
-  - "[[Fashion]]"
+Category:
   - "[[Design]]"
-  - "[[Fashion Brand]]"
-  - "[[Fashion Designer]]"
+Sub-Category:
+  - "[[Fashion]]"
+Field:
+  - "[[Fashion Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Brand]]"
+Topic:
+  - "[[Fashion Design Brand]]"
 IG:
   - https://www.instagram.com/mowalola/
 Wikis:

@@ -1,5 +1,13 @@
 ---
-topic:
+Category:
+  - "[[Business]]"
+Sub-Category:
+  - "[[Marketing]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
   - "[[Marketing Agency]]"
 IG:
   - https://www.instagram.com/lucienpagescommunication/

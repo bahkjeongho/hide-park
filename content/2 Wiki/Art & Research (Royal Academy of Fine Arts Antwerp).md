@@ -1,9 +1,10 @@
 ---
 aliases:
   - research_royalacademyantwerp
-topic:
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
 IG:
   - https://www.instagram.com/research_royalacademyantwerp/
 Website:

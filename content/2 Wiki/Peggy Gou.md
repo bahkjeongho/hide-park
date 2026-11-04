@@ -2,8 +2,17 @@
 aliases:
   - 구민지
   - 피기 구
-topic:
-  - "[[Music Artist]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[DJ]]"
+Topic:
   - "[[DJ]]"
 IG:
   - https://www.instagram.com/peggygou_/

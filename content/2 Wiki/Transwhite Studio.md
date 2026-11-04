@@ -2,9 +2,13 @@
 aliases:
   - TRANSWHITE STUDIO
   - 非白工作室
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/transwhitestudio/

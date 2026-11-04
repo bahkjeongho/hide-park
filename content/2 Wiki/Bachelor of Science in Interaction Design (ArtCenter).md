@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Digital Design]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Media Design Program]]"
+Topic:
+  - "[[Digital Design School]]"
 Website:
   - https://www.artcenter.edu/academics/undergraduate-degrees/interaction-design/overview.html
 Cities:

@@ -1,5 +1,13 @@
 ---
-topic:
+Category:
+  - "[[Media]]"
+Sub-Category:
+  - "[[News]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Newspaper]]"
+Topic:
   - "[[Newspaper]]"
 IG:
   - https://www.lemonde.fr/

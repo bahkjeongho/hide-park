@@ -1,7 +1,13 @@
 ---
-topic:
+Category:
   - "[[Design]]"
+Sub-Category:
   - "[[Graphic Design]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Designer]]"
+Topic:
   - "[[Graphic Designer]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Sagi_Haviv

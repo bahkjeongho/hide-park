@@ -2,9 +2,17 @@
 aliases:
   - Sandoll Typeface
   - 산돌
-topic:
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Typography]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Foundry]]"
+Topic:
   - "[[Type Foundry]]"
 IG:
   - https://www.instagram.com/sandoll.otf/

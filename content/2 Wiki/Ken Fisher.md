@@ -1,7 +1,13 @@
 ---
-topic:
-  - "[[Editor]]"
+Category:
+  - "[[Media]]"
+Sub-Category:
   - "[[Editing]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Editor-in-Chief]]"
+Topic:
   - "[[Editor-in-Chief]]"
 ---
 >[!tldr] tl;dr

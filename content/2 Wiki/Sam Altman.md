@@ -1,7 +1,12 @@
 ---
-topic:
+Category:
+  - "[[Business]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[CEO]]"
-  - "[[Entrepreneur]]"
+Topic:
+  - "[[CEO]]"
 IG:
   - https://www.instagram.com/sama/
 Website:

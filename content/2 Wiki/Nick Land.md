@@ -1,7 +1,15 @@
 ---
 aliases:
   - 닉 랜드
-topic:
+Category:
+  - "[[Humanities]]"
+Sub-Category:
+  - "[[Philosophy]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Theorist]]"
+Topic:
   - "[[Philosopher]]"
 Wikis:
   - https://namu.wiki/w/%EB%8B%89%20%EB%9E%9C%EB%93%9C

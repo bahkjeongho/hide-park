@@ -1,8 +1,12 @@
 ---
-topic:
+Category:
+  - "[[Media]]"
+Sub-Category:
   - "[[Publishing]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Journalist]]"
-  - "[[Publisher]]"
 ---
 >[!tldr] tl;dr
 > `Publisher and Chairman` of [[The New York Times]]

@@ -3,8 +3,17 @@ aliases:
   - KIA Tigers
   - 기아 타이거즈
   - 해태 타이거즈
-topic:
+Category:
+  - "[[Entertainment]]"
+Sub-Category:
   - "[[Sports]]"
+Field:
+  - "[[Team Sports]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Team]]"
+Topic:
   - "[[Sports Team]]"
 Sport:
   - "[[Baseball]]"

@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Digital Design]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Media Design Program]]"
+Topic:
+  - "[[Digital Design School]]"
 IG:
   - https://www.instagram.com/ecal_ch
 Website:

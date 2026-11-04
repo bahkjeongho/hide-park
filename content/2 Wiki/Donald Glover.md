@@ -4,9 +4,16 @@ aliases:
   - 차일디시 감비노
   - 도널드 글로버
   - mcDJ
-topic:
-  - "[[Music Artist]]"
-  - "[[Screen Writer]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Writer]]"
 Genre:
   - "[[Alternative Hip Hop]]"
   - "[[Funk]]"

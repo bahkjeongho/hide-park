@@ -1,10 +1,12 @@
 ---
-topic:
+Category:
   - "[[Media]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
   - "[[Magazine]]"
-  - "[[Art]]"
-  - "[[Art Platform]]"
-  - "[[Art Magazine]]"
+Topic:
+  - "[[Magazine]]"
 IG:
   - https://www.instagram.com/e_flux/
 Website: https://www.e-flux.com/

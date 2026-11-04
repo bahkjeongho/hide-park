@@ -1,12 +1,16 @@
 ---
 aliases:
   - 이혜인
-topic:
-  - "[[Director]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Video]]"
-  - "[[Photography]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Video Director]]"
-  - "[[Photographer]]"
 IG:
   - https://www.instagram.com/2eehyein/
   - https://www.instagram.com/2eehyein.film/

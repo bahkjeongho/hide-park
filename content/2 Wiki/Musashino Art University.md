@@ -3,8 +3,13 @@ aliases:
   - 武蔵野美術大学
   - 무사시노미술대학
   - Musabi
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/musabi_koho

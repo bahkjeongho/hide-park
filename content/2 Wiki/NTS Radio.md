@@ -1,7 +1,12 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
   - "[[Radio]]"
-  - "[[Music Platform]]"
 IG:
   - https://www.instagram.com/nts_radio/
 Website:

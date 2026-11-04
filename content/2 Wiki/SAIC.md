@@ -2,8 +2,13 @@
 aliases:
   - The School of the Art Institute of Chicago
   - SAIC
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://instagram.com/saicpics

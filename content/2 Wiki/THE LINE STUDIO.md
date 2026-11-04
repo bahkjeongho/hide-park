@@ -1,7 +1,17 @@
 ---
 aliases:
   - THE LINE
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Video]]"
+Field:
+  - "[[Animation]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Animation Studio]]"
 IG:
   - https://www.instagram.com/thelineanimation/

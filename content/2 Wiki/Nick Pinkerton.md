@@ -1,6 +1,15 @@
 ---
-topic:
-  - "[[Film Critic]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Film]]"
+Field:
+  - "[[Moving Image]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Critic]]"
+Topic:
   - "[[Moving Image Critic]]"
 IG: https://www.instagram.com/xnickpinkertonx/
 Website:

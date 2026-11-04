@@ -1,9 +1,15 @@
 ---
 aliases:
   - 미디어버스
-topic:
-  - "[[Company]]"
+Category:
+  - "[[Media]]"
+Sub-Category:
   - "[[Publishing]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[Publishing Company]]"
 Website: https://mediabus.org/
 ---

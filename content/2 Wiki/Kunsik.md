@@ -3,12 +3,16 @@ aliases:
   - KUNSIK
   - Kunsik Choi
   - 최근식
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
-  - "[[Furniture]]"
-  - "[[Design Studio]]"
+Sub-Category:
+  - "[[Product Design]]"
+Field:
   - "[[Furniture Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
 IG:
   - https://www.instagram.com/kunsik_/
 Website:

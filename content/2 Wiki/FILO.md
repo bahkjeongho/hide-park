@@ -1,8 +1,13 @@
 ---
 aliases:
   - 필로
-topic:
+Category:
   - "[[Media]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Magazine]]"
 IG:
   - https://www.instagram.com/magazine.filo/

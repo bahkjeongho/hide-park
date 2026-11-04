@@ -3,9 +3,10 @@ aliases:
   - Polimi
   - Politecnico
   - 밀라노 폴리테크니코
-topic:
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[University]]"
 IG:
   - https://www.instagram.com/polimi/
 Website:

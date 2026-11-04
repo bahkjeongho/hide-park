@@ -1,7 +1,13 @@
 ---
 aliases:
   - SCR
-topic:
+Category:
+  - "[[Media]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Radio]]"
+Topic:
   - "[[Radio]]"
 IG:
   - https://www.instagram.com/scr_radio/

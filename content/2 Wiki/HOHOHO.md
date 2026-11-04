@@ -1,9 +1,13 @@
 ---
 aliases:
   - HOHOHO GROUP
-topic:
-  - "[[Agency]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
   - "[[Design Agency]]"
 IG:
   - https://www.instagram.com/hohoho.group/

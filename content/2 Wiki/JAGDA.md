@@ -2,11 +2,14 @@
 aliases:
   - Japan Graphic Designers Association
   - 日本グラフィックデザイン協会
-topic:
-  - [[Award]]
-  - [[Design]]
-  - Graphic Design
-  - [[Design Award]]
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Award]]"
 Kind:
   - "[[Award]]"
 Subject:

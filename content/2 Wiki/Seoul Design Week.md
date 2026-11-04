@@ -1,13 +1,14 @@
 ---
 aliases:
   - 서울디자인위크
-topic:
-  - [[Event]]
-  - [[Award]]
-  - [[Design]]
-  - Multidisciplinary
-  - [[Design Week]]
-  - [[Design Award]]
+Category:
+  - "[[Design]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Award]]"
+Topic:
+  - "[[Design Award]]"
 Kind:
   - "[[Design Week]]"
 Subject:

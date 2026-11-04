@@ -1,9 +1,14 @@
 ---
-topic:
-  - "[[Editor]]"
+Category:
+  - "[[Media]]"
+Sub-Category:
   - "[[Editing]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Editor-in-Chief]]"
-  - "[[Entrepreneur]]"
+Topic:
+  - "[[Editor-in-Chief]]"
 IG:
   - https://www.instagram.com/wordimagetext/
 Website:

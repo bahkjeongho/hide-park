@@ -1,11 +1,17 @@
 ---
 aliases:
   - B.A.D. Studio
-topic:
-  - "[[Director]]"
-  - "[[Creative]]"
-  - "[[Creative Direction]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Creative Director]]"
 IG:
   - https://www.instagram.com/braulioamado/

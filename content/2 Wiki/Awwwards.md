@@ -1,6 +1,13 @@
 ---
-topic:
-  - Web & UI/UX
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Digital Design]]"
+Field:
+  - "[[Web & UI/UX]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
   - "[[Award]]"
 Kind:
   - "[[Award]]"

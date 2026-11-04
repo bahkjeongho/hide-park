@@ -1,7 +1,11 @@
 ---
-topic:
-  - "[[Award]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Award]]"
+Topic:
   - "[[Design Award]]"
 Kind:
   - "[[Award]]"

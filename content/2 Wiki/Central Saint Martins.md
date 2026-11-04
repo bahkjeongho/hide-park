@@ -2,8 +2,13 @@
 aliases:
   - CSM
   - 센트럴 세인트 마틴
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/csm_news/

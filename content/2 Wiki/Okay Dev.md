@@ -1,7 +1,17 @@
 ---
 aliases:
   - OkayDev
-topic:
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Software]]"
+Field:
+  - "[[Programming]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Engineer]]"
+Topic:
   - "[[Programmer]]"
 IG:
   - https://www.instagram.com/okaydevs/

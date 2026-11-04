@@ -1,13 +1,18 @@
 ---
 aliases:
   - WORKS
-topic:
-  - "[[Studio]]"
-  - "[[Creative]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Creative Studio]]"
-  - "[[Brand Design]]"
 IG: https://www.instagram.com/works.studio/
 Website: https://works.studio/
 URL:

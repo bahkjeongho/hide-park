@@ -1,10 +1,15 @@
 ---
-topic:
-  - "[[Director]]"
-  - "[[Creative]]"
-  - "[[Editing]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
-  - "[[Editor]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Creative Director]]"
 IG:
   - https://www.instagram.com/edward_enninful/

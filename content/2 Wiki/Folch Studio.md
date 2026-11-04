@@ -1,13 +1,18 @@
 ---
 aliases:
   - Folch
-topic:
-  - "[[Studio]]"
-  - "[[Agency]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
-  - "[[Design Studio]]"
-  - "[[Branding Agency]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
+  - "[[Brand Design Studio]]"
 IG:
   - https://www.instagram.com/folchstudio/
 Website:

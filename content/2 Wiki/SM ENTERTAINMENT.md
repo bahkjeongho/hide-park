@@ -2,10 +2,20 @@
 aliases:
   - SM Ent.
   - 에스엠 엔터테인먼트
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Sub-Field:
   - "[[K-Pop]]"
-  - "[[Entertainment Company]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
+  - "[[K-Pop Company]]"
 IG:
   - https://www.instagram.com/smtown/
 Website:

@@ -2,9 +2,13 @@
 aliases:
   - TeoYang Studio
   - 테오양 스튜디오
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/teoyang/

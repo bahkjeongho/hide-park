@@ -1,11 +1,14 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Director]]"
-  - "[[Consultancy]]"
-  - "[[Creative]]"
-  - "[[Art Direction]]"
-  - "[[Art Director]]"
-  - "[[Creative Consultancy]]"
 IG:
   - https://www.instagram.com/p/DeHbI22lvVJ/?img_index=1
 Website:

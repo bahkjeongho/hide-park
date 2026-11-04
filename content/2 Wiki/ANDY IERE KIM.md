@@ -1,6 +1,15 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Video]]"
+Field:
+  - "[[Cinematography]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[D.O.P.]]"
 IG:
   - https://www.instagram.com/illuminatek/

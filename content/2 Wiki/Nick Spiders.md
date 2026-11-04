@@ -1,13 +1,16 @@
 ---
-topic:
-  - "[[Director]]"
-  - "[[Creative]]"
-  - "[[Video]]"
-  - "[[Photography]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
-  - "[[Video Director]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Creative Director]]"
-  - "[[Photographer]]"
 IG:
   - https://www.instagram.com/nickspiders/
 ---

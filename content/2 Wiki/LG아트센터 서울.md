@@ -1,7 +1,15 @@
 ---
 aliases:
   - LG Arts Center Seoul
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Performing Arts]]"
+Type:
+  - "[[Place]]"
+Sub-Type:
+  - "[[Venue]]"
+Topic:
   - "[[Venue]]"
 IG:
   - https://www.instagram.com/lgartscenter/

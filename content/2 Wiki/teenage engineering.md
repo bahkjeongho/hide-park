@@ -1,6 +1,15 @@
 ---
-topic:
-  - "[[Tech Product Company]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Music Instruments]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[Instruments Company]]"
 IG:
   - https://www.instagram.com/teenageengineering/

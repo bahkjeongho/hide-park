@@ -1,7 +1,13 @@
 ---
-topic:
-  - "[[Programmer]]"
-  - "[[Entrepreneur]]"
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Software]]"
+Field:
+  - "[[Programming]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[CEO]]"
 IG:
   - https://www.instagram.com/thisisbillgates/

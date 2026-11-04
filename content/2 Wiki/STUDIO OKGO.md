@@ -1,9 +1,13 @@
 ---
 aliases:
   - 스튜디오 오케이고
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/studio_okgo/

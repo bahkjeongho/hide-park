@@ -1,12 +1,14 @@
 ---
 aliases:
   - Copenhagen Design Week
-topic:
-  - "[[Festival]]"
-  - "[[Event]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Festival]]"
+Topic:
   - "[[Design Festival]]"
-  - "[[Design Week]]"
 Kind:
   - "[[Design Festival]]"
 Subject:

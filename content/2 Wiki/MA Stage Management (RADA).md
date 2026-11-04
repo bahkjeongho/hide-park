@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Performing Arts]]"
+Field:
+  - "[[Stage Management]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Stage Management Program]]"
 IG:
   - https://www.instagram.com/royalacademyofdramaticart/
 Website:

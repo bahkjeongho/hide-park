@@ -1,5 +1,15 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Fashion]]"
+Field:
+  - "[[Luxury Goods]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[Luxury Goods Company]]"
 Wikis: https://en.wikipedia.org/wiki/LVMH
 ---

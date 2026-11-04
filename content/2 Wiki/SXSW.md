@@ -1,6 +1,15 @@
 ---
-topic:
-  - "[[Culture Festival]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Festival]]"
+Topic:
   - "[[Music Festival]]"
 URL:
   - https://sxsw.com/

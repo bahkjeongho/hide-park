@@ -1,9 +1,15 @@
 ---
 aliases:
   - C M M A W E A R
-topic:
-  - "[[Brand]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Brand]]"
+Topic:
   - "[[Fashion Brand]]"
 IG:
   - https://www.instagram.com/cmmawear/

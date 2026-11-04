@@ -1,9 +1,16 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Company]]"
-  - "[[Creative]]"
+Topic:
   - "[[Creative Company]]"
-  - "[[Entertainment Company]]"
 IG:
   - https://www.instagram.com/pglang/
 Website: https://pg-lang.com/

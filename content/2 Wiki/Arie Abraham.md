@@ -1,5 +1,13 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Video]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Editor]]"
+Topic:
   - "[[Video Editor]]"
 IG:
   - https://www.instagram.com/rariesthetics/

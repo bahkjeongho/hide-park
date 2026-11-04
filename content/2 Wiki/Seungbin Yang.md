@@ -1,11 +1,16 @@
 ---
 aliases:
   - Studio Seungbin Yang
-topic:
+Category:
   - "[[Design]]"
-  - "[[Furniture]]"
-  - "[[Designer]]"
+Sub-Category:
+  - "[[Product Design]]"
+Field:
   - "[[Furniture Design]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Designer]]"
 IG:
   - https://www.instagram.com/studio_seungbinyang/
 Website:

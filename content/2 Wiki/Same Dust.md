@@ -1,9 +1,16 @@
 ---
 aliases:
   - 쎄임더스트
-topic:
+Category:
+  - "[[Media]]"
+Sub-Category:
+  - "[[Publishing]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
   - "[[Book]]"
-  - "[[Book Store]]"
+Topic:
+  - "[[Book]]"
 IG:
   - https://www.instagram.com/same_dust/
 Website:

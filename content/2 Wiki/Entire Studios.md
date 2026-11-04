@@ -1,9 +1,15 @@
 ---
 aliases:
   - ES
-topic:
-  - "[[Brand]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Brand]]"
+Topic:
   - "[[Fashion Brand]]"
 IG:
   - https://www.instagram.com/entire_studios/

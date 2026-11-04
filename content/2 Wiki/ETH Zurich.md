@@ -3,9 +3,10 @@ aliases:
   - ETH
   - Eidgenössische Technische Hochschule Zürich
   - 취리히 연방 공과대학교
-topic:
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[University]]"
 IG:
   - https://www.instagram.com/ethzurich/
 Website:

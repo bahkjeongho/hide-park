@@ -2,10 +2,20 @@
 aliases:
   - 하이브
   - HYBE Co., Ltd.
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Sub-Field:
   - "[[K-Pop]]"
-  - "[[Entertainment Company]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
+  - "[[K-Pop Company]]"
 Website: https://hybecorp.com/
 Wikis:
   - https://en.wikipedia.org/wiki/Hybe

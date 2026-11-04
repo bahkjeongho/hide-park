@@ -1,7 +1,15 @@
 ---
 aliases:
   - 케이크샵
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Performing Arts]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Promoter]]"
+Topic:
   - "[[Promoter]]"
 IG:
   - https://www.instagram.com/cakeshopseoul/

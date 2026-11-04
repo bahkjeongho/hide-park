@@ -1,5 +1,7 @@
 ---
-topic:
+Type:
+  - "[[Event]]"
+Sub-Type:
   - "[[Award]]"
 Kind:
   - "[[Award]]"

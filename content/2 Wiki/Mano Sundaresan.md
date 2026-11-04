@@ -1,11 +1,14 @@
 ---
-topic:
-  - "[[Editor]]"
-  - "[[Critic]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Music]]"
-  - "[[Editing]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Editor-in-Chief]]"
-  - "[[Music Critic]]"
 IG:
   - https://x.com/manosundaresan
 URL:

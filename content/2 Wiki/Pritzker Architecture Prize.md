@@ -1,8 +1,15 @@
 ---
 aliases:
   - Pritzker Prize
-topic:
-  - Architecture
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Architecture]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Prize]]"
+Topic:
   - "[[Architecture Prize]]"
 Kind:
   - "[[Prize]]"

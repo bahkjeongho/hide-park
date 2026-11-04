@@ -1,7 +1,7 @@
 ---
 aliases:
   - Sports Blog Nation
-topic:
+Category:
   - "[[Media]]"
 IG:
   - https://www.instagram.com/sbnation/

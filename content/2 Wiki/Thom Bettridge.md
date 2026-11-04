@@ -1,6 +1,13 @@
 ---
-topic:
+Category:
+  - "[[Media]]"
+Sub-Category:
   - "[[Editing]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Editor]]"
+Topic:
   - "[[Editor]]"
 IG: https://www.instagram.com/thomthomclub/
 URL: https://www.linkedin.com/in/thom-bettridge-54b12b182/

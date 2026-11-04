@@ -4,11 +4,18 @@ aliases:
   - Johann Electric Bach
   - 요일바
   - 요한 일렉트릭 바흐
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Producer]]"
-  - "[[DJ]]"
-  - "[[Youtuber]]"
-  - "[[Music Artist]]"
+Topic:
+  - "[[Producer]]"
 IG:
   - https://www.instagram.com/jebsensei/
 Website:

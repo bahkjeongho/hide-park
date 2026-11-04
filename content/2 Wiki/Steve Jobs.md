@@ -1,7 +1,12 @@
 ---
-topic:
+Category:
+  - "[[Business]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[CEO]]"
-  - "[[Entrepreneur]]"
+Topic:
+  - "[[CEO]]"
 Website:
   - https://www.apple.com/stevejobs
 Wikis:

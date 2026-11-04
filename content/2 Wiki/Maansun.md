@@ -1,7 +1,15 @@
 ---
 aliases:
   - 만순
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Platform]]"
+Topic:
   - "[[Music Platform]]"
 IG:
   - https://www.instagram.com/maansun_com/

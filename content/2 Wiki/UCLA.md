@@ -2,9 +2,10 @@
 aliases:
   - University of California, Los Angeles
   - 캘리포니아 대학교 로스앤젤레스
-topic:
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[University]]"
 IG:
   - https://www.instagram.com/ucla/
 Website:

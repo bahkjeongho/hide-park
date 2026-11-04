@@ -2,8 +2,13 @@
 aliases:
   - 고게이다이
   - 국공립오예대
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 ---
 >[!tldr] tl;dr

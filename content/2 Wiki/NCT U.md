@@ -1,9 +1,20 @@
 ---
 aliases:
   - 엔시티 유
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Sub-Field:
+  - "[[K-Pop]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Idol]]"
+Topic:
   - "[[K-Pop Idol]]"
-  - "[[Music Artist]]"
 Genre:
   - "[[K-Pop]]"
   - "[[Pop]]"

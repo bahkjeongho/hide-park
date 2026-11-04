@@ -3,10 +3,18 @@ aliases:
   - 프레드 어게인
   - Fred Again
   - Fred
-topic:
-  - "[[Music Artist]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Producer]]"
-  - "[[DJ]]"
+Topic:
+  - "[[Producer]]"
 Genre:
   - "[[UK Garage]]"
   - "[[Electronic]]"

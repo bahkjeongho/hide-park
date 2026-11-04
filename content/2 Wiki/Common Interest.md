@@ -1,8 +1,16 @@
 ---
-topic:
-  - "[[Design]]"
-  - "[[Commnications Group]]"
-  - "[[Brand Design]]"
+Category:
+  - "[[Business]]"
+Sub-Category:
+  - "[[Marketing]]"
+Field:
+  - "[[Communication]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Group]]"
+Topic:
+  - "[[Communications Group]]"
 Website: https://www.commoninterest.co/
 URL:
   - https://www.linkedin.com/company/common-interest-group/

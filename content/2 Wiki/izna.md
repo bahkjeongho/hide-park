@@ -2,8 +2,19 @@
 aliases:
   - 이즈나
   - IZNA
-topic:
-  - "[[Music Artist]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Sub-Field:
+  - "[[K-Pop]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Idol]]"
+Topic:
   - "[[K-Pop Idol]]"
 Genre:
   - "[[K-Pop]]"

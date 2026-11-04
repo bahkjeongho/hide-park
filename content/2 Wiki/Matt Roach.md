@@ -1,7 +1,15 @@
 ---
-topic:
-  - "[[Director]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Art Direction]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Art Director]]"
 ---
 >[!tldr] tl;dr

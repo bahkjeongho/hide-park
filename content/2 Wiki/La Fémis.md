@@ -1,8 +1,13 @@
 ---
 aliases:
   - Fémis
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 Website:
   - https://www.femis.fr/

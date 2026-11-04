@@ -1,5 +1,9 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Typography]]"
 IG:
   - https://www.instagram.com/typeroom.eu/

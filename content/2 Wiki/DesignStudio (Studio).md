@@ -1,12 +1,18 @@
 ---
 aliases:
   - Further
-topic:
-  - "[[Agency]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
-  - "[[Branding Agency]]"
-  - "[[Marketing Agency]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
+  - "[[Brand Design Agency]]"
 IG:
   - https://www.instagram.com/further_agency/
 Website:

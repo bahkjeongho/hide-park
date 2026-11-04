@@ -1,6 +1,15 @@
 ---
-topic:
-  - "[[Music Artist]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Producer]]"
+Topic:
   - "[[Producer]]"
 Labels:
   - "[[Boominati Worldwide]]"

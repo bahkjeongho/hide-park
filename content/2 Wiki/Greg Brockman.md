@@ -1,7 +1,16 @@
 ---
-topic:
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Software]]"
+Field:
+  - "[[Programming]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Engineer]]"
+Topic:
   - "[[Programmer]]"
-  - "[[Entrepreneur]]"
 IG:
   - https://www.instagram.com/greg.brockman/
 Website:

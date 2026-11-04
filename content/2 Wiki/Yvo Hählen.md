@@ -1,11 +1,16 @@
 ---
-topic:
-  - "[[Director]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Art Direction]]"
-  - "[[Graphic Design]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Art Director]]"
-  - "[[Graphic Designer]]"
 IG:
   - https://www.instagram.com/yvohahlen/
 Cities:

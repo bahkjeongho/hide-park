@@ -1,11 +1,16 @@
 ---
-topic:
-  - "[[Director]]"
-  - "[[Fashion]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Art Direction]]"
-  - "[[Styling]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Art Director]]"
-  - "[[Stylist]]"
 IG:
   - https://www.instagram.com/airtomyearth/
 Cities:

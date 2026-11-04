@@ -1,12 +1,16 @@
 ---
 aliases:
   - 이다경
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
+Sub-Category:
   - "[[Graphic Design]]"
-  - "[[Design Studio]]"
-  - "[[Graphic Designer]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
+  - "[[Graphic Design Studio]]"
 IG:
   - https://www.instagram.com/wadada.kr/
 ---

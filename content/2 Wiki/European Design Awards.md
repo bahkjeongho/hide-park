@@ -1,8 +1,9 @@
 ---
 aliases:
   - EDA
-topic:
-  - Multidisciplinary
+Type:
+  - "[[Event]]"
+Sub-Type:
   - "[[Award]]"
 Kind:
   - "[[Award]]"

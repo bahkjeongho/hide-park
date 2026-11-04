@@ -1,7 +1,12 @@
 ---
-topic:
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Engineering]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[CEO]]"
-  - "[[Engineer]]"
 Website:
   - https://ericschmidt.com/
 URL:

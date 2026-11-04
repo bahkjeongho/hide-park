@@ -1,8 +1,13 @@
 ---
 aliases:
   - 五美大
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 Wikis:
   - https://namu.wiki/w/%EA%B3%A0%EB%B9%84%EB%8B%A4%EC%9D%B4

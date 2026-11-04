@@ -4,7 +4,17 @@ aliases:
   - カシオペア
   - Casiopea 3rd
   - Casiopea-P4
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Artist]]"
+Topic:
   - "[[Music Artist]]"
 Genre:
   - "[[Jazz Fusion]]"

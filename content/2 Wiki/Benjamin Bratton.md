@@ -1,7 +1,15 @@
 ---
 aliases:
   - 벤자민 브래튼
-topic:
+Category:
+  - "[[Humanities]]"
+Sub-Category:
+  - "[[Philosophy]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Theorist]]"
+Topic:
   - "[[Philosopher]]"
 IG:
   - https://www.instagram.com/benjaminbratton/

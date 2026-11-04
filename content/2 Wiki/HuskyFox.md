@@ -1,11 +1,18 @@
 ---
 aliases:
   - 허스키폭스
-topic:
-  - "[[Consultancy]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
-  - "[[Brand Consultancy]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Consultancy]]"
+Topic:
+  - "[[Brand Design Consultancy]]"
 IG:
   - https://www.instagram.com/huskyfox.den/
 Website: https://huskyfox.com/

@@ -1,11 +1,14 @@
 ---
 aliases:
   - Footnote
-topic:
+Category:
   - "[[Media]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
   - "[[Magazine]]"
-  - "[[Art]]"
-  - "[[Art Magazine]]"
+Topic:
+  - "[[Magazine]]"
 IG:
   - https://www.instagram.com/footnote_mag/
 Website:

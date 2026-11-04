@@ -1,8 +1,15 @@
 ---
 aliases:
   - 安藤忠雄
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Architecture]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Architect]]"
+Topic:
   - "[[Architect]]"
 Website:
   - https://www.tadao-ando.com/

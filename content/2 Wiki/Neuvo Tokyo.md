@@ -1,5 +1,7 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Product Design]]"
 IG:
   - https://www.instagram.com/nuevo.tokyo/

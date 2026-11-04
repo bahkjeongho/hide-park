@@ -1,14 +1,18 @@
 ---
 aliases:
   - NEWYEAR*
-topic:
-  - "[[Studio]]"
-  - "[[Creative]]"
-  - "[[Video]]"
-  - "[[Photography]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Creative Studio]]"
-  - "[[Production House]]"
 IG:
   -  https://www.instagram.com/newyear.asia/
 Website: https://new-year.asia/

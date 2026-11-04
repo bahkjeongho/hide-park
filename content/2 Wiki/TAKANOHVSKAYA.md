@@ -1,11 +1,14 @@
 ---
-topic:
-  - "[[Director]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
+Field:
   - "[[Styling]]"
-  - "[[Visual Direction]]"
-  - "[[Stylist]]"
-  - "[[Visual Director]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
 Website:
   - https://new-year.asia/artist/takanohvskaya/
 ---

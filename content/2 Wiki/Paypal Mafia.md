@@ -1,6 +1,8 @@
 ---
-topic:
-  - "[[Human Network]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Network]]"
 Wikis:
   - https://namu.wiki/w/%ED%8E%98%EC%9D%B4%ED%8C%94%20%EB%A7%88%ED%94%BC%EC%95%84
   - https://en.wikipedia.org/wiki/PayPal_Mafia

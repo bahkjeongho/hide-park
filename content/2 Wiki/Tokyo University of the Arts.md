@@ -3,8 +3,13 @@ aliases:
   - 東京藝術大学
   - 도쿄예술대학
   - Geidai
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/tokyo_geidai/

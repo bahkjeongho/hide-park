@@ -1,12 +1,16 @@
 ---
-topic:
-  - "[[Studio]]"
-  - "[[Creative]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Creative Studio]]"
-  - "[[Design Studio]]"
-  - "[[Typography]]"
 IG:
   - https://www.instagram.com/apracticeforeverydaylife/
 Website: https://apracticeforeverydaylife.com/

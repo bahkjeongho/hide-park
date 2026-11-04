@@ -2,8 +2,13 @@
 aliases:
   - 파주타이포그라피학교
   - Paju Typography Institute
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/paju.typography.institute/

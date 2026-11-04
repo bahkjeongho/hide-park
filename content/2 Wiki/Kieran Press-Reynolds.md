@@ -1,6 +1,16 @@
 ---
-topic:
-  - "[[Music Critique]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Critic]]"
+Topic:
+  - "[[Music Critic]]"
 IG:
   - https://www.instagram.com/kieranpressreynolds/
 Website:

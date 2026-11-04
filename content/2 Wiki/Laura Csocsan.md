@@ -1,8 +1,15 @@
 ---
-topic:
+Category:
   - "[[Design]]"
+Sub-Category:
   - "[[Graphic Design]]"
-  - "[[Graphic Designer]]"
+Field:
+  - "[[Typography]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Designer]]"
+Topic:
   - "[[Type Designer]]"
 Website:
   - https://lauracsocsan.com/

@@ -1,8 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Visual Art]]"
+Field:
+  - "[[Fine Art]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Fine Art Program]]"
+Topic:
+  - "[[Fine Art School]]"
 IG:
   - https://www.instagram.com/kyoto_geidai
 Website:

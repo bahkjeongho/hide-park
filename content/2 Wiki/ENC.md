@@ -1,7 +1,12 @@
 ---
-topic:
+Category:
+  - "[[Media]]"
+Sub-Category:
+  - "[[Blog]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Writer]]"
-  - "[[Blogger]]"
 Website:
   - https://blog.naver.com/mjkyj0102
 ---

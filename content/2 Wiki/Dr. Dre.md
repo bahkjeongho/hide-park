@@ -4,10 +4,20 @@ aliases:
   - Dre
   - Brickhard
   - The Mechanic
-topic:
-  - "[[Music Artist]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Sub-Field:
+  - "[[Hip-Hop]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Rapper]]"
-  - "[[Producer]]"
+Topic:
+  - "[[Rapper]]"
 Genre:
   - "[[West Coast Hip-Hop]]"
   - "[[Gangsta Rap]]"

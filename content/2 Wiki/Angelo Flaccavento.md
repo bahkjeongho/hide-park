@@ -1,8 +1,16 @@
 ---
 aliases:
   - angelo flaccavento
-topic:
-  - "[[Fashion Critique]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Fashion]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Critic]]"
+Topic:
+  - "[[Fashion Critic]]"
 IG:
   - https://www.instagram.com/poeticallypunk/
 Countries:

@@ -1,9 +1,17 @@
 ---
 aliases:
   - 사이먼 레이놀즈
-topic:
-  - "[[Critic]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Critic]]"
+Topic:
   - "[[Music Critic]]"
 IG:
   - https://www.instagram.com/simonreynoldswriter/

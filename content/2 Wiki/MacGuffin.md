@@ -1,10 +1,13 @@
 ---
 aliases:
   - MacGuffin - The Life of Things
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Design Magazine]]"
 IG:
   - https://www.instagram.com/macguffinmagazine/

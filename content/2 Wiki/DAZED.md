@@ -2,10 +2,15 @@
 aliases:
   - Dazed & Confused
   - 데이즈드
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Fashion Magazine]]"
 IG:
   - https://www.instagram.com/dazed/

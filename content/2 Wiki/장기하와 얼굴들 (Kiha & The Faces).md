@@ -3,7 +3,17 @@ aliases:
   - 장기하와 얼굴들
   - Kiha & The Faces
   - 장얼
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Artist]]"
+Topic:
   - "[[Music Artist]]"
 Genre:
   - "[[Indie Rock]]"

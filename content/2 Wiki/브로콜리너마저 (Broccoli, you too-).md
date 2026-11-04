@@ -3,7 +3,17 @@ aliases:
   - 브로콜리 너마저
   - 브로콜리너마저
   - Broccoli, You Too?
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Artist]]"
+Topic:
   - "[[Music Artist]]"
 Genre:
   - "[[Indie Rock]]"

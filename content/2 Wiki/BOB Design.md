@@ -1,9 +1,14 @@
 ---
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
-  - "[[Design Studio]]"
+Sub-Category:
   - "[[Graphic Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
+  - "[[Graphic Design Studio]]"
 Website: https://bobdesign.co.uk/
 ---
 >[!tldr] tl;dr

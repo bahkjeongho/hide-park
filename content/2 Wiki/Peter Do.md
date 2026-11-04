@@ -1,11 +1,15 @@
 ---
-topic:
-  - "[[Director]]"
-  - "[[Fashion]]"
+Category:
   - "[[Design]]"
-  - "[[Creative]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
-  - "[[Fashion Designer]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Creative Director]]"
 IG:
   - https://www.instagram.com/doxpeter/

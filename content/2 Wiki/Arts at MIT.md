@@ -1,9 +1,10 @@
 ---
 aliases:
   - MIT Arts
-topic:
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
 IG:
   - https://www.instagram.com/artsatmit/
 Website:

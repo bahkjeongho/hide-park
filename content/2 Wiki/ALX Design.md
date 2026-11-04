@@ -1,5 +1,15 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Architecture]]"
+Field:
+  - "[[Interior Architecture]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[Interior Architecture Company]]"
 Website: https://www.alxdesign.kr/
 ---

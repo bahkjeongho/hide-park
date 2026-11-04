@@ -1,9 +1,16 @@
 ---
 aliases:
   - 장-뤽 고다르
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Film]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Filmmaker]]"
-  - "[[Film Critic]]"
 Wikis:
   - https://namu.wiki/w/%EC%9E%A5%EB%A4%BD%20%EA%B3%A0%EB%8B%A4%EB%A5%B4
   - https://en.wikipedia.org/wiki/Jean-Luc_Godard

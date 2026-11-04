@@ -1,9 +1,15 @@
 ---
-topic:
-  - "[[Agency]]"
-  - "[[Creative]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
   - "[[Creative Agency]]"
 IG:
   - https://www.instagram.com/teleport_online_com/

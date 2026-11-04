@@ -3,8 +3,13 @@ aliases:
   - ENSAD
   - École nationale supérieure des arts décoratifs
   - Arts Déco
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/EcoleArtsDecoParis

@@ -1,6 +1,11 @@
 ---
-topic:
-  - "[[Engineer]]"
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Engineering]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[CEO]]"
 Website:
   - https://www.apple.com/leadership/john-ternus/

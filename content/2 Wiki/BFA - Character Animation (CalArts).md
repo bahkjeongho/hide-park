@@ -1,8 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Video]]"
+Field:
+  - "[[Animation]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Animation Program]]"
+Topic:
+  - "[[Animation School]]"
 Website:
   - https://calarts.edu/academics/programs-and-degrees/bfa-character-animation
 Cities:

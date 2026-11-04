@@ -1,6 +1,8 @@
 ---
-topic:
-  - "[[Comptetition]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Competition]]"
 kind: Competition
 URL:
   - https://www.leclubdesda.org/pages/competition

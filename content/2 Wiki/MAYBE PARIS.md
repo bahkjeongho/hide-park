@@ -1,8 +1,15 @@
 ---
-topic:
-  - "[[Studio]]"
-  - "[[Creative]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Creative Studio]]"
 Website:
   - https://www.maybe-paris.com/

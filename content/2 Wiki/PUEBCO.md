@@ -1,7 +1,7 @@
 ---
 aliases:
   - プエブコ
-topic:
+Category:
   - "[[Design]]"
 IG:
   - https://www.instagram.com/puebco_japan/

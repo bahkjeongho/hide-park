@@ -1,10 +1,14 @@
 ---
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
+Category:
   - "[[Design]]"
-  - "[[Design Magazine]]"
-  - "[[Font Marketplace]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
+  - "[[Typography]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
 IG:
   - https://www.instagram.com/contemporarytype/
 Website:

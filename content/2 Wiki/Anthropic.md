@@ -1,5 +1,15 @@
 ---
-topic:
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Software]]"
+Field:
+  - "[[AI]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[AI Company]]"
 Website:
   - https://www.anthropic.com/

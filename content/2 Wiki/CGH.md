@@ -1,15 +1,18 @@
 ---
 aliases:
   - Chermayeff & Geismar & Haviv
-topic:
-  - "[[Studio]]"
-  - "[[Agency]]"
+Category:
   - "[[Design]]"
-  - "[[Consulting]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
-  - "[[Design Studio]]"
-  - "[[Consulting Agency]]"
-  - "[[Branding Agency]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
+  - "[[Brand Design Studio]]"
 IG:
   - https://www.instagram.com/chermayeff_geismar_haviv/
 Website: https://www.cghnyc.com/

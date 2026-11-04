@@ -1,11 +1,18 @@
 ---
 aliases:
   - newgenre.studio
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
-  - "[[Design Studio]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
+  - "[[Brand Design Studio]]"
 IG:
   - https://www.instagram.com/newgenre.studio/
 Website:

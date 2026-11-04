@@ -1,7 +1,16 @@
 ---
-topic:
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Software]]"
+Field:
+  - "[[Programming]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Engineer]]"
+Topic:
   - "[[Programmer]]"
-  - "[[Entrepreneur]]"
 URL:
   - https://x.com/alexandr_wang
   - https://www.linkedin.com/in/alexandrwang

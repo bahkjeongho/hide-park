@@ -1,5 +1,7 @@
 ---
-topic:
+Category:
+  - "[[Business]]"
+Sub-Category:
   - "[[Advertising]]"
 IG:
   - https://www.instagram.com/pablo.rochat/

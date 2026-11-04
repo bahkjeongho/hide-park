@@ -1,5 +1,7 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Digital Design]]"
 IG:
   - https://www.instagram.com/uns__nstudio/

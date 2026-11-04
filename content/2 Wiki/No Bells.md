@@ -1,11 +1,16 @@
 ---
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Music]]"
-  - "[[Culture]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Music Magazine]]"
-  - "[[Culture Magazine]]"
 IG:
   - https://www.instagram.com/nobells/
 Website:

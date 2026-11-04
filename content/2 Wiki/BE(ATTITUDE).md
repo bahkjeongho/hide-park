@@ -2,8 +2,13 @@
 aliases:
   - 비애티튜드
   - BE(ATTITUDE) 비애티튜드
-topic:
+Category:
   - "[[Media]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Magazine]]"
 IG:
   - https://www.instagram.com/beattitude.magazine/

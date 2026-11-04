@@ -3,10 +3,17 @@ aliases:
   - 리전드 필름
   - 리전드
   - Rigend
-topic:
-  - "[[Creative]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Production]]"
-  - "[[Video]]"
+Topic:
   - "[[Creative Production]]"
 IG: https://www.instagram.com/rigend.film/
 Website: https://www.rigend.com/

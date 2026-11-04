@@ -2,7 +2,15 @@
 aliases:
   - K League
   - 한국프로축구연맹
-topic:
+Category:
+  - "[[Entertainment]]"
+Sub-Category:
+  - "[[Sports]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[League]]"
+Topic:
   - "[[Sports League]]"
 Sport:
   - "[[Football]]"

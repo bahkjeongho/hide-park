@@ -1,9 +1,15 @@
 ---
-topic:
-  - "[[Director]]"
-  - "[[Photography]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Art Direction]]"
-  - "[[Photographer]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Art Director]]"
 IG:
   - https://www.instagram.com/ianbuosi/?hl=ko

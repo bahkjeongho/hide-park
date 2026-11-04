@@ -3,7 +3,17 @@ aliases:
   - N*E*R*D
   - 엔이알디
   - N.E.R.D.
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Artist]]"
+Topic:
   - "[[Music Artist]]"
 Genre:
   - "[[Funk Rock]]"

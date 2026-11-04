@@ -1,7 +1,7 @@
 ---
 aliases:
   - 하입비스트 코리아
-topic:
+Category:
   - "[[Media]]"
 IG:
   - https://www.instagram.com/hypebeastkr/

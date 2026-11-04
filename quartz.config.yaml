@@ -286,7 +286,7 @@ plugins:
         - program
         - kind
         - rating
-        - topic
+        - Topic
         - subject_area
         - subdiscipline
         - discipline

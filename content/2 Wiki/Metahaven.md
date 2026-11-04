@@ -1,9 +1,10 @@
 ---
-topic:
-  - "[[Collective]]"
-  - "[[Art]]"
+Category:
   - "[[Design]]"
-  - "[[Art Collective]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Collective]]"
 IG:
   - https://www.instagram.com/metahaven/
 Website:

@@ -1,11 +1,18 @@
 ---
 aliases:
   - 서비스센터
-topic:
-  - "[[Consultancy]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
-  - "[[Brand Consultancy]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Consultancy]]"
+Topic:
+  - "[[Brand Design Consultancy]]"
 IG:
   - https://www.instagram.com/servicecenter.kr/
 Website:

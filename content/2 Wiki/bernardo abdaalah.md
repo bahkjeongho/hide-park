@@ -1,10 +1,15 @@
 ---
-topic:
-  - "[[Director]]"
+Category:
   - "[[Design]]"
-  - "[[Graphic Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Art Direction]]"
-  - "[[Graphic Designer]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Art Director]]"
 Website:
   - https://bernardoabdalah.cargo.site/

@@ -1,8 +1,19 @@
 ---
 aliases:
   - Wu-Tang
-topic:
-  - "[[Music Artist]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Sub-Field:
+  - "[[Hip-Hop]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Rapper]]"
+Topic:
   - "[[Rapper]]"
 Genre:
   - "[[East Coast Hip-Hop]]"

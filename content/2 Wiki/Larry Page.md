@@ -1,8 +1,12 @@
 ---
-topic:
-  - "[[Entrepreneur]]"
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Engineering]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[CEO]]"
-  - "[[Engineer]]"
 IG:
   - https://www.instagram.com/larry_page/
 Wikis:

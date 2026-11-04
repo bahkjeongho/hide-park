@@ -1,12 +1,16 @@
 ---
 aliases:
   - 마테리알
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Film]]"
-  - "[[Moving Image Critic]]"
-  - "[[Film Magazine]]"
+Field:
+  - "[[Moving Image]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
 IG:
   - https://www.instagram.com/ma.te.ri.al/
 Website:

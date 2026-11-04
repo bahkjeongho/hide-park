@@ -2,8 +2,13 @@
 aliases:
   - ZHdK
   - Zürcher Hochschule der Künste
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/zhdkcampus

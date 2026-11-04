@@ -1,10 +1,14 @@
 ---
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Fashion Magazine]]"
-  - "[[Fashion Platform]]"
 IG:
   - https://www.instagram.com/1granary/
 Website:

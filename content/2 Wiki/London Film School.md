@@ -3,8 +3,13 @@ aliases:
   - LFS
   - London School of Film Technique
   - London International Film School
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/thelondonfilmschool

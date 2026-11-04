@@ -1,7 +1,15 @@
 ---
 aliases:
   - Welcome Records est. 2019
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Platform]]"
+Topic:
   - "[[Music Platform]]"
 IG:
   - https://www.instagram.com/welcomerecords_seoul/

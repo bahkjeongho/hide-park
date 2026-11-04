@@ -1,8 +1,15 @@
 ---
-topic:
-  - "[[Creative]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Production]]"
-  - "[[Video]]"
+Topic:
   - "[[Creative Production]]"
 IG:
   - https://www.instagram.com/church_edit/

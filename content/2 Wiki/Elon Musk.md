@@ -1,7 +1,12 @@
 ---
-topic:
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Engineering]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Entrepreneur]]"
-  - "[[Engineer]]"
 IG:
   - https://www.instagram.com/elonmusk/
 URL:

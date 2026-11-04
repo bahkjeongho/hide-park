@@ -1,10 +1,16 @@
 ---
-topic:
-  - "[[Agency]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
-  - "[[Branding Agency]]"
-  - "[[Design Agency]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
+  - "[[Brand Design Agency]]"
 IG:
   - https://www.instagram.com/thisiscollins/
 Website: https://www.wearecollins.com/

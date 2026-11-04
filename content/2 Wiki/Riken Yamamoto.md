@@ -1,8 +1,15 @@
 ---
 aliases:
   - 山本理顕
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Architecture]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Architect]]"
+Topic:
   - "[[Architect]]"
 Website:
   - https://riken-yamamoto.co.jp/

@@ -1,7 +1,15 @@
 ---
-topic:
+Category:
+  - "[[Business]]"
+Sub-Category:
   - "[[Marketing]]"
-  - "[[Advertising]]"
+Field:
+  - "[[PR]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
   - "[[PR Agency]]"
 Website:
   - https://golinketchum.com/

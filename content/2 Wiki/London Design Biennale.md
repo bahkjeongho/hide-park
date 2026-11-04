@@ -1,7 +1,13 @@
 ---
 kind: Biennale
-topic:
-  - "[[Multidisciplinary]]"
+Category:
+  - "[[Design]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Biennale]]"
+Topic:
+  - "[[Design Biennale]]"
 URL:
   - https://londondesignbiennale.com/
 rating: 3

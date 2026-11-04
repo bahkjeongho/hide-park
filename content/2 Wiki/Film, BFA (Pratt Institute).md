@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Film]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Film Program]]"
+Topic:
+  - "[[Film School]]"
 Website:
   - https://www.pratt.edu/art/film-video/film-bfa/
 Cities:

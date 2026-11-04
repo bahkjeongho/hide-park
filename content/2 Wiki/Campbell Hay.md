@@ -1,12 +1,16 @@
 ---
-topic:
-  - "[[Consultancy]]"
-  - "[[Agency]]"
-  - "[[Creative]]"
+Category:
   - "[[Design]]"
-  - "[[Brand Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Consultancy]]"
+Topic:
   - "[[Creative Consultancy]]"
-  - "[[Branding Agency]]"
 IG:
   - https://www.instagram.com/campbellhaybranding/
 Website:

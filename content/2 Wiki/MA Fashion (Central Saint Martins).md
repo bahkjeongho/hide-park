@@ -2,10 +2,18 @@
 aliases:
   - MA Fashion Central Saint Martins
   - MA FASHION CENTRAL SAINT MARTINS
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Fashion]]"
+Field:
+  - "[[Fashion Design]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Fashion Design Program]]"
+Topic:
+  - "[[Fashion Design School]]"
 IG:
   - https://www.instagram.com/mafcsm/
 Cities:

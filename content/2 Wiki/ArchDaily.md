@@ -1,11 +1,15 @@
 ---
 aliases:
   - archdaily
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Architecture]]"
-  - "[[Media Platform]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Architecture Magazine]]"
 IG:
   - https://www.instagram.com/archdaily/

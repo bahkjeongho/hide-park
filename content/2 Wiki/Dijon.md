@@ -3,8 +3,17 @@ aliases:
   - 디종
   - Dijon Duenas
   - Lillith
-topic:
-  - "[[Music Artist]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Producer]]"
+Topic:
   - "[[Producer]]"
 Genre:
   - "[[Alternative R&B]]"

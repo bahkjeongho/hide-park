@@ -1,7 +1,15 @@
 ---
 aliases:
   - totalworld
-topic:
+Category:
+  - "[[Entertainment]]"
+Sub-Category:
+  - "[[Management]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
   - "[[Management Agency]]"
 IG:
   - https://www.instagram.com/totalworld/

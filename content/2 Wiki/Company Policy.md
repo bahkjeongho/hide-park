@@ -1,11 +1,16 @@
 ---
-topic:
-  - "[[Agency]]"
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
-  - "[[Branding Agency]]"
-  - "[[Design Studio]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
+  - "[[Brand Design Agency]]"
 IG:
   - https://www.instagram.com/co.policy
 Website: https://www.companypolicy.studio/

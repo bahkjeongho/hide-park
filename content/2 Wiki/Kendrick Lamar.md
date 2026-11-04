@@ -1,7 +1,18 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Sub-Field:
+  - "[[Hip-Hop]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Rapper]]"
-  - "[[Music Artist]]"
+Topic:
+  - "[[Rapper]]"
 Genre:
   - "[[Hip-Hop]]"
   - "[[Rap]]"

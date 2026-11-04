@@ -1,5 +1,13 @@
 ---
-topic:
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Tech Product]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[Tech Product Company]]"
 IG:
   - https://www.instagram.com/nothing/?hl=en

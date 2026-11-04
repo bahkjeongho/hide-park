@@ -2,10 +2,15 @@
 aliases:
   - 하퍼스 바자 코리아
   - Harper's Bazaar Korea
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Fashion Magazine]]"
 IG:
   - https://www.instagram.com/harpersbazaarkorea/

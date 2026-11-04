@@ -1,11 +1,16 @@
 ---
-topic:
-  - "[[Studio]]"
-  - "[[Creative]]"
-  - "[[Video]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Creative Studio]]"
-  - "[[Production Studio]]"
 IG: https://www.instagram.com/aediastudio/
 Related:
   - "[[Jan Lee]]"

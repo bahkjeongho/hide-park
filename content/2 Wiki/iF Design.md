@@ -1,9 +1,12 @@
 ---
-topic:
-  - [[Award]]
-  - [[Design]]
-  - Multidisciplinary
-  - [[Design Award]]
+Category:
+  - "[[Design]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Award]]"
+Topic:
+  - "[[Design Award]]"
 Kind:
   - "[[Award]]"
 IG:

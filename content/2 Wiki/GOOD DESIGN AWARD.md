@@ -2,8 +2,9 @@
 aliases:
   - G Mark
   - グッドデザイン賞
-topic:
-  - Multidisciplinary
+Type:
+  - "[[Event]]"
+Sub-Type:
   - "[[Award]]"
 Kind:
   - "[[Award]]"

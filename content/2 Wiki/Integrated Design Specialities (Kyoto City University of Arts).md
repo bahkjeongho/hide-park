@@ -1,8 +1,12 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Design Program]]"
+Topic:
+  - "[[Design School]]"
 IG:
   - https://www.instagram.com/kyoto_geidai
 Website:

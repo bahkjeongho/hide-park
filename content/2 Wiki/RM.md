@@ -3,10 +3,20 @@ aliases:
   - 김남준
   - Rap Monster
   - RM
-topic:
-  - "[[Music Artist]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Sub-Field:
+  - "[[K-Pop]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Idol]]"
+Topic:
   - "[[K-Pop Idol]]"
-  - "[[Rapper]]"
 Genre:
   - "[[K-Pop]]"
   - "[[Hip Hop]]"

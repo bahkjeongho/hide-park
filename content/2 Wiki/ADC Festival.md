@@ -1,9 +1,13 @@
 ---
 aliases:
   - ADC Festival 2026
-topic:
-  - "[[Festival]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Festival]]"
+Topic:
   - "[[Design Festival]]"
 Kind:
   - "[[Design Festival]]"

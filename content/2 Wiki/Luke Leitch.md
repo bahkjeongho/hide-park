@@ -1,7 +1,14 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Fashion]]"
+Field:
   - "[[Fashion Journalism]]"
-  - "[[Fashion Critique]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Critic]]"
 IG:
   - https://www.instagram.com/luke_leitch/
 URL:

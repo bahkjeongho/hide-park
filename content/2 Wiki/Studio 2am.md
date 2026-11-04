@@ -1,6 +1,7 @@
 ---
-topic:
+Category:
   - "[[Design]]"
+Sub-Category:
   - "[[Graphic Design]]"
 IG:
   - https://www.instagram.com/studio_2am/

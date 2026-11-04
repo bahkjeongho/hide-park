@@ -1,12 +1,16 @@
 ---
 aliases:
   - Dinamo Typefaces
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Typography]]"
-  - "[[Design Studio]]"
-  - "[[Type Foundry]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
 IG:
   - https://www.instagram.com/abcdinamo/
 Website:

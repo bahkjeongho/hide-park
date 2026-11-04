@@ -1,9 +1,16 @@
 ---
-topic:
+Category:
   - "[[Design]]"
+Sub-Category:
   - "[[Graphic Design]]"
-  - "[[Graphic Designer]]"
+Field:
   - "[[Brand Design]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Designer]]"
+Topic:
+  - "[[Brand Designer]]"
 Website:
   - https://www.fluorink.net/
 ---

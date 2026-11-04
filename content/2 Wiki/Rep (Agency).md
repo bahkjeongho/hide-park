@@ -1,5 +1,13 @@
 ---
-topic:
+Category:
+  - "[[Entertainment]]"
+Sub-Category:
+  - "[[Management]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
   - "[[Management Agency]]"
 Website:
   - https://rep-ltd.com/

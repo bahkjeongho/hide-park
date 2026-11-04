@@ -1,5 +1,7 @@
 ---
-topic:
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Writer]]"
 IG:
   - https://www.instagram.com/anton_rahlwes/

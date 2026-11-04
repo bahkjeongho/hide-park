@@ -2,11 +2,16 @@
 aliases:
   - TDC
   - Type Directors Club Awards
-topic:
-  - [[Award]]
-  - [[Design]]
-  - Typography
-  - [[Design Award]]
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
+  - "[[Typography]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Award]]"
 Kind:
   - "[[Award]]"
 Subject:

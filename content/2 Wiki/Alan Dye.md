@@ -1,5 +1,13 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Product Design]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Designer]]"
+Topic:
   - "[[Product Designer]]"
 IG:
   - https://www.instagram.com/alancdye/

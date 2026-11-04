@@ -1,7 +1,17 @@
 ---
 aliases:
   - LA MODE EN IMAGES
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Video]]"
+Field:
+  - "[[Production]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[Production Company]]"
 IG:
   - https://www.instagram.com/lamodeenimages/

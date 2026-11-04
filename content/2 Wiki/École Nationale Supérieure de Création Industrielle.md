@@ -2,8 +2,13 @@
 aliases:
   - ENSCI
   - ENSCI–Les Ateliers
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/ensci_les_ateliers_paris

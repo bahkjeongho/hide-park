@@ -1,6 +1,15 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Label]]"
+Topic:
   - "[[Record Label]]"
 IG:
   - https://www.instagram.com/warprecords/

@@ -2,7 +2,7 @@
 aliases:
   - MTN
   - MTN World
-topic:
+Category:
   - "[[Design]]"
 IG:
   - https://www.instagram.com/montana_colors/

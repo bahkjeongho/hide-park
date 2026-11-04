@@ -1,11 +1,16 @@
 ---
-topic:
-  - "[[Agency]]"
+Category:
   - "[[Design]]"
-  - "[[Consulting]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
-  - "[[Branding Agency]]"
-  - "[[Consulting Agency]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
+  - "[[Brand Design Agency]]"
 IG:
   - https://www.instagram.com/orkr_official/
 Website: https://www.o-r-k-r.kr/

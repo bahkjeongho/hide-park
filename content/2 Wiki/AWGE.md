@@ -1,5 +1,11 @@
 ---
-topic:
+Category:
+  - "[[Entertainment]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[Entertainment Company]]"
 IG:
   - https://www.instagram.com/awgenization/

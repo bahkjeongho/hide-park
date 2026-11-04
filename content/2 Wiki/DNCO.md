@@ -1,11 +1,16 @@
 ---
-topic:
-  - "[[Studio]]"
-  - "[[Consultancy]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
-  - "[[Design Studio]]"
-  - "[[Brand Consultancy]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
+  - "[[Brand Design Studio]]"
 IG:
   - https://www.instagram.com/dnco/
 Website:

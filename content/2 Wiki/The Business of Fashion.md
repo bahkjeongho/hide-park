@@ -1,9 +1,13 @@
 ---
 aliases:
   - BoF
-topic:
+Category:
   - "[[Media]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Company]]"
+Topic:
   - "[[Media Company]]"
 IG:
   - https://www.instagram.com/bof/

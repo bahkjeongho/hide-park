@@ -1,8 +1,16 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Product Design]]"
+Field:
+  - "[[Furniture Design]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Interior & Furniture Design Program]]"
+Topic:
+  - "[[Furniture Design School]]"
 Website:
   - https://www.pratt.edu/design/interior-design/interior-design-bfa/
 Cities:

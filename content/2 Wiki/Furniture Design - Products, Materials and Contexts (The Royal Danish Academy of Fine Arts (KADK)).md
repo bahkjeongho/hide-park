@@ -1,8 +1,16 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Product Design]]"
+Field:
+  - "[[Furniture Design]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Interior & Furniture Design Program]]"
+Topic:
+  - "[[Furniture Design School]]"
 IG:
   - https://www.instagram.com/kglakademi
 Website:

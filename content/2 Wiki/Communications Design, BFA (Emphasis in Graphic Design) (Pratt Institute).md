@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Graphic Design Program]]"
+Topic:
+  - "[[Graphic Design School]]"
 Website:
   - https://www.pratt.edu/design/undergraduate-communications-design/communications-design-bfa-emphasis-in-graphic-design/
 Cities:

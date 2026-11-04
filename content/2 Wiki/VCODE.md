@@ -2,9 +2,13 @@
 aliases:
   - 브이코드 스튜디오
   - VCODE STUDIO
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/vcode_official/

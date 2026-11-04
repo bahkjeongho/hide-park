@@ -2,7 +2,15 @@
 aliases:
   - AWT
   - アートウィーク東京
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Visual Art]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Weekly Festival]]"
+Topic:
   - "[[Art Week]]"
 Kind:
   - "[[Weekly Festival]]"

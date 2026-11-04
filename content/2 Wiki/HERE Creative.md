@@ -1,10 +1,17 @@
 ---
 aliases:
   - HERE CREATIVE
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Agency]]"
-  - "[[Creative]]"
-  - "[[Media Art]]"
+Topic:
   - "[[Creative Agency]]"
 IG:
   - https://www.instagram.com/here.creative/

@@ -1,5 +1,13 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Award]]"
+Topic:
   - "[[Music Award]]"
 Website:
   - https://www.musicawardsjapan.com/

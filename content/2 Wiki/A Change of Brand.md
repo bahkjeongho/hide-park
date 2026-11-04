@@ -1,5 +1,11 @@
 ---
-topic:
+Category:
+  - "[[Media]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Podcast]]"
+Topic:
   - "[[Podcast]]"
 IG:
   - https://www.instagram.com/achangeofbrand/

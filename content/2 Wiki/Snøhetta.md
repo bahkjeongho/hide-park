@@ -1,8 +1,15 @@
 ---
 aliases:
   - Snohetta
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Architecture]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Firm]]"
+Topic:
   - "[[Architecture Firm]]"
 IG:
   - https://www.instagram.com/snohetta/

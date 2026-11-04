@@ -2,12 +2,18 @@
 aliases:
   - Cody Marian
   - cody
-topic:
-  - "[[Director]]"
-  - "[[Creative]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Creative Director]]"
-  - "[[3D Artist]]"
 IG:
   - https://www.instagram.com/codymarian_/
 Website:

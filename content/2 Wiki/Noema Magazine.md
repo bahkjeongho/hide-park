@@ -1,10 +1,15 @@
 ---
 aliases:
   - Noema
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Critique]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Critique Magazine]]"
 IG:
   - https://www.instagram.com/noemamag/

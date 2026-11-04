@@ -1,8 +1,17 @@
 ---
 aliases:
   - MAZARINE GROUP
-topic:
-  - "[[Creative]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Group]]"
+Topic:
   - "[[Creative Group]]"
 IG:
   - https://www.instagram.com/mazarinegroup/

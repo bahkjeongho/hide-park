@@ -3,9 +3,15 @@ aliases:
   - 울리포
   - 잠재문학실험실
   - Ouvroir de littérature potentielle
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Visual Art]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Collective]]"
-  - "[[Art]]"
+Topic:
   - "[[Art Collective]]"
 Website: https://oulipo.net/
 Wikis:

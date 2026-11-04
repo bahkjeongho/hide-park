@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Photography]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Photography Program]]"
+Topic:
+  - "[[Photography School]]"
 Website:
   - https://www.rca.ac.uk/study/programme-finder/photography-ma/
 Cities:

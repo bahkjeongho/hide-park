@@ -1,8 +1,15 @@
 ---
 aliases:
   - Ma Yan Song
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Architecture]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Architect]]"
+Topic:
   - "[[Architect]]"
 IG: "\thttps://www.instagram.com/mayansong_mad/"
 Related:

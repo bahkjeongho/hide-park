@@ -1,8 +1,12 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Comics]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Comics Program]]"
 IG:
   - https://www.instagram.com/SVANYC/
 Website:

@@ -1,10 +1,14 @@
 ---
-topic:
-  - "[[Brand]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Music]]"
-  - "[[Fashion]]"
-  - "[[Record Label]]"
-  - "[[Fashion Brand]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Brand]]"
 IG:
   - https://www.instagram.com/cactusjack/
 Countries:

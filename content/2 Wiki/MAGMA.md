@@ -1,5 +1,11 @@
 ---
-topic:
+Category:
+  - "[[Media]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Journal]]"
+Topic:
   - "[[Journal]]"
 IG:
   - https://www.instagram.com/magmajournal/

@@ -1,10 +1,17 @@
 ---
 aliases:
   - 디베이서매거진
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Music Magazine]]"
 IG:
   - https://www.instagram.com/debasermagazine/

@@ -3,8 +3,13 @@ aliases:
   - UDK
   - UdK Berlin
   - Berlin University of the Arts
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/udkberlin

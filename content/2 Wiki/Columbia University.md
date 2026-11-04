@@ -2,9 +2,10 @@
 aliases:
   - Columbia
   - 컬럼비아 대학교
-topic:
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[University]]"
 IG:
   - https://www.instagram.com/columbia/
 Website:

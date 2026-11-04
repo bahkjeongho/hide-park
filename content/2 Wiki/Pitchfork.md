@@ -1,8 +1,15 @@
 ---
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
   - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Music Magazine]]"
 IG:
   - https://www.instagram.com/pitchfork/

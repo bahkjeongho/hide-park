@@ -1,7 +1,15 @@
 ---
 aliases:
   - Jony Ive
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Product Design]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Designer]]"
+Topic:
   - "[[Product Designer]]"
 Website:
   - https://sirjonyive.com/

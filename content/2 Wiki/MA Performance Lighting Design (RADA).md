@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Architecture]]"
+Field:
+  - "[[Space Design]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Lighting Design Program]]"
 IG:
   - https://www.instagram.com/royalacademyofdramaticart/
 Website:

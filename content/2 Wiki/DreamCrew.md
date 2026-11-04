@@ -1,11 +1,16 @@
 ---
-topic:
-  - "[[Studio]]"
-  - "[[Creative]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Creative Studio]]"
-  - "[[Film Production]]"
-  - "[[Entertainment Company]]"
 IG:
   - https://www.instagram.com/dreamcrew/
 Website:

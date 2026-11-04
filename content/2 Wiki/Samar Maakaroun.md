@@ -1,8 +1,15 @@
 ---
-topic:
-  - "[[Director]]"
-  - "[[Creative]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Creative Director]]"
 Website:
   - https://www.pentagram.com/about/samar-maakaroun-2

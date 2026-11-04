@@ -1,11 +1,12 @@
 ---
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Design Magazine]]"
-  - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/capsule.global/
 Website:

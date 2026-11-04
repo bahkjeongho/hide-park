@@ -1,7 +1,16 @@
 ---
-topic:
-  - Art Direction
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Art Direction]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
   - "[[Award]]"
+Topic:
+  - "[[Art Direction Award]]"
 Kind:
   - "[[Award]]"
 Website:

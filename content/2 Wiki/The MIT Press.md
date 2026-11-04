@@ -1,9 +1,15 @@
 ---
 aliases:
   - MIT Press
-topic:
-  - "[[Publishing]]"
+Category:
   - "[[Media]]"
+Sub-Category:
+  - "[[Publishing]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Publisher]]"
+Topic:
   - "[[Publisher]]"
 IG:
   - https://www.instagram.com/mitpress/

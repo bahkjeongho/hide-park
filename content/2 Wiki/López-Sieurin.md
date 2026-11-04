@@ -1,6 +1,15 @@
 ---
-topic:
-  - "[[Creative]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Office]]"
+Topic:
   - "[[Creative Office]]"
 IG:
   - https://www.instagram.com/lopezsieurinoffice/

@@ -2,9 +2,15 @@
 aliases:
   - yellowpenclub
   - 옐로우 펜 클럽
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Visual Art]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Collective]]"
-  - "[[Art]]"
+Topic:
   - "[[Art Collective]]"
 IG:
   - https://www.instagram.com/ypc.seoul/

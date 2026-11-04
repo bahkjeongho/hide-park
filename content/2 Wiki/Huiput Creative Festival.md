@@ -1,9 +1,12 @@
 ---
-topic:
-  - [[Festival]]
-  - [[Design]]
-  - Graphic Design
-  - [[Design Festival]]
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Festival]]"
 Kind:
   - "[[Design Festival]]"
 Website:

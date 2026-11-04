@@ -1,8 +1,9 @@
 ---
 aliases:
   - DVA
-topic:
-  - Multidisciplinary
+Type:
+  - "[[Event]]"
+Sub-Type:
   - "[[Award]]"
 Kind:
   - "[[Award]]"

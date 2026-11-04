@@ -1,6 +1,11 @@
 ---
-topic:
+Category:
   - "[[Design]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Designer]]"
+Topic:
   - "[[Designer]]"
 IG:
   - https://www.instagram.com/marcnewsonofficial/

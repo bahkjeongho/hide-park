@@ -1,7 +1,16 @@
 ---
-topic:
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Engineering]]"
+Field:
+  - "[[Space]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[Spacecraft Company]]"
-  - "[[AI Company]]"
 Website:
   - https://www.spacex.com/
 Wikis:

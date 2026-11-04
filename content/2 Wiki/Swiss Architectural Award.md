@@ -1,8 +1,14 @@
 ---
-topic:
-  - [[Award]]
-  - [[Architecture]]
-  - [[Architecture Award]]
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Architecture]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Award]]"
+Topic:
+  - "[[Architecture Award]]"
 Kind:
   - "[[Award]]"
 Subject:

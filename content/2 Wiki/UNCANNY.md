@@ -1,11 +1,15 @@
 ---
-topic:
-  - "[[Studio]]"
-  - "[[Creative]]"
+Category:
   - "[[Design]]"
-  - "[[Video]]"
-  - "[[Photography]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Creative Studio]]"
 IG:
   - https://www.instagram.com/uunnccaannyy/

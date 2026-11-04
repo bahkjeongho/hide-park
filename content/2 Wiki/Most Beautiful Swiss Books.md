@@ -1,11 +1,16 @@
 ---
 aliases:
   - The Most Beautiful Swiss Books
-topic:
-  - [[Award]]
-  - [[Design]]
-  - Book & Editorial Design
-  - [[Design Award]]
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
+  - "[[Editorial Design]]"
+Type:
+  - "[[Event]]"
+Sub-Type:
+  - "[[Award]]"
 Kind:
   - "[[Award]]"
 Subject:

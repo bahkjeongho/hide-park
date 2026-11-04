@@ -1,9 +1,13 @@
 ---
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
-  - "[[Journal]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Fashion Magazine]]"
 IG:
   - https://www.instagram.com/viscose_journal/

@@ -1,6 +1,15 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
+Field:
+  - "[[Retail]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[Fashion Retail]]"
 Wikis: https://en.wikipedia.org/wiki/Dover_Street_Market
 Related:

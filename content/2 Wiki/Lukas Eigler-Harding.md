@@ -1,6 +1,11 @@
 ---
-topic:
+Category:
   - "[[Design]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Design Director]]"
 Website: https://lukas.eigler-harding.com/
 Cities:

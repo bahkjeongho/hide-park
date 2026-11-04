@@ -1,14 +1,18 @@
 ---
 aliases:
   - PIETER MULIER
-topic:
-  - "[[Director]]"
-  - "[[Creative]]"
-  - "[[Fashion]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Creative Director]]"
-  - "[[Fashion Designer]]"
 IG:
   - https://www.instagram.com/pieter_mulier/
 Cities:

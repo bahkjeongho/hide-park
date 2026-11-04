@@ -2,9 +2,10 @@
 aliases:
   - New School
   - 뉴스쿨
-topic:
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[University]]"
 Website:
   - https://www.newschool.edu/
 Wikis:

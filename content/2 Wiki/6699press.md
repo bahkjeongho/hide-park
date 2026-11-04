@@ -1,12 +1,12 @@
 ---
-topic:
-  - "[[Studio]]"
-  - "[[Company]]"
-  - "[[Design]]"
+Category:
+  - "[[Media]]"
+Sub-Category:
   - "[[Publishing]]"
-  - "[[Design Studio]]"
-  - "[[Graphic Design]]"
-  - "[[Publishing Company]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
 IG:
   - https://www.instagram.com/6699press/
 Website: https://6699press.kr/

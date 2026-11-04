@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Graphic Design Program]]"
+Topic:
+  - "[[Graphic Design School]]"
 Website:
   - https://www.artcenter.edu/academics/graduate-degrees/graphic-design/overview.html
 Cities:

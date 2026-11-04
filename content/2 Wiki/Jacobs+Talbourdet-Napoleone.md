@@ -2,11 +2,17 @@
 aliases:
   - JACOBS+TALBOURDET-NAPOLEONE
   - LJBTN
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
-  - "[[Creative]]"
-  - "[[Design Studio]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Creative Studio]]"
 IG:
   - https://www.instagram.com/ljbtnstudio/

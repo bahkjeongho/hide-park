@@ -3,8 +3,13 @@ aliases:
   - FIT
   - Fashion Institute of Technology
   - F.I.T.
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/fitnyc

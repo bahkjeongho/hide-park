@@ -1,6 +1,9 @@
 ---
-topic:
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
 IG:
   - https://www.instagram.com/gaa.designstudio/

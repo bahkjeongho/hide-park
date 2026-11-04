@@ -1,11 +1,18 @@
 ---
 aliases:
   - humanafterallstudio
-topic:
-  - "[[Agency]]"
+Category:
   - "[[Design]]"
-  - "[[Design Agency]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
+  - "[[Brand Design Agency]]"
 IG:
   - https://www.instagram.com/humanafterallstudio/
 Website:

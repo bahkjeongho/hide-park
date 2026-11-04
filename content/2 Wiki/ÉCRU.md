@@ -2,7 +2,9 @@
 aliases:
   - 에크루
   - ÉCRU OFFICIAL
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
 IG:
   - https://www.instagram.com/ecru_official/

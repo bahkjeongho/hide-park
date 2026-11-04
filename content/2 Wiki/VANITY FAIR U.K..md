@@ -1,9 +1,12 @@
 ---
-topic:
+Category:
   - "[[Media]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
   - "[[Magazine]]"
-  - "[[Culture]]"
-  - "[[Culture Magazine]]"
+Topic:
+  - "[[Magazine]]"
 Website:
   - https://www.vanityfair.com/
 Countries:

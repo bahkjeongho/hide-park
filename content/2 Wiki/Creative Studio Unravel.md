@@ -1,11 +1,16 @@
 ---
 aliases:
   - CREATIVE STUDIO UNRAVEL
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
-  - "[[Design Studio]]"
+Sub-Category:
+  - "[[Architecture]]"
+Field:
   - "[[Architectural Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
 IG:
   - https://www.instagram.com/official_studiounravel/
 Website:

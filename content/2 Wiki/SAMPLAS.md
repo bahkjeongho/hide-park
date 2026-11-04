@@ -1,8 +1,17 @@
 ---
 aliases:
   - 샘플라스
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
+Field:
+  - "[[Retail]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
+Topic:
   - "[[Fashion Retail]]"
 IG:
   - https://www.instagram.com/samplaskr/

@@ -1,9 +1,12 @@
 ---
-topic:
+Category:
   - "[[Media]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
   - "[[Magazine]]"
-  - "[[Art]]"
-  - "[[Art Magazine]]"
+Topic:
+  - "[[Magazine]]"
 IG:
   - https://www.instagram.com/artreview_magazine/
 Website:

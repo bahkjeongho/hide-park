@@ -1,8 +1,15 @@
 ---
 aliases:
   - rhizome.org
-topic:
-  - "[[Art]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Visual Art]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Platform]]"
+Topic:
   - "[[Art Platform]]"
 IG:
   - https://www.instagram.com/rhizomedotorg/

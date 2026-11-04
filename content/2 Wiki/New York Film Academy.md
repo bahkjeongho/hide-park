@@ -2,8 +2,13 @@
 aliases:
   - NYFA
   - New York Film Academy – School of Film and Acting
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/newyorkfilmacademy

@@ -1,11 +1,16 @@
 ---
 aliases:
   - Helmo
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
+Sub-Category:
   - "[[Graphic Design]]"
-  - "[[Design Studio]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
+  - "[[Graphic Design Studio]]"
 IG:
   - https://www.instagram.com/studiohelmo/
 Website: https://helmo.fr/

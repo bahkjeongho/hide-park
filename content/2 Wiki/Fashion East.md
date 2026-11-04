@@ -1,6 +1,13 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Platform]]"
+Topic:
   - "[[Fashion Platform]]"
 IG:
   - https://www.instagram.com/fashion_east/

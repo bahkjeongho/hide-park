@@ -1,11 +1,16 @@
 ---
-topic:
-  - "[[Agency]]"
-  - "[[Creative]]"
+Category:
   - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
   - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
   - "[[Creative Agency]]"
-  - "[[Brand Design]]"
 IG:
   - https://www.instagram.com/grandarmy/
 Website: https://www.grandarmy.com/

@@ -2,7 +2,15 @@
 aliases:
   - LA CREOLE + CREOLE SOUL
   - Creole Soul
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Performing Arts]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Promoter]]"
+Topic:
   - "[[Promoter]]"
 IG:
   - https://www.instagram.com/lacreole_/

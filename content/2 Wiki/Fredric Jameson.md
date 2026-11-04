@@ -1,9 +1,16 @@
 ---
 aliases:
   - 프레드릭 제임슨
-topic:
+Category:
+  - "[[Humanities]]"
+Sub-Category:
+  - "[[Philosophy]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Theorist]]"
+Topic:
   - "[[Philosopher]]"
-  - "[[Literary Critic]]"
 Wikis:
   - https://namu.wiki/w/%ED%94%84%EB%A0%88%EB%93%9C%EB%A6%AD%20%EC%A0%9C%EC%9E%84%EC%8A%A8
   - https://en.wikipedia.org/wiki/Fredric_Jameson

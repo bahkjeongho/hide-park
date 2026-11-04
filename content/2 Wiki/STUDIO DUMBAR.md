@@ -1,9 +1,14 @@
 ---
-topic:
-  - "[[Agency]]"
+Category:
   - "[[Design]]"
-  - "[[Design Agency]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Motion Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
 IG:
   - https://www.instagram.com/studiodumbar/
 Website: https://studiodumbar.com/

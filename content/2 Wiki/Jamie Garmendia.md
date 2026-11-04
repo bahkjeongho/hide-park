@@ -1,11 +1,18 @@
 ---
 aliases:
   - Jaime Garmendia
-topic:
+Category:
   - "[[Design]]"
+Sub-Category:
   - "[[Graphic Design]]"
-  - "[[Graphic Designer]]"
+Field:
   - "[[Brand Design]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Designer]]"
+Topic:
+  - "[[Brand Designer]]"
 IG:
   - https://www.instagram.com/gaa_designstudio/
 Website:

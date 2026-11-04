@@ -1,7 +1,11 @@
 ---
-topic:
-  - "[[Engineer]]"
-  - "[[Entrepreneur]]"
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Engineering]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[CEO]]"
 Website:
   - https://darioamodei.com/

@@ -1,8 +1,16 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
+  - "[[Illustration]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Illustration Program]]"
+Topic:
+  - "[[Illustration School]]"
 IG:
   - https://www.instagram.com/artezuniversityofthearts
 Website:

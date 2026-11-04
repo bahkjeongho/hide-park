@@ -1,8 +1,12 @@
 ---
-topic:
+Category:
+  - "[[Business]]"
+Sub-Category:
+  - "[[Branding]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Branding Program]]"
 IG:
   - https://www.instagram.com/svabranding/
 ---

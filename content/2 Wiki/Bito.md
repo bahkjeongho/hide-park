@@ -2,11 +2,16 @@
 aliases:
   - Bito Studio
   - bito.tv
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
-  - "[[Design Studio]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Motion Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
 IG:
   - https://www.instagram.com/bitostudio/
 Website:

@@ -2,8 +2,15 @@
 aliases:
   - 에이독스
   - adocs
-topic:
-  - "[[Art]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Visual Art]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Platform]]"
+Topic:
   - "[[Art Platform]]"
 IG:
   - https://www.instagram.com/adocs_official/

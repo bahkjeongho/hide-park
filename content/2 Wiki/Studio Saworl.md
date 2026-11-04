@@ -2,9 +2,13 @@
 aliases:
   - 스튜디오4월
   - 스튜디오 4월
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/studiosaworl/

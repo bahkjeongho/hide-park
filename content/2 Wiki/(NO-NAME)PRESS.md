@@ -1,11 +1,16 @@
 ---
 aliases:
   - 노네임프레스
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
+Sub-Category:
   - "[[Graphic Design]]"
-  - "[[Design Studio]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
+  - "[[Graphic Design Studio]]"
 IG:
   - https://www.instagram.com/nonamepress.kr/
 Website: https://www.nonamepress.kr/

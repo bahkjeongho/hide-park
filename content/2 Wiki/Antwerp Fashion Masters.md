@@ -1,5 +1,13 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Fashion]]"
+Field:
+  - "[[Fashion Design]]"
+Type:
+  - "[[Program]]"
+Topic:
   - "[[Fashion Design Program]]"
 IG:
   - https://www.instagram.com/antwerpfashionmasters/

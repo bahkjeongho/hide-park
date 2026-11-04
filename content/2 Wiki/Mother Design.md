@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
   - "[[Design]]"
-  - "[[Design Company]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Brand Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Company]]"
 IG:
   - https://www.instagram.com/motherdesign/
 Website: https://www.motherdesign.com/

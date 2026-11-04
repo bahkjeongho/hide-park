@@ -3,8 +3,13 @@ aliases:
   - CAFA
   - 中央美术学院
   - 중앙미술학원
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 Website:
   - https://www.cafa.edu.cn/

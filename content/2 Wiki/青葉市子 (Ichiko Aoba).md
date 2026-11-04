@@ -2,8 +2,17 @@
 aliases:
   - Ichiko Aoba
   - 青葉市子
-topic:
-  - "[[Music Artist]]"
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Singer-Songwriter]]"
+Topic:
   - "[[Singer-Songwriter]]"
 Labels:
   - "[[Sinonome]]"

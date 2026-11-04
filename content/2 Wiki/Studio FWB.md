@@ -1,7 +1,11 @@
 ---
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Design Studio]]"
 IG: "\thttps://www.instagram.com/studiofwb/"
 Website: https://studiofwb.com/

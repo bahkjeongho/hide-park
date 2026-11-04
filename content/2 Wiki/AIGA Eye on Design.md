@@ -1,10 +1,13 @@
 ---
 aliases:
   - Eye on Design
-topic:
-  - "[[Media]]"
-  - "[[Magazine]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
+  - "[[Magazine]]"
+Topic:
   - "[[Design Magazine]]"
 IG:
   - https://www.instagram.com/aigaeyeondesign/

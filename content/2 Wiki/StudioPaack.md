@@ -1,9 +1,17 @@
 ---
 aliases:
   - StudioPaack™
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Visual Communication]]"
+Field:
+  - "[[Creative Direction]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
   - "[[Studio]]"
-  - "[[Creative]]"
+Topic:
   - "[[Creative Studio]]"
 IG:
   - https://www.instagram.com/studiopaack/

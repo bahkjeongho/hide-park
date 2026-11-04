@@ -1,6 +1,13 @@
 ---
-topic:
+Category:
+  - "[[Technology]]"
+Sub-Category:
+  - "[[Computer Science]]"
+Type:
+  - "[[People]]"
+Sub-Type:
   - "[[Engineer]]"
+Topic:
   - "[[Computer Scientist]]"
 URL:
   - https://x.com/ilyasut

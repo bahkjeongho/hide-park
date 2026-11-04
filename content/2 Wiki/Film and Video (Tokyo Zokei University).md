@@ -1,8 +1,14 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Film]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Film Program]]"
+Topic:
+  - "[[Film School]]"
 Website:
   - https://www.zokei.ac.jp/academics/undergrad/fi/
 Cities:

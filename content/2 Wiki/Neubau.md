@@ -1,9 +1,14 @@
 ---
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
-  - "[[Design Studio]]"
+Sub-Category:
+  - "[[Graphic Design]]"
+Field:
   - "[[Typography]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
 IG:
   - https://www.instagram.com/neubauberlin/
 Website:

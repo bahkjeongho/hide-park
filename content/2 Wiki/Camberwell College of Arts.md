@@ -2,8 +2,13 @@
 aliases:
   - Camberwell
   - 캠버웰 예술대학
-topic:
+Category:
+  - "[[The Arts]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
+Topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/camberwellual/

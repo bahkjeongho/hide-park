@@ -1,9 +1,15 @@
 ---
 aliases:
   - Alvaro Garcia Ruano
-topic:
+Category:
   - "[[Design]]"
+Sub-Category:
   - "[[Graphic Design]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Designer]]"
+Topic:
   - "[[Graphic Designer]]"
 IG:
   - https://www.instagram.com/alvarogarciaruano/

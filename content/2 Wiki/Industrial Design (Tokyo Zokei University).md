@@ -1,8 +1,16 @@
 ---
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
+  - "[[Product Design]]"
+Field:
+  - "[[Industrial Design]]"
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[Academic Program]]"
-  - "[[Industrial Design Program]]"
+Topic:
+  - "[[Industrial Design School]]"
 Website:
   - https://www.zokei.ac.jp/academics/undergrad/id/
 Cities:

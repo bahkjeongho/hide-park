@@ -2,9 +2,10 @@
 aliases:
   - TU Delft
   - 델프트 공과대학교
-topic:
+Type:
+  - "[[Institution]]"
+Sub-Type:
   - "[[School]]"
-  - "[[University]]"
 IG:
   - https://www.instagram.com/tudelft/
 Website:

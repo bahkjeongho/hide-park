@@ -2,9 +2,13 @@
 aliases:
   - studio okens®
   - 스튜디오 오켄스
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/studio_okens/

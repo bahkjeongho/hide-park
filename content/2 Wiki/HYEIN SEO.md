@@ -2,9 +2,15 @@
 aliases:
   - Hyein Seo
   - 서혜인
-topic:
-  - "[[Brand]]"
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Brand]]"
+Topic:
   - "[[Fashion Brand]]"
 IG:
   - https://www.instagram.com/hyeinantwerp/

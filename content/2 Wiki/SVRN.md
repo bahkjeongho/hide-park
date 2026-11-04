@@ -1,7 +1,9 @@
 ---
 aliases:
   - SVRN®
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
 IG:
   - https://www.instagram.com/svrnshop/

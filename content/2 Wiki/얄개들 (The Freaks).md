@@ -2,7 +2,17 @@
 aliases:
   - 얄개들
   - The Freaks
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Artist]]"
+Topic:
   - "[[Music Artist]]"
 Wikis:
   - https://namu.wiki/w/%EC%96%84%EA%B0%9C%EB%93%A4

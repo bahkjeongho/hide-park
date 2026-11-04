@@ -1,5 +1,13 @@
 ---
-topic:
+Category:
+  - "[[Media]]"
+Sub-Category:
+  - "[[Editing]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Director]]"
+Topic:
   - "[[Editorial Director]]"
 IG:
   - https://www.instagram.com/marc_beauge/

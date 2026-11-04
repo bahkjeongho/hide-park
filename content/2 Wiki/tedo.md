@@ -1,9 +1,13 @@
 ---
 aliases:
   - 태도
-topic:
-  - "[[Agency]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Agency]]"
+Topic:
   - "[[Design Agency]]"
 IG:
   - https://www.instagram.com/tedo.seoul/

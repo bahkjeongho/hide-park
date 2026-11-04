@@ -1,9 +1,14 @@
 ---
 aliases:
   - 보리스 그로이스
-topic:
-  - "[[Art Critic]]"
-  - "[[Philosopher]]"
+Category:
+  - "[[Humanities]]"
+Sub-Category:
+  - "[[Philosophy]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Critic]]"
 Wikis:
   - https://en.wikipedia.org/wiki/Boris_Groys
 ---

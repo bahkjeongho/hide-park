@@ -2,9 +2,13 @@
 aliases:
   - ONE POINT ZERO ONE
   - 1.01
-topic:
-  - "[[Studio]]"
+Category:
   - "[[Design]]"
+Type:
+  - "[[Organization]]"
+Sub-Type:
+  - "[[Studio]]"
+Topic:
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/onepointzerone/

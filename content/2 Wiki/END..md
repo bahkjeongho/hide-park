@@ -1,7 +1,9 @@
 ---
 aliases:
   - END Clothing
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
 IG:
   - https://www.instagram.com/endclothing/

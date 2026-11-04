@@ -1,7 +1,9 @@
 ---
 aliases:
   - momandson_store
-topic:
+Category:
+  - "[[Design]]"
+Sub-Category:
   - "[[Fashion]]"
 IG:
   - https://www.instagram.com/momandson_store/

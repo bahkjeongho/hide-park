@@ -1,9 +1,15 @@
 ---
 aliases:
   - Choi Seulgi
-topic:
+Category:
   - "[[Design]]"
+Sub-Category:
   - "[[Graphic Design]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Designer]]"
+Topic:
   - "[[Graphic Designer]]"
 Website:
   - http://www.chsg.kr/

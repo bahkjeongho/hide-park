@@ -1,8 +1,11 @@
 ---
-topic:
-  - "[[Media]]"
+Category:
+  - "[[Technology]]"
+Type:
+  - "[[Publication]]"
+Sub-Type:
   - "[[Magazine]]"
-  - "[[Tech]]"
+Topic:
   - "[[Tech Magazine]]"
 IG:
   - https://www.instagram.com/arstechnica/
