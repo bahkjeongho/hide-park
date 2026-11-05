@@ -49,6 +49,12 @@
 - 히스토리 사이드바("Recent")는 배포했지만 실제 모양(글자 크기, 간격, 다크 모드)과 위치는 눈으로 확인 전. 태그 시스템(보류), Pretendard(보류)
 - 볼트 오타 [!summray] 1건
 
+## Wiki 속성 체계 (2026-11-05 변경)
+- 소문자 `topic` 속성은 삭제했다. 대신 `Category`, `Sub-Category`, `Field`, `Sub-Field`, `Type`, `Sub-Type`, `Topic` 7개를 쓴다. 값은 `"[[ ]]"` 링크 리스트다. 상세와 규칙은 `docs/topic-system.md`.
+- 사이트는 `Topic`만 쓴다: make-labels.mjs가 `Topic` 첫 값을 홈 라벨로, 전체를 폴더 필터로 읽는다. note-properties는 `includeAll: true`에 위 6개(Topic 제외)를 제외 목록에 둔다. 제외 목록은 대소문자까지 정확히 비교한다.
+- 볼트 노트를 일괄 수정할 때: Obsidian 종료 확인 → `~/Developer/hide-park-backup-…`에 백업하고 해시 비교 → dry-run → 사용자가 "진행"이라고 한 뒤 실행 → 노트마다 YAML 파싱, 기존 줄, 본문 해시 검증(실패 시 되돌림).
+- update.sh 전에 `git status`로 `docs/`의 작업 파일과 인스타 계정 CSV(개인 목록)가 올라가지 않는지 확인한다. 공개 레포다.
+
 ## 디자인
 - 디자인 명세는 DESIGN.md, 시안 캡처는 docs/design/ 에 있다. 디자인 작업 전에 읽는다.
 

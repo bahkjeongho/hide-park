@@ -72,5 +72,7 @@
 - 사용자 직접 확인용 목록: `manual-check.csv`(needs_check 496행). 나머지 미처리는 `manual-todo.csv`
 - 대기열 1893개를 모두 처리했다. 남은 일: 위 6개 적용, needs_check 후보 확인(사용자가 직접 확인한 414개는 `park-done.csv` 기준으로 노트화 완료), 볼트의 기존 노트 7개 IG 채우기(summary.md 마지막 절)
 - 한도 안내: 세션당 WebSearch 한도는 `~/.claude/settings.json`의 `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION`(현재 1000)이다. 문서의 숫자를 믿지 말고 설정을 확인한다. 한도에 걸리면 우회하지 말고 기록 후 멈춘다
+- **바이오 링크 라운드 (2026-11-04)**: `no-evidence-accounts-final.csv`(497개)와 `private-accounts-final.csv`(121개)의 바이오 링크 사이트를 100개씩 열어, 사이트가 `instagram.com/정확한아이디`를 링크하는 경우에만 노트를 만들었다(옵션 A). 개인 계정은 소속 브랜드나 스튜디오 사이트를 근거로 인정하지 않는다. 결과: 노트 154개 + NOT A HOTEL(Hotel Company) 적용. 남은 목록은 `needs-check-all.csv`(87), `no-evidence-all.csv`(689), `private-unsure-all.csv`(257), 열 수 없는 링크는 `unverifiable-links.csv`(82), `unverifiable-links-2.csv`(22). 스크립트는 `bio01~05.py`, `bioP01~02.py`.
+- **topic 체계 변경 (2026-11-05)**: 새 노트의 분류는 소문자 `topic`이 아니라 `Category … Topic` 속성을 쓴다(`docs/topic-system.md`). 이 문서의 노트 형식 6번의 `topic`은 옛 규칙이다. 새 노트를 만들면 `docs/topic-mapping.csv`에서 값을 찾아 같은 형식으로 넣는다.
 - 새 계정 목록이 생기면 대기열에서 progress에 없는 계정을 뽑아 `batch21.json`로 저장해 이어한다
 - 검색 도구가 검색을 거부하는 경우(개인 이름+아이디 조합 등)는 재시도·우회하지 않고 private_or_unsure로 기록한다
