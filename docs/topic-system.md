@@ -59,4 +59,4 @@
 ## 3. Object와 빈 속성 (2026-11-05)
 - 31. Music, 32. Architecture, 33. Video도 7개 속성을 쓴다. `docs/apply_object_props.py`로 순서를 정리했다(Genre, Date, title, 옛 type 삭제). 백업 `…105f/3. Object`.
 - `docs/fill_class_props.py`로 `2. Wiki`(21. Hub 제외) 전 노트에 7개 속성 줄을 빈 값이라도 채웠고, 31. Music 전 노트에 Category=The Arts, Sub-Category=Music, Field=Popular Music, Type=Record를 넣었다. 예전 topic의 EP, Studio Album, Single, Compilation은 Sub-Type으로 옮기고 Topic은 비웠다. 백업 `…105g`(2. Wiki, 3. Object).
-- 새 값(Record, EP, Studio Album, Single, Compilation)의 허브는 아직 없다. 필요하면 make_hubs.py를 3. Object까지 읽도록 확장한다.
+- 새 값(Record, EP, Studio Album, Single, Compilation)의 허브는 아직 없다. make_hubs.py가 3. Object(31~34)도 읽도록 확장했고(허브 323개), 새 허브 11개(Record, EP, Studio Album, Single, Compilation 등)를 `21. Hub`에 만들었다. 백업 `…105h`.
