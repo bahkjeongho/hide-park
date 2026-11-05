@@ -1,8 +1,15 @@
 ---
-title: Essex Honey
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Blood Orange]]"
-year: 2025
+Year: 2025
 ---
 ---
 

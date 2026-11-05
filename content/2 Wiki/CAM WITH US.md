@@ -1,18 +1,12 @@
 ---
 Category:
-  - "[[The Arts]]"
-Sub-Category:
-  - "[[Music]]"
-Field:
-  - "[[Popular Music]]"
-Sub-Field:
-  - "[[K-Pop]]"
+  - "[[Entertainment]]"
 Type:
   - "[[Organization]]"
 Sub-Type:
   - "[[Company]]"
 Topic:
-  - "[[K-Pop Company]]"
+  - "[[Entertainment Company]]"
 IG:
   - https://www.instagram.com/camwus_official
 URL:

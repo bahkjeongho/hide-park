@@ -1,11 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Sub-Type:
   - "[[Studio Album]]"
-Genre:
-  - "[[K-Pop]]"
-artist:
+Artist:
   - "[[RM]]"
-Date: 2024.05.24.
 ---
 ---
 

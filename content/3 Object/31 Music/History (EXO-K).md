@@ -1,8 +1,15 @@
 ---
-title: History
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[EXO-K]]"
-year: 2012
+Year: 2012
 ---
 ---
 

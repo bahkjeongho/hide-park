@@ -1,5 +1,5 @@
 ---
-architect:
+Architect:
   - "[[MAD]]"
 Program:
   - "[[Mixed Use Architecture]]"

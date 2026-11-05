@@ -1,8 +1,15 @@
 ---
-title: Highest in the Room
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Travis Scott]]"
-year: 2019
+Year: 2019
 ---
 ---
 

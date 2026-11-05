@@ -1,8 +1,15 @@
 ---
-title: 2020 Dump
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Jeff Rosenstock]]"
-year: 2020
+Year: 2020
 ---
 ---
 

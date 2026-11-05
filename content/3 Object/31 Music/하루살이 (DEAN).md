@@ -1,8 +1,15 @@
 ---
-title: 하루살이
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[DEAN]]"
-year: 2018
+Year: 2018
 ---
 ---
 

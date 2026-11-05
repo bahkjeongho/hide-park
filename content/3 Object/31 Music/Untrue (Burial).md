@@ -1,8 +1,15 @@
 ---
-title: Untrue
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Burial]]"
-year: 2007
+Year: 2007
 ---
 ---
 

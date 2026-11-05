@@ -1,13 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Sub-Type:
   - "[[Studio Album]]"
-Genre:
-  - "[[K-Pop]]"
-  - "[[Pop]]"
-  - "[[R&B]]"
-artist:
+Artist:
   - "[[ENHYPEN]]"
-Date: 2024.07.12.
 ---
 ---
 

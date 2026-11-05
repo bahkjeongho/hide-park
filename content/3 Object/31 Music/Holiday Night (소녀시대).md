@@ -1,12 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Sub-Type:
   - "[[Studio Album]]"
-Genre:
-  - "[[K-Pop]]"
-  - "[[Ballad]]"
-artist:
+Artist:
   - "[[소녀시대]]"
-Date: 2017.08.04.
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: 깨끗하게, 맑게,
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[조월 (Jowall)]]"
-year: 2013
+Year: 2013
 ---
 ---
 

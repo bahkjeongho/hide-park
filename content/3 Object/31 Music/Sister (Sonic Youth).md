@@ -1,8 +1,15 @@
 ---
-title: Sister
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Sonic Youth]]"
-year: 1987
+Year: 1987
 ---
 ---
 

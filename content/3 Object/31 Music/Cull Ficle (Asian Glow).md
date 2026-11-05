@@ -1,8 +1,15 @@
 ---
-title: Cull Ficle
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Asian Glow]]"
-year: 2021
+Year: 2021
 ---
 ---
 

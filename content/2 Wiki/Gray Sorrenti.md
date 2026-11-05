@@ -13,10 +13,9 @@ IG:
   - https://www.instagram.com/graysorrenti/
 ---
 >[!tldr] tl;dr
->
+> 뉴욕 출신의 포토그래퍼이자 감독
 
 > [!Info]
 > 
 
 > [!Summary]
-

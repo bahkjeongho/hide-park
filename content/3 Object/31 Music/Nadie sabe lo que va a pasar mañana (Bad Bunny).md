@@ -1,8 +1,15 @@
 ---
-title: Nadie sabe lo que va a pasar mañana
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Bad Bunny]]"
-year: 2023
+Year: 2023
 ---
 ---
 

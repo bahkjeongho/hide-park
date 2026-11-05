@@ -1,8 +1,15 @@
 ---
-title: 동요 / 할시온의 관
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[공중도둑|그림자 공동체]]"
-year: 2019
+Year: 2019
 ---
 ---
 

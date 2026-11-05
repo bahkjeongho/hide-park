@@ -1,8 +1,15 @@
 ---
-title: The Passionate Ones
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Nourished by Time]]"
-year: 2025
+Year: 2025
 ---
 ---
 

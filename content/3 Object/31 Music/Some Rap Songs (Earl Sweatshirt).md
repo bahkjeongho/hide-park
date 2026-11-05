@@ -1,8 +1,15 @@
 ---
-title: Some Rap Songs
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Earl Sweatshirt]]"
-year: 2018
+Year: 2018
 ---
 ---
 

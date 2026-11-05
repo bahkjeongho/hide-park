@@ -1,13 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Sub-Type:
   - "[[EP]]"
-Genre:
-  - "[[K-Pop]]"
-  - "[[Hip Hop]]"
-  - "[[R&B]]"
-artist:
+Artist:
   - "[[YOUNG POSSE]]"
-Date: 2024.08.21.
 ---
 ---
 

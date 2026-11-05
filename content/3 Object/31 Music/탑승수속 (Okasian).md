@@ -1,8 +1,15 @@
 ---
-title: 탑승수속
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Okasian]]"
-year: 2012
+Year: 2012
 ---
 ---
 

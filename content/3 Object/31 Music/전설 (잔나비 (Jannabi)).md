@@ -1,8 +1,15 @@
 ---
-title: 전설
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[잔나비 (Jannabi)]]"
-year: 2019
+Year: 2019
 ---
 ---
 

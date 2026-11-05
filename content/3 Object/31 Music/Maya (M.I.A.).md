@@ -1,8 +1,15 @@
 ---
-title: Maya
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[M.I.A.]]"
-year: 2010
+Year: 2010
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: XX
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[XXX]]"
-year: 2014
+Year: 2014
 ---
 ---
 

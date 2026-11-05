@@ -1,8 +1,15 @@
 ---
-title: Crush
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[2NE1]]"
-year: 2014
+Year: 2014
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: Syro
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Aphex Twin]]"
-year: 2014
+Year: 2014
 ---
 ---
 

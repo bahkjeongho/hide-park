@@ -1,8 +1,15 @@
 ---
-title: "Hideout: Be Our Voice - Season 3."
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[CRAVITY]]"
-year: 2021
+Year: 2021
 ---
 ---
 

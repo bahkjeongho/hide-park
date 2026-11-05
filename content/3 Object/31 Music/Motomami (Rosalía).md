@@ -1,8 +1,15 @@
 ---
-title: Motomami
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Rosalía]]"
-year: 2022
+Year: 2022
 ---
 ---
 

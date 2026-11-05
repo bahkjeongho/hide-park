@@ -1,8 +1,15 @@
 ---
-title: The Perfect Red Velvet
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Red Velvet]]"
-year: 2018
+Year: 2018
 ---
 ---
 

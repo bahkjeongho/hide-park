@@ -1,0 +1,20 @@
+---
+---
+>[!tldr] tl;dr
+> [[BOB Design]]의 Designer
+
+> [!Info]
+> 브뤼셀에서 태어난 프란시스코는 라 캉브르에서 타이포그래피 학사·석사 과정을 마치고 런던패션대학에서 크리에이티브 디렉션을 공부했다. BOB에 오기 전에는 Accept & Proceed에서 일했으며, Karel Martens, OrType, La Perruque의 워크숍에 참여했다.
+>
+> Born in Brussels, Francisco completed Bachelor’s and Master’s degrees in typography at La Cambre as well as studying creative direction at London College of Fashion. Before joining BOB, Francisco worked with Accept & Proceed and has participated in workshops with Karel Martens, OrType and La Perruque.
+
+> [!Summary]
+
+---
+
+# Portfolio
+
+
+---
+
+# People

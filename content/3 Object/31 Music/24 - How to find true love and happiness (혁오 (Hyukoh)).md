@@ -1,8 +1,15 @@
 ---
-title: "24 : How to find true love and happiness"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[혁오 (Hyukoh)]]"
-year: 2018
+Year: 2018
 ---
 ---
 

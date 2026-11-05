@@ -1,8 +1,15 @@
 ---
-title: Harmony in Ultraviolet
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Tim Hecker]]"
-year: 2006
+Year: 2006
 ---
 ---
 

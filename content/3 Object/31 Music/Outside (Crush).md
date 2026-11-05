@@ -1,8 +1,15 @@
 ---
-title: Outside
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Crush]]"
-year: 2017
+Year: 2017
 ---
 ---
 

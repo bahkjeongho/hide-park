@@ -1,8 +1,15 @@
 ---
-title: 1Q87
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[넉살 (Nucksal)]]"
-year: 2020
+Year: 2020
 ---
 ---
 

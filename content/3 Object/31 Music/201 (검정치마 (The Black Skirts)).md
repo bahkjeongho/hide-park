@@ -1,8 +1,15 @@
 ---
-title: "201"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[검정치마]]"
-year: 2008
+Year: 2008
 ---
 ---
 

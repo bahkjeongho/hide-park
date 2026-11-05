@@ -1,8 +1,15 @@
 ---
-title: Utopia
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Travis Scott]]"
-year: 2023
+Year: 2023
 ---
 ---
 

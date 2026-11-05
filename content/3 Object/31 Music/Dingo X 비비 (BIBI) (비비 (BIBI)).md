@@ -1,8 +1,15 @@
 ---
-title: Dingo X 비비 (BIBI)
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[비비 (BIBI)]]"
-year: 2020
+Year: 2020
 ---
 ---
 

@@ -1,5 +1,5 @@
 ---
-architect:
+Architect:
   - "[[TAKENAKA]]"
 Program:
   - "[[Office Architecture]]"

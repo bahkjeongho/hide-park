@@ -1,8 +1,15 @@
 ---
-title: Dali, Van, Picasso
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Beenzino]]"
-year: 2013
+Year: 2013
 ---
 ---
 

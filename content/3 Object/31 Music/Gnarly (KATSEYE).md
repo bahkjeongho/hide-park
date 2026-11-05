@@ -1,11 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Sub-Type:
   - "[[Single]]"
-Genre:
-  - "[[K-Pop]]"
-artist:
+Artist:
   - "[[KATSEYE]]"
-Date: 2025.04.30.
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: We Got It From Here… Thank You 4 Your Service
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[A Tribe Called Quest]]"
-year: 2016
+Year: 2016
 ---
 ---
 

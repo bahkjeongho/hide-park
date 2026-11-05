@@ -1,8 +1,15 @@
 ---
-title: Rich & Clear
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Omega Sapien]]"
-year: 2018
+Year: 2018
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: 작은 것들의 신
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[넉살 (Nucksal)]]"
-year: 2016
+Year: 2016
 ---
 ---
 

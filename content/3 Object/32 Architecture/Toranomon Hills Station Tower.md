@@ -1,5 +1,5 @@
 ---
-architect:
+Architect:
   - "[[OMA]]"
   - "[[Shohei Shigematsu]]"
 Program:

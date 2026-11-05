@@ -1,5 +1,5 @@
 ---
-architect:
+Architect:
   - "[[David Chipperfield]]"
   - "[[David Chipperfield Architects]]"
 Program:

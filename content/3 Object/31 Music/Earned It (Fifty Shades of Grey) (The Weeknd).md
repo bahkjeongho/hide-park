@@ -1,8 +1,15 @@
 ---
-title: Earned It (Fifty Shades of Grey)
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[The Weeknd]]"
-year: 2014
+Year: 2014
 ---
 ---
 

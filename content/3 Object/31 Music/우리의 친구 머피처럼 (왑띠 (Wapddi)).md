@@ -1,8 +1,15 @@
 ---
-title: 우리의 친구 머피처럼
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[왑띠 (Wapddi)]]"
-year: 2024
+Year: 2024
 ---
 ---
 

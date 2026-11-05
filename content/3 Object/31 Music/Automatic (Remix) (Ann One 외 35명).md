@@ -1,6 +1,13 @@
 ---
-title: Automatic (Remix)
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Ann One]]"
   - "[[B.E.D.]]"
   - "[[BIBI]]"
@@ -37,7 +44,7 @@ artist:
   - "[[시도]]"
   - "[[앤원]]"
   - "[[이하이]]"
-year: 2020
+Year: 2020
 ---
 ---
 

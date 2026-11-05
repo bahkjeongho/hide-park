@@ -1,8 +1,15 @@
 ---
-title: Die Lit
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Playboi Carti]]"
-year: 2018
+Year: 2018
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: 저금통
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[E SENS]]"
-year: 2023
+Year: 2023
 ---
 ---
 

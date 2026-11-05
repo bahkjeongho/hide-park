@@ -1,8 +1,15 @@
 ---
-title: SICK!
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Earl Sweatshirt]]"
-year: 2022
+Year: 2022
 ---
 ---
 

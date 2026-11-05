@@ -1,8 +1,15 @@
 ---
-title: 맛
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[NCT Dream]]"
-year: 2021
+Year: 2021
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: 사랑의 이영표 (Leeyoungpyo of Love)
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[J.E.B]]"
-year: 2017
+Year: 2017
 ---
 ---
 

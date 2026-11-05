@@ -1,8 +1,15 @@
 ---
-title: Donda
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Kanye West]]"
-year: 2021
+Year: 2021
 ---
 ---
 

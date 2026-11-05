@@ -1,8 +1,15 @@
 ---
-title: "NCT #127 Limitless"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[NCT 127]]"
-year: 2017
+Year: 2017
 ---
 ---
 

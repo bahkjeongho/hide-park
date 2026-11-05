@@ -1,8 +1,15 @@
 ---
-title: "Fe3O4: Break"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[NMIXX]]"
-year: 2024
+Year: 2024
 ---
 ---
 

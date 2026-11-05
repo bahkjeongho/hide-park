@@ -4,7 +4,7 @@ Category:
 Sub-Category:
   - "[[Digital Design]]"
 Field:
-  - "[[Web & UI/UX]]"
+  - "[[Web & UI-UX]]"
 Type:
   - "[[Event]]"
 Sub-Type:

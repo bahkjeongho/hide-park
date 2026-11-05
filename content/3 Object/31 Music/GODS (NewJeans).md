@@ -1,8 +1,15 @@
 ---
-title: GODS
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[NewJeans]]"
-year: 2023
+Year: 2023
 ---
 ---
 

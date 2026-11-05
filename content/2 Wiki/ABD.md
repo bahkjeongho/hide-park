@@ -1,12 +1,18 @@
 ---
 Category:
-  - "[[Entertainment]]"
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Sub-Field:
+  - "[[K-Pop]]"
 Type:
   - "[[Organization]]"
 Sub-Type:
   - "[[Company]]"
 Topic:
-  - "[[Entertainment Company]]"
+  - "[[K-Pop Company]]"
 ---
 >[!tldr] tl;dr
 >

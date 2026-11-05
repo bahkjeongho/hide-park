@@ -1,8 +1,15 @@
 ---
-title: 사장님 도박은 재미로 하셔야 합니다
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[비비 (BIBI)]]"
-year: 2020
+Year: 2020
 ---
 ---
 

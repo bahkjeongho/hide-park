@@ -1,8 +1,15 @@
 ---
-title: Kid A
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Radiohead]]"
-year: 2000
+Year: 2000
 ---
 ---
 

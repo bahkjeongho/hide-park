@@ -1,8 +1,15 @@
 ---
-title: Crush On You
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Crush]]"
-year: 2014
+Year: 2014
 ---
 ---
 

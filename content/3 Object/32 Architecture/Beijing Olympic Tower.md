@@ -1,5 +1,5 @@
 ---
-architect:
+Architect:
   - "[[CCTC]]"
 Program:
   - "[[Tower Architecture]]"

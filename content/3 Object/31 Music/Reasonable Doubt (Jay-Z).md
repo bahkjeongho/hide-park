@@ -1,8 +1,15 @@
 ---
-title: Reasonable Doubt
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Jay-Z]]"
-year: 1996
+Year: 1996
 ---
 ---
 

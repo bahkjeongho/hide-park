@@ -1,8 +1,15 @@
 ---
-title: Room(s)
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Machinedrum]]"
-year: 2011
+Year: 2011
 ---
 ---
 

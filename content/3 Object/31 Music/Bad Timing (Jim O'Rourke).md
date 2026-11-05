@@ -1,8 +1,15 @@
 ---
-title: Bad Timing
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Jim O'Rourke]]"
-year: 1997
+Year: 1997
 ---
 ---
 

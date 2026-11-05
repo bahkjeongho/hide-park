@@ -1,8 +1,15 @@
 ---
-title: Is This It
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[The Strokes]]"
-year: 2001
+Year: 2001
 ---
 ---
 

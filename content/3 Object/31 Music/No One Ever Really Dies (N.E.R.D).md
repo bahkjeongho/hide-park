@@ -1,8 +1,15 @@
 ---
-title: No One Ever Really Dies
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[N.E.R.D]]"
-year: 2017
+Year: 2017
 ---
 ---
 

@@ -1,8 +1,6 @@
 ---
-topic:
+Topic:
   - "[[Lecture Video]]"
-Type:
-  - "[[Robotics]]"
 Related:
   - "[[Nvidia]]"
   - "[[Sequoia Capital]]"

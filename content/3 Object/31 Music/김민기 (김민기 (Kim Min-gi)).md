@@ -1,8 +1,15 @@
 ---
-title: 김민기
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[김민기 (Kim Min-gi)]]"
-year: 1971
+Year: 1971
 ---
 ---
 

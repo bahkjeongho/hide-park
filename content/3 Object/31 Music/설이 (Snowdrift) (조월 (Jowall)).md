@@ -1,8 +1,15 @@
 ---
-title: 설이 (Snowdrift)
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[조월 (Jowall)]]"
-year: 2023
+Year: 2023
 ---
 ---
 

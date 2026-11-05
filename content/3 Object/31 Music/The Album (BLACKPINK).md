@@ -1,13 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Sub-Type:
   - "[[Studio Album]]"
-Genre:
-  - "[[K-Pop]]"
-  - "[[Dance-Pop]]"
-  - "[[Hip Hop]]"
-artist:
+Artist:
   - "[[BLACKPINK]]"
-Date: 2020.10.02.
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: "iScreaM Vol.33 : Supernova / Armageddon Remixes"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[aespa]]"
-year: 2024
+Year: 2024
 ---
 ---
 

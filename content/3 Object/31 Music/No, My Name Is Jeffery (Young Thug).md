@@ -1,8 +1,15 @@
 ---
-title: No, My Name Is Jeffery
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Young Thug]]"
-year: 2016
+Year: 2016
 ---
 ---
 

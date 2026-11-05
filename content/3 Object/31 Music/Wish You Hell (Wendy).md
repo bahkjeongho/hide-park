@@ -1,8 +1,15 @@
 ---
-title: Wish You Hell
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Wendy]]"
-year: 2024
+Year: 2024
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: XX,
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[SUMIN]]"
-year: 2020
+Year: 2020
 ---
 ---
 

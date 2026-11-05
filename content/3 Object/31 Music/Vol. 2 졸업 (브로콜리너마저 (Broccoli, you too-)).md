@@ -1,8 +1,15 @@
 ---
-title: Vol. 2 졸업
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[브로콜리너마저 (Broccoli, you too-)|브로콜리너마저 (Broccoli, you too?)]]"
-year: 2010
+Year: 2010
 ---
 ---
 

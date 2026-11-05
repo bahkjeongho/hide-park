@@ -1,8 +1,15 @@
 ---
-title: Sky Hundred
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[파란노을 (Parannoul)]]"
-year: 2024
+Year: 2024
 ---
 ---
 

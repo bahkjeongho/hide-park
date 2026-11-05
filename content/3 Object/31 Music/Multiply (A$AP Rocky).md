@@ -1,8 +1,15 @@
 ---
-title: Multiply
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[A$AP Rocky]]"
-year: 2014
+Year: 2014
 ---
 ---
 

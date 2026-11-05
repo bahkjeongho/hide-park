@@ -1,8 +1,15 @@
 ---
-title: 온다
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[잠비나이 (Jambinai)]]"
-year: 2019
+Year: 2019
 ---
 ---
 

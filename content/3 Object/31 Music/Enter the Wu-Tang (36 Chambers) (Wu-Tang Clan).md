@@ -1,8 +1,15 @@
 ---
-title: Enter the Wu-Tang (36 Chambers)
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Wu-Tang Clan]]"
-year: 1993
+Year: 1993
 ---
 ---
 

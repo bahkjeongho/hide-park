@@ -1,8 +1,15 @@
 ---
-title: Dreamfear / Boy Sent From Above
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Burial]]"
-year: 2024
+Year: 2024
 ---
 ---
 

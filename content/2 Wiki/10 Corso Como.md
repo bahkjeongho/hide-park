@@ -3,12 +3,10 @@ Category:
   - "[[Design]]"
 Sub-Category:
   - "[[Fashion]]"
-Type:
-  - "[[Organization]]"
-Sub-Type:
-  - "[[Brand]]"
+Field:
+  - "[[Retail]]"
 Topic:
-  - "[[Fashion Brand]]"
+  - "[[Fashion Retail]]"
 IG:
   - https://www.instagram.com/10corsocomo/
 Wikis:

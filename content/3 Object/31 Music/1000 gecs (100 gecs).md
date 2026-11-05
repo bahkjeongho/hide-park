@@ -1,8 +1,15 @@
 ---
-title: 1000 gecs
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[100 gecs]]"
-year: 2019
+Year: 2019
 ---
 ---
 

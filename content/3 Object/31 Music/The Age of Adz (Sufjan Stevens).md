@@ -1,8 +1,15 @@
 ---
-title: The Age of Adz
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Sufjan Stevens]]"
-year: 2010
+Year: 2010
 ---
 ---
 

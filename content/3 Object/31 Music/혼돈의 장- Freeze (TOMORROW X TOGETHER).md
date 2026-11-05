@@ -1,8 +1,15 @@
 ---
-title: "혼돈의 장: Freeze"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[TOMORROW X TOGETHER]]"
-year: 2021
+Year: 2021
 ---
 ---
 

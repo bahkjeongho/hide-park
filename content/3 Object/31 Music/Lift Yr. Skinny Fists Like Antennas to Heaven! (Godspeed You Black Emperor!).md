@@ -1,8 +1,15 @@
 ---
-title: Lift Yr. Skinny Fists Like Antennas to Heaven!
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Godspeed You Black Emperor!]]"
-year: 2000
+Year: 2000
 ---
 ---
 

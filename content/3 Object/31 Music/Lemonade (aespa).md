@@ -1,11 +1,15 @@
 ---
-title: Lemonade
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[aespa]]"
-year: 2026
-genre:
-  - K-Pop
-type: Single
+Year: 2026
 ---
 ---
 

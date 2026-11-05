@@ -1,8 +1,15 @@
 ---
-title: MTLA
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[E SENS]]"
-year: 2018
+Year: 2018
 ---
 ---
 

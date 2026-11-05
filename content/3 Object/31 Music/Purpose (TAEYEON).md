@@ -1,8 +1,15 @@
 ---
-title: Purpose
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[TAEYEON]]"
-year: 2019
+Year: 2019
 ---
 ---
 

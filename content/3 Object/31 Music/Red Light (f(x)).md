@@ -1,8 +1,15 @@
 ---
-title: Red Light
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[f(x)]]"
-year: 2014
+Year: 2014
 ---
 ---
 

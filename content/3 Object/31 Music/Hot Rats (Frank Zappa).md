@@ -1,8 +1,15 @@
 ---
-title: Hot Rats
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Frank Zappa]]"
-year: 1969
+Year: 1969
 ---
 ---
 

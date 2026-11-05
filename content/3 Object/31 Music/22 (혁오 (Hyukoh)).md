@@ -1,8 +1,15 @@
 ---
-title: "22"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[혁오 (Hyukoh)]]"
-year: 2015
+Year: 2015
 ---
 ---
 

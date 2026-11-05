@@ -1,8 +1,15 @@
 ---
-title: 사람의 마음
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[장기하와 얼굴들 (Kiha & The Faces)]]"
-year: 2014
+Year: 2014
 ---
 ---
 

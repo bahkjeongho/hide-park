@@ -1,8 +1,15 @@
 ---
-title: Kyo181
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[실리카겔 (SILICA GEL)]]"
-year: 2020
+Year: 2020
 ---
 ---
 

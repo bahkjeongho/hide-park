@@ -1,8 +1,15 @@
 ---
-title: "0"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[青葉市子 (Ichiko Aoba)]]"
-year: 2013
+Year: 2013
 ---
 ---
 

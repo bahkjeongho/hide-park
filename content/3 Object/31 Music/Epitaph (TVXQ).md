@@ -1,11 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Sub-Type:
   - "[[EP]]"
-Genre:
-  - "[[K-Pop]]"
-artist:
+Artist:
   - "[[동방신기]]"
-Date: 2022.03.16.
 ---
 ---
 

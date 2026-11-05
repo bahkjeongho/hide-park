@@ -1,6 +1,14 @@
 ---
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
 Artist: "[[A$AP Rocky]]"
-Creatives:
+Creative:
   - "[[Vania Heyman]]"
   - "[[Gal Muggia]]"
 URL:

@@ -1,8 +1,15 @@
 ---
-title: "The ReVe Festival 2022: Birthday"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Red Velvet]]"
-year: 2022
+Year: 2022
 ---
 ---
 

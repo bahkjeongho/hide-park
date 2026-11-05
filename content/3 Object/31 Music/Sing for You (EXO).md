@@ -1,11 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Sub-Type:
   - "[[EP]]"
-Genre:
-  - "[[K-Pop]]"
-artist:
+Artist:
   - "[[EXO]]"
-Date: 2015.12.10.
 ---
 ---
 

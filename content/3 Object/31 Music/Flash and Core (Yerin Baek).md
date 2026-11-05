@@ -1,8 +1,15 @@
 ---
-title: Flash and Core
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Yerin Baek]]"
-year: 2025
+Year: 2025
 ---
 ---
 

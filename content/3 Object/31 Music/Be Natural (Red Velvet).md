@@ -1,11 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Sub-Type:
   - "[[Single]]"
-Genre:
-  - "[[K-Pop]]"
-artist:
+Artist:
   - "[[Red Velvet]]"
-Date: 2014.10.13.
 ---
 ---
 

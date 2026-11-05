@@ -1,8 +1,15 @@
 ---
-title: 28 Reasons
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[슬기]]"
-year: 2022
+Year: 2022
 ---
 ---
 

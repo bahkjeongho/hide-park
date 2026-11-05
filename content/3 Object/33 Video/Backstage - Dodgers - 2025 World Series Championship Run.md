@@ -1,10 +1,6 @@
 ---
-topic:
+Topic:
   - "[[Documentary Video]]"
-Type:
-  - "[[Sports]]"
-  - "[[Baseball]]]"
-  - "[[MLB]]"
 Related:
   - "[[LA Dodgers]]"
 ---

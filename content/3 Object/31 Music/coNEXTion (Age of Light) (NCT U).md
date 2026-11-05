@@ -1,8 +1,15 @@
 ---
-title: coNEXTion (Age of Light)
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[NCT U]]"
-year: 2022
+Year: 2022
 ---
 ---
 

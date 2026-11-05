@@ -1,8 +1,15 @@
 ---
-title: Masseduction
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[St. Vincent]]"
-year: 2017
+Year: 2017
 ---
 ---
 

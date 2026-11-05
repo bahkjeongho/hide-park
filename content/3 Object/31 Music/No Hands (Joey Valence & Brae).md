@@ -1,8 +1,15 @@
 ---
-title: No Hands
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Joey Valence & Brae]]"
-year: 2024
+Year: 2024
 ---
 ---
 

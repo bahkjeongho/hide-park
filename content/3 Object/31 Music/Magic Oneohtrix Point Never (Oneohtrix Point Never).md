@@ -1,8 +1,15 @@
 ---
-title: Magic Oneohtrix Point Never
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Oneohtrix Point Never]]"
-year: 2020
+Year: 2020
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: "The Billage of Perception : Chapter One"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Billlie]]"
-year: 2021
+Year: 2021
 ---
 ---
 

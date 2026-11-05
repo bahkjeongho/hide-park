@@ -1,8 +1,15 @@
 ---
-title: Flaw, Flaw
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Jclef]]"
-year: 2018
+Year: 2018
 ---
 ---
 

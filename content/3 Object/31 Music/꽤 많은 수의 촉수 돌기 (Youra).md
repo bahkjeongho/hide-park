@@ -1,8 +1,15 @@
 ---
-title: 꽤 많은 수의 촉수 돌기
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Youra]]"
-year: 2023
+Year: 2023
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: 빛나는 스트라이크
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[신인류 (Shin In Ryu)]]"
-year: 2025
+Year: 2025
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: In Rainbows
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Radiohead]]"
-year: 2007
+Year: 2007
 ---
 ---
 

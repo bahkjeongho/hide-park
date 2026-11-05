@@ -1,11 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Sub-Type:
   - "[[Studio Album]]"
-Genre:
-  - "[[K-Pop]]"
-artist:
+Artist:
   - "[[NCT DREAM]]"
-Date: 2022.05.30.
 ---
 ---
 

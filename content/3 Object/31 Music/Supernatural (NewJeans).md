@@ -1,11 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Sub-Type:
   - "[[Single]]"
-Genre:
-  - "[[K-Pop]]"
-artist:
+Artist:
   - "[[NewJeans]]"
-Date: 2024.06.21.
 ---
 ---
 

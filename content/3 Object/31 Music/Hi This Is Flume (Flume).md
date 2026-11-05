@@ -1,8 +1,15 @@
 ---
-title: Hi This Is Flume
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Flume]]"
-year: 2019
+Year: 2019
 ---
 ---
 

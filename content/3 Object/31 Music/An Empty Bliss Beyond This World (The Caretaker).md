@@ -1,8 +1,15 @@
 ---
-title: An Empty Bliss Beyond This World
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[The Caretaker]]"
-year: 2011
+Year: 2011
 ---
 ---
 

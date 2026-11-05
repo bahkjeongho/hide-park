@@ -1,5 +1,5 @@
 ---
-architect:
+Architect:
   - "[[Kuma Kengo]]"
 Program:
   - "[[Office Architecture]]"

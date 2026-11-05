@@ -1,8 +1,15 @@
 ---
-title: Ooh - Ah
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[XXX]]"
-year: 2017
+Year: 2017
 ---
 ---
 

@@ -1,11 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Sub-Type:
   - "[[EP]]"
-Genre:
-  - "[[K-Pop]]"
-artist:
+Artist:
   - "[[SEVENTEEN]]"
-Date: 2023.04.24.
 ---
 ---
 

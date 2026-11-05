@@ -1,8 +1,15 @@
 ---
-title: re:FLEX*ion
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[NET GALA]]"
-year: 2019
+Year: 2019
 ---
 ---
 

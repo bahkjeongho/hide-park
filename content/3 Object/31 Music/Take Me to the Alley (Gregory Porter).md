@@ -1,8 +1,15 @@
 ---
-title: Take Me to the Alley
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Gregory Porter]]"
-year: 2016
+Year: 2016
 ---
 ---
 

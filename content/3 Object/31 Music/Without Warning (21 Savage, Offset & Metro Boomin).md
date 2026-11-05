@@ -1,10 +1,17 @@
 ---
-title: Without Warning
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[21 Savage]]"
   - "[[Offset]]"
   - "[[Metro Boomin]]"
-year: 2017
+Year: 2017
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: "The First Mini Album: 누난 너무 예뻐 (Replay)"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[SHINee]]"
-year: 2008
+Year: 2008
 ---
 ---
 

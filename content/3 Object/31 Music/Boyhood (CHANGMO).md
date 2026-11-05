@@ -1,8 +1,15 @@
 ---
-title: Boyhood
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[창모]]"
-year: 2019
+Year: 2019
 ---
 ---
 

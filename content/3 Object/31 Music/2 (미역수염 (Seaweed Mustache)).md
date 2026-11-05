@@ -1,8 +1,15 @@
 ---
-title: "2"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[미역수염 (Seaweed Mustache)]]"
-year: 2024
+Year: 2024
 ---
 ---
 

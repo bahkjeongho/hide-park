@@ -1,8 +1,15 @@
 ---
-title: Raise y_our glass
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Huh Yunjin]]"
-year: 2022
+Year: 2022
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: Bundle1
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[김심야 (Kim Ximya)]]"
-year: 2020
+Year: 2020
 ---
 ---
 

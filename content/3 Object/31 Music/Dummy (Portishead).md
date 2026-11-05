@@ -1,8 +1,15 @@
 ---
-title: Dummy
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Portishead]]"
-year: 1994
+Year: 1994
 ---
 ---
 

@@ -1,5 +1,5 @@
 ---
-architect:
+Architect:
   - "[[Hopkins Architects]]"
 Program:
   - "[[Commercial Architecture]]"

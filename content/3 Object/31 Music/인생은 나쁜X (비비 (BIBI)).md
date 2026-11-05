@@ -1,8 +1,15 @@
 ---
-title: 인생은 나쁜X
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[비비 (BIBI)]]"
-year: 2021
+Year: 2021
 ---
 ---
 

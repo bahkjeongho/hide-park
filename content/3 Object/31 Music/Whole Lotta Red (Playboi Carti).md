@@ -1,8 +1,15 @@
 ---
-title: Whole Lotta Red
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Playboi Carti]]"
-year: 2020
+Year: 2020
 ---
 ---
 

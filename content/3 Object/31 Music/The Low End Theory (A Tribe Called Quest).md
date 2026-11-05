@@ -1,8 +1,15 @@
 ---
-title: The Low End Theory
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[A Tribe Called Quest]]"
-year: 1991
+Year: 1991
 ---
 ---
 

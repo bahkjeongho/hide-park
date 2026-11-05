@@ -1,8 +1,15 @@
 ---
-title: Electric Shock
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[f(x)]]"
-year: 2012
+Year: 2012
 ---
 ---
 

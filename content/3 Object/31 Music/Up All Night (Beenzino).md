@@ -1,8 +1,15 @@
 ---
-title: Up All Night
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Beenzino]]"
-year: 2014
+Year: 2014
 ---
 ---
 

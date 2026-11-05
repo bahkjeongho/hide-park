@@ -1,8 +1,15 @@
 ---
-title: 보난자 (Bonanza)
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[조월 (Jowall)]]"
-year: 2014
+Year: 2014
 ---
 ---
 

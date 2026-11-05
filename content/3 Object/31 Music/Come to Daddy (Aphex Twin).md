@@ -1,8 +1,15 @@
 ---
-title: Come to Daddy
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Aphex Twin]]"
-year: 1997
+Year: 1997
 ---
 ---
 

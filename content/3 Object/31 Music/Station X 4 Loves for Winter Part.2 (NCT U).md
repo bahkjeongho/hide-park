@@ -1,8 +1,15 @@
 ---
-title: Station X 4 Loves for Winter Part.2
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[NCT U]]"
-year: 2019
+Year: 2019
 ---
 ---
 

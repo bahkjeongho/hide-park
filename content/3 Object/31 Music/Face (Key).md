@@ -1,8 +1,15 @@
 ---
-title: Face
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Key]]"
-year: 2018
+Year: 2018
 ---
 ---
 

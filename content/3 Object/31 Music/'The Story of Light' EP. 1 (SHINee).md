@@ -1,8 +1,15 @@
 ---
-title: "'The Story of Light' EP. 1"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[SHINee]]"
-year: 2018
+Year: 2018
 ---
 ---
 

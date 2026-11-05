@@ -1,8 +1,15 @@
 ---
-title: 무너지기
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[공중도둑]]"
-year: 2018
+Year: 2018
 ---
 ---
 

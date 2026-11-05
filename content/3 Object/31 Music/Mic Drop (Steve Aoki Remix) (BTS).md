@@ -1,8 +1,15 @@
 ---
-title: Mic Drop (Steve Aoki Remix)
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[BTS]]"
-year: 2017
+Year: 2017
 ---
 ---
 

@@ -1,8 +1,6 @@
 ---
-topic:
+Topic:
   - "[[Interview]]"
-Type:
-  - "[[Startup]]"
 Related:
   - "[[Sam Altman]]"
 ---

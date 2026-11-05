@@ -11,16 +11,42 @@ Sub-Type:
   - "[[Company]]"
 Topic:
   - "[[Creative Company]]"
+IG:
+  - https://www.instagram.com/wiedenkennedy/
 Website:
   - https://www.wk.com/
+Wikis:
+  - https://en.wikipedia.org/wiki/Wieden%2BKennedy
+Cities:
+  - "[[Portland]]"
+Countries:
+  - "[[USA]]"
 ---
+<iframe src="https://www.wk.com/" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
+
 >[!tldr] tl;dr
->
+> 오리건주 포틀랜드에서 시작한 독립 글로벌 크리에이티브 컴퍼니
 
 > [!Info]
-> 
+> Wieden+Kennedy는 독립적인 글로벌 크리에이티브 컴퍼니다. 우리는 영감을 주는 클라이언트와 함께 평생의 최고 작업을 하기 위해 여기에 있다. 우리는 문화에 영향을 주고 비즈니스 가치를 만드는 작업을 한다.
+> 우리는 광고를 좋아하지 않는 광고 회사로 시작했다. 영감을 주는 클라이언트를 위해 훌륭한 작업을 만든다는 것 외에는 다른 지도 원칙이 없는 회사다. 가장 넓은 시야를 가진 창의적인 사람들이 인생 최고의 작업을 하고, 그 작업으로 무언가를 말할 방법을 찾을 수 있는 곳이 되려고 한다. 40년이 넘게 브랜드를 만들고 문화에 영향을 주는 작업을 해 왔다.
+>
+> Wieden+Kennedy is an independent, global creative company. We’re here to do the best work of our lives with inspiring clients. We make work that influences culture and builds business value.
+> We were founded as an ad agency that didn’t like advertising. A company with no guiding principle other than to make great work for inspiring clients. We try to be the kind of place where creatively-driven people with the widest perspectives possible can come to do the best work of their lives and find ways to use the work to say something. And for over 40 years we’ve made work that helps build brands and influence culture.
 
 > [!Summary]
+> | 항목 | 값 |
+> |---|---|
+> | Type | Private |
+> | Industry | Business Services |
+> | Founded | April 1, 1982 |
+> | Founders | Dan Wieden, David Kennedy |
+> | Headquarters | Portland, Oregon, U.S. |
+> | Area served | Worldwide |
+> | Services | Advertising, Marketing |
+> | Products | Video production, Commercials |
+> | Subsidiaries | WKE |
+> | Website | www.wk.com |
 
 ---
 

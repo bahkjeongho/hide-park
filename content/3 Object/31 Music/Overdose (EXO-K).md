@@ -1,8 +1,15 @@
 ---
-title: Overdose
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[EXO-K]]"
-year: 2014
+Year: 2014
 ---
 ---
 

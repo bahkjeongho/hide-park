@@ -1,8 +1,15 @@
 ---
-title: TEAM BABY
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[검정치마]]"
-year: 2017
+Year: 2017
 ---
 ---
 

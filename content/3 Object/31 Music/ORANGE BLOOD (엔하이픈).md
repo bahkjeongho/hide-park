@@ -1,13 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Sub-Type:
   - "[[EP]]"
-Genre:
-  - "[[K-Pop]]"
-  - "[[Pop]]"
-  - "[[R&B]]"
-artist:
+Artist:
   - "[[ENHYPEN]]"
-Date: 2023.11.17.
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: Idontknow
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Jamie xx]]"
-year: 2020
+Year: 2020
 ---
 ---
 

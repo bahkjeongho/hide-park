@@ -1,8 +1,15 @@
 ---
-title: Long Season
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Fishmans]]"
-year: 1996
+Year: 1996
 ---
 ---
 

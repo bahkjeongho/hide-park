@@ -1,8 +1,15 @@
 ---
-title: "130 Mood: TRBL"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[DEAN]]"
-year: 2016
+Year: 2016
 ---
 ---
 

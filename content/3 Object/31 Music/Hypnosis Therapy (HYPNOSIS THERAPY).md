@@ -1,8 +1,15 @@
 ---
-title: Hypnosis Therapy
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[HYPNOSIS THERAPY]]"
-year: 2022
+Year: 2022
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: 12:00
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[이달의 소녀]]"
-year: 2020
+Year: 2020
 ---
 ---
 

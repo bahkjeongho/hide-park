@@ -1,8 +1,15 @@
 ---
-title: Birds in the Trap Sing McKnight
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Travis Scott]]"
-year: 2016
+Year: 2016
 ---
 ---
 

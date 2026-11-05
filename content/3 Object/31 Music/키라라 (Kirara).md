@@ -1,8 +1,15 @@
 ---
-title: 키라라
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Kirara]]"
-year: 2025
+Year: 2025
 ---
 ---
 

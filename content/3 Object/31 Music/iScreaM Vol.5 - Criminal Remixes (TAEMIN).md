@@ -1,8 +1,15 @@
 ---
-title: "iScreaM Vol.5 : Criminal Remixes"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[TAEMIN]]"
-year: 2020
+Year: 2020
 ---
 ---
 

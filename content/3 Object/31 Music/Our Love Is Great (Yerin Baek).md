@@ -1,8 +1,15 @@
 ---
-title: Our Love Is Great
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Yerin Baek]]"
-year: 2019
+Year: 2019
 ---
 ---
 

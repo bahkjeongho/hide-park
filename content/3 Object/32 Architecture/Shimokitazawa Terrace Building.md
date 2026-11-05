@@ -1,5 +1,5 @@
 ---
-architect:
+Architect:
   - "[[Key Operation Inc.]]"
 Program:
   - "[[Retail Architecture]]"

@@ -1,8 +1,15 @@
 ---
-title: 4:44
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Jay-Z]]"
-year: 2017
+Year: 2017
 ---
 ---
 

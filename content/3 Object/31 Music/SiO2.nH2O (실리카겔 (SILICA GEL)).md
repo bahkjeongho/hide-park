@@ -1,8 +1,15 @@
 ---
-title: SiO2.nH2O
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[실리카겔 (SILICA GEL)]]"
-year: 2017
+Year: 2017
 ---
 ---
 

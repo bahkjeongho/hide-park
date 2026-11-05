@@ -1,8 +1,15 @@
 ---
-title: Dynamite
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[BTS]]"
-year: 2020
+Year: 2020
 ---
 ---
 

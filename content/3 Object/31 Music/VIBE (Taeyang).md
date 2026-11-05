@@ -1,8 +1,15 @@
 ---
-title: VIBE
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[태양]]"
-year: 2023
+Year: 2023
 ---
 ---
 

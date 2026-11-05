@@ -1,8 +1,15 @@
 ---
-title: Year of the Snitch
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Death Grips]]"
-year: 2018
+Year: 2018
 ---
 ---
 

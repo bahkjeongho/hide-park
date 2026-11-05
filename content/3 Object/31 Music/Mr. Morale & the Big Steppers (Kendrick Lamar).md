@@ -1,8 +1,15 @@
 ---
-title: Mr. Morale & the Big Steppers
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Kendrick Lamar]]"
-year: 2022
+Year: 2022
 ---
 ---
 

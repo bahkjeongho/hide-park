@@ -1,8 +1,15 @@
 ---
-title: Just Fun! / Loop?
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Balming Tiger]]"
-year: 2021
+Year: 2021
 ---
 ---
 

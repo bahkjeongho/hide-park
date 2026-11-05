@@ -1,8 +1,15 @@
 ---
-title: I'll Like You
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[ILLIT]]"
-year: 2024
+Year: 2024
 ---
 ---
 

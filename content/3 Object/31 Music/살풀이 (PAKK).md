@@ -1,8 +1,15 @@
 ---
-title: 살풀이
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[PAKK]]"
-year: 2017
+Year: 2017
 ---
 ---
 

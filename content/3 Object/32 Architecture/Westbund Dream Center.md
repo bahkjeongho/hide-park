@@ -1,5 +1,5 @@
 ---
-architect:
+Architect:
   - "[[HCCH Studio]]"
 Program:
   - "[[Cultural Architecture]]"

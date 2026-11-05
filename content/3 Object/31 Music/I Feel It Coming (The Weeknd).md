@@ -1,8 +1,15 @@
 ---
-title: I Feel It Coming
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[The Weeknd]]"
-year: 2016
+Year: 2016
 ---
 ---
 

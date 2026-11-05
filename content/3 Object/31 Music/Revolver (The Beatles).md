@@ -1,8 +1,15 @@
 ---
-title: Revolver
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[The Beatles]]"
-year: 1966
+Year: 1966
 ---
 ---
 

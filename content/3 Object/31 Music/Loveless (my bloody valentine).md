@@ -1,8 +1,15 @@
 ---
-title: Loveless
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[my bloody valentine]]"
-year: 1991
+Year: 1991
 ---
 ---
 

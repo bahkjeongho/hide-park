@@ -1,8 +1,15 @@
 ---
-title: G I R L
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Pharrell Williams]]"
-year: 2014
+Year: 2014
 ---
 ---
 

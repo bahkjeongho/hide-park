@@ -1,8 +1,15 @@
 ---
-title: Selected Ambient Works 85-92
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Aphex Twin]]"
-year: 1992
+Year: 1992
 ---
 ---
 

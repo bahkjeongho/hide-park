@@ -1,8 +1,15 @@
 ---
-title: 돈 벌 시간 2
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[창모]]"
-year: 2016
+Year: 2016
 ---
 ---
 

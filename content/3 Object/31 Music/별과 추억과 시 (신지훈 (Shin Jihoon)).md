@@ -1,8 +1,15 @@
 ---
-title: 별과 추억과 시
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[신지훈 (Shin Jihoon)]]"
-year: 2022
+Year: 2022
 ---
 ---
 

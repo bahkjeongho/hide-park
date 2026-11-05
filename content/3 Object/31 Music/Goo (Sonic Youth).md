@@ -1,8 +1,15 @@
 ---
-title: Goo
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Sonic Youth]]"
-year: 1990
+Year: 1990
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: Lovebeat
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[砂原良徳 (Yoshinori Sunahara)]]"
-year: 2001
+Year: 2001
 ---
 ---
 

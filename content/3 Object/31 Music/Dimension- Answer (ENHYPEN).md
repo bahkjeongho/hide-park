@@ -1,8 +1,15 @@
 ---
-title: "Dimension: Answer"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[ENHYPEN]]"
-year: 2022
+Year: 2022
 ---
 ---
 

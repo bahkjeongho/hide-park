@@ -1,8 +1,15 @@
 ---
-title: In My Mind
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Pharrell]]"
-year: 2006
+Year: 2006
 ---
 ---
 

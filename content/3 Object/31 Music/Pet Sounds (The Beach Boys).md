@@ -1,8 +1,15 @@
 ---
-title: Pet Sounds
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[The Beach Boys]]"
-year: 1966
+Year: 1966
 ---
 ---
 

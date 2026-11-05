@@ -1,8 +1,15 @@
 ---
-title: LiveLoveA$AP
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[A$AP Rocky]]"
-year: 2011
+Year: 2011
 ---
 ---
 

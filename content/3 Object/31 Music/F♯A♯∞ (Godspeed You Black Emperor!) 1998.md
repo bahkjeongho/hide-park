@@ -1,8 +1,15 @@
 ---
-title: F♯A♯∞
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Godspeed You Black Emperor!]]"
-year: 1998
+Year: 1998
 ---
 ---
 

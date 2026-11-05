@@ -1,8 +1,15 @@
 ---
-title: By the Time I Get to Phoenix
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[By Storm|Injury Reserve]]"
-year: 2021
+Year: 2021
 ---
 ---
 

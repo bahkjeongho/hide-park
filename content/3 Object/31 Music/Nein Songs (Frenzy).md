@@ -1,8 +1,15 @@
 ---
-title: Nein Songs
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Frenzy]]"
-year: 2010
+Year: 2010
 ---
 ---
 

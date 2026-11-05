@@ -1,8 +1,15 @@
 ---
-title: R
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[로제]]"
-year: 2021
+Year: 2021
 ---
 ---
 

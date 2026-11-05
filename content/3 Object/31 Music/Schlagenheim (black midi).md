@@ -1,8 +1,15 @@
 ---
-title: Schlagenheim
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[black midi]]"
-year: 2019
+Year: 2019
 ---
 ---
 

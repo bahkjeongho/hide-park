@@ -1,8 +1,15 @@
 ---
-title: 그래, 아무것도 하지 말자
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[얄개들 (The Freaks)]]"
-year: 2011
+Year: 2011
 ---
 ---
 

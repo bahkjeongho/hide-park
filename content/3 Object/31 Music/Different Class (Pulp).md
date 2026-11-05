@@ -1,8 +1,15 @@
 ---
-title: Different Class
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Pulp]]"
-year: 1995
+Year: 1995
 ---
 ---
 

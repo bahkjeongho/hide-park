@@ -1,8 +1,15 @@
 ---
-title: 잊어버리지마
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Crush]]"
-year: 2016
+Year: 2016
 ---
 ---
 

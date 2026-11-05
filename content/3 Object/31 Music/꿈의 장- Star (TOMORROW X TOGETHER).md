@@ -1,8 +1,15 @@
 ---
-title: "꿈의 장: Star"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[TOMORROW X TOGETHER]]"
-year: 2019
+Year: 2019
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: Stalled Flutes, Means
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Asian Glow]]"
-year: 2022
+Year: 2022
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: 2022 Christmas VIBE - 허윤진
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Huh Yunjin]]"
-year: 2023
+Year: 2023
 ---
 ---
 

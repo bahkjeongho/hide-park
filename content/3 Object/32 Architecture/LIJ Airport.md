@@ -1,5 +1,5 @@
 ---
-architect:
+Architect:
   - "[[MAD]]"
 Program:
   - "[[Airport Architecture]]"

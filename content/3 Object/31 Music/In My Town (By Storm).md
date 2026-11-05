@@ -1,8 +1,15 @@
 ---
-title: In My Town
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[By Storm]]"
-year: 2025
+Year: 2025
 ---
 ---
 

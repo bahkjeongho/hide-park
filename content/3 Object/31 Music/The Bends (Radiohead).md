@@ -1,8 +1,15 @@
 ---
-title: The Bends
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Radiohead]]"
-year: 1995
+Year: 1995
 ---
 ---
 

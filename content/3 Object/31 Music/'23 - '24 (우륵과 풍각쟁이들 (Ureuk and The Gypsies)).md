@@ -1,8 +1,15 @@
 ---
-title: "'23 - '24"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[우륵과 풍각쟁이들 (Ureuk and The Gypsies)]]"
-year: 2024
+Year: 2024
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: Casiopea
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Casiopea]]"
-year: 1979
+Year: 1979
 ---
 ---
 

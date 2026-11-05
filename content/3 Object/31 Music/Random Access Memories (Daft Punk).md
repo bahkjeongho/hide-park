@@ -1,8 +1,15 @@
 ---
-title: Random Access Memories
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Daft Punk]]"
-year: 2013
+Year: 2013
 ---
 ---
 

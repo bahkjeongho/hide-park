@@ -1,8 +1,15 @@
 ---
-title: In Waves
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Jamie xx]]"
-year: 2024
+Year: 2024
 ---
 ---
 

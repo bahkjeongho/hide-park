@@ -1,8 +1,15 @@
 ---
-title: Sarah
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Kirara]]"
-year: 2018
+Year: 2018
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: CLPPNG
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[clipping.]]"
-year: 2014
+Year: 2014
 ---
 ---
 

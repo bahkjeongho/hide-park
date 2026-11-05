@@ -1,8 +1,15 @@
 ---
-title: INVU
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[TAEYEON]]"
-year: 2022
+Year: 2022
 ---
 ---
 

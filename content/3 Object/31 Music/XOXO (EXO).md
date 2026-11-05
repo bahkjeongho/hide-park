@@ -1,8 +1,15 @@
 ---
-title: XOXO
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[EXO]]"
-year: 2013
+Year: 2013
 ---
 ---
 

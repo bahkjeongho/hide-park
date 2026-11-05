@@ -1,8 +1,15 @@
 ---
-title: Pop 2
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Charli XCX]]"
-year: 2017
+Year: 2017
 ---
 ---
 

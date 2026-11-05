@@ -1,8 +1,15 @@
 ---
-title: Forever Howlong
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Black Country, New Road]]"
-year: 2025
+Year: 2025
 ---
 ---
 

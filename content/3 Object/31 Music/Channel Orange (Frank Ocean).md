@@ -1,8 +1,15 @@
 ---
-title: Channel Orange
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Frank Ocean]]"
-year: 2012
+Year: 2012
 ---
 ---
 

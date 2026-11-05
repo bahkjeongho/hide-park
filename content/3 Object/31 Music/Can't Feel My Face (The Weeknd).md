@@ -1,8 +1,15 @@
 ---
-title: Can't Feel My Face
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[The Weeknd]]"
-year: 2015
+Year: 2015
 ---
 ---
 

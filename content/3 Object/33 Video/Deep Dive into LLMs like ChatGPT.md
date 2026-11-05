@@ -1,8 +1,6 @@
 ---
-topic:
+Topic:
   - "[[Lecture Video]]"
-Type:
-  - "[[AI]]"
 Related:
   - "[[Andrej Karpathy]]"
 ---

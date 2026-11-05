@@ -1,8 +1,15 @@
 ---
-title: Howlin' 404
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[DEAN]]"
-year: 2019
+Year: 2019
 ---
 ---
 

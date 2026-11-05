@@ -1,8 +1,15 @@
 ---
-title: 4 Walls
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[f(x)]]"
-year: 2015
+Year: 2015
 ---
 ---
 

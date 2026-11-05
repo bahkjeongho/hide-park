@@ -1,5 +1,5 @@
 ---
-architect:
+Architect:
   - "[[DDG Partners]]"
 Program:
   - "[[Residential Architecture]]"

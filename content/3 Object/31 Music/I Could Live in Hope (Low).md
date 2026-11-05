@@ -1,8 +1,15 @@
 ---
-title: I Could Live in Hope
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Low (Band)]]"
-year: 1994
+Year: 1994
 ---
 ---
 

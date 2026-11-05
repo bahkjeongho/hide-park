@@ -1,9 +1,16 @@
 ---
-title: Victory Lap
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Fred again..]]"
   - "[[Skepta & Plaqueboymax]]"
-year: 2025
+Year: 2025
 ---
 ---
 

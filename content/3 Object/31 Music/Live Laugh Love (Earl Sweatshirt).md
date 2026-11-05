@@ -1,8 +1,15 @@
 ---
-title: Live Laugh Love
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Earl Sweatshirt]]"
-year: 2025
+Year: 2025
 ---
 ---
 

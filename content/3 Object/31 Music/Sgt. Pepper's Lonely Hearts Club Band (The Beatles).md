@@ -1,8 +1,15 @@
 ---
-title: Sgt. Pepper's Lonely Hearts Club Band
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[The Beatles]]"
-year: 1967
+Year: 1967
 ---
 ---
 

@@ -1,14 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Sub-Type:
   - "[[Studio Album]]"
-Genre:
-  - "[[K-Pop]]"
-  - "[[Dance-Pop]]"
-  - "[[Ballad]]"
-  - "[[Hip Hop]]"
-artist:
+Artist:
   - "[[BTS]]"
-Date: 2018.08.24.
 ---
 ---
 

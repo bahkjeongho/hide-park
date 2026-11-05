@@ -1,8 +1,15 @@
 ---
-title: Wash Us in the Blood
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Kanye West]]"
-year: 2020
+Year: 2020
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: "NCT #127 Neo Zone"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[NCT 127]]"
-year: 2020
+Year: 2020
 ---
 ---
 

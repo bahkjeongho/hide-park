@@ -1,8 +1,15 @@
 ---
-title: 빅뱅 스페셜에디션
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[BIGBANG]]"
-year: 2011
+Year: 2011
 ---
 ---
 

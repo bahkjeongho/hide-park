@@ -1,8 +1,15 @@
 ---
-title: 2NE1 2nd Mini Album
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[2NE1]]"
-year: 2011
+Year: 2011
 ---
 ---
 

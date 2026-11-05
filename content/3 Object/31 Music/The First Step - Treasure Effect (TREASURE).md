@@ -1,8 +1,15 @@
 ---
-title: "The First Step : Treasure Effect"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[TREASURE]]"
-year: 2021
+Year: 2021
 ---
 ---
 

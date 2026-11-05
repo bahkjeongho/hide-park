@@ -1,8 +1,15 @@
 ---
-title: Big Fish Theory
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Vince Staples]]"
-year: 2017
+Year: 2017
 ---
 ---
 

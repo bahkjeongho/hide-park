@@ -1,8 +1,15 @@
 ---
-title: Your Home
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[SUMIN]]"
-year: 2018
+Year: 2018
 ---
 ---
 

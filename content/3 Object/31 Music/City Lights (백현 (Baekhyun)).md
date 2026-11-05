@@ -1,8 +1,15 @@
 ---
-title: City Lights
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[백현 (Baekhyun)]]"
-year: 2019
+Year: 2019
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: Debí tirar más fotos
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Bad Bunny]]"
-year: 2025
+Year: 2025
 ---
 ---
 

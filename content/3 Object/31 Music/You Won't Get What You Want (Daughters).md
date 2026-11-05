@@ -1,8 +1,15 @@
 ---
-title: You Won't Get What You Want
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Daughters]]"
-year: 2018
+Year: 2018
 ---
 ---
 

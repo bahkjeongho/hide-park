@@ -24,7 +24,7 @@ Wikis:
 
 >[!tldr] tl;dr
 > `Professor of Philosophy of Technology` at [[University of California]], San Diego
-> `Director & Editor-in-Chief` of [[2. Wiki/Antikythera|Antikythera]]
+> `Director & Editor-in-Chief` of [[2. Wiki/26. Journal/Antikythera|Antikythera]]
 
 > [!Info]
 > [Benjamin Bratton](https://bratton.info/) is a philosopher of technology. He is Professor of Philosophy of Technology and Speculative Design at the University of California, San Diego. Through the lens of planetary computation, his work establishes new philosophical frameworks for interpreting the past, present and future co-evolution of life, culture, and technology.

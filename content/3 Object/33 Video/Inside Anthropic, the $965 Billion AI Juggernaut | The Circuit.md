@@ -1,5 +1,5 @@
 ---
-topic:
+Topic:
   - "[[Interview]]"
 Related:
   - "[[Anthropic]]"

@@ -1,8 +1,15 @@
 ---
-title: Sequence 01
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[f5ve]]"
-year: 2025
+Year: 2025
 ---
 ---
 

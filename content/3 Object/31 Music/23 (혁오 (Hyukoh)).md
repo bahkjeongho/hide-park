@@ -1,8 +1,15 @@
 ---
-title: "23"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[혁오 (Hyukoh)]]"
-year: 2017
+Year: 2017
 ---
 ---
 

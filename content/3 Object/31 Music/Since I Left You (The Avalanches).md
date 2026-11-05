@@ -1,8 +1,15 @@
 ---
-title: Since I Left You
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[The Avalanches]]"
-year: 2000
+Year: 2000
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: 미래의 고향
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[이민휘 (Minhwi Lee)]]"
-year: 2023
+Year: 2023
 ---
 ---
 

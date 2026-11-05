@@ -1,8 +1,15 @@
 ---
-title: This Is Happening
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[LCD Soundsystem]]"
-year: 2010
+Year: 2010
 ---
 ---
 

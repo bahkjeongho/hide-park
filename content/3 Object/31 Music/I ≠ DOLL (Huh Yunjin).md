@@ -1,8 +1,15 @@
 ---
-title: I ≠ DOLL
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Huh Yunjin]]"
-year: 2023
+Year: 2023
 ---
 ---
 

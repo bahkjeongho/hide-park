@@ -1,8 +1,15 @@
 ---
-title: Pain Everyday
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[clipping.]]"
-year: 2020
+Year: 2020
 ---
 ---
 

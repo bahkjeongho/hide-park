@@ -1,8 +1,15 @@
 ---
-title: Hold On Tight
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[aespa]]"
-year: 2023
+Year: 2023
 ---
 ---
 

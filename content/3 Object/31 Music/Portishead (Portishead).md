@@ -1,8 +1,15 @@
 ---
-title: Portishead
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Portishead]]"
-year: 1997
+Year: 1997
 ---
 ---
 

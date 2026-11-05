@@ -1,8 +1,15 @@
 ---
-title: LP1
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[FKA twigs]]"
-year: 2014
+Year: 2014
 ---
 ---
 

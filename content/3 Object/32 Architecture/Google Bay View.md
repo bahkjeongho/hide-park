@@ -1,5 +1,5 @@
 ---
-architect:
+Architect:
   - "[[Heatherwick Studio]]"
 Program:
   - "[[Office Architecture]]"

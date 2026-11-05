@@ -1,8 +1,15 @@
 ---
-title: Honestly, Nevermind
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Drake]]"
-year: 2022
+Year: 2022
 ---
 ---
 

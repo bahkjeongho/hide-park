@@ -16,8 +16,8 @@ URL:
 Related:
   - "[[DAZED]]"
 ---
->[!tldr]
-> `Editor-in-Chief` of [[DAZED]]
+>[!tldr] tl;dr
+> 영국 패션·컬처 매거진 Dazed의 편집장
 
 > [!Info]
 > 

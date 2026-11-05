@@ -1,8 +1,15 @@
 ---
-title: Nothing Was the Same
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Drake]]"
-year: 2013
+Year: 2013
 ---
 ---
 

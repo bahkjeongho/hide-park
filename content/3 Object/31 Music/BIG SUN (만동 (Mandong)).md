@@ -1,8 +1,15 @@
 ---
-title: BIG SUN
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[만동 (Mandong)]]"
-year: 2022
+Year: 2022
 ---
 ---
 

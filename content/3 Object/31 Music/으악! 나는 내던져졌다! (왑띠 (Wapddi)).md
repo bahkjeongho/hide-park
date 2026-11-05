@@ -1,8 +1,15 @@
 ---
-title: 으악! 나는 내던져졌다!
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[왑띠 (Wapddi)]]"
-year: 2023
+Year: 2023
 ---
 ---
 

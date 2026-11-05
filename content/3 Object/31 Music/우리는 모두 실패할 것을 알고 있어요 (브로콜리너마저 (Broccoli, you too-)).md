@@ -1,8 +1,15 @@
 ---
-title: 우리는 모두 실패할 것을 알고 있어요
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[브로콜리너마저 (Broccoli, you too-)|브로콜리너마저 (Broccoli, you too?)]]"
-year: 2024
+Year: 2024
 ---
 ---
 

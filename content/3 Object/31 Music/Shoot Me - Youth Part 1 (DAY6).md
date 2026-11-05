@@ -1,8 +1,15 @@
 ---
-title: "Shoot Me : Youth Part 1"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[DAY6]]"
-year: 2018
+Year: 2018
 ---
 ---
 

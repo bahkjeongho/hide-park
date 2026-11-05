@@ -1,8 +1,15 @@
 ---
-title: CooCool
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Róisín Murphy]]"
-year: 2023
+Year: 2023
 ---
 ---
 

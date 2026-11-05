@@ -1,8 +1,15 @@
 ---
-title: Color Outside the Line
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[CORTIS]]"
-year: 2025
+Year: 2025
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: "The Second Step: Chapter One"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[TREASURE]]"
-year: 2022
+Year: 2022
 ---
 ---
 

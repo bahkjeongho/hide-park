@@ -1,8 +1,15 @@
 ---
-title: Funeral
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Arcade Fire]]"
-year: 2004
+Year: 2004
 ---
 ---
 

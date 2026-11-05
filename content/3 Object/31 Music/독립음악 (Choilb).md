@@ -1,8 +1,15 @@
 ---
-title: 독립음악
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[최엘비]]"
-year: 2021
+Year: 2021
 ---
 ---
 

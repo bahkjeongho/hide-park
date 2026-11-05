@@ -1,8 +1,6 @@
 ---
-topic:
+Topic:
   - "[[Documentary Video]]"
-Type:
-  - "[[Fashion]]"
 Related:
   - "[[Coperni]]"
 ---

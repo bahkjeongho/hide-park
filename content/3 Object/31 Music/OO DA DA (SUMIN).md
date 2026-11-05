@@ -1,8 +1,15 @@
 ---
-title: OO DA DA
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[SUMIN]]"
-year: 2019
+Year: 2019
 ---
 ---
 

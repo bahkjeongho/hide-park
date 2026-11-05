@@ -1,8 +1,15 @@
 ---
-title: Abbey Road
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[The Beatles]]"
-year: 1969
+Year: 1969
 ---
 ---
 

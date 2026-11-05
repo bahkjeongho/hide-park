@@ -1,8 +1,6 @@
 ---
-topic:
+Topic:
   - "[[Documentary Video]]"
-Type:
-  - "[[AI]]"
 Related:
   - "[[Google]]"
   - "[[Google Deepmind]]"

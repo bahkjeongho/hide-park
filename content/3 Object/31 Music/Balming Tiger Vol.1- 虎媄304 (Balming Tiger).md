@@ -1,8 +1,15 @@
 ---
-title: "Balming Tiger Vol.1: 虎媄304"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Balming Tiger]]"
-year: 2018
+Year: 2018
 ---
 ---
 

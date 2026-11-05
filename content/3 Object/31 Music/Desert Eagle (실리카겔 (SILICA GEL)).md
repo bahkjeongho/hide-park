@@ -1,8 +1,15 @@
 ---
-title: Desert Eagle
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[실리카겔 (SILICA GEL)]]"
-year: 2021
+Year: 2021
 ---
 ---
 

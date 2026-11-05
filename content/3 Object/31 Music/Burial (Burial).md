@@ -1,8 +1,15 @@
 ---
-title: Burial
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Burial]]"
-year: 2006
+Year: 2006
 ---
 ---
 

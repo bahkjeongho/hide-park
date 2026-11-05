@@ -1,8 +1,15 @@
 ---
-title: Kolo Kolo
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Balming Tiger]]"
-year: 2020
+Year: 2020
 ---
 ---
 

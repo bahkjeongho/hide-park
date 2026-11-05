@@ -1,8 +1,15 @@
 ---
-title: Oil of Every Pearl's Un-Insides
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[SOPHIE]]"
-year: 2018
+Year: 2018
 ---
 ---
 

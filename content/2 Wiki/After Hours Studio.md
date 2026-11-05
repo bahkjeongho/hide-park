@@ -30,7 +30,10 @@ Countries:
 >뉴욕의 크리에이티브 디렉션·디자인 오피스, Shy Trutwein과 Jasmine Gallagher가 이끎
 
 > [!Info]
->   
+> After Hours Studio는 뉴욕의 크리에이티브 디렉션·디자인 오피스로, 뷰티, 패션, 웰니스, 라이프스타일 브랜드를 위해 일한다. 잘나가는 브랜드는 더 똑똑하게, 똑똑한 브랜드는 더 멋지게 만든다.
+>
+> After Hours Studio is a New York creative direction and design office for beauty, fashion and lifestyle brands. We make hot brands smarter and smart brands hotter.
+> After Hours Studio: Creative direction & design office, New York. For fashion, beauty, wellness and lifestyle brands.
 Small team, big ideas, questionable name. We make brands worth knowing, things worth having and ideas worth talking about.
 
 Office hoursAfter hours

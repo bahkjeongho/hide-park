@@ -1,8 +1,15 @@
 ---
-title: 화양연화 Pt.1
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[BTS]]"
-year: 2015
+Year: 2015
 ---
 ---
 

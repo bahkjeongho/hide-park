@@ -1,8 +1,15 @@
 ---
-title: R Plus Seven
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Oneohtrix Point Never]]"
-year: 2013
+Year: 2013
 ---
 ---
 

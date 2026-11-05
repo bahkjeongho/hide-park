@@ -1,9 +1,16 @@
 ---
-title: Watch the Throne
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Jay-Z]]"
   - "[[Kanye West]]"
-year: 2011
+Year: 2011
 ---
 ---
 

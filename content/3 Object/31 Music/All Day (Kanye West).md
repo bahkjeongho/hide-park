@@ -1,8 +1,15 @@
 ---
-title: All Day
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Kanye West]]"
-year: 2015
+Year: 2015
 ---
 ---
 

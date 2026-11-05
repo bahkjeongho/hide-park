@@ -1,8 +1,15 @@
 ---
-title: Chocolate Love
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[f(x)]]"
-year: 2009
+Year: 2009
 ---
 ---
 

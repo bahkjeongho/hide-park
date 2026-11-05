@@ -1,8 +1,15 @@
 ---
-title: 새해 복
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[장기하와 얼굴들 (Kiha & The Faces)]]"
-year: 2015
+Year: 2015
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: Maxinquaye
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Tricky]]"
-year: 1995
+Year: 1995
 ---
 ---
 

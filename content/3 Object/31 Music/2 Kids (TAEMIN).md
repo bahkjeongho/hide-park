@@ -1,8 +1,15 @@
 ---
-title: 2 Kids
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[TAEMIN]]"
-year: 2020
+Year: 2020
 ---
 ---
 

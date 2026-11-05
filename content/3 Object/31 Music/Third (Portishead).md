@@ -1,8 +1,15 @@
 ---
-title: Third
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Portishead]]"
-year: 2008
+Year: 2008
 ---
 ---
 

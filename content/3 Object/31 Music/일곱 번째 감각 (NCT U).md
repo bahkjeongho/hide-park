@@ -1,8 +1,15 @@
 ---
-title: 일곱 번째 감각
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[NCT U]]"
-year: 2016
+Year: 2016
 ---
 ---
 

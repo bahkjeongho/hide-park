@@ -1,8 +1,15 @@
 ---
-title: Antidawn
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Burial]]"
-year: 2022
+Year: 2022
 ---
 ---
 

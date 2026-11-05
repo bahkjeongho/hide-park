@@ -1,8 +1,15 @@
 ---
-title: Regular-Irregular
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[NCT 127]]"
-year: 2018
+Year: 2018
 ---
 ---
 

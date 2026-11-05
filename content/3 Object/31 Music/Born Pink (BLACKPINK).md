@@ -1,15 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Sub-Type:
   - "[[Studio Album]]"
-Genre:
-  - "[[K-Pop]]"
-  - "[[Hip Hop]]"
-  - "[[Pop]]"
-  - "[[Rock]]"
-  - "[[EDM]]"
-artist:
+Artist:
   - "[[BLACKPINK]]"
-Date: 2022.09.16.
 ---
 ---
 

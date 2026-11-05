@@ -1,8 +1,15 @@
 ---
-title: 隱棲은서
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[잠비나이 (Jambinai)]]"
-year: 2016
+Year: 2016
 ---
 ---
 

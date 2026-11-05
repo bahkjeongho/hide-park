@@ -1,8 +1,15 @@
 ---
-title: "Liberty : In Our Cosmos"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[CRAVITY]]"
-year: 2022
+Year: 2022
 ---
 ---
 

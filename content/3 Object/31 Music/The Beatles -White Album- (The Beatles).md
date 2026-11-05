@@ -1,8 +1,15 @@
 ---
-title: The Beatles [White Album]
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[The Beatles]]"
-year: 1968
+Year: 1968
 ---
 ---
 

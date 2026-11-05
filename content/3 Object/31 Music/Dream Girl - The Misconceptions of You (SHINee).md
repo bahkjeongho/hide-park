@@ -1,8 +1,15 @@
 ---
-title: Dream Girl - The Misconceptions of You
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[SHINee]]"
-year: 2013
+Year: 2013
 ---
 ---
 

@@ -12,9 +12,9 @@ Sub-Field:
 Type:
   - "[[People]]"
 Sub-Type:
-  - "[[Idol]]"
+  - "[[Group]]"
 Topic:
-  - "[[K-Pop Idol]]"
+  - "[[K-Pop Group]]"
 Labels:
   - "[[143 Entertainment]]"
   - "[[YG Entertainment]]"

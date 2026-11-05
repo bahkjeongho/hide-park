@@ -1,8 +1,15 @@
 ---
-title: "The Collective Soul and Unconscious: Chapter One"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Billlie]]"
-year: 2022
+Year: 2022
 ---
 ---
 

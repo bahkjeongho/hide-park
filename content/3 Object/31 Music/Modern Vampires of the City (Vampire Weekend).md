@@ -1,8 +1,15 @@
 ---
-title: Modern Vampires of the City
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Vampire Weekend]]"
-year: 2013
+Year: 2013
 ---
 ---
 

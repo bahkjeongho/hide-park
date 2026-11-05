@@ -1,8 +1,15 @@
 ---
-title: As You Wish
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[우주소녀]]"
-year: 2019
+Year: 2019
 ---
 ---
 

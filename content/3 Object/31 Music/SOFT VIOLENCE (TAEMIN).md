@@ -1,12 +1,16 @@
 ---
-topic:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Sub-Type:
   - "[[EP]]"
-Genre:
-  - "[[K-Pop]]"
-  - "[[Dance-Pop]]"
-artist:
+Artist:
   - "[[TAEMIN]]"
-Date: 2026.08.31.
 ---
 ---
 

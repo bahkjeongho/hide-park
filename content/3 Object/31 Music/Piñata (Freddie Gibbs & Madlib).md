@@ -1,9 +1,16 @@
 ---
-title: Piñata
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Freddie Gibbs]]"
   - "[[Madlib]]"
-year: 2014
+Year: 2014
 ---
 ---
 

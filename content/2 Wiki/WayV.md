@@ -14,9 +14,9 @@ Sub-Field:
 Type:
   - "[[People]]"
 Sub-Type:
-  - "[[Idol]]"
+  - "[[Group]]"
 Topic:
-  - "[[K-Pop Idol]]"
+  - "[[K-Pop Group]]"
 Genre:
   - "[[K-Pop]]"
   - "[[C-Pop]]"

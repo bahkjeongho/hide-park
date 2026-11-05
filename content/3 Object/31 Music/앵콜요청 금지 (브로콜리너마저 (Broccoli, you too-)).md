@@ -1,8 +1,15 @@
 ---
-title: 앵콜요청 금지
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[브로콜리너마저 (Broccoli, you too-)|브로콜리너마저 (Broccoli, you too?)]]"
-year: 2007
+Year: 2007
 ---
 ---
 

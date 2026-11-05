@@ -1,8 +1,15 @@
 ---
-title: I Love It
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[DEAN]]"
-year: 2015
+Year: 2015
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: 신파 SHINPA
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[NET GALA]]"
-year: 2021
+Year: 2021
 ---
 ---
 

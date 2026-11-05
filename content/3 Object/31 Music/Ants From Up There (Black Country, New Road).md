@@ -1,8 +1,15 @@
 ---
-title: Ants From Up There
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Black Country, New Road]]"
-year: 2022
+Year: 2022
 ---
 ---
 

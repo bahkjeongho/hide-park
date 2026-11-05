@@ -1,8 +1,15 @@
 ---
-title: Discovery
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Daft Punk]]"
-year: 2001
+Year: 2001
 ---
 ---
 

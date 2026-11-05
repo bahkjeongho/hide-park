@@ -1,8 +1,15 @@
 ---
-title: odnstock.com
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[oddeen]]"
-year: 2022
+Year: 2022
 ---
 ---
 

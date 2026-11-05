@@ -1,8 +1,15 @@
 ---
-title: The Whistle
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[미역수염 (Seaweed Mustache)]]"
-year: 2016
+Year: 2016
 ---
 ---
 

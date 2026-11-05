@@ -1,8 +1,6 @@
 ---
-topic:
+Topic:
   - "[[Interview]]"
-Type:
-  - "[[AI]]"
 Related:
   - "[[Lauren Tan]]"
   - "[[SpaceX]]"

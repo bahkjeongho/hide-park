@@ -1,8 +1,15 @@
 ---
-title: Actual Life 3 (January 1 - September 9 2022)
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Fred again..]]"
-year: 2022
+Year: 2022
 ---
 ---
 

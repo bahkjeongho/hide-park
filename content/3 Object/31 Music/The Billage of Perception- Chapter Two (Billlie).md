@@ -1,8 +1,15 @@
 ---
-title: "The Billage of Perception: Chapter Two"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Billlie]]"
-year: 2022
+Year: 2022
 ---
 ---
 

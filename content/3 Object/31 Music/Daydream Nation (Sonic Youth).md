@@ -1,8 +1,15 @@
 ---
-title: Daydream Nation
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Sonic Youth]]"
-year: 1988
+Year: 1988
 ---
 ---
 

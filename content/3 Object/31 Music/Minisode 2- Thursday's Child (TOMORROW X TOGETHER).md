@@ -1,8 +1,15 @@
 ---
-title: "Minisode 2: Thursday's Child"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[TOMORROW X TOGETHER]]"
-year: 2022
+Year: 2022
 ---
 ---
 

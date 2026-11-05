@@ -1,8 +1,15 @@
 ---
-title: Love You on Christmas
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Yerin Baek]]"
-year: 2016
+Year: 2016
 ---
 ---
 

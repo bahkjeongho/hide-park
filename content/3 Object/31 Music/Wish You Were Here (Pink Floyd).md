@@ -1,8 +1,15 @@
 ---
-title: Wish You Were Here
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Pink Floyd]]"
-year: 1975
+Year: 1975
 ---
 ---
 

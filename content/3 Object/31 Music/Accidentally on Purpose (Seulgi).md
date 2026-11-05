@@ -1,8 +1,15 @@
 ---
-title: Accidentally on Purpose
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[슬기]]"
-year: 2025
+Year: 2025
 ---
 ---
 

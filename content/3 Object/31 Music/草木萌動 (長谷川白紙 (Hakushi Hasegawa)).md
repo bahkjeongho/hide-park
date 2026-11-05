@@ -1,8 +1,15 @@
 ---
-title: 草木萌動
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[長谷川白紙 (Hakushi Hasegawa)]]"
-year: 2018
+Year: 2018
 ---
 ---
 

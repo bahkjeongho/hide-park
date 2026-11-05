@@ -1,8 +1,15 @@
 ---
-title: My Beautiful Dark Twisted Fantasy
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Kanye West]]"
-year: 2010
+Year: 2010
 ---
 ---
 

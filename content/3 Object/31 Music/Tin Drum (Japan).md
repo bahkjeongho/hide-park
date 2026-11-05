@@ -1,8 +1,15 @@
 ---
-title: Tin Drum
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Japan (Band)]]"
-year: 1981
+Year: 1981
 ---
 ---
 

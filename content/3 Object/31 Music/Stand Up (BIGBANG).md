@@ -1,8 +1,15 @@
 ---
-title: Stand Up
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[BIGBANG]]"
-year: 2008
+Year: 2008
 ---
 ---
 

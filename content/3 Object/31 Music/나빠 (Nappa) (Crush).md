@@ -1,8 +1,15 @@
 ---
-title: 나빠 (Nappa)
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Crush]]"
-year: 2019
+Year: 2019
 ---
 ---
 

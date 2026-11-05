@@ -1,8 +1,15 @@
 ---
-title: エアにに
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[長谷川白紙 (Hakushi Hasegawa)]]"
-year: 2019
+Year: 2019
 ---
 ---
 

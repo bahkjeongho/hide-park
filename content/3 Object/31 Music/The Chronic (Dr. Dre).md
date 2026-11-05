@@ -1,8 +1,15 @@
 ---
-title: The Chronic
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Dr. Dre]]"
-year: 1992
+Year: 1992
 ---
 ---
 

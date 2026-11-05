@@ -1,8 +1,15 @@
 ---
-title: 공중부양
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[장기하 (Chang Ki-ha)]]"
-year: 2022
+Year: 2022
 ---
 ---
 

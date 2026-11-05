@@ -1,8 +1,15 @@
 ---
-title: Rubber Soul
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[The Beatles]]"
-year: 1965
+Year: 1965
 ---
 ---
 

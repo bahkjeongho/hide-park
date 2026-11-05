@@ -1,8 +1,15 @@
 ---
-title: So Much Fun
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Young Thug]]"
-year: 2019
+Year: 2019
 ---
 ---
 

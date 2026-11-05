@@ -1,8 +1,15 @@
 ---
-title: 스타트업 OST Part.1
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Red Velvet]]"
-year: 2020
+Year: 2020
 ---
 ---
 

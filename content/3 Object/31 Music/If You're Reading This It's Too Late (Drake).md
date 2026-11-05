@@ -1,8 +1,15 @@
 ---
-title: If You're Reading This It's Too Late
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Drake]]"
-year: 2015
+Year: 2015
 ---
 ---
 

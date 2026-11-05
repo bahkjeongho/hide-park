@@ -1,8 +1,15 @@
 ---
-title: To Anyone
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[2NE1]]"
-year: 2010
+Year: 2010
 ---
 ---
 

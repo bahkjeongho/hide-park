@@ -1,8 +1,15 @@
 ---
-title: His 'n' Hers
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Pulp]]"
-year: 1994
+Year: 1994
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: wonderego
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Crush]]"
-year: 2023
+Year: 2023
 ---
 ---
 

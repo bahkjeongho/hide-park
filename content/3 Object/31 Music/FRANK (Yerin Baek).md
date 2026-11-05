@@ -1,8 +1,15 @@
 ---
-title: FRANK
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Yerin Baek]]"
-year: 2015
+Year: 2015
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: 24:26
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Beenzino]]"
-year: 2012
+Year: 2012
 ---
 ---
 

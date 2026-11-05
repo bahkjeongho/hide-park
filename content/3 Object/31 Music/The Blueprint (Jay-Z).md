@@ -1,8 +1,15 @@
 ---
-title: The Blueprint
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Jay-Z]]"
-year: 2001
+Year: 2001
 ---
 ---
 

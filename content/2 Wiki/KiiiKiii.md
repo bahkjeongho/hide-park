@@ -12,9 +12,9 @@ Sub-Field:
 Type:
   - "[[People]]"
 Sub-Type:
-  - "[[Idol]]"
+  - "[[Group]]"
 Topic:
-  - "[[K-Pop Idol]]"
+  - "[[K-Pop Group]]"
 Genre:
   - "[[K-Pop]]"
   - "[[Dance-Pop]]"
@@ -73,7 +73,7 @@ Countries:
 
 * [[UNCUT GEM (KiiiKiii)|UNCUT GEM]] [1st EP] (2025.03.24)
 * [[Delulu Pack (KiiiKiii)|Delulu Pack]] [2nd EP] (2026.01.26)
-* [[WhyKiiiKiii (KiiiKiii) 1|WhyKiiiKiii]] [3rd EP] (2026.08.10)
+* [[WhyKiiiKiii (KiiiKiii)|WhyKiiiKiii]] [3rd EP] (2026.08.10)
 
 ## Single
 

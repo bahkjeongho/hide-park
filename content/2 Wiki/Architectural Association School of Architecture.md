@@ -3,15 +3,13 @@ aliases:
   - AA
   - Architectural Association
 Category:
-  - "[[Design]]"
-Sub-Category:
-  - "[[Architecture]]"
+  - "[[The Arts]]"
 Type:
   - "[[Institution]]"
 Sub-Type:
   - "[[School]]"
 Topic:
-  - "[[Architecture School]]"
+  - "[[Art School]]"
 IG:
   - https://www.instagram.com/aaschool
 Website:

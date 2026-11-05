@@ -1,8 +1,15 @@
 ---
-title: Dawn FM
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[The Weeknd]]"
-year: 2022
+Year: 2022
 ---
 ---
 

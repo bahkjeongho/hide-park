@@ -1,8 +1,15 @@
 ---
-title: Star to a Young Culture
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[STAYC]]"
-year: 2020
+Year: 2020
 ---
 ---
 

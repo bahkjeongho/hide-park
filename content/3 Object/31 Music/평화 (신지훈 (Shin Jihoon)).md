@@ -1,8 +1,15 @@
 ---
-title: 평화
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[신지훈 (Shin Jihoon)]]"
-year: 2025
+Year: 2025
 ---
 ---
 

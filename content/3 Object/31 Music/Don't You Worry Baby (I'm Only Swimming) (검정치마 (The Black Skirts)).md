@@ -1,8 +1,15 @@
 ---
-title: Don't You Worry Baby (I'm Only Swimming)
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[검정치마]]"
-year: 2011
+Year: 2011
 ---
 ---
 

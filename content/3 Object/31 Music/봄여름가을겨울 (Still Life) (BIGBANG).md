@@ -1,8 +1,15 @@
 ---
-title: 봄여름가을겨울 (Still Life)
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[BIGBANG]]"
-year: 2022
+Year: 2022
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: "The First Step : Chapter Three"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[TREASURE]]"
-year: 2020
+Year: 2020
 ---
 ---
 

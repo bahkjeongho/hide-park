@@ -1,8 +1,15 @@
 ---
-title: 2012 - 2017
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Nicolas Jaar|Against All Logic]]"
-year: 2018
+Year: 2018
 ---
 ---
 

@@ -1,8 +1,15 @@
 ---
-title: 風流 / 풍류
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[우륵과 풍각쟁이들 (Ureuk and The Gypsies)]]"
-year: 2025
+Year: 2025
 ---
 ---
 

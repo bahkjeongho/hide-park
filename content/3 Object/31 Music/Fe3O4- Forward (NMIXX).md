@@ -1,8 +1,15 @@
 ---
-title: "Fe3O4: Forward"
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[NMIXX]]"
-year: 2025
+Year: 2025
 ---
 ---
 

@@ -1,5 +1,5 @@
 ---
-architect:
+Architect:
   - "[[Herzog & de Meuron]]"
 Program:
   - "[[Retail Architecture]]"

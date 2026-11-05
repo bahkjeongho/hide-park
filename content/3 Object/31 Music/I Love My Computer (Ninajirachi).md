@@ -1,8 +1,15 @@
 ---
-title: I Love My Computer
-artist:
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Type:
+  - "[[Record]]"
+Artist:
   - "[[Ninajirachi]]"
-year: 2025
+Year: 2025
 ---
 ---
 

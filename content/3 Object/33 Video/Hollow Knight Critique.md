@@ -1,9 +1,7 @@
 ---
-topic:
+Topic:
   - "[[Critique]]"
   - "[[Game Critique]]"
-Type:
-  - "[[Critique Video]]"
 ---
 ---
 
