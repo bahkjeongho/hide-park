@@ -1,0 +1,107 @@
+---
+aliases:
+  - 르세라핌
+Category:
+  - "[[The Arts]]"
+Sub-Category:
+  - "[[Music]]"
+Field:
+  - "[[Popular Music]]"
+Sub-Field:
+  - "[[K-Pop]]"
+Type:
+  - "[[People]]"
+Sub-Type:
+  - "[[Group]]"
+Topic:
+  - "[[K-Pop Group]]"
+Genre:
+  - "[[K-Pop]]"
+Labels:
+  - "[[SOURCE MUSIC]]"
+  - "[[HYBE]]"
+IG:
+  - https://www.instagram.com/le_sserafim/
+Website:
+  - https://le-sserafim.com
+  - https://www.le-sserafim.jp
+URL:
+  - https://www.youtube.com/channel/UCs-QBT4qkj_YiQw1ZntDO3g
+  - https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p
+  - https://x.com/le_sserafim
+Wikis:
+  - https://namu.wiki/w/LE%20SSERAFIM
+  - https://en.wikipedia.org/wiki/Le_Sserafim
+Cities:
+  - "[[Seoul]]"
+Countries:
+  - "[[South Korea]]"
+---
+<iframe src="https://le-sserafim.com" width="1080px" height="720px" style="border: 0; border-radius: 18px;"></iframe>
+
+> [!Summary]
+> |   |   |
+> |---|---|
+> |데뷔일|2022년 5월 2일<br>2023년 1월 25일|
+> |데뷔 음반|미니 1집 FEARLESS<br>싱글 1집 FEARLESS (Japanese ver.)|
+> |장르|K-POP<br>댄스 팝<br>컨템포러리 R&B<br>팝 랩<br>레게톤<br>누 디스코|
+> |리더|김채원|
+> |소속사|쏘스뮤직|
+> |레이블|HYBE LABELS<br>게펜 레코드<br>폴리도르 레코드<br>Virgin Music|
+> |유통사|YG PLUS<br>유니버설 뮤직 그룹<br>유니버설 뮤직 UK<br>유니버설 뮤직 재팬<br>텐센트 뮤직 엔터테인먼트|
+> |팬덤|FEARNOT (피어나)|
+> |응원봉|핌봉|
+> |멤버|사쿠라<br>김채원<br>허윤진<br>카즈하<br>홍은채|
+
+---
+
+# People
+
+- [[사쿠라]]
+- [[김채원 (LE SSERAFIM)|김채원]] `Leader`
+- [[허윤진]]
+- [[카즈하]]
+- [[홍은채]]
+
+---
+
+# Discography
+
+## Studio Album
+
+* [[Unforgiven (LE SSERAFIM)|UNFORGIVEN]] [1st Studio Album] (2023.05.01)
+* [[PUREFLOW pt.1 (LE SSERAFIM)|PUREFLOW pt.1]] [2nd Studio Album] (2026.05.22)
+
+## EP
+
+* [[Fearless (LE SSERAFIM)|FEARLESS]] [1st EP] (2022.05.02)
+* [[Antifragile (LE SSERAFIM)|ANTIFRAGILE]] [2nd EP] (2022.10.17)
+* [[Easy (LE SSERAFIM)|EASY]] [3rd EP] (2024.02.19)
+* [[CRAZY (LE SSERAFIM)|CRAZY]] [4th EP] (2024.08.30)
+* [[HOT (LE SSERAFIM)|HOT]] [5th EP] (2025.03.14)
+
+## Single
+
+* [[FEARLESS (Japanese ver.) (LE SSERAFIM)|FEARLESS (Japanese ver.)]] [1st Japanese Single] (2023.01.25)
+* [[이브, 프시케 그리고 푸른 수염의 아내 (English Ver.) (LE SSERAFIM)|이브, 프시케 그리고 푸른 수염의 아내 (English Ver.)]] [Digital Single] (2023.07.06)
+* [[이브, 프시케 그리고 푸른 수염의 아내 (feat. UPSAHL) (LE SSERAFIM)|이브, 프시케 그리고 푸른 수염의 아내 (feat. UPSAHL)]] [Digital Single] (2023.07.14)
+* [[이브, 프시케 그리고 푸른 수염의 아내 (feat. Demi Lovato) (LE SSERAFIM)|이브, 프시케 그리고 푸른 수염의 아내 (feat. Demi Lovato)]] [Digital Single] (2023.08.04)
+* [[UNFORGIVEN (Japanese ver.) (LE SSERAFIM)|UNFORGIVEN (Japanese ver.)]] [2nd Japanese Single] (2023.08.23)
+* [[Perfect Night (LE SSERAFIM)|Perfect Night]] [Digital Single] (2023.10.27)
+* [[EASY (English ver.) (LE SSERAFIM)|EASY (English ver.)]] [Digital Single] (2024.02.23)
+* [[Perfect Night (for FEARNOT) (LE SSERAFIM)|Perfect Night (for FEARNOT)]] [Digital Single] (2024.08.10)
+* [[CRAZY (feat. PinkPantheress) (LE SSERAFIM)|CRAZY (feat. PinkPantheress)]] [Digital Single] (2024.09.04)
+* [[CRAZY (Japanese ver.) (LE SSERAFIM)|CRAZY (Japanese ver.)]] [3rd Japanese Single] (2024.12.11)
+* [[HOT (English ver.) (LE SSERAFIM)|HOT (English ver.)]] [Digital Single] (2025.03.17)
+* [[HOT (LE SSERAFIM Package) (LE SSERAFIM)|HOT (LE SSERAFIM Package)]] [Digital Single] (2025.03.18)
+* [[HOT (English ver.) (feat. JADE) (LE SSERAFIM)|HOT (English ver.) (feat. JADE)]] [Digital Single] (2025.04.14)
+* [[DIFFERENT (English ver.) (LE SSERAFIM)|DIFFERENT (English ver.)]] [Digital Single] (2025.06.13)
+* [[DIFFERENT (LE SSERAFIM)|DIFFERENT]] [4th Japanese Single] (2025.06.24)
+* [[SPAGHETTI (LE SSERAFIM)|SPAGHETTI]] [1st Single] (2025.10.24)
+* [[CELEBRATION (LE SSERAFIM)|CELEBRATION]] [Lead Single] (2026.04.24)
+* [[BOOMPALA (LE SSERAFIM Package) (LE SSERAFIM)|BOOMPALA (LE SSERAFIM Package)]] [Digital Single] (2026.05.25)
+* [[BOOMPALA (feat. SANTOS BRAVOS) (LE SSERAFIM)|BOOMPALA (feat. SANTOS BRAVOS)]] [Digital Single] (2026.06.05)
+* [[BOOMPALA (feat. GURU RANDHAWA) (LE SSERAFIM)|BOOMPALA (feat. GURU RANDHAWA)]] [Digital Single] (2026.06.06)
+* [[BOOMPALA (feat. Ayra Starr) (LE SSERAFIM)|BOOMPALA (feat. Ayra Starr)]] [Digital Single] (2026.07.24)
+* [[Made My Night (LE SSERAFIM)|Made My Night]] [2nd Single] (2026.09.11)
+* [[Made My Night (feat. EJAE) (LE SSERAFIM)|Made My Night (feat. EJAE)]] [Digital Single] (2026.09.14)
