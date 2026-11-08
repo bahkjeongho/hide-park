@@ -7,14 +7,26 @@
 ## 구조와 배포
 - content/ 는 update.sh가 실행할 때마다 볼트에서 통째로 새로 복사한다. content/를 직접 수정하지 않는다. 노트 수정은 볼트에서 한다.
 - 볼트 경로: /Users/parkjeongho/Library/Mobile Documents/iCloud~md~obsidian/Documents/Hide Park (사이트 작업 중에는 읽기만 하고, 수정은 사용자에게 먼저 확인)
-- update.sh: 볼트 복사 → 0. Clipping Origin, 00. Template 제외 → 콜아웃 [! → [! 교정 → rename-folders.mjs(폴더 이름의 번호 뒤 온점 제거) → clean-frontmatter.mjs(빈 속성 제거) → make-labels.mjs(random-labels.json, wiki-meta.json 생성) → commit → push (브랜치 v5). `git add -A`로 전부 올리므로 실행 전에 git status로 낯선 파일이 없는지 본다.
+- update.sh: 볼트 복사 → 비공개(Tier 3) 폴더 `10. Clipping Origin`, `00. Template`, `1. System` 제외 → 콜아웃 `[! ` → `[!` 교정 → rename-folders.mjs(폴더 이름의 "번호. " 뒤 온점 제거) → clean-frontmatter.mjs(빈 속성 제거) → make-labels.mjs(random-labels.json, wiki-meta.json 생성) → commit → push (브랜치 v5). `git add -A`로 전부 올리므로 실행 전에 git status로 낯선 파일이 없는지 본다. **새 비공개 폴더가 생기면 update.sh의 제외 목록에 먼저 추가한다(클리핑 원문이 공개 레포에 올라가면 안 된다).**
 - push 하면 GitHub Actions가 빌드해 Pages에 배포한다 (1~3분). 실행 기록은 https://api.github.com/repos/bahkjeongho/hide-park/actions/runs?branch=v5 로 확인한다 (gh 미설치).
 - 설정: quartz.config.yaml (폰트는 `quartz-fonts` 플러그인 옵션에서 Geist / Geist Mono 지정, note-properties, 직접 만든 플러그인 4개 등)
 
+## 볼트 폴더 구조 (2026-11-07 개편)
+| 새 이름 | 옛 이름 | 사이트 |
+|---|---|---|
+| `A_Wiki` (`A1_Hub`, `A2_K-Pop Idol`, `A3_Academic Program`, `A4_Journal`, `A5_Sports Team`) | `2. Wiki` (`21. Hub`, `23`, `24`, `26`, `25`) | 공개. 하위 `A1`~`A5`는 색인표·홈 랜덤에서 기본 숨김(링크·검색으로는 열림) |
+| `B_Object` (`B1_Music`, `B2_Architecture`, `B3_Video`, `B4_Film`) | `3. Object` (`31`~`33`) | 공개 |
+| `C_Blog` | `1. Thoughts` | 공개. 메뉴 이름은 아직 Thoughts |
+| `D_Magazine` | (신규, 비어 있음) | 용도 미정 |
+| `E_Text` | `0. Clipping` | 공개 |
+| `F_About` | `4. About` | 공개 |
+| `10. Clipping Origin`, `00. Template`, `1. System` | `0. Clipping Origin`, `00. Template`, (신규) | **완전 비공개(update.sh가 제외)** |
+- 번호가 바뀐 점: Journal은 26 → `A4`, Sports Team은 25 → `A5`. 옛 이름은 `docs/`의 이전 보고서와 백업 폴더에만 남아 있다.
+
 ## 주소 규칙
-- 볼트 폴더 이름은 `2. Wiki`처럼 온점을 유지하고, 사이트에서는 rename-folders.mjs가 복사본의 이름을 `2 Wiki`로 바꿔 주소가 `/2-wiki/`가 된다. (온점이 있으면 폴더 페이지가 404가 났다.)
-- 주요 주소: `/2-wiki/`, `/1-thoughts/`, `/4-about/about`. 폴더 이름을 바꾸면 주소가 바뀌고 random-notes 분류 규칙(slug 기준)과 folder-index의 `FOLDER_PAGES`도 같이 고쳐야 한다.
-- **GitHub Pages는 주소의 대소문자를 구분한다.** slug는 항상 소문자(`4-about/about`)다. 로컬 `npx quartz build --serve`는 구분하지 않으니 메뉴 링크와 설정의 경로는 소문자로 쓴다.
+- 볼트 폴더 이름은 2026-11-07에 `A_Wiki`, `B_Object`, `C_Blog`, `E_Text`, `F_About`처럼 바뀌었다(대응표는 아래 "볼트 폴더 구조"). 이 이름들에는 온점이 없어 rename-folders.mjs가 바꿀 것이 없고, 주소는 소문자에 공백만 `-`로 바뀐다(밑줄은 유지): `A_Wiki` → `/a_wiki/`, `A2_K-Pop Idol` → `/a_wiki/a2_k-pop-idol/`. 온점이 있는 폴더 이름은 폴더 페이지가 404가 나서 피한다.
+- 주요 주소: `/a_wiki/`(Wiki), `/c_blog/`(Thoughts 메뉴), `/f_about/about`. 폴더 이름을 바꾸면 주소가 바뀌고, 아래를 같이 고쳐야 한다: quartz.config.yaml의 site-menu `items`, custom.scss의 `body[data-slug=…]`, make-labels.mjs의 폴더 이름, random-notes `pick.ts`의 분류 규칙과 `HIDDEN_PREFIXES`, folder-index의 `FOLDER_PAGES`와 `HIDDEN_PREFIXES`(플러그인은 레포 수정 후 `plugin remove`/`add`). 옛 주소(`/2-wiki/…` 등)는 모두 사라져 404가 된다.
+- **GitHub Pages는 주소의 대소문자를 구분한다.** slug는 항상 소문자(`f_about/about`)다. 로컬 `npx quartz build --serve`는 구분하지 않으니 메뉴 링크와 설정의 경로는 소문자로 쓴다.
 
 ## 직접 만든 플러그인 (모두 공개 GitHub 레포, 로컬 폴더는 ~/Developer 아래: random-notes, quartz-site-menu, quartz-folder-index, quartz-recent-visits)
 | 플러그인 | 레포 | 역할 |
@@ -36,7 +48,7 @@
 - **레포와 플러그인 폴더는 iCloud 동기화 밖(~/Developer)에 둔다.** 이 레포는 `~/Developer/Hide-Park`다. 예전에 ~/Documents(iCloud 동기화 대상) 안에 있을 때 이름 끝에 ` 2`, ` 3`이 붙은 충돌 복사본(content/, public/, 플러그인 dist/)이 반복해서 생겼다(원인은 iCloud 충돌로 추정, 확정은 아님). ~/Documents나 ~/Desktop 아래로 다시 옮기지 않는다.
 - 그래도 ` 2`, ` 3` 파일이 보이면 push 전에 `git status`로 걸러 내고, 플러그인 레포는 파일을 하나씩 지정해 add 한다.
 - 개발 서버 미리보기는 브라우저 캐시가 남을 수 있으니 `Cmd+Shift+R`. 화면 검증은 `tools/`의 헤드리스 Chrome 스크립트로 한다: `shot.mjs`(스크린샷, 390px 폭은 기기 에뮬레이션, `dark` 옵션), `fontprobe.mjs`(실제 쓰인 글꼴 조회), `evalprobe.mjs`(JS 식 실행). 사용법은 `tools/README.md`. 모바일은 일반 `--window-size`로 찍지 말고 `shot.mjs`로 본다.
-- 볼트 루트의 `index.md`(title: Hide Park)가 홈이다. 폴더 이름과 별개로 소문자 `index`여야 한다. 볼트 루트에 없으면(경로의 폴더 이름용으로 `2. Wiki/index.md`로 옮긴 경우) update.sh가 빈 `content/index.md`를 만든다. 홈이 없으면 사이트 주소가 `index.xml`(RSS)로 열린다.
+- 볼트 루트의 `index.md`(title: Hide Park)가 홈이다. 폴더 이름과 별개로 소문자 `index`여야 한다. 볼트 루트에 없으면(경로의 폴더 이름용으로 `A_Wiki/index.md`로 옮긴 경우 등) update.sh가 빈 `content/index.md`를 만든다. 홈이 없으면 사이트 주소가 `index.xml`(RSS)로 열린다.
 
 ## 작업 방식
 - 한국어, 차분하고 간결하게. 가장 작은 단위부터 한 단계씩, 구체적인 다음 행동 중심.
@@ -44,14 +56,15 @@
 
 ## 남은 과제
 - 디자인 디테일 한 번에 다듬기 (모바일 Thoughts와 About 확인, 호버 효과 확인, 다크 모드 값 확정)
-- 경로(breadcrumb)의 폴더 자리: `2. Wiki/index.md`가 없어져 `2 Wiki`로 나올 수 있음. `Wiki`로 하려면 폴더마다 index.md(title: Wiki 등)를 만든다 (배포 사이트에서 확인 전).
+- 경로(breadcrumb)의 폴더 자리: 폴더 이름이 그대로(`A_Wiki`, `A2_K-Pop Idol` 등) 나온다. 사람이 읽기 좋은 이름으로 바꾸려면 폴더마다 index.md(title: Wiki 등)를 둔다(`A_Wiki/index.md`는 이미 있음). `Wiki`로 하려면 폴더마다 index.md(title: Wiki 등)를 만든다 (배포 사이트에서 확인 전).
 - 볼트 데이터: Thoughts의 Date와 Type 비어 있음, Region(Countries+Cities) 있는 노트 28개뿐, 값에 `colleague` 같은 것 섞임, 루트의 Pasted image가 공개 레포에 올라가 있음
 - 히스토리 사이드바("Recent")는 배포했지만 실제 모양(글자 크기, 간격, 다크 모드)과 위치는 눈으로 확인 전. 태그 시스템(보류), Pretendard(보류)
 - 볼트 오타 [!summray] 1건
 
 ## Wiki 속성 체계 (2026-11-05 변경)
-- 소문자 `topic` 속성은 삭제했다. 대신 `Category`, `Sub-Category`, `Field`, `Sub-Field`, `Type`, `Sub-Type`, `Topic` 7개를 쓴다. 값은 `"[[ ]]"` 링크 리스트다. 상세와 규칙은 `docs/topic-system.md`.
-- 사이트는 `Topic`만 쓴다: make-labels.mjs가 `Topic` 첫 값을 홈 라벨로, 전체를 폴더 필터로 읽는다. note-properties는 `includeAll: true`에 위 6개(Topic 제외)를 제외 목록에 둔다. 제외 목록은 대소문자까지 정확히 비교한다.
+- **용어: "분류 속성"** = `Category`, `Sub-Category`, `Field`, `Sub-Field`, `Type`, `Sub-Type`, `Topic` 일곱 속성을 합쳐 부르는 이름이다(2026-11-07 확정). 사용자가 "분류 속성"이라고 하면 이 7개 전부를 뜻한다. 문서, 프롬프트, 보고서에서도 이 이름을 쓰고, 하나만 가리킬 때는 속성 이름(`Topic` 등)을 그대로 쓴다. `School`, `Artist`, `Year`, `IG`, `Website`, `Cities` 같은 속성은 분류 속성이 아니다.
+- 소문자 `topic` 속성은 삭제했다(옛 속성이라 쓰지 않는다). 분류 속성의 값은 `"[[ ]]"` 링크 리스트다. 상세와 규칙은 `docs/topic-system.md`.
+- 사이트는 `Topic`만 쓴다: make-labels.mjs가 `Topic` 첫 값을 홈 라벨로, 전체를 폴더 필터로 읽는다. note-properties는 `includeAll: true`에 분류 속성 중 Topic을 뺀 6개를 제외 목록에 둔다. 제외 목록은 대소문자까지 정확히 비교한다.
 - 볼트 노트를 일괄 수정할 때: Obsidian 종료 확인 → `~/Developer/hide-park-backup-…`에 백업하고 해시 비교 → dry-run → 사용자가 "진행"이라고 한 뒤 실행 → 노트마다 YAML 파싱, 기존 줄, 본문 해시 검증(실패 시 되돌림).
 - update.sh 전에 `git status`로 `docs/`의 작업 파일과 인스타 계정 CSV(개인 목록)가 올라가지 않는지 확인한다. 공개 레포다.
 

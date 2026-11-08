@@ -1,4 +1,4 @@
-# 볼트 topic (2. Wiki)
+# 볼트 topic (A_Wiki)
 - Music Artist (615)
 - K-Pop Idol (458)
 - Design (272)

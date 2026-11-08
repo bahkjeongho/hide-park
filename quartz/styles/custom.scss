@@ -319,7 +319,7 @@ kbd {
 
 // ---- 3단계: 홈과 카테고리 페이지(Wiki, Thoughts) (2분할: 워드마크 + 메뉴 + 하단 링크 / 목록) ----
 // 노트 페이지에는 영향이 없도록 위 네 페이지(홈, Wiki, Thoughts, About)에서만 적용한다.
-:is(body[data-slug="index"], body[data-slug="2-wiki/index"], body[data-slug="1-thoughts/index"], body[data-slug="4-about/about"]) {
+:is(body[data-slug="index"], body[data-slug="a_wiki/index"], body[data-slug="c_blog/index"], body[data-slug="f_about/about"]) {
   .page {
     max-width: none;
   }
@@ -499,7 +499,7 @@ kbd {
 }
 
 @media all and (max-width: 900px) {
-  :is(body[data-slug="index"], body[data-slug="2-wiki/index"], body[data-slug="1-thoughts/index"], body[data-slug="4-about/about"]) {
+  :is(body[data-slug="index"], body[data-slug="a_wiki/index"], body[data-slug="c_blog/index"], body[data-slug="f_about/about"]) {
     .page > #quartz-body {
       padding: 20px;
     }
@@ -510,7 +510,7 @@ kbd {
 }
 
 // ---- 6단계: About (2분할의 오른쪽에 노트 본문을 보여 준다) ----
-body[data-slug="4-about/about"] {
+body[data-slug="f_about/about"] {
   // 2분할 공통 규칙이 본문(article)을 숨기므로 About만 다시 보이게 한다.
   .center article {
     display: block;
@@ -526,9 +526,9 @@ body[data-slug="4-about/about"] {
   // (홈, Wiki, Thoughts, About은 세로 2분할이라 제외한다)
   body:not(
       [data-slug="index"],
-      [data-slug="2-wiki/index"],
-      [data-slug="1-thoughts/index"],
-      [data-slug="4-about/about"]
+      [data-slug="a_wiki/index"],
+      [data-slug="c_blog/index"],
+      [data-slug="f_about/about"]
     )
     .page
     > #quartz-body

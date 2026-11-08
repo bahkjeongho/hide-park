@@ -1,6 +1,11 @@
-# Wiki 속성 체계 (Category / Field / Type / Topic)
+# 분류 속성 체계 (Category / Field / Type / Topic)
 
-2026-11-05에 노트의 소문자 `topic`을 지우고 아래 7개 속성으로 바꿨다. 이 문서는 작업 이력과 규칙, 도구 사용법이다.
+> **폴더 이름 변경 (2026-11-07)**: 볼트 폴더 이름이 바뀌었다(`2. Wiki`→`A_Wiki`, `21. Hub`→`A_Wiki/A1_Hub`, `3. Object`→`B_Object`, `31. Music`→`B_Object/B1_Music` 등). 전체 대응표는 볼트 `00. Template/'00. Prompt.md`의 "폴더 구조" 절에 있다. 이 문서는 현재 상태를 말하는 곳에는 새 이름을 쓰고, 백업 폴더 경로(`…hide-park-backup-…/2. Wiki`)는 당시 이름 그대로 둔다.
+
+## 용어
+**분류 속성** = `Category`, `Sub-Category`, `Field`, `Sub-Field`, `Type`, `Sub-Type`, `Topic` 일곱 속성을 합쳐 부르는 이름이다(2026-11-07 확정). 이 저장소의 문서, 볼트의 `00. Template`, 작업 보고서에서 "분류 속성"은 항상 이 7개를 가리킨다. 하나만 가리킬 때는 속성 이름을 그대로 쓴다. 이 문서의 이전 이름은 "Wiki 속성 체계"이다. `School`, `Artist`, `Year`, `IG`, `Website`, `URL`, `Wikis`, `Cities`, `Countries` 등은 분류 속성이 아니다.
+
+2026-11-05에 노트의 소문자 `topic`을 지우고 분류 속성 7개로 바꿨다. 이 문서는 작업 이력과 규칙, 도구 사용법이다.
 
 ## 속성
 | 속성 | 의미 |
@@ -27,7 +32,7 @@
 
 ## 적용 이력 (2026-11-05)
 - v5 결과를 `docs/apply_topic_props.py`로 노트 2,737개에 썼다(시범 5개 포함). 본문과 기존 줄은 바뀌지 않았음을 검증함.
-- 이어서 `2. Wiki`의 소문자 `topic`을 2,834개 노트에서 삭제했다.
+- 이어서 `A_Wiki`의 소문자 `topic`을 2,834개 노트에서 삭제했다.
 - 사이트: `make-labels.mjs`가 `Topic`을 읽고, `quartz.config.yaml` note-properties는 `includeAll: true`에 Category, Sub-Category, Field, Sub-Field, Type, Sub-Type을 제외했다. 배포 확인함.
 
 ## 도구
@@ -46,7 +51,7 @@
 - 볼트에서 frontmatter가 없는 노트 66개(허브 노트)는 이 작업 대상이 아니다.
 
 ## 허브 노트 (2026-11-05)
-- 속성 값(Category … Topic) 312종마다 허브 노트가 있다. 허브 311개 전부 `2. Wiki/21. Hub/`에 있고 `unlisted: true`다(새로 만든 249개 + 기존 62개를 옮겨 형식 통일: aliases, tags, Related, unlisted. 값이 있던 Parent Topic, Sub Topic은 유지).
+- 속성 값(Category … Topic) 312종마다 허브 노트가 있다. 허브 311개 전부 `A_Wiki/A1_Hub/`에 있고 `unlisted: true`다(새로 만든 249개 + 기존 62개를 옮겨 형식 통일: aliases, tags, Related, unlisted. 값이 있던 Parent Topic, Sub Topic은 유지).
 - 같은 이름은 속성이 달라도 허브 하나에 모은다. 값 `Web & UI/UX`는 파일 이름에 `/`를 쓸 수 없어 `Web & UI-UX`로 바꿨다(Awwwards, FWA Awards).
 - 본문의 `<!-- hub:start -->` ~ `<!-- hub:end -->` 사이는 `python3 docs/make_hubs.py --out <스테이징폴더> --apply`가 다시 만든다(노트가 150개를 넘는 상위 허브는 하위 분류와 Topic 목록만). 이 구간 밖의 내용은 건드리지 않는다. 실행 전 Obsidian 종료와 백업은 필수.
 - 사이트: `unlisted`라 검색, 그래프, 탐색기, 폴더 목록에서 빠지고 링크로만 열린다. `make-labels.mjs`도 `21 Hub` 폴더를 목록, 라벨, 필터에서 뺀다.
@@ -54,9 +59,9 @@
 - 백업: `…105e/2. Wiki`는 기존 허브 62개를 옮기기 직전 상태.
 
 ## 프롬프트
-- 볼트 `00. Template/'00. Prompt.md`의 Wiki, Artist, Art School 프롬프트는 이 체계를 따른다(맨 위 "분류 속성" 절). Music(3. Object)은 소문자 `topic`을 그대로 쓴다. `Wiki Template.md`, `Artist Template.md`의 `topic:` 줄은 아직 그대로다.
+- 볼트 `00. Template/'00. Prompt.md`의 Wiki, Artist, Art School 프롬프트는 이 체계를 따른다(맨 위 "분류 속성" 절). Music(B_Object)은 소문자 `topic`을 그대로 쓴다. `Wiki Template.md`, `Artist Template.md`의 `topic:` 줄은 아직 그대로다.
 
-## 3. Object와 빈 속성 (2026-11-05)
+## B_Object와 빈 속성 (2026-11-05)
 - 31. Music, 32. Architecture, 33. Video도 7개 속성을 쓴다. `docs/apply_object_props.py`로 순서를 정리했다(Genre, Date, title, 옛 type 삭제). 백업 `…105f/3. Object`.
-- `docs/fill_class_props.py`로 `2. Wiki`(21. Hub 제외) 전 노트에 7개 속성 줄을 빈 값이라도 채웠고, 31. Music 전 노트에 Category=The Arts, Sub-Category=Music, Field=Popular Music, Type=Record를 넣었다. 예전 topic의 EP, Studio Album, Single, Compilation은 Sub-Type으로 옮기고 Topic은 비웠다. 백업 `…105g`(2. Wiki, 3. Object).
-- 새 값(Record, EP, Studio Album, Single, Compilation)의 허브는 아직 없다. make_hubs.py가 3. Object(31~34)도 읽도록 확장했고(허브 323개), 새 허브 11개(Record, EP, Studio Album, Single, Compilation 등)를 `21. Hub`에 만들었다. 백업 `…105h`.
+- `docs/fill_class_props.py`로 `A_Wiki`(A1_Hub 제외) 전 노트에 7개 속성 줄을 빈 값이라도 채웠고, B1_Music 전 노트에 Category=The Arts, Sub-Category=Music, Field=Popular Music, Type=Record를 넣었다. 예전 topic의 EP, Studio Album, Single, Compilation은 Sub-Type으로 옮기고 Topic은 비웠다. 백업 `…105g`(A_Wiki, B_Object).
+- 새 값(Record, EP, Studio Album, Single, Compilation)의 허브는 아직 없다. make_hubs.py가 B_Object(31~34)도 읽도록 확장했고(허브 323개), 새 허브 11개(Record, EP, Studio Album, Single, Compilation 등)를 `A1_Hub`에 만들었다. 백업 `…105h`.

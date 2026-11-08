@@ -2,8 +2,8 @@ import fs from "node:fs";
 import path from "node:path";
 
 const root = process.argv[2] || "content";
-const wiki = path.join(root, "2 Wiki");
-const thoughts = path.join(root, "1 Thoughts");
+const wiki = path.join(root, "A_Wiki");
+const thoughts = path.join(root, "C_Blog");
 
 const walk = (d) =>
   fs.readdirSync(d, { withFileTypes: true }).flatMap((e) =>
@@ -38,8 +38,8 @@ function readProp(text, key) {
 const rel = (f) => path.relative(root, f).split(path.sep).join("/");
 
 // 1) 노트별 세부 라벨(Topic 첫 값): 홈 목록용 (random-labels.json)
-// 허브 노트(21 Hub 폴더)는 목록, 라벨, 필터에서 뺀다. (페이지는 unlisted 로 만들어지고 링크로만 열린다.)
-const files = (fs.existsSync(wiki) ? walk(wiki) : []).filter((f) => !f.split(path.sep).includes("21 Hub"));
+// 허브 노트(A1_Hub 폴더)는 목록, 라벨, 필터에서 뺀다. (페이지는 unlisted 로 만들어지고 링크로만 열린다.)
+const files = (fs.existsSync(wiki) ? walk(wiki) : []).filter((f) => !f.split(path.sep).includes("A1_Hub"));
 const labels = {};
 for (const f of files) {
   const label = readProp(fs.readFileSync(f, "utf8"), "Topic")[0];
@@ -77,7 +77,7 @@ console.log(`메타 생성: ${Object.keys(meta).length}개 (Wiki + Thoughts)`);
 //    본문이 비어도 아래 속성에 값이 있으면 빈 페이지로 보지 않는다. (aliases, Topic, Category 등 분류 속성, tags 는 값으로 세지 않는다.)
 const DATA_KEYS = ["IG", "Website", "URL", "Wikis", "Cities", "Countries", "Related", "Genre", "Labels", "Member of"];
 const withProps = [];
-for (const dir of [wiki, path.join(root, "3 Object"), thoughts]) {
+for (const dir of [wiki, path.join(root, "B_Object"), thoughts]) {
   if (!fs.existsSync(dir)) continue;
   for (const f of walk(dir)) {
     const text = fs.readFileSync(f, "utf8");

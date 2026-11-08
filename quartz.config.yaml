@@ -314,11 +314,11 @@ plugins:
     options:
       items:
         - label: Wiki
-          path: 2-wiki/
+          path: a_wiki/
         - label: Thoughts
-          path: 1-thoughts/
+          path: c_blog/
         - label: About
-          path: 4-about/about
+          path: f_about/about
     order: 50
     layout:
       position: left

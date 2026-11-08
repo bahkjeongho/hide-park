@@ -13,7 +13,7 @@ import csv, hashlib, json, os, re, shutil, subprocess, sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 VAULT = "/Users/parkjeongho/Library/Mobile Documents/iCloud~md~obsidian/Documents/Hide Park"
-WIKI = VAULT + "/2. Wiki"
+WIKI = VAULT + "/A_Wiki"
 BACKUP = os.path.expanduser("~/Developer/hide-park-backup-20261105")
 CSV = REPO + "/docs/topic-dryrun-v5.csv"
 KEYS = [("Category", "category"), ("Sub-Category", "sub_category"), ("Field", "field"),

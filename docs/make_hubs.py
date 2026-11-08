@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""2. Wiki와 3. Object(31~34)의 속성 값(Category … Topic)마다 허브 노트를 만든다. 지금은 스테이징 폴더에만 쓴다(볼트는 읽기만).
+"""A_Wiki와 B_Object(B1~B4)의 속성 값(Category … Topic)마다 허브 노트를 만든다. 지금은 스테이징 폴더에만 쓴다(볼트는 읽기만).
 
   python3 docs/make_hubs.py --out <스테이징폴더>
 허브 본문의 자동 생성 구간은 <!-- hub:start --> ~ <!-- hub:end --> 이고, 다시 돌리면 이 구간만 바뀐다.
@@ -7,7 +7,7 @@
 import collections, os, re, sys
 
 V = "/Users/parkjeongho/Library/Mobile Documents/iCloud~md~obsidian/Documents/Hide Park"
-W = V + "/2. Wiki"
+W = V + "/A_Wiki"
 K = ['Category', 'Sub-Category', 'Field', 'Sub-Field', 'Type', 'Sub-Type', 'Topic']
 DOM, KIND = K[:4], K[4:6]
 BIG = 150
@@ -31,7 +31,7 @@ def read(p):
 
 
 APPLY = '--apply' in sys.argv
-HUB = W + '/21. Hub'
+HUB = W + '/A1_Hub'
 TPL = "---\naliases:\ntags:\nRelated:\n---\n>[!tldr] tl;dr\n>\n\n"
 MARK = re.compile(r'<!-- hub:start -->.*?<!-- hub:end -->', re.S)
 
@@ -67,9 +67,9 @@ def main():
             if f.endswith('.md'):
                 names.setdefault(f[:-3].lower(), os.path.relpath(os.path.join(d, f), V))
     notes, obj = {}, set()
-    for root in [W] + [V + '/3. Object/' + x for x in ('31. Music', '32. Architecture', '33. Video', '34. Film')]:
+    for root in [W] + [V + '/B_Object/' + x for x in ('B1_Music', 'B2_Architecture', 'B3_Video', 'B4_Film')]:
         for d, _, fs in os.walk(root):
-            if '21. Hub' in d.split(os.sep):
+            if 'A1_Hub' in d.split(os.sep):
                 continue
             for f in fs:
                 if f.endswith('.md'):
@@ -115,7 +115,7 @@ def main():
             L += ['# Children', ''] + [f'- [[{c}]] ({n})' for c, n in children[v].most_common()] + ['']
         tp = [(t, c) for t, c in topics_in[v].most_common() if t != v]
         is_end = uses[v]['Topic'] > 0 and uses[v]['Topic'] == max(uses[v].values())
-        is_end = is_end or (mem and all(m in obj for m in mem))   # 3. Object 작품만 모인 값은 전부 나열
+        is_end = is_end or (mem and all(m in obj for m in mem))   # B_Object 작품만 모인 값은 전부 나열
         if len(mem) > BIG and not is_end:
             if tp:
                 L += ['# Topics', ''] + [f'- [[{t}]] ({c})' for t, c in tp] + ['']

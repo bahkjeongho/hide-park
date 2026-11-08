@@ -1,4 +1,5 @@
-// "2. Wiki" → "2 Wiki": 번호 뒤의 온점을 빼서 주소가 /2-wiki 로 나오게 한다. (볼트 원본은 그대로)
+// 폴더 이름의 "번호. " → "번호 ": 번호 뒤의 온점을 빼서 주소에 온점이 남지 않게 한다. (볼트 원본은 그대로)
+// 2026-11-07 폴더 개편 뒤의 이름(A_Wiki, B_Object, C_Blog 등)에는 해당하지 않아 바뀌지 않는다.
 import fs from "node:fs";
 import path from "node:path";
 

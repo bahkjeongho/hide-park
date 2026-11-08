@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""3. Object (31 Music, 32 Architecture, 33 Video) 속성을 새 순서로 정리한다.
+"""B_Object (B1_Music, B2_Architecture, B3_Video) 속성을 새 순서로 정리한다.
 사용: python3 docs/apply_object_props.py --dry | --apply
 규칙: 순서 고정, 키 첫 글자 대문자, topic 값은 Topic으로 그대로 이동, 빈 속성도 줄로 만듦,
       Genre/Date/title/type/Type은 삭제(Architecture는 해당 없음), 정해지지 않은 다른 키는 Related 뒤에 보존.
@@ -7,12 +7,12 @@
 """
 import os, re, sys, json, hashlib, subprocess, collections
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OBJ = "/Users/parkjeongho/Library/Mobile Documents/iCloud~md~obsidian/Documents/Hide Park/3. Object"
+OBJ = "/Users/parkjeongho/Library/Mobile Documents/iCloud~md~obsidian/Documents/Hide Park/B_Object"
 CLS = ["Category", "Sub-Category", "Field", "Sub-Field", "Type", "Sub-Type", "Topic"]
 ORDER = {
- "31. Music": ["aliases"] + CLS + ["Artist", "Creative", "Client", "Year", "URL", "tags", "Related"],
- "32. Architecture": ["aliases"] + CLS + ["Architect", "Program", "Cities", "Countries", "Year", "URL", "tags", "Related"],
- "33. Video": ["aliases"] + CLS + ["Creative", "URL", "tags", "Related"],
+ "B1_Music": ["aliases"] + CLS + ["Artist", "Creative", "Client", "Year", "URL", "tags", "Related"],
+ "B2_Architecture": ["aliases"] + CLS + ["Architect", "Program", "Cities", "Countries", "Year", "URL", "tags", "Related"],
+ "B3_Video": ["aliases"] + CLS + ["Creative", "URL", "tags", "Related"],
 }
 RENAME = {"aliases": "aliases", "topic": "Topic", "artist": "Artist", "creatives": "Creative", "year": "Year", "architect": "Architect"}
 DROP = {"title", "genre", "date", "type"}  # 소문자 비교; 새 Type은 CLS에서 빈 줄로 만든다

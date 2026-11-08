@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""모든 2. Wiki 노트와 31. Music 노트에 Category … Topic 7개 속성 줄을 순서대로 채운다.
+"""모든 A_Wiki 노트와 B1_Music 노트에 Category … Topic 7개 속성 줄을 순서대로 채운다.
 사용: python3 docs/fill_class_props.py --dry | --apply
-- 2. Wiki(21. Hub 제외): 값 있는 기존 속성은 그대로, 없는 속성은 빈 줄로 추가, 7개를 한 덩어리로 정렬.
-- 31. Music: Category=The Arts, Sub-Category=Music, Field=Popular Music, Type=Record,
+- A_Wiki(A1_Hub 제외): 값 있는 기존 속성은 그대로, 없는 속성은 빈 줄로 추가, 7개를 한 덩어리로 정렬.
+- B1_Music: Category=The Arts, Sub-Category=Music, Field=Popular Music, Type=Record,
   Topic에 EP/Studio Album/Single/Compilation 등이 있으면 그 값을 Sub-Type으로 옮기고 Topic은 비움.
 검증: 본문 해시, 다른 속성 YAML 값, 7개 속성 값(기대값) 일치. 실패한 노트는 쓰지 않는다.
 """
@@ -75,9 +75,9 @@ def norm(v):
 def main():
     apply = "--apply" in sys.argv
     jobs = []
-    for sub, music in (("2. Wiki", False), ("3. Object/31. Music", True)):
+    for sub, music in (("A_Wiki", False), ("B_Object/B1_Music", True)):
         for r, _, fs in os.walk(os.path.join(V, sub)):
-            if "21. Hub" in r.split(os.sep): continue
+            if "A1_Hub" in r.split(os.sep): continue
             for f in fs:
                 if not f.endswith(".md"): continue
                 p = os.path.join(r, f); t = open(p, encoding="utf-8").read()

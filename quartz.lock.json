@@ -4,14 +4,14 @@
     "quartz-folder-index": {
       "source": "github:bahkjeongho/quartz-folder-index",
       "resolved": "https://github.com/bahkjeongho/quartz-folder-index.git",
-      "commit": "31b35232651a199178dad1c56269a6481973a5f0",
-      "installedAt": "2026-11-05T17:18:29.143Z"
+      "commit": "7460014cb996bfead4e112f3fdba42b0c029b2c0",
+      "installedAt": "2026-11-06T17:32:09.221Z"
     },
     "quartz-random-notes": {
       "source": "github:bahkjeongho/quartz-random-notes",
       "resolved": "https://github.com/bahkjeongho/quartz-random-notes.git",
-      "commit": "575dcc8523d2a274008e2735b1a15d07e3c1ff9c",
-      "installedAt": "2026-11-05T17:18:31.769Z"
+      "commit": "ff7496a08c756eeae3c8c674ce89225d4c665d73",
+      "installedAt": "2026-11-06T17:32:11.948Z"
     },
     "quartz-recent-visits": {
       "source": "github:bahkjeongho/quartz-recent-visits",
